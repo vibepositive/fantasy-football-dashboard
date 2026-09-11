@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:18:49.847Z",
+  "generated_at": "2026-09-11T12:50:53.808Z",
   "league": {
     "league_id": "1312504205092610048",
     "name": "Mettlers ",
@@ -172,7 +172,7 @@
         "age": 26,
         "years_exp": 4,
         "projection": 18.45,
-        "trending_adds": 12660
+        "trending_adds": 14080
       },
       {
         "player_id": "12507",
@@ -217,7 +217,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.86,
-        "trending_adds": 6264
+        "trending_adds": 5967
       },
       {
         "player_id": "10213",
@@ -232,7 +232,7 @@
         "age": 25,
         "years_exp": 3,
         "projection": 8.78,
-        "trending_adds": 95850
+        "trending_adds": 94194
       },
       {
         "player_id": "11603",
@@ -277,7 +277,7 @@
         "age": 25,
         "years_exp": 2,
         "projection": 8.59,
-        "trending_adds": 23643
+        "trending_adds": 22680
       },
       {
         "player_id": "8126",
@@ -327,7 +327,7 @@
         "age": 25,
         "years_exp": 3,
         "projection": 8.78,
-        "trending_adds": 95850,
+        "trending_adds": 94194,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -345,7 +345,7 @@
         "age": 25,
         "years_exp": 2,
         "projection": 8.59,
-        "trending_adds": 23643,
+        "trending_adds": 22680,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -381,7 +381,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.86,
-        "trending_adds": 6264,
+        "trending_adds": 5967,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -399,7 +399,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.15,
-        "trending_adds": 10576,
+        "trending_adds": 10264,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -417,7 +417,7 @@
         "age": 28,
         "years_exp": 2,
         "projection": 7.89,
-        "trending_adds": 63175,
+        "trending_adds": 59731,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -489,7 +489,7 @@
         "age": 23,
         "years_exp": 0,
         "projection": 4.31,
-        "trending_adds": 19040,
+        "trending_adds": 18784,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -507,7 +507,7 @@
         "age": 33,
         "years_exp": 9,
         "projection": 6.51,
-        "trending_adds": 28830,
+        "trending_adds": 26820,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -561,7 +561,7 @@
         "age": 28,
         "years_exp": 5,
         "projection": 3.91,
-        "trending_adds": 7885,
+        "trending_adds": 7640,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -597,7 +597,7 @@
         "age": 26,
         "years_exp": 4,
         "projection": 18.45,
-        "trending_adds": 12660,
+        "trending_adds": 14080,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -670,7 +670,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "projection": 17.59,
+          "projection": 17.6,
           "trending_adds": 0
         },
         {
@@ -885,7 +885,7 @@
           "age": 25,
           "years_exp": 1,
           "projection": 8.86,
-          "trending_adds": 7317,
+          "trending_adds": 7236,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -903,7 +903,7 @@
           "age": 26,
           "years_exp": 1,
           "projection": 17.13,
-          "trending_adds": 20952,
+          "trending_adds": 20264,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1082,7 +1082,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "projection": 17.59,
+          "projection": 17.6,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -1198,7 +1198,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.53,
-          "trending_adds": 17550
+          "trending_adds": 16578
         },
         {
           "player_id": "11646",
@@ -1243,7 +1243,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.66,
-          "trending_adds": 7275
+          "trending_adds": 7180
         }
       ],
       "reserve": [
@@ -1260,7 +1260,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": null,
-          "trending_adds": 7760
+          "trending_adds": 7384
         },
         {
           "player_id": "4137",
@@ -1380,7 +1380,7 @@
           "age": 21,
           "years_exp": 1,
           "projection": 4.97,
-          "trending_adds": 5980,
+          "trending_adds": 5815,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1416,7 +1416,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 3.62,
-          "trending_adds": 31704,
+          "trending_adds": 28568,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1488,7 +1488,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": null,
-          "trending_adds": 7760,
+          "trending_adds": 7384,
           "starter": false,
           "reserve": true,
           "taxi": false
@@ -1578,7 +1578,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.53,
-          "trending_adds": 17550,
+          "trending_adds": 16578,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1596,7 +1596,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.65,
-          "trending_adds": 466263,
+          "trending_adds": 430146,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1614,7 +1614,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.66,
-          "trending_adds": 7275,
+          "trending_adds": 7180,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1765,7 +1765,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 6.96,
-          "trending_adds": 0
+          "trending_adds": 4705
         },
         {
           "player_id": "9756",
@@ -1780,7 +1780,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 9.79,
-          "trending_adds": 5418
+          "trending_adds": 5256
         },
         {
           "player_id": "10219",
@@ -1795,7 +1795,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 7.26,
-          "trending_adds": 10791
+          "trending_adds": 10332
         },
         {
           "player_id": "13417",
@@ -1829,7 +1829,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 7.26,
-          "trending_adds": 10791,
+          "trending_adds": 10332,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1991,7 +1991,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 7.05,
-          "trending_adds": 7184,
+          "trending_adds": 7528,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2045,7 +2045,7 @@
           "age": 29,
           "years_exp": 6,
           "projection": 6.98,
-          "trending_adds": 6608,
+          "trending_adds": 6482,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2063,7 +2063,7 @@
           "age": 28,
           "years_exp": 6,
           "projection": 5.58,
-          "trending_adds": 14706,
+          "trending_adds": 14211,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2081,7 +2081,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 6.96,
-          "trending_adds": 0,
+          "trending_adds": 4705,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2117,7 +2117,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 9.79,
-          "trending_adds": 5418,
+          "trending_adds": 5256,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2247,7 +2247,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.24,
-          "trending_adds": 14648
+          "trending_adds": 14424
         },
         {
           "player_id": "9511",
@@ -2262,7 +2262,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 6.1,
-          "trending_adds": 18963
+          "trending_adds": 18585
         },
         {
           "player_id": "8180",
@@ -2277,7 +2277,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 41625
+          "trending_adds": 38934
         }
       ],
       "reserve": [
@@ -2348,7 +2348,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.24,
-          "trending_adds": 14648,
+          "trending_adds": 14424,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2456,7 +2456,7 @@
           "age": 23,
           "years_exp": 0,
           "projection": 6.32,
-          "trending_adds": 22270,
+          "trending_adds": 21605,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2474,7 +2474,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 3.25,
-          "trending_adds": 74998,
+          "trending_adds": 80031,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2564,7 +2564,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 41625,
+          "trending_adds": 38934,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2618,7 +2618,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 6.1,
-          "trending_adds": 18963,
+          "trending_adds": 18585,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2733,7 +2733,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.62,
-          "trending_adds": 9700
+          "trending_adds": 9408
         },
         {
           "player_id": "8150",
@@ -2797,7 +2797,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 9.98,
-          "trending_adds": 6534,
+          "trending_adds": 6597,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2815,7 +2815,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 6.45,
-          "trending_adds": 10232,
+          "trending_adds": 9936,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2851,7 +2851,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 2.92,
-          "trending_adds": 8577,
+          "trending_adds": 8550,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2887,7 +2887,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.62,
-          "trending_adds": 9700,
+          "trending_adds": 9408,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2905,7 +2905,7 @@
           "age": 29,
           "years_exp": 7,
           "projection": 17.65,
-          "trending_adds": 26432,
+          "trending_adds": 25960,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2959,7 +2959,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 7.66,
-          "trending_adds": 12500,
+          "trending_adds": 11790,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3125,7 +3125,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 18.45,
-          "trending_adds": 12660
+          "trending_adds": 14080
         },
         {
           "player_id": "12507",
@@ -3170,7 +3170,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.86,
-          "trending_adds": 6264
+          "trending_adds": 5967
         },
         {
           "player_id": "10213",
@@ -3185,7 +3185,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 8.78,
-          "trending_adds": 95850
+          "trending_adds": 94194
         },
         {
           "player_id": "11603",
@@ -3230,7 +3230,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.59,
-          "trending_adds": 23643
+          "trending_adds": 22680
         },
         {
           "player_id": "8126",
@@ -3280,7 +3280,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 8.78,
-          "trending_adds": 95850,
+          "trending_adds": 94194,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3298,7 +3298,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.59,
-          "trending_adds": 23643,
+          "trending_adds": 22680,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3334,7 +3334,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.86,
-          "trending_adds": 6264,
+          "trending_adds": 5967,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3352,7 +3352,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.15,
-          "trending_adds": 10576,
+          "trending_adds": 10264,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3370,7 +3370,7 @@
           "age": 28,
           "years_exp": 2,
           "projection": 7.89,
-          "trending_adds": 63175,
+          "trending_adds": 59731,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3442,7 +3442,7 @@
           "age": 23,
           "years_exp": 0,
           "projection": 4.31,
-          "trending_adds": 19040,
+          "trending_adds": 18784,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3460,7 +3460,7 @@
           "age": 33,
           "years_exp": 9,
           "projection": 6.51,
-          "trending_adds": 28830,
+          "trending_adds": 26820,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3514,7 +3514,7 @@
           "age": 28,
           "years_exp": 5,
           "projection": 3.91,
-          "trending_adds": 7885,
+          "trending_adds": 7640,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3550,7 +3550,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 18.45,
-          "trending_adds": 12660,
+          "trending_adds": 14080,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3873,7 +3873,7 @@
           "age": 21,
           "years_exp": 0,
           "projection": 3.51,
-          "trending_adds": 7218,
+          "trending_adds": 7110,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4392,7 +4392,7 @@
           "age": 32,
           "years_exp": 9,
           "projection": 8.2,
-          "trending_adds": 5045,
+          "trending_adds": 0,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4500,7 +4500,7 @@
           "age": 28,
           "years_exp": 5,
           "projection": 14.96,
-          "trending_adds": 8370,
+          "trending_adds": 7902,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4518,7 +4518,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.14,
-          "trending_adds": 16920,
+          "trending_adds": 16164,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4696,7 +4696,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.35,
-          "trending_adds": 37881
+          "trending_adds": 34551
         }
       ],
       "reserve": [
@@ -4713,7 +4713,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": null,
-          "trending_adds": 32656
+          "trending_adds": 30288
         }
       ],
       "taxi": [],
@@ -4857,7 +4857,7 @@
           "age": 38,
           "years_exp": 17,
           "projection": 18.23,
-          "trending_adds": 10485,
+          "trending_adds": 9621,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4893,7 +4893,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.35,
-          "trending_adds": 37881,
+          "trending_adds": 34551,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -4965,7 +4965,7 @@
           "age": 29,
           "years_exp": 6,
           "projection": 8.17,
-          "trending_adds": 32704,
+          "trending_adds": 31250,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5019,7 +5019,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": null,
-          "trending_adds": 32656,
+          "trending_adds": 30288,
           "starter": false,
           "reserve": true,
           "taxi": false
@@ -5107,7 +5107,7 @@
           "age": 27,
           "years_exp": 5,
           "projection": 9.05,
-          "trending_adds": 11896
+          "trending_adds": 11400
         },
         {
           "player_id": "7569",
@@ -5167,7 +5167,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.25,
-          "trending_adds": 6643
+          "trending_adds": 6412
         },
         {
           "player_id": "1479",
@@ -5182,7 +5182,7 @@
           "age": 34,
           "years_exp": 13,
           "projection": 6.48,
-          "trending_adds": 6364
+          "trending_adds": 6380
         },
         {
           "player_id": "13293",
@@ -5360,7 +5360,7 @@
           "age": 24,
           "years_exp": 0,
           "projection": 2.81,
-          "trending_adds": 229754,
+          "trending_adds": 266182,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5378,7 +5378,7 @@
           "age": 34,
           "years_exp": 13,
           "projection": 6.48,
-          "trending_adds": 6364,
+          "trending_adds": 6380,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5396,7 +5396,7 @@
           "age": 31,
           "years_exp": 10,
           "projection": 18.75,
-          "trending_adds": 14970,
+          "trending_adds": 14590,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5450,7 +5450,7 @@
           "age": 27,
           "years_exp": 5,
           "projection": 9.05,
-          "trending_adds": 11896,
+          "trending_adds": 11400,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5504,7 +5504,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.25,
-          "trending_adds": 6643,
+          "trending_adds": 6412,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5649,7 +5649,7 @@
           "age": 33,
           "years_exp": 12,
           "projection": 10.79,
-          "trending_adds": 6260
+          "trending_adds": 6700
         },
         {
           "player_id": "12501",
@@ -5664,7 +5664,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 7.46,
-          "trending_adds": 6482
+          "trending_adds": 6363
         }
       ],
       "reserve": [],
@@ -5719,7 +5719,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 7.46,
-          "trending_adds": 6482,
+          "trending_adds": 6363,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5773,7 +5773,7 @@
           "age": 33,
           "years_exp": 12,
           "projection": 10.79,
-          "trending_adds": 6260,
+          "trending_adds": 6700,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5791,7 +5791,7 @@
           "age": 31,
           "years_exp": 9,
           "projection": 2.79,
-          "trending_adds": 14888,
+          "trending_adds": 15216,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5827,7 +5827,7 @@
           "age": 28,
           "years_exp": 7,
           "projection": null,
-          "trending_adds": 30945,
+          "trending_adds": 31045,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5935,7 +5935,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.71,
-          "trending_adds": 18192,
+          "trending_adds": 17352,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5953,7 +5953,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 15.66,
-          "trending_adds": 12824,
+          "trending_adds": 11977,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5971,7 +5971,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 4.8,
-          "trending_adds": 47466,
+          "trending_adds": 45981,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6223,7 +6223,7 @@
           "age": 21,
           "years_exp": 0,
           "projection": 7.12,
-          "trending_adds": 7443,
+          "trending_adds": 7056,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6439,7 +6439,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 14.89,
-          "trending_adds": 4998,
+          "trending_adds": 0,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6461,7 +6461,7 @@
       "age": 33,
       "years_exp": 11,
       "projection": 6.94,
-      "trending_adds": 84717
+      "trending_adds": 81837
     },
     {
       "player_id": "3286",
@@ -6476,37 +6476,7 @@
       "age": 31,
       "years_exp": 10,
       "projection": 2.39,
-      "trending_adds": 67992
-    },
-    {
-      "player_id": "10235",
-      "full_name": "Roschon Johnson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 0.25,
-      "trending_adds": 39736
-    },
-    {
-      "player_id": "5854",
-      "full_name": "Drew Lock",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "age": 29,
-      "years_exp": 7,
-      "projection": null,
-      "trending_adds": 39499
+      "trending_adds": 76590
     },
     {
       "player_id": "4574",
@@ -6521,22 +6491,37 @@
       "age": 32,
       "years_exp": 9,
       "projection": 0.57,
-      "trending_adds": 33520
+      "trending_adds": 36508
     },
     {
-      "player_id": "1166",
-      "full_name": "Kirk Cousins",
+      "player_id": "10235",
+      "full_name": "Roschon Johnson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 0.25,
+      "trending_adds": 35024
+    },
+    {
+      "player_id": "5854",
+      "full_name": "Drew Lock",
       "position": "QB",
       "fantasy_positions": [
         "QB"
       ],
-      "team": "LV",
+      "team": "SEA",
       "status": "Active",
       "injury_status": null,
-      "age": 38,
-      "years_exp": 14,
-      "projection": 16.04,
-      "trending_adds": 25576
+      "age": 29,
+      "years_exp": 7,
+      "projection": null,
+      "trending_adds": 33619
     },
     {
       "player_id": "4177",
@@ -6551,7 +6536,22 @@
       "age": 32,
       "years_exp": 9,
       "projection": 3.01,
-      "trending_adds": 25548
+      "trending_adds": 24303
+    },
+    {
+      "player_id": "1166",
+      "full_name": "Kirk Cousins",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "age": 38,
+      "years_exp": 14,
+      "projection": 16.04,
+      "trending_adds": 24136
     },
     {
       "player_id": "3321",
@@ -6566,7 +6566,7 @@
       "age": 31,
       "years_exp": 10,
       "projection": null,
-      "trending_adds": 19256
+      "trending_adds": 18528
     },
     {
       "player_id": "8111",
@@ -6581,7 +6581,7 @@
       "age": 27,
       "years_exp": 4,
       "projection": 6.39,
-      "trending_adds": 18192
+      "trending_adds": 17580
     },
     {
       "player_id": "5995",
@@ -6596,22 +6596,7 @@
       "age": 28,
       "years_exp": 7,
       "projection": 4.37,
-      "trending_adds": 16542
-    },
-    {
-      "player_id": "2078",
-      "full_name": "Odell Beckham",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NYG",
-      "status": "Active",
-      "injury_status": null,
-      "age": 33,
-      "years_exp": 12,
-      "projection": 1.98,
-      "trending_adds": 15491
+      "trending_adds": 16254
     },
     {
       "player_id": "13602",
@@ -6626,7 +6611,22 @@
       "age": 22,
       "years_exp": 0,
       "projection": null,
-      "trending_adds": 15140
+      "trending_adds": 15865
+    },
+    {
+      "player_id": "2078",
+      "full_name": "Odell Beckham",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "age": 33,
+      "years_exp": 12,
+      "projection": 1.98,
+      "trending_adds": 14581
     },
     {
       "player_id": "9486",
@@ -6641,7 +6641,7 @@
       "age": 25,
       "years_exp": 3,
       "projection": 7.49,
-      "trending_adds": 14211
+      "trending_adds": 14034
     },
     {
       "player_id": "8127",
@@ -6656,22 +6656,7 @@
       "age": 27,
       "years_exp": 4,
       "projection": 3.15,
-      "trending_adds": 13119
-    },
-    {
-      "player_id": "4147",
-      "full_name": "Samaje Perine",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 30,
-      "years_exp": 9,
-      "projection": 4.82,
-      "trending_adds": 12156
+      "trending_adds": 11952
     },
     {
       "player_id": "9225",
@@ -6686,7 +6671,22 @@
       "age": 24,
       "years_exp": 3,
       "projection": 4.94,
-      "trending_adds": 11998
+      "trending_adds": 11711
+    },
+    {
+      "player_id": "4147",
+      "full_name": "Samaje Perine",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "age": 30,
+      "years_exp": 9,
+      "projection": 4.82,
+      "trending_adds": 11660
     },
     {
       "player_id": "12492",
@@ -6701,22 +6701,7 @@
       "age": 23,
       "years_exp": 1,
       "projection": 5.71,
-      "trending_adds": 9424
-    },
-    {
-      "player_id": "9228",
-      "full_name": "Bryce Young",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 17.13,
-      "trending_adds": 8912
+      "trending_adds": 9496
     },
     {
       "player_id": "11571",
@@ -6731,7 +6716,7 @@
       "age": 24,
       "years_exp": 2,
       "projection": 4.66,
-      "trending_adds": 8568
+      "trending_adds": 8235
     },
     {
       "player_id": "13533",
@@ -6746,22 +6731,22 @@
       "age": 22,
       "years_exp": 0,
       "projection": 2.15,
-      "trending_adds": 8469
+      "trending_adds": 7965
     },
     {
-      "player_id": "4017",
-      "full_name": "Deshaun Watson",
+      "player_id": "9228",
+      "full_name": "Bryce Young",
       "position": "QB",
       "fantasy_positions": [
         "QB"
       ],
-      "team": "CLE",
+      "team": "CAR",
       "status": "Active",
       "injury_status": null,
-      "age": 30,
-      "years_exp": 9,
-      "projection": 11.94,
-      "trending_adds": 7936
+      "age": 25,
+      "years_exp": 3,
+      "projection": 17.13,
+      "trending_adds": 7904
     },
     {
       "player_id": "8225",
@@ -6776,7 +6761,22 @@
       "age": 25,
       "years_exp": 4,
       "projection": 4.16,
-      "trending_adds": 7840
+      "trending_adds": 7693
+    },
+    {
+      "player_id": "4017",
+      "full_name": "Deshaun Watson",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "age": 30,
+      "years_exp": 9,
+      "projection": 11.94,
+      "trending_adds": 7312
     },
     {
       "player_id": "13421",
@@ -6791,7 +6791,7 @@
       "age": 22,
       "years_exp": 0,
       "projection": 3.59,
-      "trending_adds": 7518
+      "trending_adds": 6615
     },
     {
       "player_id": "13424",
@@ -6806,7 +6806,7 @@
       "age": 24,
       "years_exp": 0,
       "projection": 1.58,
-      "trending_adds": 6264
+      "trending_adds": 6344
     },
     {
       "player_id": "1373",
@@ -6821,22 +6821,7 @@
       "age": 35,
       "years_exp": 13,
       "projection": 16.58,
-      "trending_adds": 6236
-    },
-    {
-      "player_id": "12491",
-      "full_name": "Corey Kiner",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NE",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 1,
-      "projection": 2.31,
-      "trending_adds": 5826
+      "trending_adds": 5812
     },
     {
       "player_id": "11783",
@@ -6851,7 +6836,7 @@
       "age": 26,
       "years_exp": 2,
       "projection": 5.58,
-      "trending_adds": 5792
+      "trending_adds": 5760
     },
     {
       "player_id": "12502",
@@ -6866,7 +6851,22 @@
       "age": 24,
       "years_exp": 1,
       "projection": 6.11,
-      "trending_adds": 5516
+      "trending_adds": 5327
+    },
+    {
+      "player_id": "12491",
+      "full_name": "Corey Kiner",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
+      "years_exp": 1,
+      "projection": 2.31,
+      "trending_adds": 5124
     },
     {
       "player_id": "13411",
@@ -6881,7 +6881,7 @@
       "age": 22,
       "years_exp": 0,
       "projection": 2.58,
-      "trending_adds": 5301
+      "trending_adds": 5076
     },
     {
       "player_id": "11237",
@@ -6896,7 +6896,7 @@
       "age": 25,
       "years_exp": 3,
       "projection": 2.94,
-      "trending_adds": 5295
+      "trending_adds": 5015
     },
     {
       "player_id": "10226",
@@ -6911,7 +6911,7 @@
       "age": 26,
       "years_exp": 3,
       "projection": 4.78,
-      "trending_adds": 4959
+      "trending_adds": 4761
     },
     {
       "player_id": "12522",
