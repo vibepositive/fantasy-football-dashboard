@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:46:28.896Z",
+  "generated_at": "2026-09-11T02:05:59.275Z",
   "league": {
     "league_id": "1312504205092610048",
     "name": "Mettlers ",
@@ -146,6 +146,8 @@
       "owner_id": "855935935597121536",
       "username": null,
       "display_name": "Sunderman021",
+      "avatar": "b243c8d0d30aabfeb0af58ab96323cb4",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/b243c8d0d30aabfeb0af58ab96323cb4",
       "team_name": "Put On Your SundayClothes",
       "settings": {
         "division": 1,
@@ -559,6 +561,8 @@
       "owner_id": "855938598745260032",
       "username": null,
       "display_name": "dewolfer",
+      "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
       "team_name": "Underground Twofers",
       "settings": {
         "division": 2,
@@ -1060,6 +1064,8 @@
       "owner_id": "855939716527271936",
       "username": null,
       "display_name": "irammend",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6",
       "team_name": "Best_Beef_In_Town",
       "settings": {
         "division": 1,
@@ -1473,6 +1479,8 @@
       "owner_id": "855940272964624384",
       "username": null,
       "display_name": "jakeberling",
+      "avatar": "f0edbf4278f53f9425db175073df6584",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/f0edbf4278f53f9425db175073df6584",
       "team_name": "Berling",
       "settings": {
         "division": 2,
@@ -1916,6 +1924,8 @@
       "owner_id": "855940082555817984",
       "username": null,
       "display_name": "daveshimek",
+      "avatar": "f0edbf4278f53f9425db175073df6584",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/f0edbf4278f53f9425db175073df6584",
       "team_name": "Fuzzywoody",
       "settings": {
         "division": 1,
@@ -2329,6 +2339,8 @@
       "owner_id": "855955157790355456",
       "username": null,
       "display_name": "chrisgervais",
+      "avatar": "da96facdfc4d67b5bceda540cd947d79",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/da96facdfc4d67b5bceda540cd947d79",
       "team_name": "Boomtown Splash Hogs",
       "settings": {
         "division": 2,
@@ -2756,6 +2768,8 @@
       "owner_id": "856589748813307904",
       "username": null,
       "display_name": "TylerRay32",
+      "avatar": "4a2f110c13e7a9ab7809625420f11097",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/4a2f110c13e7a9ab7809625420f11097",
       "team_name": "Bears in Heat",
       "settings": {
         "division": 1,
@@ -3169,6 +3183,8 @@
       "owner_id": "729457309012611072",
       "username": null,
       "display_name": "kyleratke",
+      "avatar": "e7af4deab0289b4f5505646424895246",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246",
       "team_name": "Burrowito Bowl",
       "settings": {
         "division": 2,
@@ -3612,6 +3628,8 @@
       "owner_id": "857721024802877441",
       "username": null,
       "display_name": "lmclennan",
+      "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/8eb8f8bf999945d523f2c4033f70473e",
       "team_name": "The Haze >> Red Rocks",
       "settings": {
         "division": 1,
@@ -4055,6 +4073,8 @@
       "owner_id": "857783742431862784",
       "username": null,
       "display_name": "bucky3krb",
+      "avatar": "4f4090e5e9c3941414db40a871e3e909",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
       "team_name": "Denny Green",
       "settings": {
         "division": 2,
@@ -4468,6 +4488,8 @@
       "owner_id": "857793152063488000",
       "username": null,
       "display_name": "SammoyerMN",
+      "avatar": "bfd2abef44ebcc7206b02479ce3c8dc8",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/bfd2abef44ebcc7206b02479ce3c8dc8",
       "team_name": "GhostJerkers",
       "settings": {
         "division": 1,
@@ -4881,6 +4903,8 @@
       "owner_id": "857806656652947456",
       "username": null,
       "display_name": "THuff20",
+      "avatar": "4f4090e5e9c3941414db40a871e3e909",
+      "avatar_url": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
       "team_name": "Johnny Jump Up",
       "settings": {
         "division": 2,
@@ -5732,7 +5756,7 @@
       }
     },
     {
-      "points": 10.86,
+      "points": 11.14,
       "players": [
         "10213",
         "11581",
@@ -5767,7 +5791,7 @@
         "8126"
       ],
       "starters_points": [
-        8.56,
+        8.84,
         0,
         0,
         0,
@@ -5783,7 +5807,7 @@
         "5870": 0,
         "7528": 0,
         "8126": 0,
-        "8183": 8.56,
+        "8183": 8.84,
         "8228": 0,
         "10213": 0,
         "11581": 0,
@@ -5864,7 +5888,7 @@
       }
     },
     {
-      "points": 3.3,
+      "points": 5.7,
       "players": [
         "10229",
         "11638",
@@ -5901,7 +5925,7 @@
       ],
       "starters_points": [
         0,
-        3.3,
+        5.7,
         0,
         0,
         0,
@@ -5911,7 +5935,7 @@
         0
       ],
       "players_points": {
-        "4034": 3.3,
+        "4034": 5.7,
         "4217": 2.2,
         "4866": 0,
         "5927": 0,
@@ -5979,7 +6003,7 @@
         0
       ],
       "players_points": {
-        "421": 1.6,
+        "421": 1.5,
         "2133": 0,
         "2449": 0,
         "4037": 0,
