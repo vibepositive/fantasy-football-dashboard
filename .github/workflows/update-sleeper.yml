@@ -1,0 +1,36 @@
+name: Update Sleeper Dashboard
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+  push:
+    branches: ["main"]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-sleeper.yml"
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Generate Sleeper snapshot
+        env:
+          LEAGUE_ID: "1312504205092610048"
+          SLEEPER_USERNAME: "chrisgervais"
+        run: node scripts/generate-snapshot.js
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshot.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Sleeper league snapshot"
+            git push
+          fi
