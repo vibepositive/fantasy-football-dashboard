@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:02:28.957Z",
+  "generated_at": "2026-09-11T19:45:12.932Z",
   "league": {
     "league_id": "1312504205092610048",
     "name": "Mettlers ",
@@ -172,7 +172,7 @@
         "age": 26,
         "years_exp": 4,
         "projection": 18.45,
-        "trending_adds": 15492
+        "trending_adds": 16160
       },
       {
         "player_id": "12507",
@@ -217,7 +217,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.86,
-        "trending_adds": 5499
+        "trending_adds": 5121
       },
       {
         "player_id": "10213",
@@ -232,7 +232,7 @@
         "age": 25,
         "years_exp": 3,
         "projection": 8.78,
-        "trending_adds": 87684
+        "trending_adds": 82020
       },
       {
         "player_id": "11603",
@@ -261,7 +261,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 4,
-        "projection": 11.75,
+        "projection": 11.99,
         "trending_adds": 0
       },
       {
@@ -277,7 +277,7 @@
         "age": 25,
         "years_exp": 2,
         "projection": 8.59,
-        "trending_adds": 19908
+        "trending_adds": 16227
       },
       {
         "player_id": "8126",
@@ -327,7 +327,7 @@
         "age": 25,
         "years_exp": 3,
         "projection": 8.78,
-        "trending_adds": 87684,
+        "trending_adds": 82020,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -345,7 +345,7 @@
         "age": 25,
         "years_exp": 2,
         "projection": 8.59,
-        "trending_adds": 19908,
+        "trending_adds": 16227,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -381,7 +381,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.86,
-        "trending_adds": 5499,
+        "trending_adds": 5121,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -399,7 +399,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.15,
-        "trending_adds": 9376,
+        "trending_adds": 9136,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -417,7 +417,7 @@
         "age": 28,
         "years_exp": 2,
         "projection": 7.89,
-        "trending_adds": 52437,
+        "trending_adds": 49252,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -489,7 +489,7 @@
         "age": 23,
         "years_exp": 0,
         "projection": 4.31,
-        "trending_adds": 17344,
+        "trending_adds": 16488,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -507,7 +507,7 @@
         "age": 33,
         "years_exp": 9,
         "projection": 6.51,
-        "trending_adds": 23430,
+        "trending_adds": 21366,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -561,7 +561,7 @@
         "age": 28,
         "years_exp": 5,
         "projection": 3.91,
-        "trending_adds": 6765,
+        "trending_adds": 6515,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -597,7 +597,7 @@
         "age": 26,
         "years_exp": 4,
         "projection": 18.45,
-        "trending_adds": 15492,
+        "trending_adds": 16160,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -614,7 +614,7 @@
         "injury_status": null,
         "age": 27,
         "years_exp": 4,
-        "projection": 11.75,
+        "projection": 11.99,
         "trending_adds": 0,
         "starter": true,
         "reserve": false,
@@ -670,7 +670,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "projection": 17.6,
+          "projection": 17.2,
           "trending_adds": 0
         },
         {
@@ -715,7 +715,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 4,
-          "projection": 12.28,
+          "projection": 11.62,
           "trending_adds": 0
         },
         {
@@ -881,11 +881,11 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 25,
           "years_exp": 1,
           "projection": 8.86,
-          "trending_adds": 6561,
+          "trending_adds": 6210,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -903,7 +903,7 @@
           "age": 26,
           "years_exp": 1,
           "projection": 17.13,
-          "trending_adds": 18288,
+          "trending_adds": 17008,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -938,7 +938,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 7,
-          "projection": 10.22,
+          "projection": 9.67,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -992,7 +992,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 4,
-          "projection": 12.28,
+          "projection": 11.62,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -1082,7 +1082,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 3,
-          "projection": 17.6,
+          "projection": 17.2,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -1137,7 +1137,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "projection": 12.37,
+          "projection": 13.46,
           "trending_adds": 0
         },
         {
@@ -1198,7 +1198,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.53,
-          "trending_adds": 15066
+          "trending_adds": 13995
         },
         {
           "player_id": "11646",
@@ -1243,7 +1243,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.66,
-          "trending_adds": 6840
+          "trending_adds": 6775
         }
       ],
       "reserve": [
@@ -1260,7 +1260,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": null,
-          "trending_adds": 6688
+          "trending_adds": 6232
         },
         {
           "player_id": "4137",
@@ -1343,7 +1343,7 @@
           "injury_status": null,
           "age": 24,
           "years_exp": 2,
-          "projection": 12.37,
+          "projection": 13.46,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -1380,7 +1380,7 @@
           "age": 21,
           "years_exp": 1,
           "projection": 4.97,
-          "trending_adds": 5035,
+          "trending_adds": 4540,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1416,7 +1416,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 3.62,
-          "trending_adds": 22312,
+          "trending_adds": 18376,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1451,7 +1451,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 0,
-          "projection": 4.04,
+          "projection": 3.83,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -1488,7 +1488,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": null,
-          "trending_adds": 6688,
+          "trending_adds": 6232,
           "starter": false,
           "reserve": true,
           "taxi": false
@@ -1523,7 +1523,7 @@
           "injury_status": null,
           "age": 22,
           "years_exp": 0,
-          "projection": 2.87,
+          "projection": 4.29,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -1578,7 +1578,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.53,
-          "trending_adds": 15066,
+          "trending_adds": 13995,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1596,7 +1596,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.65,
-          "trending_adds": 381852,
+          "trending_adds": 353331,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1614,7 +1614,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.66,
-          "trending_adds": 6840,
+          "trending_adds": 6775,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1765,7 +1765,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 6.96,
-          "trending_adds": 4305
+          "trending_adds": 0
         },
         {
           "player_id": "9756",
@@ -1780,7 +1780,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 9.79,
-          "trending_adds": 4923
+          "trending_adds": 4896
         },
         {
           "player_id": "10219",
@@ -1795,7 +1795,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 7.26,
-          "trending_adds": 9261
+          "trending_adds": 8343
         },
         {
           "player_id": "13417",
@@ -1829,7 +1829,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 7.26,
-          "trending_adds": 9261,
+          "trending_adds": 8343,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1991,7 +1991,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 7.05,
-          "trending_adds": 7952,
+          "trending_adds": 8840,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2045,7 +2045,7 @@
           "age": 29,
           "years_exp": 6,
           "projection": 6.98,
-          "trending_adds": 5887,
+          "trending_adds": 5663,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2063,7 +2063,7 @@
           "age": 28,
           "years_exp": 6,
           "projection": 5.58,
-          "trending_adds": 12996,
+          "trending_adds": 13527,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2081,7 +2081,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 6.96,
-          "trending_adds": 4305,
+          "trending_adds": 0,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2117,7 +2117,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 9.79,
-          "trending_adds": 4923,
+          "trending_adds": 4896,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2231,7 +2231,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 5,
-          "projection": 8.14,
+          "projection": 7.67,
           "trending_adds": 0
         },
         {
@@ -2247,7 +2247,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.24,
-          "trending_adds": 14048
+          "trending_adds": 13624
         },
         {
           "player_id": "9511",
@@ -2262,7 +2262,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 6.1,
-          "trending_adds": 17262
+          "trending_adds": 15858
         },
         {
           "player_id": "8180",
@@ -2277,7 +2277,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 33489
+          "trending_adds": 30276
         }
       ],
       "reserve": [
@@ -2348,7 +2348,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.24,
-          "trending_adds": 14048,
+          "trending_adds": 13624,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2456,7 +2456,7 @@
           "age": 23,
           "years_exp": 0,
           "projection": 6.32,
-          "trending_adds": 20570,
+          "trending_adds": 19885,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2474,7 +2474,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 3.25,
-          "trending_adds": 88816,
+          "trending_adds": 91378,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2527,7 +2527,7 @@
           "injury_status": null,
           "age": 25,
           "years_exp": 5,
-          "projection": 8.14,
+          "projection": 7.67,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -2564,7 +2564,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 33489,
+          "trending_adds": 30276,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2618,7 +2618,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 6.1,
-          "trending_adds": 17262,
+          "trending_adds": 15858,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2733,7 +2733,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.62,
-          "trending_adds": 8784
+          "trending_adds": 8294
         },
         {
           "player_id": "8150",
@@ -2777,7 +2777,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "projection": 11.14,
+          "projection": 11.4,
           "trending_adds": 0
         }
       ],
@@ -2797,7 +2797,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 9.98,
-          "trending_adds": 6480,
+          "trending_adds": 6021,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2815,7 +2815,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 6.45,
-          "trending_adds": 8712,
+          "trending_adds": 8000,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2851,7 +2851,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 2.92,
-          "trending_adds": 8280,
+          "trending_adds": 8136,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2887,7 +2887,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.62,
-          "trending_adds": 8784,
+          "trending_adds": 8294,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2905,7 +2905,7 @@
           "age": 29,
           "years_exp": 7,
           "projection": 17.65,
-          "trending_adds": 24360,
+          "trending_adds": 23528,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2922,7 +2922,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "projection": 11.14,
+          "projection": 11.4,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -2959,7 +2959,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 7.66,
-          "trending_adds": 9995,
+          "trending_adds": 8285,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3125,7 +3125,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 18.45,
-          "trending_adds": 15492
+          "trending_adds": 16160
         },
         {
           "player_id": "12507",
@@ -3170,7 +3170,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.86,
-          "trending_adds": 5499
+          "trending_adds": 5121
         },
         {
           "player_id": "10213",
@@ -3185,7 +3185,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 8.78,
-          "trending_adds": 87684
+          "trending_adds": 82020
         },
         {
           "player_id": "11603",
@@ -3214,7 +3214,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 4,
-          "projection": 11.75,
+          "projection": 11.99,
           "trending_adds": 0
         },
         {
@@ -3230,7 +3230,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.59,
-          "trending_adds": 19908
+          "trending_adds": 16227
         },
         {
           "player_id": "8126",
@@ -3280,7 +3280,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 8.78,
-          "trending_adds": 87684,
+          "trending_adds": 82020,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3298,7 +3298,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.59,
-          "trending_adds": 19908,
+          "trending_adds": 16227,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3334,7 +3334,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.86,
-          "trending_adds": 5499,
+          "trending_adds": 5121,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3352,7 +3352,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.15,
-          "trending_adds": 9376,
+          "trending_adds": 9136,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3370,7 +3370,7 @@
           "age": 28,
           "years_exp": 2,
           "projection": 7.89,
-          "trending_adds": 52437,
+          "trending_adds": 49252,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3442,7 +3442,7 @@
           "age": 23,
           "years_exp": 0,
           "projection": 4.31,
-          "trending_adds": 17344,
+          "trending_adds": 16488,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3460,7 +3460,7 @@
           "age": 33,
           "years_exp": 9,
           "projection": 6.51,
-          "trending_adds": 23430,
+          "trending_adds": 21366,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3514,7 +3514,7 @@
           "age": 28,
           "years_exp": 5,
           "projection": 3.91,
-          "trending_adds": 6765,
+          "trending_adds": 6515,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3550,7 +3550,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 18.45,
-          "trending_adds": 15492,
+          "trending_adds": 16160,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3567,7 +3567,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 4,
-          "projection": 11.75,
+          "projection": 11.99,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -3873,7 +3873,7 @@
           "age": 21,
           "years_exp": 0,
           "projection": 3.51,
-          "trending_adds": 6993,
+          "trending_adds": 7083,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4016,7 +4016,7 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 4,
-          "projection": 4.28,
+          "projection": 4.21,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -4500,7 +4500,7 @@
           "age": 28,
           "years_exp": 5,
           "projection": 14.96,
-          "trending_adds": 7164,
+          "trending_adds": 6255,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4518,7 +4518,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.14,
-          "trending_adds": 14895,
+          "trending_adds": 13761,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4696,7 +4696,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.35,
-          "trending_adds": 30069
+          "trending_adds": 26649
         }
       ],
       "reserve": [
@@ -4713,7 +4713,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": null,
-          "trending_adds": 26296
+          "trending_adds": 23088
         }
       ],
       "taxi": [],
@@ -4727,7 +4727,7 @@
           ],
           "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 23,
           "years_exp": 2,
           "projection": 8.85,
@@ -4748,7 +4748,7 @@
           "injury_status": "Doubtful",
           "age": 24,
           "years_exp": 2,
-          "projection": 6.63,
+          "projection": 1.14,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -4857,7 +4857,7 @@
           "age": 38,
           "years_exp": 17,
           "projection": 18.23,
-          "trending_adds": 8127,
+          "trending_adds": 6822,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4893,7 +4893,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.35,
-          "trending_adds": 30069,
+          "trending_adds": 26649,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -4946,7 +4946,7 @@
           "injury_status": null,
           "age": 28,
           "years_exp": 6,
-          "projection": 8.77,
+          "projection": 8.29,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -4965,7 +4965,7 @@
           "age": 29,
           "years_exp": 6,
           "projection": 8.17,
-          "trending_adds": 29040,
+          "trending_adds": 27552,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5019,7 +5019,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": null,
-          "trending_adds": 26296,
+          "trending_adds": 23088,
           "starter": false,
           "reserve": true,
           "taxi": false
@@ -5106,8 +5106,8 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 5,
-          "projection": 9.05,
-          "trending_adds": 10496
+          "projection": 10.5,
+          "trending_adds": 10088
         },
         {
           "player_id": "7569",
@@ -5167,7 +5167,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.25,
-          "trending_adds": 5992
+          "trending_adds": 5915
         },
         {
           "player_id": "1479",
@@ -5182,7 +5182,7 @@
           "age": 34,
           "years_exp": 13,
           "projection": 6.48,
-          "trending_adds": 6124
+          "trending_adds": 6160
         },
         {
           "player_id": "13293",
@@ -5360,7 +5360,7 @@
           "age": 24,
           "years_exp": 0,
           "projection": 2.81,
-          "trending_adds": 319557,
+          "trending_adds": 344904,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5378,7 +5378,7 @@
           "age": 34,
           "years_exp": 13,
           "projection": 6.48,
-          "trending_adds": 6124,
+          "trending_adds": 6160,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5396,7 +5396,7 @@
           "age": 31,
           "years_exp": 10,
           "projection": 18.75,
-          "trending_adds": 13860,
+          "trending_adds": 13290,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5449,8 +5449,8 @@
           "injury_status": null,
           "age": 27,
           "years_exp": 5,
-          "projection": 9.05,
-          "trending_adds": 10496,
+          "projection": 10.5,
+          "trending_adds": 10088,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5504,7 +5504,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.25,
-          "trending_adds": 5992,
+          "trending_adds": 5915,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5584,8 +5584,8 @@
             "WR"
           ],
           "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 29,
           "years_exp": 7,
           "projection": 14.13,
@@ -5649,7 +5649,7 @@
           "age": 33,
           "years_exp": 12,
           "projection": 10.79,
-          "trending_adds": 7016
+          "trending_adds": 7352
         },
         {
           "player_id": "12501",
@@ -5664,7 +5664,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 7.46,
-          "trending_adds": 5796
+          "trending_adds": 5467
         }
       ],
       "reserve": [],
@@ -5719,7 +5719,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 7.46,
-          "trending_adds": 5796,
+          "trending_adds": 5467,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5773,7 +5773,7 @@
           "age": 33,
           "years_exp": 12,
           "projection": 10.79,
-          "trending_adds": 7016,
+          "trending_adds": 7352,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5791,7 +5791,7 @@
           "age": 31,
           "years_exp": 9,
           "projection": 2.79,
-          "trending_adds": 15200,
+          "trending_adds": 14056,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5827,7 +5827,7 @@
           "age": 28,
           "years_exp": 7,
           "projection": null,
-          "trending_adds": 30120,
+          "trending_adds": 21835,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5840,8 +5840,8 @@
             "WR"
           ],
           "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "age": 29,
           "years_exp": 7,
           "projection": 14.13,
@@ -5935,7 +5935,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.71,
-          "trending_adds": 15064,
+          "trending_adds": 15224,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5953,7 +5953,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 15.66,
-          "trending_adds": 10815,
+          "trending_adds": 10241,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5967,11 +5967,11 @@
           ],
           "team": "DAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "age": 27,
           "years_exp": 4,
           "projection": 4.8,
-          "trending_adds": 40635,
+          "trending_adds": 37134,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6131,7 +6131,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 10.19,
-          "trending_adds": 0
+          "trending_adds": 4041
         }
       ],
       "reserve": [],
@@ -6223,7 +6223,7 @@
           "age": 21,
           "years_exp": 0,
           "projection": 7.12,
-          "trending_adds": 6849,
+          "trending_adds": 6633,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6237,10 +6237,10 @@
           ],
           "team": "ATL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "age": 22,
           "years_exp": 0,
-          "projection": 1.95,
+          "projection": 1.84,
           "trending_adds": 0,
           "starter": false,
           "reserve": false,
@@ -6403,7 +6403,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 10.19,
-          "trending_adds": 0,
+          "trending_adds": 4041,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -6439,7 +6439,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 14.89,
-          "trending_adds": 0,
+          "trending_adds": 4109,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6461,7 +6461,7 @@
       "age": 31,
       "years_exp": 10,
       "projection": 2.39,
-      "trending_adds": 90492
+      "trending_adds": 106098
     },
     {
       "player_id": "2505",
@@ -6476,7 +6476,7 @@
       "age": 33,
       "years_exp": 11,
       "projection": 6.94,
-      "trending_adds": 74403
+      "trending_adds": 67680
     },
     {
       "player_id": "4574",
@@ -6490,53 +6490,8 @@
       "injury_status": null,
       "age": 32,
       "years_exp": 9,
-      "projection": 0.57,
-      "trending_adds": 42012
-    },
-    {
-      "player_id": "10235",
-      "full_name": "Roschon Johnson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 0.25,
-      "trending_adds": 26208
-    },
-    {
-      "player_id": "5854",
-      "full_name": "Drew Lock",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "age": 29,
-      "years_exp": 7,
-      "projection": null,
-      "trending_adds": 25965
-    },
-    {
-      "player_id": "1166",
-      "full_name": "Kirk Cousins",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "age": 38,
-      "years_exp": 14,
-      "projection": 16.04,
-      "trending_adds": 21576
+      "projection": 10.82,
+      "trending_adds": 67616
     },
     {
       "player_id": "4177",
@@ -6551,7 +6506,52 @@
       "age": 32,
       "years_exp": 9,
       "projection": 3.01,
-      "trending_adds": 21558
+      "trending_adds": 22830
+    },
+    {
+      "player_id": "1166",
+      "full_name": "Kirk Cousins",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "age": 38,
+      "years_exp": 14,
+      "projection": 16.04,
+      "trending_adds": 21880
+    },
+    {
+      "player_id": "5854",
+      "full_name": "Drew Lock",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": null,
+      "age": 29,
+      "years_exp": 7,
+      "projection": null,
+      "trending_adds": 21745
+    },
+    {
+      "player_id": "10235",
+      "full_name": "Roschon Johnson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 0.25,
+      "trending_adds": 20272
     },
     {
       "player_id": "13602",
@@ -6566,22 +6566,7 @@
       "age": 22,
       "years_exp": 0,
       "projection": null,
-      "trending_adds": 17075
-    },
-    {
-      "player_id": "3321",
-      "full_name": "Tyreek Hill",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "age": 31,
-      "years_exp": 10,
-      "projection": null,
-      "trending_adds": 16736
+      "trending_adds": 16445
     },
     {
       "player_id": "8111",
@@ -6596,7 +6581,22 @@
       "age": 27,
       "years_exp": 4,
       "projection": 6.39,
-      "trending_adds": 16572
+      "trending_adds": 16134
+    },
+    {
+      "player_id": "3321",
+      "full_name": "Tyreek Hill",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "age": 31,
+      "years_exp": 10,
+      "projection": null,
+      "trending_adds": 15592
     },
     {
       "player_id": "5995",
@@ -6611,7 +6611,7 @@
       "age": 28,
       "years_exp": 7,
       "projection": 4.37,
-      "trending_adds": 14382
+      "trending_adds": 13608
     },
     {
       "player_id": "9486",
@@ -6626,7 +6626,7 @@
       "age": 25,
       "years_exp": 3,
       "projection": 7.49,
-      "trending_adds": 13407
+      "trending_adds": 13422
     },
     {
       "player_id": "2078",
@@ -6641,7 +6641,7 @@
       "age": 33,
       "years_exp": 12,
       "projection": 1.98,
-      "trending_adds": 13167
+      "trending_adds": 12915
     },
     {
       "player_id": "9225",
@@ -6656,7 +6656,7 @@
       "age": 24,
       "years_exp": 3,
       "projection": 4.94,
-      "trending_adds": 11172
+      "trending_adds": 11095
     },
     {
       "player_id": "8127",
@@ -6671,7 +6671,7 @@
       "age": 27,
       "years_exp": 4,
       "projection": 3.15,
-      "trending_adds": 10545
+      "trending_adds": 10341
     },
     {
       "player_id": "4147",
@@ -6686,7 +6686,7 @@
       "age": 30,
       "years_exp": 9,
       "projection": 4.82,
-      "trending_adds": 10504
+      "trending_adds": 10188
     },
     {
       "player_id": "12492",
@@ -6701,52 +6701,7 @@
       "age": 23,
       "years_exp": 1,
       "projection": 5.71,
-      "trending_adds": 8920
-    },
-    {
-      "player_id": "11571",
-      "full_name": "Isaiah Davis",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 2,
-      "projection": 4.66,
-      "trending_adds": 7614
-    },
-    {
-      "player_id": "8225",
-      "full_name": "Daniel Bellinger",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 4,
-      "projection": 4.16,
-      "trending_adds": 7280
-    },
-    {
-      "player_id": "13533",
-      "full_name": "Barion Brown",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "age": 22,
-      "years_exp": 0,
-      "projection": 2.15,
-      "trending_adds": 6921
+      "trending_adds": 8688
     },
     {
       "player_id": "4017",
@@ -6761,22 +6716,22 @@
       "age": 30,
       "years_exp": 9,
       "projection": 11.94,
-      "trending_adds": 6736
+      "trending_adds": 7616
     },
     {
-      "player_id": "9228",
-      "full_name": "Bryce Young",
-      "position": "QB",
+      "player_id": "11571",
+      "full_name": "Isaiah Davis",
+      "position": "RB",
       "fantasy_positions": [
-        "QB"
+        "RB"
       ],
-      "team": "CAR",
+      "team": "NYJ",
       "status": "Active",
       "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 17.13,
-      "trending_adds": 6608
+      "age": 24,
+      "years_exp": 2,
+      "projection": 4.66,
+      "trending_adds": 7551
     },
     {
       "player_id": "13424",
@@ -6791,22 +6746,37 @@
       "age": 24,
       "years_exp": 0,
       "projection": 1.58,
-      "trending_adds": 6584
+      "trending_adds": 7280
     },
     {
-      "player_id": "13421",
-      "full_name": "Eli Raridon",
+      "player_id": "8225",
+      "full_name": "Daniel Bellinger",
       "position": "TE",
       "fantasy_positions": [
         "TE"
       ],
-      "team": "NE",
+      "team": "TEN",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 4,
+      "projection": 4.16,
+      "trending_adds": 7203
+    },
+    {
+      "player_id": "13533",
+      "full_name": "Barion Brown",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NO",
       "status": "Active",
       "injury_status": null,
       "age": 22,
       "years_exp": 0,
-      "projection": 3.59,
-      "trending_adds": 5614
+      "projection": 2.15,
+      "trending_adds": 6399
     },
     {
       "player_id": "11783",
@@ -6821,7 +6791,22 @@
       "age": 26,
       "years_exp": 2,
       "projection": 5.58,
-      "trending_adds": 5576
+      "trending_adds": 5864
+    },
+    {
+      "player_id": "9228",
+      "full_name": "Bryce Young",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "CAR",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 17.13,
+      "trending_adds": 5584
     },
     {
       "player_id": "1373",
@@ -6836,7 +6821,7 @@
       "age": 35,
       "years_exp": 13,
       "projection": 16.58,
-      "trending_adds": 5188
+      "trending_adds": 5304
     },
     {
       "player_id": "13411",
@@ -6851,7 +6836,7 @@
       "age": 22,
       "years_exp": 0,
       "projection": 2.58,
-      "trending_adds": 5085
+      "trending_adds": 5148
     },
     {
       "player_id": "12502",
@@ -6866,7 +6851,22 @@
       "age": 24,
       "years_exp": 1,
       "projection": 6.11,
-      "trending_adds": 4949
+      "trending_adds": 5033
+    },
+    {
+      "player_id": "13421",
+      "full_name": "Eli Raridon",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "age": 22,
+      "years_exp": 0,
+      "projection": 3.59,
+      "trending_adds": 4928
     },
     {
       "player_id": "11237",
@@ -6881,7 +6881,7 @@
       "age": 25,
       "years_exp": 3,
       "projection": 2.94,
-      "trending_adds": 4705
+      "trending_adds": 4885
     },
     {
       "player_id": "12491",
@@ -6896,22 +6896,7 @@
       "age": 24,
       "years_exp": 1,
       "projection": 2.31,
-      "trending_adds": 4350
-    },
-    {
-      "player_id": "10226",
-      "full_name": "Andrei Iosivas",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 26,
-      "years_exp": 3,
-      "projection": 4.78,
-      "trending_adds": 4302
+      "trending_adds": 4044
     },
     {
       "player_id": "12522",
@@ -6940,22 +6925,7 @@
       "injury_status": null,
       "age": 42,
       "years_exp": 21,
-      "projection": 15.21,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "6768",
-      "full_name": "Tua Tagovailoa",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "age": 28,
-      "years_exp": 6,
-      "projection": 13.84,
+      "projection": 14.45,
       "trending_adds": 0
     },
     {
@@ -6989,21 +6959,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "7600",
-      "full_name": "Pat Freiermuth",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "age": 27,
-      "years_exp": 5,
-      "projection": 5.91,
-      "trending_adds": 0
-    },
-    {
       "player_id": "8172",
       "full_name": "Greg Dulcich",
       "position": "TE",
@@ -7016,6 +6971,21 @@
       "age": 26,
       "years_exp": 4,
       "projection": 5.75,
+      "trending_adds": 0
+    },
+    {
+      "player_id": "7600",
+      "full_name": "Pat Freiermuth",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "age": 27,
+      "years_exp": 5,
+      "projection": 5.58,
       "trending_adds": 0
     },
     {
@@ -7079,6 +7049,21 @@
       "trending_adds": 0
     },
     {
+      "player_id": "10226",
+      "full_name": "Andrei Iosivas",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "age": 26,
+      "years_exp": 3,
+      "projection": 4.78,
+      "trending_adds": 0
+    },
+    {
       "player_id": "12509",
       "full_name": "Tre' Harris",
       "position": "WR",
@@ -7091,6 +7076,21 @@
       "age": 24,
       "years_exp": 1,
       "projection": 4.74,
+      "trending_adds": 0
+    },
+    {
+      "player_id": "12485",
+      "full_name": "Tez Johnson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
+      "years_exp": 1,
+      "projection": 4.53,
       "trending_adds": 0
     },
     {
@@ -7139,21 +7139,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "9506",
-      "full_name": "Sean Tucker",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "TB",
-      "status": "Active",
-      "injury_status": "Doubtful",
-      "age": 24,
-      "years_exp": 3,
-      "projection": 4.01,
-      "trending_adds": 0
-    },
-    {
       "player_id": "12536",
       "full_name": "Jaylin Noel",
       "position": "WR",
@@ -7199,36 +7184,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "9479",
-      "full_name": "Darnell Washington",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 3.75,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "8119",
-      "full_name": "Jahan Dotson",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": null,
-      "age": 26,
-      "years_exp": 4,
-      "projection": 3.74,
-      "trending_adds": 0
-    },
-    {
       "player_id": "11637",
       "full_name": "Keon Coleman",
       "position": "WR",
@@ -7241,21 +7196,6 @@
       "age": 23,
       "years_exp": 2,
       "projection": 3.7,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "6271",
-      "full_name": "Olamide Zaccheaus",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": null,
-      "age": 29,
-      "years_exp": 7,
-      "projection": 3.64,
       "trending_adds": 0
     },
     {
@@ -7319,6 +7259,36 @@
       "trending_adds": 0
     },
     {
+      "player_id": "9479",
+      "full_name": "Darnell Washington",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 3.54,
+      "trending_adds": 0
+    },
+    {
+      "player_id": "8119",
+      "full_name": "Jahan Dotson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": null,
+      "age": 26,
+      "years_exp": 4,
+      "projection": 3.5,
+      "trending_adds": 0
+    },
+    {
       "player_id": "9494",
       "full_name": "Marvin Mims",
       "position": "WR",
@@ -7361,6 +7331,21 @@
       "age": 26,
       "years_exp": 4,
       "projection": 3.45,
+      "trending_adds": 0
+    },
+    {
+      "player_id": "6271",
+      "full_name": "Olamide Zaccheaus",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": null,
+      "age": 29,
+      "years_exp": 7,
+      "projection": 3.41,
       "trending_adds": 0
     },
     {
@@ -7541,21 +7526,6 @@
       "age": 25,
       "years_exp": 2,
       "projection": 2.47,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "12485",
-      "full_name": "Tez Johnson",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "TB",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 1,
-      "projection": 2.43,
       "trending_adds": 0
     },
     {
@@ -7754,21 +7724,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "3202",
-      "full_name": "Austin Hooper",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": null,
-      "age": 31,
-      "years_exp": 10,
-      "projection": 1.96,
-      "trending_adds": 0
-    },
-    {
       "player_id": "7694",
       "full_name": "Tommy Tremble",
       "position": "TE",
@@ -7799,18 +7754,18 @@
       "trending_adds": 0
     },
     {
-      "player_id": "13319",
-      "full_name": "Oscar Delp",
+      "player_id": "3202",
+      "full_name": "Austin Hooper",
       "position": "TE",
       "fantasy_positions": [
         "TE"
       ],
-      "team": "NO",
+      "team": "ATL",
       "status": "Active",
-      "injury_status": "Questionable",
-      "age": 23,
-      "years_exp": 0,
-      "projection": 1.81,
+      "injury_status": null,
+      "age": 31,
+      "years_exp": 10,
+      "projection": 1.85,
       "trending_adds": 0
     },
     {
@@ -7919,21 +7874,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "11630",
-      "full_name": "Roman Wilson",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 2,
-      "projection": 1.65,
-      "trending_adds": 0
-    },
-    {
       "player_id": "12503",
       "full_name": "Isaiah Bond",
       "position": "WR",
@@ -8009,6 +7949,21 @@
       "trending_adds": 0
     },
     {
+      "player_id": "11630",
+      "full_name": "Roman Wilson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 2,
+      "projection": 1.56,
+      "trending_adds": 0
+    },
+    {
       "player_id": "10214",
       "full_name": "Davis Allen",
       "position": "TE",
@@ -8066,21 +8021,6 @@
       "age": 23,
       "years_exp": 0,
       "projection": 1.48,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "8204",
-      "full_name": "Bo Melton",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "age": 27,
-      "years_exp": 4,
-      "projection": 1.47,
       "trending_adds": 0
     },
     {
@@ -8171,21 +8111,6 @@
       "age": 26,
       "years_exp": 4,
       "projection": 1.4,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "11579",
-      "full_name": "Audric Estime",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "age": 23,
-      "years_exp": 2,
-      "projection": 1.34,
       "trending_adds": 0
     },
     {
@@ -8609,6 +8534,21 @@
       "trending_adds": 0
     },
     {
+      "player_id": "9506",
+      "full_name": "Sean Tucker",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": "Doubtful",
+      "age": 24,
+      "years_exp": 3,
+      "projection": 0.71,
+      "trending_adds": 0
+    },
+    {
       "player_id": "13273",
       "full_name": "Josh Cuevas",
       "position": "TE",
@@ -8710,7 +8650,7 @@
       "injury_status": null,
       "age": 28,
       "years_exp": 6,
-      "projection": 0.56,
+      "projection": 0.53,
       "trending_adds": 0
     },
     {
@@ -8819,21 +8759,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "13433",
-      "full_name": "Riley Nowakowski",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 0,
-      "projection": 0.39,
-      "trending_adds": 0
-    },
-    {
       "player_id": "11729",
       "full_name": "Sione Vaki",
       "position": "RB",
@@ -8904,6 +8829,21 @@
       "status": "Active",
       "injury_status": null,
       "age": 23,
+      "years_exp": 0,
+      "projection": 0.37,
+      "trending_adds": 0
+    },
+    {
+      "player_id": "13433",
+      "full_name": "Riley Nowakowski",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
       "years_exp": 0,
       "projection": 0.37,
       "trending_adds": 0
@@ -11114,6 +11054,21 @@
       "trending_adds": 0
     },
     {
+      "player_id": "11579",
+      "full_name": "Audric Estime",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": "Out",
+      "age": 23,
+      "years_exp": 2,
+      "projection": null,
+      "trending_adds": 0
+    },
+    {
       "player_id": "5286",
       "full_name": "Austin Allen",
       "position": "QB",
@@ -12025,6 +11980,21 @@
       "injury_status": null,
       "age": 23,
       "years_exp": 1,
+      "projection": null,
+      "trending_adds": 0
+    },
+    {
+      "player_id": "8204",
+      "full_name": "Bo Melton",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "age": 27,
+      "years_exp": 4,
       "projection": null,
       "trending_adds": 0
     },
@@ -16870,21 +16840,6 @@
       "injury_status": null,
       "age": 29,
       "years_exp": 5,
-      "projection": null,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "8176",
-      "full_name": "Danny Gray",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 27,
-      "years_exp": 4,
       "projection": null,
       "trending_adds": 0
     },
@@ -35654,6 +35609,21 @@
       "trending_adds": 0
     },
     {
+      "player_id": "13319",
+      "full_name": "Oscar Delp",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": "Out",
+      "age": 23,
+      "years_exp": 0,
+      "projection": null,
+      "trending_adds": 0
+    },
+    {
       "player_id": "7860",
       "full_name": "Osirus Mitchell",
       "position": "WR",
@@ -42314,6 +42284,21 @@
       "trending_adds": 0
     },
     {
+      "player_id": "6768",
+      "full_name": "Tua Tagovailoa",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": "Out",
+      "age": 28,
+      "years_exp": 6,
+      "projection": null,
+      "trending_adds": 0
+    },
+    {
       "player_id": "8885",
       "full_name": "Tucker Fisk",
       "position": "TE",
@@ -43610,7 +43595,7 @@
       "fantasy_positions": [
         "WR"
       ],
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "injury_status": null,
       "age": 25,
