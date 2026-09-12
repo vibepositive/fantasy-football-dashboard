@@ -1,4 +1,4 @@
-﻿const fs = require('fs');
+const fs = require('fs');
 
 const LEAGUE_ID = process.env.LEAGUE_ID || '1312504205092610048';
 const USERNAME = process.env.SLEEPER_USERNAME || 'chrisgervais';
@@ -136,9 +136,9 @@ function ps(id, db, projectionMap, trendingMap = {}) {
       );
 
   const weeks = Array.from(
-    {length: Math.min(4, week)},
-    (_, i) => week - i
-  ).reverse();
+    {length: Math.max(1, week)},
+    (_, i) => i + 1
+  );
 
   const [matchups, tx] = await Promise.all([
     s(`/league/${LEAGUE_ID}/matchups/${week}`).catch(() => []),
@@ -197,6 +197,7 @@ function ps(id, db, projectionMap, trendingMap = {}) {
   console.log(
     `Projected free agents: ${freeAgents.filter(p => p.projection != null).length}`
   );
+  console.log(`Transaction weeks captured: ${weeks.length}`);
 })().catch(e => {
   console.error(e);
   process.exit(1);
