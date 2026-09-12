@@ -3,70 +3,215 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Mettlers Dynasty Command Center</title>
+  <title>Mettlers Fantasy Football Dashboard</title>
   <link rel="stylesheet" href="styles.css">
+
+  <style>
+    .topbar {
+      align-items: flex-start;
+    }
+
+    .dashboard-heading {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
+    .dashboard-heading h1 {
+      margin: .18rem 0 .35rem;
+      font-size: clamp(2rem, 3vw, 2.8rem);
+      line-height: 1.05;
+    }
+
+    .dashboard-kicker {
+      margin: 0;
+      color: var(--accent);
+      font-size: .7rem;
+      font-weight: 900;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+    }
+
+    .dashboard-meta {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: .45rem 1.15rem;
+      margin-top: .8rem;
+    }
+
+    .dashboard-meta-item {
+      display: flex;
+      align-items: baseline;
+      gap: .42rem;
+      min-width: 0;
+    }
+
+    .dashboard-meta-label,
+    .header-update-label {
+      color: var(--muted);
+      font-size: .6rem;
+      font-weight: 800;
+      letter-spacing: .09em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .dashboard-meta-value {
+      font-size: .82rem;
+      font-weight: 750;
+      color: var(--text);
+      white-space: nowrap;
+    }
+
+    .dashboard-meta-detail {
+      color: var(--muted);
+      font-size: .72rem;
+      white-space: nowrap;
+    }
+
+    .dashboard-meta-item + .dashboard-meta-item {
+      position: relative;
+      padding-left: 1.15rem;
+    }
+
+    .dashboard-meta-item + .dashboard-meta-item::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: 1px;
+      height: 18px;
+      background: var(--border);
+      transform: translateY(-50%);
+    }
+
+    .header-side {
+      flex: 0 1 500px;
+      width: min(500px, 100%);
+      min-width: 390px;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: .65rem;
+    }
+
+    .header-update {
+      display: flex;
+      justify-content: flex-end;
+      align-items: baseline;
+      gap: .45rem;
+      color: var(--muted);
+      font-size: .72rem;
+      white-space: nowrap;
+    }
+
+    #updatedAt {
+      color: var(--muted);
+      font-weight: 650;
+    }
+
+    .header-actions {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      width: 100%;
+    }
+
+    .header-actions button {
+      width: 100%;
+      min-width: 0;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 1020px) {
+      .topbar {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .header-side {
+        width: 100%;
+        min-width: 0;
+        max-width: none;
+      }
+
+      .header-update {
+        justify-content: flex-end;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .dashboard-meta {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: .45rem;
+      }
+
+      .dashboard-meta-item + .dashboard-meta-item {
+        padding-left: 0;
+      }
+
+      .dashboard-meta-item + .dashboard-meta-item::before {
+        display: none;
+      }
+
+      .header-actions {
+        grid-template-columns: 1fr;
+      }
+
+      .header-update {
+        justify-content: flex-start;
+      }
+    }
+  </style>
 </head>
 
 <body>
 
 <header class="topbar">
-  <div>
-    <p class="eyebrow">SLEEPER DYNASTY DASHBOARD</p>
-    <h1>Mettlers Dynasty Command Center</h1>
-    <p id="leagueMeta" class="muted">Loading league data...</p>
+  <div class="dashboard-heading">
+    <p class="dashboard-kicker">Fantasy Football Dashboard</p>
+    <h1 id="leagueName">Mettlers</h1>
+
+    <div class="dashboard-meta" aria-label="Dashboard information">
+      <div class="dashboard-meta-item">
+        <span class="dashboard-meta-label">Team</span>
+        <strong id="myTeamName" class="dashboard-meta-value">-</strong>
+        <span id="myRecord" class="dashboard-meta-detail">-</span>
+      </div>
+
+      <div class="dashboard-meta-item">
+        <span class="dashboard-meta-label">Platform</span>
+        <strong class="dashboard-meta-value">Sleeper</strong>
+        <span id="leagueSize" class="dashboard-meta-detail">-</span>
+      </div>
+    </div>
+
+    <span id="leagueMeta" hidden>Loading league data...</span>
   </div>
 
-  <div class="header-actions">
-    <button id="analyzeMyTeamBtn">ROSTERS</button>
-    <button id="analyzeWaiversBtn">WAIVER WIRE (<span id="waiverCountBadge">0</span>)</button>
-    <button id="analyzeTradesBtn">TRADE MARKET</button>
+  <div class="header-side">
+    <div class="header-update" aria-label="Data updated time">
+      <span class="header-update-label">Updated</span>
+      <span id="updatedAt">-</span>
+    </div>
+
+    <div class="header-actions">
+      <button id="analyzeMyTeamBtn" class="active">ROSTERS</button>
+      <button id="analyzeTradesBtn">TRADES</button>
+      <button id="analyzeWaiversBtn">WAIVER WIRE</button>
+    </div>
   </div>
 </header>
 
 <main>
 
-  <section class="hero-grid">
-
-    <article class="panel stat-panel">
-      <span class="label">My Team</span>
-      <strong id="myTeamName">-</strong>
-      <span id="myRecord" class="muted">-</span>
-    </article>
-
-    <article class="panel stat-panel">
-      <span class="label">League</span>
-      <strong id="leagueName">-</strong>
-      <span id="leagueSize" class="muted">-</span>
-    </article>
-
-    <article class="panel stat-panel">
-      <span class="label">Data Updated</span>
-      <strong id="updatedAt">-</strong>
-      <span class="muted">GitHub Action snapshot</span>
-    </article>
-
-    <article class="panel stat-panel">
-      <span class="label">Selected Team</span>
-      <strong id="selectedTeamName">None</strong>
-      <button id="analyzeSelectedBtn" class="small" disabled>
-        Analyze Selected
-      </button>
-    </article>
-
-  </section>
-
   <section id="rostersView">
 
-    <section class="panel controls">
-      <div>
-        <h2>League Rosters</h2>
-        <p class="muted">
-          Click any team to inspect its roster and generate a trade or weakness analysis prompt.
-        </p>
-      </div>
+    <section class="panel controls roster-controls">
+      <h2>League Rosters</h2>
 
       <div class="filter-row">
-
         <input
           id="searchInput"
           type="search"
@@ -78,7 +223,6 @@
           <option value="wins">Sort: Wins</option>
           <option value="points">Sort: Points</option>
         </select>
-
       </div>
     </section>
 
@@ -89,7 +233,6 @@
   <section id="waiversView" hidden>
 
     <section class="panel waiver-header">
-
       <div>
         <h2>Waiver Wire</h2>
 
@@ -100,11 +243,6 @@
 
         <div id="waiverSummary" class="waiver-summary"></div>
       </div>
-
-      <button id="waiverAnalyzeTopBtn" class="primary">
-        Analyze Waivers
-      </button>
-
     </section>
 
     <section class="panel waiver-controls">
@@ -118,7 +256,6 @@
       </div>
 
       <div class="filter-row">
-
         <input
           id="waiverSearchInput"
           type="search"
@@ -132,7 +269,6 @@
           <option value="name">Sort: Player name</option>
           <option value="age">Sort: Youngest</option>
         </select>
-
       </div>
 
     </section>
@@ -160,26 +296,6 @@
 
   <section id="tradesView" hidden>
 
-    <section class="panel trade-market-header">
-
-      <div>
-        <h2>Trade Market</h2>
-
-        <p class="muted">
-          Ranked opportunities based on Boomtown's lineup, league-wide positional
-          strength, current projections and each team's roster needs.
-        </p>
-
-        <p class="trade-disclaimer">
-          Opening frameworks are starting points, not automatic fair-value verdicts.
-          Use Analyze This Trade for current dynasty value, NFL news and a deeper evaluation.
-        </p>
-      </div>
-
-
-
-    </section>
-
     <section class="trade-summary-grid">
 
       <article class="panel trade-summary-card">
@@ -203,11 +319,10 @@
     </section>
 
     <section class="panel trade-controls">
-
       <div>
         <strong>Recommended Targets</strong>
         <p class="muted compact-copy">
-          Targets are ranked primarily for improving your 2026 contender.
+          Targets are ranked primarily for improving your 2026 contender. Use Analyze This Trade to copy the full league context and open ChatGPT for a deeper evaluation.
         </p>
       </div>
 
@@ -218,50 +333,20 @@
         <option value="WR">WR</option>
         <option value="TE">TE</option>
       </select>
-
     </section>
 
     <section id="tradeRecommendations" class="trade-grid"></section>
 
   </section>
 
-  <section class="panel prompt-panel">
-
-    <div>
-      <h2>ChatGPT Analysis Prompt</h2>
-
-      <p class="muted">
-        Analysis buttons generate a prompt using this dashboard's public snapshot
-        so ChatGPT can inspect the latest league data.
-      </p>
-    </div>
-
-    <textarea
-      id="promptBox"
-      readonly
-      placeholder="Choose an analysis action above..."
-    ></textarea>
-
-    <div class="prompt-actions">
-
-      <button id="copyPromptBtn" disabled>
-        Copy Prompt
-      </button>
-
-      <a
-        class="button-link primary-link"
-        href="https://chatgpt.com/"
-        target="_blank"
-        rel="noopener"
-      >
-        Open ChatGPT
-      </a>
-
-    </div>
-
-    <p id="copyStatus" class="muted"></p>
-
-  </section>
+  <!-- Temporary compatibility hooks for legacy prompt handlers. -->
+  <textarea id="promptBox" hidden readonly></textarea>
+  <button id="copyPromptBtn" hidden disabled></button>
+  <span id="copyStatus" hidden></span>
+  <span id="selectedTeamName" hidden></span>
+  <button id="analyzeSelectedBtn" hidden disabled></button>
+  <button id="waiverAnalyzeTopBtn" hidden></button>
+  <span id="waiverCountBadge" hidden></span>
 
 </main>
 
