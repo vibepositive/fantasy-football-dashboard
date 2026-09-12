@@ -1,0 +1,170 @@
+.activity-header,
+.activity-controls {
+  padding: 1rem;
+  margin-bottom: .9rem;
+}
+
+.activity-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.activity-header h2 {
+  margin: 0 0 .35rem;
+}
+
+.activity-header p {
+  margin: 0;
+}
+
+.activity-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.activity-type-filters {
+  display: flex;
+  gap: .45rem;
+  flex-wrap: wrap;
+}
+
+.activity-type-filter {
+  padding: .55rem .85rem;
+  font-size: .75rem;
+  font-weight: 800;
+}
+
+.activity-type-filter.active {
+  color: #05210f;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.activity-filter-row {
+  display: flex;
+  gap: .65rem;
+  flex-wrap: wrap;
+}
+
+.activity-list {
+  display: grid;
+  gap: .75rem;
+  margin-bottom: 1rem;
+}
+
+.activity-card {
+  padding: 1rem 1.1rem;
+}
+
+.activity-card-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.activity-kind {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  margin-bottom: .4rem;
+  color: var(--accent);
+  font-size: .67rem;
+  font-weight: 900;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.activity-card h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.activity-time {
+  color: var(--muted);
+  font-size: .72rem;
+  white-space: nowrap;
+}
+
+.activity-team {
+  margin-top: .35rem;
+  color: var(--muted);
+  font-size: .8rem;
+}
+
+.activity-details {
+  display: grid;
+  gap: .55rem;
+  margin-top: .9rem;
+}
+
+.activity-detail-row {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: .75rem;
+  align-items: start;
+}
+
+.activity-detail-label {
+  color: var(--muted);
+  font-size: .65rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.activity-assets {
+  display: flex;
+  gap: .4rem;
+  flex-wrap: wrap;
+}
+
+.activity-asset {
+  padding: .28rem .5rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #0a1423;
+  font-size: .76rem;
+}
+
+.activity-faab {
+  color: var(--accent);
+  font-weight: 900;
+}
+
+.activity-empty {
+  padding: 2rem 1rem;
+  text-align: center;
+  color: var(--muted);
+}
+
+@media (max-width: 760px) {
+  .activity-header,
+  .activity-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .activity-filter-row select {
+    width: 100%;
+  }
+
+  .activity-card-top {
+    flex-direction: column;
+    gap: .4rem;
+  }
+
+  .activity-time {
+    white-space: normal;
+  }
+
+  .activity-detail-row {
+    grid-template-columns: 1fr;
+    gap: .25rem;
+  }
+}
