@@ -37,6 +37,35 @@
     return index < 0 ? null : { rank: index + 1, total: peers.length };
   }
 
+  function likelyTrendDriver(player, ahead, rank, depth, opponent) {
+    if (ahead.length) {
+      const names = ahead.map(p => `${p.full_name} (${p.injury_status || p.status})`).join(', ');
+      return `Likely driven by the injury situation ahead of him: ${names}. That gives ${player.full_name} a clearer path to snaps and touches.`;
+    }
+
+    if (depth === 1) {
+      return `Likely driven by role: Sleeper lists ${player.full_name} first at ${player.depth_chart_position || player.position} for ${player.team}.`;
+    }
+
+    if (rank && rank.total >= 5 && rank.rank <= Math.max(5, Math.ceil(rank.total * 0.15))) {
+      return `Likely driven by this week's fantasy outlook: ${Number(player.projection).toFixed(2)} projected half-PPR points, ranking ${rank.rank} of ${rank.total} available ${player.position}s${opponent ? ` against ${opponent}` : ''}.`;
+    }
+
+    if (depth === 2) {
+      return `Likely driven by upside in the depth chart: ${player.full_name} is No. 2 at ${player.depth_chart_position || player.position} for ${player.team} and is one role change away from more work.`;
+    }
+
+    if (player.projection != null && Number(player.projection) >= 7) {
+      return `Likely driven by short-term usability: ${Number(player.projection).toFixed(2)} projected half-PPR points${opponent ? ` against ${opponent}` : ''}.`;
+    }
+
+    if (player.age && Number(player.age) <= 24 && Number(player.years_exp ?? 99) <= 2) {
+      return `Likely driven by dynasty speculation: age ${player.age} with only ${player.years_exp || 0} years of NFL experience.`;
+    }
+
+    return 'No specific injury, depth-chart, or projection trigger is identifiable in the current snapshot, so this may be news- or speculation-driven.';
+  }
+
   function whyTrending(player) {
     const reasons = [];
     const adds = Number(player.trending_adds || 0);
@@ -45,11 +74,20 @@
     const rank = projectionRank(player);
     const opponent = player.projection_opponent || null;
 
+    if (adds > 0) {
+      const label = adds >= 10000 ? 'ADD SURGE' : adds >= 1000 ? 'RISING' : 'TRENDING';
+      reasons.push({
+        type: 'market',
+        label,
+        text: `${formatAdds(adds)} Sleeper adds in the last 24 hours. ${likelyTrendDriver(player, ahead, rank, depth, opponent)}`
+      });
+    }
+
     if (ahead.length) {
       reasons.push({
         type: 'opportunity',
         label: 'INJURY OPPORTUNITY',
-        text: `${ahead.map(p => `${p.full_name} (${p.injury_status || p.status})`).join(', ')} ${ahead.length > 1 ? 'are' : 'is'} listed ahead on the ${player.team} depth chart. That creates a clearer path to snaps and touches.`
+        text: `${ahead.map(p => `${p.full_name} (${p.injury_status || p.status})`).join(', ')} ${ahead.length > 1 ? 'are' : 'is'} listed ahead on the ${player.team} depth chart, creating a clearer path to snaps and touches.`
       });
     } else if (depth === 1) {
       reasons.push({
@@ -80,14 +118,6 @@
       });
     }
 
-    if (adds >= 10000) {
-      reasons.push({ type: 'market', label: 'ADD SURGE', text: `${formatAdds(adds)} Sleeper adds in the last 24 hours. This is a major platform-wide pickup spike.` });
-    } else if (adds >= 1000) {
-      reasons.push({ type: 'market', label: 'RISING', text: `${formatAdds(adds)} Sleeper adds in the last 24 hours. Managers across Sleeper are moving quickly.` });
-    } else if (adds > 0) {
-      reasons.push({ type: 'market', label: 'TRENDING', text: `${formatAdds(adds)} Sleeper adds in the last 24 hours.` });
-    }
-
     if (player.age && Number(player.age) <= 24 && Number(player.years_exp ?? 99) <= 2) {
       reasons.push({ type: 'dynasty', label: 'YOUNG UPSIDE', text: `Age ${player.age} with ${player.years_exp || 0} years of NFL experience makes this a reasonable dynasty stash profile if roster space allows.` });
     }
@@ -97,7 +127,7 @@
     }
 
     if (!reasons.length) {
-      reasons.push({ type: 'market', label: 'TREND SIGNAL', text: 'Sleeper add activity is the clearest signal right now. No specific injury-created role or strong weekly projection signal is present in the current snapshot.' });
+      reasons.push({ type: 'market', label: 'TREND SIGNAL', text: 'No specific injury-created role or strong weekly projection signal is present in the current snapshot.' });
     }
 
     const evidenceCount = reasons.filter(r => r.type === 'opportunity' || r.type === 'role' || r.type === 'matchup').length;
@@ -124,7 +154,6 @@
             </div>
           `).join('')}
         </div>
-        <p class="waiver-intel-note">Signals are inferred from Sleeper add activity, depth chart/injury data and the current Rotowire weekly projection. They explain likely drivers, not confirmed causation.</p>
       </div>
     `;
   }
