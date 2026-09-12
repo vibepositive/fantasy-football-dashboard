@@ -1,3 +1,32 @@
+#activityBtn {
+  appearance: none;
+  min-width: 0;
+  padding: 11px 18px;
+  border: 1px solid rgba(130, 165, 205, 0.28);
+  border-radius: 10px;
+  background: #101d2f;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+  transition: background 0.16s ease, border-color 0.16s ease, color 0.16s ease, transform 0.16s ease, box-shadow 0.16s ease;
+}
+
+#activityBtn:hover {
+  color: #fff;
+  border-color: rgba(46, 212, 122, 0.52);
+  background: #13263c;
+  transform: translateY(-1px);
+}
+
+#activityBtn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #06140d;
+  box-shadow: 0 5px 16px rgba(46, 212, 122, 0.14);
+}
+
 .activity-header,
 .activity-controls {
   padding: 1rem;
