@@ -12,8 +12,18 @@
     return value == null ? '&mdash;' : Number(value).toFixed(2);
   }
 
+  function performanceClass(actual, projection) {
+    const a = Number(actual);
+    const p = Number(projection);
+    if (!Number.isFinite(a) || !Number.isFinite(p) || a === 0) return 'neutral';
+    if (a > p) return 'over-proj';
+    if (a < p) return 'under-proj';
+    return 'met-proj';
+  }
+
   function livePlayerRow(p) {
     const actual = actualFor(p.player_id);
+    const perf = performanceClass(actual, p.projection);
     return `
       <div class="player-row live-score-row">
         <span class="pos">${p.position || "&mdash;"}</span>
@@ -23,8 +33,8 @@
             ${[p.team,p.age ? `Age ${p.age}` : null,p.injury_status].filter(Boolean).join(" &bull; ")}
           </div>
         </span>
-        <span class="projection">${p.projection != null ? Number(p.projection).toFixed(2) : "&mdash;"}</span>
-        <span class="actual-score ${actual != null ? 'has-score' : ''}">${scoreText(actual)}</span>
+        <span class="projection live-projection">${p.projection != null ? Number(p.projection).toFixed(2) : "&mdash;"}</span>
+        <span class="actual-score ${actual != null ? 'has-score' : ''} ${perf}">${scoreText(actual)}</span>
       </div>
     `;
   }
@@ -35,8 +45,8 @@
         <div class="section-title-row live-score-header">
           <div class="section-title">${title}</div>
           <div class="section-score-headings" aria-label="Weekly projected and actual points">
-            <span title="Projected points for the current week">PROJ</span>
-            <span title="Actual fantasy points scored this week">ACTUAL</span>
+            <span class="proj-heading" title="Projected points for the current week">PROJ</span>
+            <span class="actual-heading" title="Actual fantasy points scored this week">ACTUAL</span>
           </div>
         </div>
         ${players?.length ? players.map(livePlayerRow).join("") : '<div class="player-meta">None</div>'}
