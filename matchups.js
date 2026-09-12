@@ -4,6 +4,21 @@
   let matchupTimer = null;
   let matchupData = [];
 
+  function ensureUi(){
+    if (!document.querySelector('link[href="matchups.css"]')) {
+      const link=document.createElement('link');link.rel='stylesheet';link.href='matchups.css';document.head.appendChild(link);
+    }
+    const nav=document.querySelector('.header-actions');
+    if(nav&&!$('matchupsBtn')){
+      const btn=document.createElement('button');btn.id='matchupsBtn';btn.textContent='MATCHUPS';nav.prepend(btn);
+    }
+    if(!$('matchupsView')){
+      const main=document.querySelector('main');
+      const section=document.createElement('section');section.id='matchupsView';section.className='matchups-view';section.innerHTML=`<section class="panel matchups-header"><div><h2>This Week's Matchups</h2><p class="muted">Tap a matchup to view starters, bench players, current projections and points scored this week.</p></div><div><div id="matchupsWeek" class="matchups-week">WEEK</div><div id="matchupsStatus" class="matchups-status">Loading matchups...</div></div></section><section id="matchupsGrid" class="matchups-grid"></section>`;
+      main?.prepend(section);
+    }
+  }
+
   function teamByRoster(id){return snapshot?.teams?.find(t=>String(t.roster_id)===String(id))||null;}
   function mineId(){return String(snapshot?.my_team?.roster_id??'');}
   function proj(p){return Number(p?.projection||0);}
@@ -18,9 +33,12 @@
   function apply(matchups){matchupData=matchups||[];livePoints.clear();for(const m of matchupData){for(const [id,p] of Object.entries(m.players_points||{}))livePoints.set(String(id),Number(p||0));}render();}
   async function refresh(){if(!snapshot?.current_week)return;try{const r=await fetch(`https://api.sleeper.app/v1/league/${LEAGUE_ID}/matchups/${snapshot.current_week}?ts=${Date.now()}`,{cache:'no-store'});if(!r.ok)throw new Error(`Sleeper returned ${r.status}`);apply(await r.json());$('matchupsStatus').textContent+=` · updated ${new Date().toLocaleTimeString([],{hour:'numeric',minute:'2-digit'})}`;}catch(e){console.error('Matchup refresh failed:',e);if(snapshot?.current_matchups)apply(snapshot.current_matchups);$('matchupsStatus').textContent='Live refresh failed · showing latest snapshot';}}
   function showMatchups(){['rostersView','waiversView','tradesView','activityView'].forEach(id=>{const el=$(id);if(el)el.hidden=true;});$('matchupsView').hidden=false;['analyzeMyTeamBtn','analyzeTradesBtn','analyzeWaiversBtn','activityBtn'].forEach(id=>$(id)?.classList.remove('active'));$('matchupsBtn')?.classList.add('active');render();window.scrollTo({top:0,behavior:'smooth'});}
-  function leaveMatchups(){$('matchupsView').hidden=true;$('matchupsBtn')?.classList.remove('active');}
-  $('matchupsBtn')?.addEventListener('click',showMatchups);['analyzeMyTeamBtn','analyzeTradesBtn','analyzeWaiversBtn','activityBtn'].forEach(id=>$(id)?.addEventListener('click',leaveMatchups));
-  function start(){if(!snapshot?.current_week){setTimeout(start,200);return;}apply(snapshot.current_matchups||[]);showMatchups();refresh();clearInterval(matchupTimer);matchupTimer=setInterval(()=>{if(!document.hidden)refresh();},60000);}
+  function leaveMatchups(){if($('matchupsView'))$('matchupsView').hidden=true;$('matchupsBtn')?.classList.remove('active');}
+  function wireNav(){
+    $('matchupsBtn')?.addEventListener('click',showMatchups);
+    ['analyzeMyTeamBtn','analyzeTradesBtn','analyzeWaiversBtn','activityBtn'].forEach(id=>$(id)?.addEventListener('click',leaveMatchups));
+  }
+  function start(){ensureUi();wireNav();if(!snapshot?.current_week){setTimeout(start,200);return;}apply(snapshot.current_matchups||[]);showMatchups();refresh();clearInterval(matchupTimer);matchupTimer=setInterval(()=>{if(!document.hidden)refresh();},60000);}
   document.addEventListener('visibilitychange',()=>{if(!document.hidden&&snapshot?.current_week)refresh();});
   start();
 })();
