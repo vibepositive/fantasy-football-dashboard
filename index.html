@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Mettlers Fantasy Football Dashboard</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="activity.css">
 
   <style>
     .topbar {
@@ -86,9 +87,9 @@
     }
 
     .header-side {
-      flex: 0 1 500px;
-      width: min(500px, 100%);
-      min-width: 390px;
+      flex: 0 1 620px;
+      width: min(620px, 100%);
+      min-width: 500px;
       display: flex;
       flex-direction: column;
       align-items: stretch;
@@ -112,7 +113,7 @@
 
     .header-actions {
       display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
+      grid-template-columns: repeat(4, minmax(0, 1fr));
       gap: 10px;
       width: 100%;
     }
@@ -123,7 +124,7 @@
       white-space: nowrap;
     }
 
-    @media (max-width: 1020px) {
+    @media (max-width: 1160px) {
       .topbar {
         flex-direction: column;
         align-items: stretch;
@@ -156,11 +157,17 @@
       }
 
       .header-actions {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
 
       .header-update {
         justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .header-actions {
+        grid-template-columns: 1fr;
       }
     }
   </style>
@@ -200,6 +207,7 @@
       <button id="analyzeMyTeamBtn" class="active">ROSTERS</button>
       <button id="analyzeTradesBtn">TRADES</button>
       <button id="analyzeWaiversBtn">WAIVER WIRE</button>
+      <button id="activityBtn">ACTIVITY</button>
     </div>
   </div>
 </header>
@@ -207,16 +215,11 @@
 <main>
 
   <section id="rostersView">
-
     <section class="panel controls roster-controls">
       <h2>League Rosters</h2>
 
       <div class="filter-row">
-        <input
-          id="searchInput"
-          type="search"
-          placeholder="Search team or player..."
-        >
+        <input id="searchInput" type="search" placeholder="Search team or player...">
 
         <select id="sortSelect">
           <option value="name">Sort: Team name</option>
@@ -227,26 +230,21 @@
     </section>
 
     <section id="teamsGrid" class="teams-grid"></section>
-
   </section>
 
   <section id="waiversView" hidden>
-
     <section class="panel waiver-header">
       <div>
         <h2>Waiver Wire</h2>
-
         <p class="muted">
           Every unrostered QB, RB, WR and TE in Mettlers.
           Trending activity reflects adds across Sleeper.
         </p>
-
         <div id="waiverSummary" class="waiver-summary"></div>
       </div>
     </section>
 
     <section class="panel waiver-controls">
-
       <div class="position-filters">
         <button class="position-filter active" data-position="ALL">ALL</button>
         <button class="position-filter" data-position="QB">QB</button>
@@ -256,11 +254,7 @@
       </div>
 
       <div class="filter-row">
-        <input
-          id="waiverSearchInput"
-          type="search"
-          placeholder="Search player or NFL team..."
-        >
+        <input id="waiverSearchInput" type="search" placeholder="Search player or NFL team...">
 
         <select id="waiverSortSelect">
           <option value="priority">Sort: Waiver priority</option>
@@ -270,11 +264,9 @@
           <option value="age">Sort: Youngest</option>
         </select>
       </div>
-
     </section>
 
     <section class="panel waiver-list-panel">
-
       <div class="waiver-list-heading">
         <span>POS</span>
         <span>PLAYER</span>
@@ -289,15 +281,11 @@
         <span id="waiverShowing" class="muted"></span>
         <button id="showMoreWaiversBtn">Show More</button>
       </div>
-
     </section>
-
   </section>
 
   <section id="tradesView" hidden>
-
     <section class="trade-summary-grid">
-
       <article class="panel trade-summary-card">
         <span class="label">Boomtown Need</span>
         <strong id="boomtownTopNeed">-</strong>
@@ -315,7 +303,6 @@
         <strong id="topTradeTarget">-</strong>
         <span id="topTargetDetail" class="muted">-</span>
       </article>
-
     </section>
 
     <section class="panel trade-controls">
@@ -336,7 +323,37 @@
     </section>
 
     <section id="tradeRecommendations" class="trade-grid"></section>
+  </section>
 
+  <section id="activityView" hidden>
+    <section class="panel activity-header">
+      <div>
+        <h2>League Activity</h2>
+        <p class="muted">Completed waiver claims, free-agent adds, and trades from Sleeper.</p>
+      </div>
+      <span id="activityCount" class="muted">0 transactions</span>
+    </section>
+
+    <section class="panel activity-controls">
+      <div class="activity-type-filters">
+        <button class="activity-type-filter active" data-activity-type="ALL">ALL</button>
+        <button class="activity-type-filter" data-activity-type="WAIVERS">WAIVERS</button>
+        <button class="activity-type-filter" data-activity-type="TRADES">TRADES</button>
+      </div>
+
+      <div class="activity-filter-row">
+        <select id="activityWeekFilter">
+          <option value="ALL">All Weeks</option>
+        </select>
+        <select id="activityTeamFilter">
+          <option value="ALL">All Teams</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="activityList" class="activity-list">
+      <div class="panel activity-empty">Loading league activity...</div>
+    </section>
   </section>
 
   <!-- Temporary compatibility hooks for legacy prompt handlers. -->
@@ -357,6 +374,7 @@
 </footer>
 
 <script src="app.js"></script>
+<script src="activity.js"></script>
 
 </body>
 </html>
