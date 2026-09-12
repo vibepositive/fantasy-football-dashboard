@@ -3,12 +3,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Mettlers Dynasty Command Center</title>
+  <title>Mettlers Fantasy Football Dashboard</title>
   <link rel="stylesheet" href="styles.css">
 
   <style>
     .dashboard-heading h1 {
-      margin: .2rem 0 .35rem;
+      margin: .18rem 0 .35rem;
+      font-size: clamp(2rem, 3vw, 2.8rem);
+      line-height: 1.05;
+    }
+
+    .dashboard-kicker {
+      margin: 0;
+      color: var(--accent);
+      font-size: .7rem;
+      font-weight: 900;
+      letter-spacing: .14em;
+      text-transform: uppercase;
     }
 
     .dashboard-meta {
@@ -16,7 +27,7 @@
       align-items: center;
       flex-wrap: wrap;
       gap: .45rem 1.15rem;
-      margin-top: .9rem;
+      margin-top: .8rem;
     }
 
     .dashboard-meta-item {
@@ -26,11 +37,12 @@
       min-width: 0;
     }
 
-    .dashboard-meta-label {
+    .dashboard-meta-label,
+    .header-update-label {
       color: var(--muted);
-      font-size: .62rem;
+      font-size: .6rem;
       font-weight: 800;
-      letter-spacing: .08em;
+      letter-spacing: .09em;
       text-transform: uppercase;
       white-space: nowrap;
     }
@@ -64,6 +76,27 @@
       transform: translateY(-50%);
     }
 
+    .header-side {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: .65rem;
+    }
+
+    .header-update {
+      display: flex;
+      align-items: baseline;
+      gap: .45rem;
+      color: var(--muted);
+      font-size: .72rem;
+      white-space: nowrap;
+    }
+
+    #updatedAt {
+      color: var(--muted);
+      font-weight: 650;
+    }
+
     @media (max-width: 760px) {
       .dashboard-meta {
         align-items: flex-start;
@@ -78,6 +111,15 @@
       .dashboard-meta-item + .dashboard-meta-item::before {
         display: none;
       }
+
+      .header-side {
+        width: 100%;
+        align-items: stretch;
+      }
+
+      .header-update {
+        justify-content: flex-start;
+      }
     }
   </style>
 </head>
@@ -86,8 +128,8 @@
 
 <header class="topbar">
   <div class="dashboard-heading">
-    <p class="eyebrow">SLEEPER DYNASTY DASHBOARD</p>
-    <h1>Mettlers Dynasty Command Center</h1>
+    <p class="dashboard-kicker">Fantasy Football Dashboard</p>
+    <h1 id="leagueName">Mettlers</h1>
 
     <div class="dashboard-meta" aria-label="Dashboard information">
       <div class="dashboard-meta-item">
@@ -97,24 +139,26 @@
       </div>
 
       <div class="dashboard-meta-item">
-        <span class="dashboard-meta-label">League</span>
-        <strong id="leagueName" class="dashboard-meta-value">-</strong>
+        <span class="dashboard-meta-label">Platform</span>
+        <strong class="dashboard-meta-value">Sleeper</strong>
         <span id="leagueSize" class="dashboard-meta-detail">-</span>
-      </div>
-
-      <div class="dashboard-meta-item">
-        <span class="dashboard-meta-label">Updated</span>
-        <strong id="updatedAt" class="dashboard-meta-value">-</strong>
       </div>
     </div>
 
     <span id="leagueMeta" hidden>Loading league data...</span>
   </div>
 
-  <div class="header-actions">
-    <button id="analyzeMyTeamBtn" class="active">ROSTERS</button>
-    <button id="analyzeTradesBtn">TRADES</button>
-    <button id="analyzeWaiversBtn">WAIVER WIRE (<span id="waiverCountBadge">0</span>)</button>
+  <div class="header-side">
+    <div class="header-update" aria-label="Data updated time">
+      <span class="header-update-label">Updated</span>
+      <span id="updatedAt">-</span>
+    </div>
+
+    <div class="header-actions">
+      <button id="analyzeMyTeamBtn" class="active">ROSTERS</button>
+      <button id="analyzeTradesBtn">TRADES</button>
+      <button id="analyzeWaiversBtn">WAIVER WIRE (<span id="waiverCountBadge">0</span>)</button>
+    </div>
   </div>
 </header>
 
