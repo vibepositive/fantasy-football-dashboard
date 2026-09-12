@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:09:31.140Z",
+  "generated_at": "2026-09-12T04:12:26.336Z",
   "league": {
     "league_id": "1312504205092610048",
     "name": "Mettlers ",
@@ -172,7 +172,7 @@
         "age": 26,
         "years_exp": 4,
         "projection": 18.45,
-        "trending_adds": 16172
+        "trending_adds": 10008
       },
       {
         "player_id": "12507",
@@ -217,7 +217,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.86,
-        "trending_adds": 4419
+        "trending_adds": 3249
       },
       {
         "player_id": "10213",
@@ -232,7 +232,7 @@
         "age": 25,
         "years_exp": 3,
         "projection": 8.78,
-        "trending_adds": 69294
+        "trending_adds": 50886
       },
       {
         "player_id": "11603",
@@ -277,7 +277,7 @@
         "age": 25,
         "years_exp": 2,
         "projection": 8.59,
-        "trending_adds": 11907
+        "trending_adds": 8550
       },
       {
         "player_id": "8126",
@@ -327,7 +327,7 @@
         "age": 25,
         "years_exp": 3,
         "projection": 8.78,
-        "trending_adds": 69294,
+        "trending_adds": 50886,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -345,7 +345,7 @@
         "age": 25,
         "years_exp": 2,
         "projection": 8.59,
-        "trending_adds": 11907,
+        "trending_adds": 8550,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -381,7 +381,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.86,
-        "trending_adds": 4419,
+        "trending_adds": 3249,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -399,7 +399,7 @@
         "age": 23,
         "years_exp": 2,
         "projection": 6.15,
-        "trending_adds": 8472,
+        "trending_adds": 7592,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -417,7 +417,7 @@
         "age": 28,
         "years_exp": 2,
         "projection": 7.89,
-        "trending_adds": 38710,
+        "trending_adds": 30240,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -489,7 +489,7 @@
         "age": 23,
         "years_exp": 0,
         "projection": 4.31,
-        "trending_adds": 14824,
+        "trending_adds": 12128,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -507,7 +507,7 @@
         "age": 33,
         "years_exp": 9,
         "projection": 6.51,
-        "trending_adds": 15924,
+        "trending_adds": 8502,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -561,7 +561,7 @@
         "age": 28,
         "years_exp": 5,
         "projection": 3.91,
-        "trending_adds": 6410,
+        "trending_adds": 6000,
         "starter": false,
         "reserve": false,
         "taxi": false
@@ -597,7 +597,7 @@
         "age": 26,
         "years_exp": 4,
         "projection": 18.45,
-        "trending_adds": 16172,
+        "trending_adds": 10008,
         "starter": true,
         "reserve": false,
         "taxi": false
@@ -885,7 +885,7 @@
           "age": 25,
           "years_exp": 1,
           "projection": 8.86,
-          "trending_adds": 5724,
+          "trending_adds": 4473,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -903,7 +903,7 @@
           "age": 26,
           "years_exp": 1,
           "projection": 17.13,
-          "trending_adds": 14880,
+          "trending_adds": 11816,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1198,7 +1198,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.65,
-          "trending_adds": 239931
+          "trending_adds": 174789
         },
         {
           "player_id": "11646",
@@ -1243,7 +1243,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.66,
-          "trending_adds": 6265
+          "trending_adds": 4535
         }
       ],
       "reserve": [
@@ -1260,7 +1260,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": null,
-          "trending_adds": 5104
+          "trending_adds": 4152
         },
         {
           "player_id": "4137",
@@ -1380,7 +1380,7 @@
           "age": 21,
           "years_exp": 1,
           "projection": 4.97,
-          "trending_adds": 4225,
+          "trending_adds": 3640,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1488,7 +1488,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": null,
-          "trending_adds": 5104,
+          "trending_adds": 4152,
           "starter": false,
           "reserve": true,
           "taxi": false
@@ -1524,7 +1524,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 4.29,
-          "trending_adds": 3390,
+          "trending_adds": 3528,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1578,7 +1578,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.53,
-          "trending_adds": 9369,
+          "trending_adds": 6876,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -1596,7 +1596,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 6.65,
-          "trending_adds": 239931,
+          "trending_adds": 174789,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1614,7 +1614,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.66,
-          "trending_adds": 6265,
+          "trending_adds": 4535,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1780,7 +1780,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 9.79,
-          "trending_adds": 4194
+          "trending_adds": 2988
         },
         {
           "player_id": "10219",
@@ -1795,7 +1795,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 7.26,
-          "trending_adds": 7101
+          "trending_adds": 5868
         },
         {
           "player_id": "13417",
@@ -1829,7 +1829,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 7.26,
-          "trending_adds": 7101,
+          "trending_adds": 5868,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -1991,7 +1991,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 7.05,
-          "trending_adds": 8100,
+          "trending_adds": 6692,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2045,7 +2045,7 @@
           "age": 29,
           "years_exp": 6,
           "projection": 6.98,
-          "trending_adds": 4823,
+          "trending_adds": 3836,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2063,7 +2063,7 @@
           "age": 28,
           "years_exp": 6,
           "projection": 5.58,
-          "trending_adds": 14724,
+          "trending_adds": 14355,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2117,7 +2117,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 9.79,
-          "trending_adds": 4194,
+          "trending_adds": 2988,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2247,7 +2247,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.24,
-          "trending_adds": 12496
+          "trending_adds": 0
         },
         {
           "player_id": "9511",
@@ -2262,7 +2262,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 6.1,
-          "trending_adds": 17217
+          "trending_adds": 16191
         },
         {
           "player_id": "8180",
@@ -2277,7 +2277,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 27234
+          "trending_adds": 21825
         }
       ],
       "reserve": [
@@ -2348,7 +2348,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.24,
-          "trending_adds": 12496,
+          "trending_adds": 0,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2456,7 +2456,7 @@
           "age": 23,
           "years_exp": 0,
           "projection": 7.04,
-          "trending_adds": 22840,
+          "trending_adds": 21025,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2474,7 +2474,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 3.25,
-          "trending_adds": 75383,
+          "trending_adds": 69762,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2564,7 +2564,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 27234,
+          "trending_adds": 21825,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2618,7 +2618,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 6.1,
-          "trending_adds": 17217,
+          "trending_adds": 16191,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2733,7 +2733,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.62,
-          "trending_adds": 5224
+          "trending_adds": 3684
         },
         {
           "player_id": "8150",
@@ -2797,7 +2797,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": 9.98,
-          "trending_adds": 4374,
+          "trending_adds": 3366,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2815,7 +2815,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 6.45,
-          "trending_adds": 7304,
+          "trending_adds": 5952,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2851,7 +2851,7 @@
           "age": 22,
           "years_exp": 0,
           "projection": 2.92,
-          "trending_adds": 8397,
+          "trending_adds": 7371,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2887,7 +2887,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.62,
-          "trending_adds": 5224,
+          "trending_adds": 3684,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2905,7 +2905,7 @@
           "age": 29,
           "years_exp": 7,
           "projection": 17.65,
-          "trending_adds": 21328,
+          "trending_adds": 16176,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -2959,7 +2959,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.09,
-          "trending_adds": 6950,
+          "trending_adds": 5075,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3125,7 +3125,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 18.45,
-          "trending_adds": 16172
+          "trending_adds": 10008
         },
         {
           "player_id": "12507",
@@ -3170,7 +3170,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.86,
-          "trending_adds": 4419
+          "trending_adds": 3249
         },
         {
           "player_id": "10213",
@@ -3185,7 +3185,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 8.78,
-          "trending_adds": 69294
+          "trending_adds": 50886
         },
         {
           "player_id": "11603",
@@ -3230,7 +3230,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.59,
-          "trending_adds": 11907
+          "trending_adds": 8550
         },
         {
           "player_id": "8126",
@@ -3280,7 +3280,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 8.78,
-          "trending_adds": 69294,
+          "trending_adds": 50886,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3298,7 +3298,7 @@
           "age": 25,
           "years_exp": 2,
           "projection": 8.59,
-          "trending_adds": 11907,
+          "trending_adds": 8550,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3334,7 +3334,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.86,
-          "trending_adds": 4419,
+          "trending_adds": 3249,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3352,7 +3352,7 @@
           "age": 23,
           "years_exp": 2,
           "projection": 6.15,
-          "trending_adds": 8472,
+          "trending_adds": 7592,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3370,7 +3370,7 @@
           "age": 28,
           "years_exp": 2,
           "projection": 7.89,
-          "trending_adds": 38710,
+          "trending_adds": 30240,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3442,7 +3442,7 @@
           "age": 23,
           "years_exp": 0,
           "projection": 4.31,
-          "trending_adds": 14824,
+          "trending_adds": 12128,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3460,7 +3460,7 @@
           "age": 33,
           "years_exp": 9,
           "projection": 6.51,
-          "trending_adds": 15924,
+          "trending_adds": 8502,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3514,7 +3514,7 @@
           "age": 28,
           "years_exp": 5,
           "projection": 3.91,
-          "trending_adds": 6410,
+          "trending_adds": 6000,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -3550,7 +3550,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 18.45,
-          "trending_adds": 16172,
+          "trending_adds": 10008,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -3873,7 +3873,7 @@
           "age": 21,
           "years_exp": 0,
           "projection": 3.51,
-          "trending_adds": 6993,
+          "trending_adds": 5877,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4017,7 +4017,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 4.21,
-          "trending_adds": 3954,
+          "trending_adds": 3450,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4500,7 +4500,7 @@
           "age": 28,
           "years_exp": 5,
           "projection": 14.96,
-          "trending_adds": 5049,
+          "trending_adds": 3402,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4518,7 +4518,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.14,
-          "trending_adds": 10359,
+          "trending_adds": 7119,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -4575,7 +4575,7 @@
           "injury_status": null,
           "age": 29,
           "years_exp": 8,
-          "projection": 19.96,
+          "projection": 19.97,
           "trending_adds": 0
         },
         {
@@ -4696,7 +4696,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.35,
-          "trending_adds": 16605
+          "trending_adds": 11178
         }
       ],
       "reserve": [
@@ -4713,7 +4713,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": null,
-          "trending_adds": 18224
+          "trending_adds": 13704
         }
       ],
       "taxi": [],
@@ -4874,7 +4874,7 @@
           "injury_status": null,
           "age": 29,
           "years_exp": 8,
-          "projection": 19.96,
+          "projection": 19.97,
           "trending_adds": 0,
           "starter": true,
           "reserve": false,
@@ -4893,7 +4893,7 @@
           "age": 31,
           "years_exp": 8,
           "projection": 8.35,
-          "trending_adds": 16605,
+          "trending_adds": 11178,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -4965,7 +4965,7 @@
           "age": 29,
           "years_exp": 6,
           "projection": 8.17,
-          "trending_adds": 16424,
+          "trending_adds": 11508,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5019,7 +5019,7 @@
           "age": 26,
           "years_exp": 3,
           "projection": null,
-          "trending_adds": 18224,
+          "trending_adds": 13704,
           "starter": false,
           "reserve": true,
           "taxi": false
@@ -5107,7 +5107,7 @@
           "age": 27,
           "years_exp": 5,
           "projection": 10.83,
-          "trending_adds": 10008
+          "trending_adds": 9384
         },
         {
           "player_id": "7569",
@@ -5167,7 +5167,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.25,
-          "trending_adds": 4998
+          "trending_adds": 4109
         },
         {
           "player_id": "1479",
@@ -5182,7 +5182,7 @@
           "age": 34,
           "years_exp": 13,
           "projection": 6.48,
-          "trending_adds": 5720
+          "trending_adds": 4620
         },
         {
           "player_id": "13293",
@@ -5360,7 +5360,7 @@
           "age": 24,
           "years_exp": 0,
           "projection": 2.81,
-          "trending_adds": 378399,
+          "trending_adds": 228676,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5378,7 +5378,7 @@
           "age": 34,
           "years_exp": 13,
           "projection": 6.48,
-          "trending_adds": 5720,
+          "trending_adds": 4620,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5396,7 +5396,7 @@
           "age": 31,
           "years_exp": 10,
           "projection": 18.75,
-          "trending_adds": 10375,
+          "trending_adds": 8060,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5450,7 +5450,7 @@
           "age": 27,
           "years_exp": 5,
           "projection": 10.83,
-          "trending_adds": 10008,
+          "trending_adds": 9384,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5504,7 +5504,7 @@
           "age": 25,
           "years_exp": 3,
           "projection": 9.25,
-          "trending_adds": 4998,
+          "trending_adds": 4109,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5649,7 +5649,7 @@
           "age": 33,
           "years_exp": 12,
           "projection": 10.79,
-          "trending_adds": 7384
+          "trending_adds": 2752
         },
         {
           "player_id": "12501",
@@ -5664,7 +5664,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 7.46,
-          "trending_adds": 4711
+          "trending_adds": 3318
         }
       ],
       "reserve": [],
@@ -5719,7 +5719,7 @@
           "age": 23,
           "years_exp": 1,
           "projection": 7.46,
-          "trending_adds": 4711,
+          "trending_adds": 3318,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5773,7 +5773,7 @@
           "age": 33,
           "years_exp": 12,
           "projection": 10.79,
-          "trending_adds": 7384,
+          "trending_adds": 2752,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -5791,7 +5791,7 @@
           "age": 31,
           "years_exp": 9,
           "projection": 3.65,
-          "trending_adds": 17112,
+          "trending_adds": 17488,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5827,7 +5827,7 @@
           "age": 28,
           "years_exp": 7,
           "projection": null,
-          "trending_adds": 15160,
+          "trending_adds": 11345,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5935,7 +5935,7 @@
           "age": 26,
           "years_exp": 4,
           "projection": 8.71,
-          "trending_adds": 12896,
+          "trending_adds": 10240,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5953,7 +5953,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": 15.66,
-          "trending_adds": 8995,
+          "trending_adds": 7770,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -5971,7 +5971,7 @@
           "age": 27,
           "years_exp": 4,
           "projection": null,
-          "trending_adds": 27171,
+          "trending_adds": 19494,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6131,7 +6131,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 10.19,
-          "trending_adds": 3546
+          "trending_adds": 0
         }
       ],
       "reserve": [],
@@ -6223,7 +6223,7 @@
           "age": 21,
           "years_exp": 0,
           "projection": 7.12,
-          "trending_adds": 5670,
+          "trending_adds": 4023,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6403,7 +6403,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 10.19,
-          "trending_adds": 3546,
+          "trending_adds": 0,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -6439,7 +6439,7 @@
           "age": 24,
           "years_exp": 3,
           "projection": 14.89,
-          "trending_adds": 3619,
+          "trending_adds": 2996,
           "starter": false,
           "reserve": false,
           "taxi": false
@@ -6461,7 +6461,7 @@
       "age": 31,
       "years_exp": 10,
       "projection": 2.39,
-      "trending_adds": 125238
+      "trending_adds": 76440
     },
     {
       "player_id": "4574",
@@ -6476,7 +6476,7 @@
       "age": 32,
       "years_exp": 9,
       "projection": 10.97,
-      "trending_adds": 66836
+      "trending_adds": 70176
     },
     {
       "player_id": "2505",
@@ -6491,7 +6491,7 @@
       "age": 33,
       "years_exp": 11,
       "projection": 6.94,
-      "trending_adds": 44415
+      "trending_adds": 31581
     },
     {
       "player_id": "4177",
@@ -6506,37 +6506,7 @@
       "age": 32,
       "years_exp": 9,
       "projection": 3.01,
-      "trending_adds": 20268
-    },
-    {
-      "player_id": "1166",
-      "full_name": "Kirk Cousins",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "age": 38,
-      "years_exp": 14,
-      "projection": 16.04,
-      "trending_adds": 18536
-    },
-    {
-      "player_id": "5854",
-      "full_name": "Drew Lock",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "age": 29,
-      "years_exp": 7,
-      "projection": null,
-      "trending_adds": 16857
+      "trending_adds": 17337
     },
     {
       "player_id": "13602",
@@ -6551,7 +6521,22 @@
       "age": 22,
       "years_exp": 0,
       "projection": null,
-      "trending_adds": 15745
+      "trending_adds": 16515
+    },
+    {
+      "player_id": "1166",
+      "full_name": "Kirk Cousins",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "age": 38,
+      "years_exp": 14,
+      "projection": 16.04,
+      "trending_adds": 14552
     },
     {
       "player_id": "5995",
@@ -6566,37 +6551,22 @@
       "age": 28,
       "years_exp": 7,
       "projection": 4.37,
-      "trending_adds": 14490
+      "trending_adds": 14256
     },
     {
-      "player_id": "3321",
-      "full_name": "Tyreek Hill",
-      "position": "WR",
+      "player_id": "5854",
+      "full_name": "Drew Lock",
+      "position": "QB",
       "fantasy_positions": [
-        "WR"
+        "QB"
       ],
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "injury_status": null,
-      "age": 31,
-      "years_exp": 10,
+      "age": 29,
+      "years_exp": 7,
       "projection": null,
-      "trending_adds": 14112
-    },
-    {
-      "player_id": "10235",
-      "full_name": "Roschon Johnson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 0.25,
-      "trending_adds": 13512
+      "trending_adds": 13941
     },
     {
       "player_id": "2078",
@@ -6611,52 +6581,22 @@
       "age": 33,
       "years_exp": 12,
       "projection": 2.97,
-      "trending_adds": 13006
+      "trending_adds": 11879
     },
     {
-      "player_id": "9486",
-      "full_name": "Dontayvion Wicks",
+      "player_id": "3321",
+      "full_name": "Tyreek Hill",
       "position": "WR",
       "fantasy_positions": [
         "WR"
       ],
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 7.49,
-      "trending_adds": 12504
-    },
-    {
-      "player_id": "8111",
-      "full_name": "Cade Otton",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "TB",
-      "status": "Active",
-      "injury_status": null,
-      "age": 27,
-      "years_exp": 4,
-      "projection": 6.56,
-      "trending_adds": 12054
-    },
-    {
-      "player_id": "9225",
-      "full_name": "Tank Bigsby",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 3,
-      "projection": 4.94,
-      "trending_adds": 11802
+      "age": 31,
+      "years_exp": 10,
+      "projection": null,
+      "trending_adds": 11648
     },
     {
       "player_id": "4147",
@@ -6671,7 +6611,67 @@
       "age": 30,
       "years_exp": 9,
       "projection": 4.82,
-      "trending_adds": 11596
+      "trending_adds": 11392
+    },
+    {
+      "player_id": "9225",
+      "full_name": "Tank Bigsby",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
+      "years_exp": 3,
+      "projection": 4.94,
+      "trending_adds": 10598
+    },
+    {
+      "player_id": "9486",
+      "full_name": "Dontayvion Wicks",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 7.49,
+      "trending_adds": 10509
+    },
+    {
+      "player_id": "10235",
+      "full_name": "Roschon Johnson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 0.25,
+      "trending_adds": 10008
+    },
+    {
+      "player_id": "8111",
+      "full_name": "Cade Otton",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "age": 27,
+      "years_exp": 4,
+      "projection": 6.56,
+      "trending_adds": 9552
     },
     {
       "player_id": "8127",
@@ -6686,7 +6686,7 @@
       "age": 27,
       "years_exp": 4,
       "projection": 3.15,
-      "trending_adds": 9138
+      "trending_adds": 8949
     },
     {
       "player_id": "13424",
@@ -6701,7 +6701,7 @@
       "age": 24,
       "years_exp": 0,
       "projection": 1.58,
-      "trending_adds": 8264
+      "trending_adds": 8400
     },
     {
       "player_id": "12492",
@@ -6716,7 +6716,7 @@
       "age": 23,
       "years_exp": 1,
       "projection": 5.71,
-      "trending_adds": 7744
+      "trending_adds": 6856
     },
     {
       "player_id": "11571",
@@ -6731,7 +6731,7 @@
       "age": 24,
       "years_exp": 2,
       "projection": 4.66,
-      "trending_adds": 7209
+      "trending_adds": 6723
     },
     {
       "player_id": "4017",
@@ -6746,7 +6746,7 @@
       "age": 30,
       "years_exp": 9,
       "projection": 11.94,
-      "trending_adds": 6888
+      "trending_adds": 6224
     },
     {
       "player_id": "11783",
@@ -6761,7 +6761,7 @@
       "age": 26,
       "years_exp": 2,
       "projection": 5.58,
-      "trending_adds": 6120
+      "trending_adds": 5856
     },
     {
       "player_id": "8225",
@@ -6776,7 +6776,7 @@
       "age": 25,
       "years_exp": 4,
       "projection": 4.16,
-      "trending_adds": 6027
+      "trending_adds": 5705
     },
     {
       "player_id": "11237",
@@ -6791,7 +6791,7 @@
       "age": 25,
       "years_exp": 3,
       "projection": 2.94,
-      "trending_adds": 5485
+      "trending_adds": 5625
     },
     {
       "player_id": "13533",
@@ -6806,7 +6806,7 @@
       "age": 22,
       "years_exp": 0,
       "projection": 2.58,
-      "trending_adds": 5175
+      "trending_adds": 5112
     },
     {
       "player_id": "13411",
@@ -6821,7 +6821,7 @@
       "age": 22,
       "years_exp": 0,
       "projection": 2.58,
-      "trending_adds": 4896
+      "trending_adds": 4284
     },
     {
       "player_id": "1373",
@@ -6836,22 +6836,7 @@
       "age": 35,
       "years_exp": 13,
       "projection": 16.58,
-      "trending_adds": 4584
-    },
-    {
-      "player_id": "9228",
-      "full_name": "Bryce Young",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 17.13,
-      "trending_adds": 4208
+      "trending_adds": 3916
     },
     {
       "player_id": "12502",
@@ -6866,22 +6851,37 @@
       "age": 24,
       "years_exp": 1,
       "projection": 6.11,
-      "trending_adds": 4067
+      "trending_adds": 3409
     },
     {
-      "player_id": "13421",
-      "full_name": "Eli Raridon",
+      "player_id": "9228",
+      "full_name": "Bryce Young",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "CAR",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 17.13,
+      "trending_adds": 3316
+    },
+    {
+      "player_id": "11592",
+      "full_name": "Erick All",
       "position": "TE",
       "fantasy_positions": [
         "TE"
       ],
-      "team": "NE",
+      "team": "CIN",
       "status": "Active",
       "injury_status": null,
-      "age": 22,
-      "years_exp": 0,
-      "projection": 3.59,
-      "trending_adds": 3549
+      "age": 25,
+      "years_exp": 2,
+      "projection": 2.47,
+      "trending_adds": 3114
     },
     {
       "player_id": "9494",
@@ -6896,7 +6896,52 @@
       "age": 24,
       "years_exp": 3,
       "projection": 3.46,
-      "trending_adds": 3330
+      "trending_adds": 3078
+    },
+    {
+      "player_id": "13421",
+      "full_name": "Eli Raridon",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "age": 22,
+      "years_exp": 0,
+      "projection": 3.59,
+      "trending_adds": 2898
+    },
+    {
+      "player_id": "11630",
+      "full_name": "Roman Wilson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "age": 25,
+      "years_exp": 2,
+      "projection": 1.56,
+      "trending_adds": 2772
+    },
+    {
+      "player_id": "12491",
+      "full_name": "Corey Kiner",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "age": 24,
+      "years_exp": 1,
+      "projection": 2.31,
+      "trending_adds": 2664
     },
     {
       "player_id": "12522",
@@ -7514,21 +7559,6 @@
       "trending_adds": 0
     },
     {
-      "player_id": "11592",
-      "full_name": "Erick All",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 2,
-      "projection": 2.47,
-      "trending_adds": 0
-    },
-    {
       "player_id": "12499",
       "full_name": "Elic Ayomanor",
       "position": "WR",
@@ -7541,21 +7571,6 @@
       "age": 23,
       "years_exp": 1,
       "projection": 2.42,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "12491",
-      "full_name": "Corey Kiner",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NE",
-      "status": "Active",
-      "injury_status": null,
-      "age": 24,
-      "years_exp": 1,
-      "projection": 2.31,
       "trending_adds": 0
     },
     {
@@ -7990,21 +8005,6 @@
       "injury_status": null,
       "age": 27,
       "years_exp": 3,
-      "projection": 1.56,
-      "trending_adds": 0
-    },
-    {
-      "player_id": "11630",
-      "full_name": "Roman Wilson",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "age": 25,
-      "years_exp": 2,
       "projection": 1.56,
       "trending_adds": 0
     },
@@ -47098,6 +47098,1980 @@
           "waiver_budget": []
         }
       ]
+    }
+  ],
+  "activity": [
+    {
+      "transaction_id": "1403823009466159104",
+      "week": 1,
+      "created": 1789059996529,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [
+        {
+          "player_id": "9482",
+          "full_name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "roster_id": 2
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9486",
+          "full_name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": 2,
+      "waiver_budget_remaining": 72,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1403563508666228736",
+      "week": 1,
+      "created": 1788998126717,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [
+        {
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL",
+          "roster_id": 9
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 6,
+      "waiver_budget_remaining": 94,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1402784094181449728",
+      "week": 1,
+      "created": 1788812299823,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12476",
+          "full_name": "Devin Neal",
+          "position": "RB",
+          "team": null,
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1402706893306130432",
+      "week": 1,
+      "created": 1788793893700,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [
+        {
+          "player_id": "8210",
+          "full_name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS",
+          "roster_id": 5
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 99,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1402706732806840320",
+      "week": 1,
+      "created": 1788793855433,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13276",
+          "full_name": "Omar Cooper",
+          "position": "WR",
+          "team": "NYJ",
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1402706440342237184",
+      "week": 1,
+      "created": 1788793785704,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11637",
+          "full_name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1402706089497075712",
+      "week": 1,
+      "created": 1788793702056,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13319",
+          "full_name": "Oscar Delp",
+          "position": "TE",
+          "team": "NO",
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1402705923843080192",
+      "week": 1,
+      "created": 1788793662561,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "3321",
+          "full_name": "Tyreek Hill",
+          "position": "WR",
+          "team": null,
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400904976066224128",
+      "week": 1,
+      "created": 1788364283152,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [
+        {
+          "player_id": "5001",
+          "full_name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU",
+          "roster_id": 12
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 5,
+      "waiver_budget_remaining": 95,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400904314863562752",
+      "week": 1,
+      "created": 1788364125509,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6149",
+          "full_name": "Darius Slayton",
+          "position": "WR",
+          "team": null,
+          "roster_id": 3
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400903821210730496",
+      "week": 1,
+      "created": 1788364007812,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [
+        {
+          "player_id": "4981",
+          "full_name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN",
+          "roster_id": 3
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 98,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400903694400102400",
+      "week": 1,
+      "created": 1788363977579,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [
+        {
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN",
+          "roster_id": 3
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 99,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400903193403121664",
+      "week": 1,
+      "created": 1788363858131,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4988",
+          "full_name": "Nick Chubb",
+          "position": "RB",
+          "team": null,
+          "roster_id": 3
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400903111043756032",
+      "week": 1,
+      "created": 1788363838495,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5970",
+          "full_name": "Greg Dortch",
+          "position": "WR",
+          "team": "BUF",
+          "roster_id": 3
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400903079171194880",
+      "week": 1,
+      "created": 1788363830896,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "3200",
+          "full_name": "Sterling Shepard",
+          "position": "WR",
+          "team": null,
+          "roster_id": 3
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400903032538951680",
+      "week": 1,
+      "created": 1788363819778,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        3
+      ],
+      "primary_roster_id": 3,
+      "primary_team_name": "Best_Beef_In_Town",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8205",
+          "full_name": "Isiah Pacheco",
+          "position": "RB",
+          "team": "DET",
+          "roster_id": 3
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400880881605861376",
+      "week": 1,
+      "created": 1788358538585,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        8
+      ],
+      "primary_roster_id": 8,
+      "primary_team_name": "Burrowito Bowl",
+      "adds": [
+        {
+          "player_id": "12048",
+          "full_name": "George Holani",
+          "position": "RB",
+          "team": "SEA",
+          "roster_id": 8
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 99,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400589915275685888",
+      "week": 1,
+      "created": 1788289166806,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        11
+      ],
+      "primary_roster_id": 11,
+      "primary_team_name": "GhostJerkers",
+      "adds": [
+        {
+          "player_id": "8800",
+          "full_name": "Malik Davis",
+          "position": "RB",
+          "team": "DAL",
+          "roster_id": 11
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12457",
+          "full_name": "Jaydon Blue",
+          "position": "RB",
+          "team": "PHI",
+          "roster_id": 11
+        }
+      ],
+      "waiver_bid": 10,
+      "waiver_budget_remaining": 79,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1400160015511220224",
+      "week": 1,
+      "created": 1788186670715,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [
+        {
+          "player_id": "13274",
+          "full_name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "roster_id": 2
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11783",
+          "full_name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 74,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1399962348868878336",
+      "week": 1,
+      "created": 1788139543315,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [
+        {
+          "player_id": "11783",
+          "full_name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "roster_id": 2
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 75,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1399962325955411968",
+      "week": 1,
+      "created": 1788139537852,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [
+        {
+          "player_id": "9486",
+          "full_name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI",
+          "roster_id": 2
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 76,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1399118203564654592",
+      "week": 1,
+      "created": 1787938283391,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [
+        {
+          "player_id": "12487",
+          "full_name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR",
+          "roster_id": 2
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12522",
+          "full_name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 77,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398800184904867840",
+      "week": 1,
+      "created": 1787862461833,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        4
+      ],
+      "primary_roster_id": 4,
+      "primary_team_name": "Berling",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "2505",
+          "full_name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR",
+          "roster_id": 4
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398557267023896576",
+      "week": 1,
+      "created": 1787804545698,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13274",
+          "full_name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT",
+          "roster_id": 9
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398557002099113984",
+      "week": 1,
+      "created": 1787804482535,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13424",
+          "full_name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND",
+          "roster_id": 9
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398556763409666048",
+      "week": 1,
+      "created": 1787804425627,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4147",
+          "full_name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN",
+          "roster_id": 9
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398555558495133696",
+      "week": 1,
+      "created": 1787804138353,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13275",
+          "full_name": "Ty Simpson",
+          "position": "QB",
+          "team": "LAR",
+          "roster_id": 9
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398435573496070144",
+      "week": 1,
+      "created": 1787775531700,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [
+        {
+          "player_id": "13402",
+          "full_name": "Skyler Bell",
+          "position": "WR",
+          "team": "BUF",
+          "roster_id": 10
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 98,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398434600283283456",
+      "week": 1,
+      "created": 1787775299667,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8125",
+          "full_name": "Calvin Austin",
+          "position": "WR",
+          "team": "NYG",
+          "roster_id": 10
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1398002583359983616",
+      "week": 1,
+      "created": 1787672298807,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [
+        {
+          "player_id": "8136",
+          "full_name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS",
+          "roster_id": 2
+        }
+      ],
+      "drops": [],
+      "waiver_bid": 22,
+      "waiver_budget_remaining": 78,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397933490539880448",
+      "week": 1,
+      "created": 1787655825795,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [
+        {
+          "player_id": "11643",
+          "full_name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA",
+          "roster_id": 10
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4033",
+          "full_name": "David Njoku",
+          "position": "TE",
+          "team": "LAC",
+          "roster_id": 10
+        }
+      ],
+      "waiver_bid": 1,
+      "waiver_budget_remaining": 99,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397715581985112064",
+      "week": 1,
+      "created": 1787603872347,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4098",
+          "full_name": "Kareem Hunt",
+          "position": "RB",
+          "team": null,
+          "roster_id": 9
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397715418428231680",
+      "week": 1,
+      "created": 1787603833351,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        9
+      ],
+      "primary_roster_id": 9,
+      "primary_team_name": "The Haze >> Red Rocks",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4144",
+          "full_name": "Jonnu Smith",
+          "position": "TE",
+          "team": "GB",
+          "roster_id": 9
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397712432335429632",
+      "week": 1,
+      "created": 1787603121412,
+      "type": "waiver",
+      "kind": "waiver",
+      "roster_ids": [
+        11
+      ],
+      "primary_roster_id": 11,
+      "primary_team_name": "GhostJerkers",
+      "adds": [
+        {
+          "player_id": "8161",
+          "full_name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA",
+          "roster_id": 11
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12487",
+          "full_name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR",
+          "roster_id": 11
+        }
+      ],
+      "waiver_bid": 11,
+      "waiver_budget_remaining": 89,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397701796507467776",
+      "week": 1,
+      "created": 1787600585632,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        11
+      ],
+      "primary_roster_id": 11,
+      "primary_team_name": "GhostJerkers",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12485",
+          "full_name": "Tez Johnson",
+          "position": "WR",
+          "team": "TB",
+          "roster_id": 11
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397693635767590912",
+      "week": 1,
+      "created": 1787598639960,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        6
+      ],
+      "primary_roster_id": 6,
+      "primary_team_name": "Boomtown Splash Hogs",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8147",
+          "full_name": "John Metchie",
+          "position": "WR",
+          "team": "CAR",
+          "roster_id": 6
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397693603278532608",
+      "week": 1,
+      "created": 1787598632214,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12495",
+          "full_name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA",
+          "roster_id": 10
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397693552888119296",
+      "week": 1,
+      "created": 1787598620201,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6803",
+          "full_name": "Brandon Aiyuk",
+          "position": "WR",
+          "team": "SF",
+          "roster_id": 10
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397692445315104768",
+      "week": 1,
+      "created": 1787598356134,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11627",
+          "full_name": "Troy Franklin",
+          "position": "WR",
+          "team": "DEN",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397692347373924352",
+      "week": 1,
+      "created": 1787598332783,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12504",
+          "full_name": "Kaleb Johnson",
+          "position": "RB",
+          "team": "GB",
+          "roster_id": 10
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397691824201564160",
+      "week": 1,
+      "created": 1787598208050,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        4
+      ],
+      "primary_roster_id": 4,
+      "primary_team_name": "Berling",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4981",
+          "full_name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN",
+          "roster_id": 4
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397691769797242880",
+      "week": 1,
+      "created": 1787598195078,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        7
+      ],
+      "primary_roster_id": 7,
+      "primary_team_name": "Bears in Heat",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13302",
+          "full_name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL",
+          "roster_id": 7
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397691734464475136",
+      "week": 1,
+      "created": 1787598186654,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        7
+      ],
+      "primary_roster_id": 7,
+      "primary_team_name": "Bears in Heat",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4993",
+          "full_name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN",
+          "roster_id": 7
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397690270727827456",
+      "week": 1,
+      "created": 1787597837672,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        10
+      ],
+      "primary_roster_id": 10,
+      "primary_team_name": "Denny Green",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11565",
+          "full_name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "MIN",
+          "roster_id": 10
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397690216306720768",
+      "week": 1,
+      "created": 1787597824697,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        8
+      ],
+      "primary_roster_id": 8,
+      "primary_team_name": "Burrowito Bowl",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "7049",
+          "full_name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN",
+          "roster_id": 8
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397689024117751808",
+      "week": 1,
+      "created": 1787597540457,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        1
+      ],
+      "primary_roster_id": 1,
+      "primary_team_name": "Put On Your SundayClothes",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN",
+          "roster_id": 1
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397643112486023168",
+      "week": 1,
+      "created": 1787586594271,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        1
+      ],
+      "primary_roster_id": 1,
+      "primary_team_name": "Put On Your SundayClothes",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13402",
+          "full_name": "Skyler Bell",
+          "position": "WR",
+          "team": "BUF",
+          "roster_id": 1
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397390636893638656",
+      "week": 1,
+      "created": 1787526399399,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        6
+      ],
+      "primary_roster_id": 6,
+      "primary_team_name": "Boomtown Splash Hogs",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "1339",
+          "full_name": "Zach Ertz",
+          "position": "TE",
+          "team": null,
+          "roster_id": 6
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397390569881219072",
+      "week": 1,
+      "created": 1787526383422,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        6
+      ],
+      "primary_roster_id": 6,
+      "primary_team_name": "Boomtown Splash Hogs",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4663",
+          "full_name": "Austin Ekeler",
+          "position": "RB",
+          "team": null,
+          "roster_id": 6
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397388799268368384",
+      "week": 1,
+      "created": 1787525961275,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        6
+      ],
+      "primary_roster_id": 6,
+      "primary_team_name": "Boomtown Splash Hogs",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11435",
+          "full_name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA",
+          "roster_id": 6
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397388573644218368",
+      "week": 1,
+      "created": 1787525907483,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        6
+      ],
+      "primary_roster_id": 6,
+      "primary_team_name": "Boomtown Splash Hogs",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12499",
+          "full_name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN",
+          "roster_id": 6
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397388042569854976",
+      "week": 1,
+      "created": 1787525780864,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        6
+      ],
+      "primary_roster_id": 6,
+      "primary_team_name": "Boomtown Splash Hogs",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4219",
+          "full_name": "Jeremy McNichols",
+          "position": "RB",
+          "team": "WAS",
+          "roster_id": 6
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1397315234993053696",
+      "week": 1,
+      "created": 1787508422185,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        8
+      ],
+      "primary_roster_id": 8,
+      "primary_team_name": "Burrowito Bowl",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6783",
+          "full_name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE",
+          "roster_id": 8
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396634344612728832",
+      "week": 1,
+      "created": 1787346085268,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        4
+      ],
+      "primary_roster_id": 4,
+      "primary_team_name": "Berling",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12455",
+          "full_name": "Brashard Smith",
+          "position": "RB",
+          "team": "KC",
+          "roster_id": 4
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396629947170185216",
+      "week": 1,
+      "created": 1787345036836,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        7
+      ],
+      "primary_roster_id": 7,
+      "primary_team_name": "Bears in Heat",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11647",
+          "full_name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC",
+          "roster_id": 7
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396609829321084928",
+      "week": 1,
+      "created": 1787340240368,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396609666238128128",
+      "week": 1,
+      "created": 1787340201485,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12498",
+          "full_name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396609623376535552",
+      "week": 1,
+      "created": 1787340191266,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12535",
+          "full_name": "Isaac TeSlaa",
+          "position": "WR",
+          "team": "DET",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396575314456346624",
+      "week": 1,
+      "created": 1787332011383,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4018",
+          "full_name": "Joe Mixon",
+          "position": "RB",
+          "team": null,
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396341445983473664",
+      "week": 1,
+      "created": 1787276252793,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        7
+      ],
+      "primary_roster_id": 7,
+      "primary_team_name": "Bears in Heat",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6865",
+          "full_name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR",
+          "roster_id": 7
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396340952192266240",
+      "week": 1,
+      "created": 1787276135064,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        7
+      ],
+      "primary_roster_id": 7,
+      "primary_team_name": "Bears in Heat",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6130",
+          "full_name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "roster_id": 7
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396298834849591296",
+      "week": 1,
+      "created": 1787266093508,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9228",
+          "full_name": "Bryce Young",
+          "position": "QB",
+          "team": "CAR",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396296359195209728",
+      "week": 1,
+      "created": 1787265503265,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8122",
+          "full_name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI",
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396296154513182720",
+      "week": 1,
+      "created": 1787265454466,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11579",
+          "full_name": "Audric Estime",
+          "position": "RB",
+          "team": "NO",
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1396295844738662400",
+      "week": 1,
+      "created": 1787265380609,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        5
+      ],
+      "primary_roster_id": 5,
+      "primary_team_name": "Fuzzywoody",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6039",
+          "full_name": "Ty Johnson",
+          "position": "RB",
+          "team": "BUF",
+          "roster_id": 5
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1384969082012463104",
+      "week": 1,
+      "created": 1784564869934,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        2
+      ],
+      "primary_roster_id": 2,
+      "primary_team_name": "Underground Twofers",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11597",
+          "full_name": "Theo Johnson",
+          "position": "TE",
+          "team": "NYG",
+          "roster_id": 2
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1383940359813345280",
+      "week": 1,
+      "created": 1784319603449,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        1
+      ],
+      "primary_roster_id": 1,
+      "primary_team_name": "Put On Your SundayClothes",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11589",
+          "full_name": "Trey Benson",
+          "position": "RB",
+          "team": "ARI",
+          "roster_id": 1
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312650128976277504",
+      "week": 1,
+      "created": 1767322687909,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5001",
+          "full_name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312649941469917184",
+      "week": 1,
+      "created": 1767322643204,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12536",
+          "full_name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312649887938002944",
+      "week": 1,
+      "created": 1767322630442,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6826",
+          "full_name": "Cole Kmet",
+          "position": "TE",
+          "team": "CHI",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312649775572606976",
+      "week": 1,
+      "created": 1767322603651,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "10226",
+          "full_name": "Andrei Iosivas",
+          "position": "WR",
+          "team": "CIN",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312649684426186752",
+      "week": 1,
+      "created": 1767322581921,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "1689",
+          "full_name": "Adam Thielen",
+          "position": "WR",
+          "team": null,
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312649624170827776",
+      "week": 1,
+      "created": 1767322567554,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "7571",
+          "full_name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
+    },
+    {
+      "transaction_id": "1312649574589923328",
+      "week": 1,
+      "created": 1767322555734,
+      "type": "free_agent",
+      "kind": "drop",
+      "roster_ids": [
+        12
+      ],
+      "primary_roster_id": 12,
+      "primary_team_name": "Johnny Jump Up",
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "10444",
+          "full_name": "Cedric Tillman",
+          "position": "WR",
+          "team": "NO",
+          "roster_id": 12
+        }
+      ],
+      "waiver_bid": null,
+      "waiver_budget_remaining": null,
+      "draft_picks": [],
+      "waiver_budget": []
     }
   ],
   "drafts": [
