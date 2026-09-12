@@ -22,7 +22,9 @@ jobs:
         env:
           LEAGUE_ID: "1312504205092610048"
           SLEEPER_USERNAME: "chrisgervais"
-        run: node scripts/generate-snapshot.js
+        run: |
+          node scripts/generate-snapshot.js
+          node scripts/add-dynasty-values.js
       - name: Commit updated snapshot
         run: |
           git config user.name "github-actions[bot]"
