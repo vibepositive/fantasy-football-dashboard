@@ -1,4 +1,4 @@
-/* iPhone layout hardening: prevent the header or first roster view from reserving viewport-height space. */
+/* iPhone layout hardening. */
 @media (max-width: 700px) {
   html,
   body {
@@ -6,9 +6,19 @@
     height: auto !important;
   }
 
+  /* Critical fix: .header-side had flex-basis:620px. Once .topbar switches
+     to column layout on mobile, that 620px becomes vertical height. */
+  .header-side {
+    flex: 0 0 auto !important;
+    flex-basis: auto !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+  }
+
   .topbar,
   .dashboard-heading,
-  .header-side,
   .header-actions {
     height: auto !important;
     min-height: 0 !important;
@@ -48,5 +58,17 @@
 
   #teamsGrid {
     margin-top: 0 !important;
+  }
+
+  /* Touch-friendly trade tooltips. */
+  .trade-v2-tooltip {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .trade-v2-tooltip.is-open::after {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translate(-50%, 0) !important;
   }
 }
