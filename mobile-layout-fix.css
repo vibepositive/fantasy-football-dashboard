@@ -6,8 +6,8 @@
     height: auto !important;
   }
 
-  /* Critical fix: .header-side had flex-basis:620px. Once .topbar switches
-     to column layout on mobile, that 620px becomes vertical height. */
+  /* Critical fix: desktop uses flex-basis:620px on .header-side. Once
+     .topbar becomes a column on iPhone, that basis becomes vertical space. */
   .header-side {
     flex: 0 0 auto !important;
     flex-basis: auto !important;
@@ -59,16 +59,46 @@
   #teamsGrid {
     margin-top: 0 !important;
   }
+}
 
-  /* Touch-friendly trade tooltips. */
-  .trade-v2-tooltip {
-    cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
+/* Hover tooltips are a poor fit for touch screens. On iPhone/iPad, expose
+   the explanation directly so the information is always readable. */
+@media (hover: none) and (pointer: coarse) {
+  .trade-v2-tag {
+    flex-wrap: wrap;
+    align-items: flex-start;
   }
 
-  .trade-v2-tooltip.is-open::after {
+  .trade-v2-tooltip {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: .35rem;
+    border: 0;
+    border-radius: 0;
+    font-size: 0;
+    cursor: default;
+  }
+
+  .trade-v2-tooltip::after {
+    content: attr(data-tooltip);
+    position: static !important;
+    display: block;
+    width: auto !important;
+    max-width: none !important;
+    padding: .45rem .5rem;
+    border: 1px solid rgba(130,165,205,.18);
+    border-radius: 8px;
+    background: rgba(7,17,31,.72);
+    color: var(--muted);
+    box-shadow: none;
     opacity: 1 !important;
     visibility: visible !important;
-    transform: translate(-50%, 0) !important;
+    transform: none !important;
+    pointer-events: none;
+    font-size: .66rem;
+    font-weight: 600;
+    line-height: 1.35;
+    text-align: left;
   }
 }
