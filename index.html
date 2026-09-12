@@ -18,8 +18,8 @@
 
   <div class="header-actions">
     <button id="analyzeMyTeamBtn">ROSTERS</button>
+    <button id="analyzeTradesBtn">TRADES</button>
     <button id="analyzeWaiversBtn">WAIVER WIRE (<span id="waiverCountBadge">0</span>)</button>
-    <button id="analyzeTradesBtn">TRADE MARKET</button>
   </div>
 </header>
 
@@ -45,28 +45,14 @@
       <span class="muted">GitHub Action snapshot</span>
     </article>
 
-    <article class="panel stat-panel">
-      <span class="label">Selected Team</span>
-      <strong id="selectedTeamName">None</strong>
-      <button id="analyzeSelectedBtn" class="small" disabled>
-        Analyze Selected
-      </button>
-    </article>
-
   </section>
 
   <section id="rostersView">
 
-    <section class="panel controls">
-      <div>
-        <h2>League Rosters</h2>
-        <p class="muted">
-          Click any team to inspect its roster and generate a trade or weakness analysis prompt.
-        </p>
-      </div>
+    <section class="panel controls roster-controls">
+      <h2>League Rosters</h2>
 
       <div class="filter-row">
-
         <input
           id="searchInput"
           type="search"
@@ -78,7 +64,6 @@
           <option value="wins">Sort: Wins</option>
           <option value="points">Sort: Points</option>
         </select>
-
       </div>
     </section>
 
@@ -89,7 +74,6 @@
   <section id="waiversView" hidden>
 
     <section class="panel waiver-header">
-
       <div>
         <h2>Waiver Wire</h2>
 
@@ -100,11 +84,6 @@
 
         <div id="waiverSummary" class="waiver-summary"></div>
       </div>
-
-      <button id="waiverAnalyzeTopBtn" class="primary">
-        Analyze Waivers
-      </button>
-
     </section>
 
     <section class="panel waiver-controls">
@@ -118,7 +97,6 @@
       </div>
 
       <div class="filter-row">
-
         <input
           id="waiverSearchInput"
           type="search"
@@ -132,7 +110,6 @@
           <option value="name">Sort: Player name</option>
           <option value="age">Sort: Youngest</option>
         </select>
-
       </div>
 
     </section>
@@ -160,26 +137,6 @@
 
   <section id="tradesView" hidden>
 
-    <section class="panel trade-market-header">
-
-      <div>
-        <h2>Trade Market</h2>
-
-        <p class="muted">
-          Ranked opportunities based on Boomtown's lineup, league-wide positional
-          strength, current projections and each team's roster needs.
-        </p>
-
-        <p class="trade-disclaimer">
-          Opening frameworks are starting points, not automatic fair-value verdicts.
-          Use Analyze This Trade for current dynasty value, NFL news and a deeper evaluation.
-        </p>
-      </div>
-
-
-
-    </section>
-
     <section class="trade-summary-grid">
 
       <article class="panel trade-summary-card">
@@ -203,7 +160,6 @@
     </section>
 
     <section class="panel trade-controls">
-
       <div>
         <strong>Recommended Targets</strong>
         <p class="muted compact-copy">
@@ -218,7 +174,6 @@
         <option value="WR">WR</option>
         <option value="TE">TE</option>
       </select>
-
     </section>
 
     <section id="tradeRecommendations" class="trade-grid"></section>
@@ -243,7 +198,6 @@
     ></textarea>
 
     <div class="prompt-actions">
-
       <button id="copyPromptBtn" disabled>
         Copy Prompt
       </button>
@@ -256,12 +210,16 @@
       >
         Open ChatGPT
       </a>
-
     </div>
 
     <p id="copyStatus" class="muted"></p>
 
   </section>
+
+  <!-- Temporary compatibility hooks for legacy prompt handlers. -->
+  <span id="selectedTeamName" hidden></span>
+  <button id="analyzeSelectedBtn" hidden disabled></button>
+  <button id="waiverAnalyzeTopBtn" hidden></button>
 
 </main>
 
