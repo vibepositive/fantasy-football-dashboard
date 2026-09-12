@@ -1,0 +1,13 @@
+# Keep repository text files consistent across Windows and GitHub.
+* text=auto eol=lf
+
+# Generated snapshot is text JSON.
+*.json text eol=lf
+
+# Explicit text formats used by this project.
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
