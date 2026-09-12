@@ -6,8 +6,8 @@
     height: auto !important;
   }
 
-  /* Critical fix: desktop uses flex-basis:620px on .header-side. Once
-     .topbar becomes a column on iPhone, that basis becomes vertical space. */
+  /* Desktop uses flex-basis:620px on .header-side. Once .topbar becomes a
+     column on iPhone, that basis becomes vertical space unless reset. */
   .header-side {
     flex: 0 0 auto !important;
     flex-basis: auto !important;
@@ -39,14 +39,28 @@
     padding-top: 0 !important;
   }
 
-  #rostersView {
+  /* Preserve the app's view switching. Never force a hidden view visible. */
+  #rostersView,
+  #waiversView,
+  #tradesView,
+  #activityView {
     position: static !important;
     inset: auto !important;
-    display: block !important;
     height: auto !important;
     min-height: 0 !important;
     margin: 0 !important;
     padding: 0 !important;
+  }
+
+  #rostersView[hidden],
+  #waiversView[hidden],
+  #tradesView[hidden],
+  #activityView[hidden] {
+    display: none !important;
+  }
+
+  #rostersView:not([hidden]) {
+    display: block !important;
   }
 
   #rostersView > .roster-controls {
@@ -61,8 +75,8 @@
   }
 }
 
-/* Hover tooltips are a poor fit for touch screens. On iPhone/iPad, expose
-   the explanation directly so the information is always readable. */
+/* Hover tooltips do not translate well to touch. On iPhone/iPad, keep the
+   explanation visible directly below the trade label so no hover is needed. */
 @media (hover: none) and (pointer: coarse) {
   .trade-v2-tag {
     flex-wrap: wrap;
