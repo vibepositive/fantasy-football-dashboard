@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mettlers-shell-v10';
+const CACHE_NAME = 'fantasy-manager-shell-v11';
 const APP_SHELL = [
   './',
   './index.html',
