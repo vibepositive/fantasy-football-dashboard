@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mettlers-shell-v6';
+const CACHE_NAME = 'mettlers-shell-v7';
 const APP_SHELL = [
   './',
   './index.html',
@@ -7,10 +7,12 @@ const APP_SHELL = [
   './trade-v2.css',
   './live-scores.css',
   './waiver-intel.css',
+  './matchups.css',
   './mobile.css',
   './mobile-layout-fix.css',
   './app.js',
   './waiver-intel.js',
+  './matchups.js',
   './live-scores.js',
   './trade-v2.js',
   './activity.js',
