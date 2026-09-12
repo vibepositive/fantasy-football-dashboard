@@ -7,6 +7,15 @@
   <link rel="stylesheet" href="styles.css">
 
   <style>
+    .topbar {
+      align-items: flex-start;
+    }
+
+    .dashboard-heading {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
     .dashboard-heading h1 {
       margin: .18rem 0 .35rem;
       font-size: clamp(2rem, 3vw, 2.8rem);
@@ -77,14 +86,18 @@
     }
 
     .header-side {
+      flex: 0 1 500px;
+      width: min(500px, 100%);
+      min-width: 390px;
       display: flex;
       flex-direction: column;
-      align-items: flex-end;
+      align-items: stretch;
       gap: .65rem;
     }
 
     .header-update {
       display: flex;
+      justify-content: flex-end;
       align-items: baseline;
       gap: .45rem;
       color: var(--muted);
@@ -95,6 +108,36 @@
     #updatedAt {
       color: var(--muted);
       font-weight: 650;
+    }
+
+    .header-actions {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      width: 100%;
+    }
+
+    .header-actions button {
+      width: 100%;
+      min-width: 0;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 1020px) {
+      .topbar {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .header-side {
+        width: 100%;
+        min-width: 0;
+        max-width: none;
+      }
+
+      .header-update {
+        justify-content: flex-end;
+      }
     }
 
     @media (max-width: 760px) {
@@ -112,9 +155,8 @@
         display: none;
       }
 
-      .header-side {
-        width: 100%;
-        align-items: stretch;
+      .header-actions {
+        grid-template-columns: 1fr;
       }
 
       .header-update {
