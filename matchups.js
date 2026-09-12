@@ -38,7 +38,11 @@
     $('matchupsBtn')?.addEventListener('click',showMatchups);
     ['analyzeMyTeamBtn','analyzeTradesBtn','analyzeWaiversBtn','activityBtn'].forEach(id=>$(id)?.addEventListener('click',leaveMatchups));
   }
-  function start(){ensureUi();wireNav();if(!snapshot?.current_week){setTimeout(start,200);return;}apply(snapshot.current_matchups||[]);showMatchups();refresh();clearInterval(matchupTimer);matchupTimer=setInterval(()=>{if(!document.hidden)refresh();},60000);}
+  function start(){if(!snapshot?.current_week){setTimeout(start,200);return;}apply(snapshot.current_matchups||[]);showMatchups();refresh();clearInterval(matchupTimer);matchupTimer=setInterval(()=>{if(!document.hidden)refresh();},60000);}
   document.addEventListener('visibilitychange',()=>{if(!document.hidden&&snapshot?.current_week)refresh();});
+
+  ensureUi();
+  wireNav();
+  showMatchups();
   start();
 })();
