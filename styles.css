@@ -104,7 +104,7 @@ main {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 0.9rem;
   margin-bottom: 0.9rem;
 }
@@ -130,14 +130,24 @@ main {
 
 .controls,
 .prompt-panel {
-  padding: 1rem;
   margin-bottom: 0.9rem;
 }
 
 .controls {
+  padding: 0.7rem 1rem;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   gap: 1rem;
+}
+
+.roster-controls h2 {
+  margin: 0;
+  font-size: 1.08rem;
+}
+
+.prompt-panel {
+  padding: 1rem;
 }
 
 input,
@@ -166,11 +176,6 @@ input {
   border: 1px solid var(--border);
   border-radius: 16px;
   overflow: hidden;
-  cursor: pointer;
-}
-
-.team-card.selected {
-  outline: 2px solid var(--accent);
 }
 
 .team-card.mine {
@@ -332,10 +337,6 @@ input {
 .waiver-header {
   padding: 1rem;
   margin-bottom: 0.9rem;
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  align-items: flex-start;
 }
 
 .waiver-header h2,
@@ -511,33 +512,10 @@ input {
   padding: 1rem;
 }
 
-/* Trade Market */
+/* Trades */
 
 #tradesView {
   width: 100%;
-}
-
-.trade-market-header {
-  padding: 20px;
-  margin-bottom: 16px;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 24px;
-}
-
-.trade-market-header h2 {
-  margin: 0 0 8px;
-}
-
-.trade-market-header .muted {
-  margin: 0 0 8px;
-}
-
-.trade-disclaimer {
-  margin: 8px 0 0;
-  max-width: 900px;
-  line-height: 1.5;
 }
 
 .trade-summary-grid {
@@ -827,9 +805,7 @@ footer {
 }
 
 @media (max-width: 800px) {
-  .waiver-header,
   .waiver-controls,
-  .trade-market-header,
   .trade-controls {
     flex-direction: column;
     align-items: stretch;
