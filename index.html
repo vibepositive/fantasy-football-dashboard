@@ -14,6 +14,22 @@
     <p class="eyebrow">SLEEPER DYNASTY DASHBOARD</p>
     <h1>Mettlers Dynasty Command Center</h1>
     <p id="leagueMeta" class="muted">Loading league data...</p>
+
+    <div class="filter-row" aria-label="Dashboard information">
+      <span class="owner">
+        MY TEAM <strong id="myTeamName">-</strong>
+        <span id="myRecord" class="muted">-</span>
+      </span>
+
+      <span class="owner">
+        LEAGUE <strong id="leagueName">-</strong>
+        <span id="leagueSize" class="muted">-</span>
+      </span>
+
+      <span class="owner">
+        UPDATED <strong id="updatedAt">-</strong>
+      </span>
+    </div>
   </div>
 
   <div class="header-actions">
@@ -24,28 +40,6 @@
 </header>
 
 <main>
-
-  <section class="hero-grid">
-
-    <article class="panel stat-panel">
-      <span class="label">My Team</span>
-      <strong id="myTeamName">-</strong>
-      <span id="myRecord" class="muted">-</span>
-    </article>
-
-    <article class="panel stat-panel">
-      <span class="label">League</span>
-      <strong id="leagueName">-</strong>
-      <span id="leagueSize" class="muted">-</span>
-    </article>
-
-    <article class="panel stat-panel">
-      <span class="label">Data Updated</span>
-      <strong id="updatedAt">-</strong>
-      <span class="muted">GitHub Action snapshot</span>
-    </article>
-
-  </section>
 
   <section id="rostersView">
 
@@ -163,7 +157,7 @@
       <div>
         <strong>Recommended Targets</strong>
         <p class="muted compact-copy">
-          Targets are ranked primarily for improving your 2026 contender.
+          Targets are ranked primarily for improving your 2026 contender. Use Analyze This Trade to copy the full league context and open ChatGPT for a deeper evaluation.
         </p>
       </div>
 
@@ -180,43 +174,10 @@
 
   </section>
 
-  <section class="panel prompt-panel">
-
-    <div>
-      <h2>ChatGPT Analysis Prompt</h2>
-
-      <p class="muted">
-        Analysis buttons generate a prompt using this dashboard's public snapshot
-        so ChatGPT can inspect the latest league data.
-      </p>
-    </div>
-
-    <textarea
-      id="promptBox"
-      readonly
-      placeholder="Choose an analysis action above..."
-    ></textarea>
-
-    <div class="prompt-actions">
-      <button id="copyPromptBtn" disabled>
-        Copy Prompt
-      </button>
-
-      <a
-        class="button-link primary-link"
-        href="https://chatgpt.com/"
-        target="_blank"
-        rel="noopener"
-      >
-        Open ChatGPT
-      </a>
-    </div>
-
-    <p id="copyStatus" class="muted"></p>
-
-  </section>
-
   <!-- Temporary compatibility hooks for legacy prompt handlers. -->
+  <textarea id="promptBox" hidden readonly></textarea>
+  <button id="copyPromptBtn" hidden disabled></button>
+  <span id="copyStatus" hidden></span>
   <span id="selectedTeamName" hidden></span>
   <button id="analyzeSelectedBtn" hidden disabled></button>
   <button id="waiverAnalyzeTopBtn" hidden></button>
