@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mettlers-shell-v5';
+const CACHE_NAME = 'mettlers-shell-v6';
 const APP_SHELL = [
   './',
   './index.html',
