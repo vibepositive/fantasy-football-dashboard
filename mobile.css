@@ -1,0 +1,368 @@
+/* iPhone / small-screen refinements. Loaded last so desktop styling stays untouched. */
+@media (max-width: 700px) {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  .topbar {
+    padding: calc(.9rem + env(safe-area-inset-top)) calc(.75rem + env(safe-area-inset-right)) .7rem calc(.75rem + env(safe-area-inset-left));
+    gap: .7rem;
+  }
+
+  main {
+    padding: 0 calc(.75rem + env(safe-area-inset-right)) 1.25rem calc(.75rem + env(safe-area-inset-left));
+  }
+
+  footer {
+    padding: 0 calc(.75rem + env(safe-area-inset-right)) calc(1rem + env(safe-area-inset-bottom)) calc(.75rem + env(safe-area-inset-left));
+  }
+
+  .dashboard-heading h1 {
+    font-size: 2rem;
+  }
+
+  .dashboard-kicker {
+    font-size: .62rem;
+  }
+
+  .dashboard-meta {
+    margin-top: .55rem;
+    gap: .25rem;
+  }
+
+  .dashboard-meta-item {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .header-side {
+    gap: .5rem;
+  }
+
+  .header-update {
+    font-size: .66rem;
+  }
+
+  .header-actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: .5rem;
+  }
+
+  .header-actions button,
+  #activityBtn,
+  #analyzeMyTeamBtn,
+  #analyzeWaiversBtn,
+  #analyzeTradesBtn {
+    min-height: 44px;
+    min-width: 0;
+    width: 100%;
+    padding: .68rem .45rem;
+    font-size: .7rem;
+  }
+
+  .panel,
+  .team-card {
+    border-radius: 12px;
+  }
+
+  .controls,
+  .waiver-header,
+  .waiver-controls,
+  .trade-controls,
+  .activity-header,
+  .activity-controls {
+    padding: .8rem;
+  }
+
+  .roster-controls {
+    gap: .65rem;
+  }
+
+  .roster-controls h2,
+  .waiver-header h2,
+  .activity-header h2 {
+    font-size: 1rem;
+  }
+
+  .filter-row,
+  .activity-filter-row {
+    width: 100%;
+    gap: .5rem;
+  }
+
+  input,
+  select,
+  textarea {
+    min-width: 0;
+    width: 100%;
+    font-size: 16px; /* prevents Safari input zoom */
+  }
+
+  button {
+    min-height: 44px;
+  }
+
+  .teams-grid,
+  .trade-grid,
+  .trade-v2-grid,
+  .activity-list {
+    gap: .7rem;
+  }
+
+  .team-header {
+    padding: .85rem;
+  }
+
+  .team-title-row {
+    gap: .55rem;
+  }
+
+  .team-avatar {
+    width: 38px;
+    height: 38px;
+    flex-basis: 38px;
+  }
+
+  .team-name {
+    font-size: .96rem;
+    line-height: 1.15;
+  }
+
+  .owner,
+  .player-meta {
+    font-size: .7rem;
+  }
+
+  .record {
+    font-size: .72rem;
+    padding: .25rem .45rem;
+  }
+
+  .team-stats {
+    gap: .35rem;
+  }
+
+  .team-stat {
+    padding: .45rem;
+  }
+
+  .team-stat span {
+    font-size: .58rem;
+  }
+
+  .team-stat strong {
+    font-size: .9rem;
+  }
+
+  .roster-section {
+    padding: .7rem .8rem;
+  }
+
+  .live-score-row {
+    grid-template-columns: 34px minmax(0, 1fr) 43px 48px;
+    gap: .35rem;
+    padding: .34rem 0;
+    font-size: .78rem;
+  }
+
+  .section-score-headings {
+    grid-template-columns: 43px 48px;
+    gap: .35rem;
+    font-size: .56rem;
+  }
+
+  .pos {
+    font-size: .62rem;
+    padding: .16rem .1rem;
+  }
+
+  .player-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .projection,
+  .actual-score {
+    font-size: .78rem;
+  }
+
+  .live-score-controls {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    width: 100%;
+    gap: .45rem;
+    align-items: center;
+  }
+
+  .live-score-status {
+    min-width: 0;
+    white-space: normal;
+    line-height: 1.25;
+  }
+
+  .live-score-refresh {
+    min-height: 40px;
+    padding: .45rem .6rem;
+  }
+
+  /* Hover is not useful on iPhone, so show the current matchup inline. */
+  .team-card.has-matchup-hover .team-matchup-popover {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    margin: .7rem .8rem 0;
+    padding: .6rem .7rem;
+    box-shadow: none;
+    pointer-events: none;
+  }
+
+  .matchup-popover-row {
+    font-size: .72rem;
+  }
+
+  .position-filters,
+  .activity-type-filters {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    width: 100%;
+    gap: .35rem;
+  }
+
+  .position-filter,
+  .activity-type-filter {
+    min-width: 0;
+    padding: .5rem .25rem;
+    font-size: .68rem;
+  }
+
+  .activity-type-filters {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .waiver-list-heading,
+  .waiver-row {
+    grid-template-columns: 36px minmax(0, 1fr) 48px 52px;
+    gap: .35rem;
+    padding-left: .65rem;
+    padding-right: .65rem;
+  }
+
+  .waiver-list-heading {
+    font-size: .57rem;
+  }
+
+  .waiver-row {
+    font-size: .78rem;
+  }
+
+  .waiver-player .player-meta,
+  .waiver-name-line {
+    min-width: 0;
+  }
+
+  .waiver-footer {
+    padding: .75rem;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .waiver-footer button {
+    width: 100%;
+  }
+
+  .trade-summary-grid {
+    gap: .65rem;
+  }
+
+  .trade-summary-card {
+    min-height: 0;
+    padding: .85rem;
+  }
+
+  .trade-controls {
+    gap: .65rem;
+  }
+
+  .trade-v2-browser {
+    padding: .75rem;
+    gap: .65rem;
+  }
+
+  .trade-v2-mode-tabs {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .trade-v2-mode {
+    width: 100%;
+    min-height: 40px;
+  }
+
+  .trade-v2-card,
+  .trade-card {
+    padding: .85rem;
+    gap: .7rem;
+  }
+
+  .trade-v2-card-main {
+    grid-template-columns: 1fr;
+    gap: .7rem;
+  }
+
+  .trade-v2-key-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .trade-v2-key-metrics > div {
+    padding: .55rem;
+  }
+
+  .activity-card {
+    padding: .85rem;
+  }
+
+  .activity-detail-row {
+    grid-template-columns: 1fr;
+  }
+
+  .toast {
+    left: calc(.75rem + env(safe-area-inset-left));
+    right: calc(.75rem + env(safe-area-inset-right));
+    width: auto;
+    max-width: none;
+  }
+}
+
+@media (max-width: 390px) {
+  .topbar,
+  main,
+  footer {
+    padding-left: .6rem;
+    padding-right: .6rem;
+  }
+
+  .live-score-row {
+    grid-template-columns: 32px minmax(0, 1fr) 40px 45px;
+    gap: .28rem;
+    font-size: .74rem;
+  }
+
+  .section-score-headings {
+    grid-template-columns: 40px 45px;
+    gap: .28rem;
+  }
+
+  .team-header,
+  .roster-section {
+    padding-left: .7rem;
+    padding-right: .7rem;
+  }
+}
