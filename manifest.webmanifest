@@ -1,8 +1,8 @@
 {
   "id": "/fantasy-football-dashboard/",
-  "name": "Mettlers Fantasy Football Dashboard",
-  "short_name": "Mettlers",
-  "description": "Mettlers dynasty fantasy football dashboard",
+  "name": "Fantasy Manager",
+  "short_name": "Fantasy Manager",
+  "description": "Fantasy Manager dashboard",
   "start_url": "/fantasy-football-dashboard/",
   "scope": "/fantasy-football-dashboard/",
   "display": "standalone",
