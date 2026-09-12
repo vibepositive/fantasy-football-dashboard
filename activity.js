@@ -1,98 +1,56 @@
 (() => {
   const $ = id => document.getElementById(id);
-
   let activitySnapshot = null;
   let activityType = 'ALL';
 
   function teamName(rosterId) {
-    const team = activitySnapshot?.teams?.find(
-      t => String(t.roster_id) === String(rosterId)
-    );
+    const team = activitySnapshot?.teams?.find(t => String(t.roster_id) === String(rosterId));
     return team?.team_name || team?.display_name || `Roster ${rosterId}`;
   }
 
-  function playerIndex() {
-    const map = new Map();
-    (activitySnapshot?.teams || []).forEach(team => {
-      (team.players || []).forEach(player => {
-        map.set(String(player.player_id), player);
-      });
-    });
-    (activitySnapshot?.free_agents || []).forEach(player => {
-      map.set(String(player.player_id), player);
-    });
-    return map;
-  }
-
-  function playerLabel(id, players) {
-    const p = players.get(String(id));
-    if (!p) return String(id);
+  function playerLabel(p) {
+    if (!p) return 'Unknown player';
     const meta = [p.position, p.team].filter(Boolean).join(' | ');
     return meta ? `${p.full_name} (${meta})` : p.full_name;
   }
 
   function allTransactions() {
-    return (activitySnapshot?.recent_transactions || [])
-      .flatMap(group =>
-        (group.transactions || []).map(tx => ({
-          ...tx,
-          week: Number(group.week || 0)
-        }))
-      )
-      .filter(tx => tx.status === 'complete' && ['waiver', 'free_agent', 'trade'].includes(tx.type))
-      .sort((a, b) => Number(b.created || 0) - Number(a.created || 0));
+    return (activitySnapshot?.activity || []).slice().sort((a, b) => Number(b.created || 0) - Number(a.created || 0));
   }
 
   function formatDate(timestamp) {
     if (!timestamp) return '';
-    return new Date(Number(timestamp)).toLocaleString([], {
-      month: 'short',
-      day: 'numeric',
-      hour: 'numeric',
-      minute: '2-digit'
-    });
+    return new Date(Number(timestamp)).toLocaleString([], {month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
   }
 
   function chips(items) {
     if (!items.length) return '<span class="muted">None</span>';
-    return `<div class="activity-assets">${items
-      .map(x => `<span class="activity-asset">${x}</span>`)
-      .join('')}</div>`;
+    return `<div class="activity-assets">${items.map(x => `<span class="activity-asset">${x}</span>`).join('')}</div>`;
   }
 
-  function waiverCard(tx, players) {
-    const adds = Object.entries(tx.adds || {});
-    const drops = Object.entries(tx.drops || {});
-    const rosterId = adds[0]?.[1] ?? tx.roster_ids?.[0];
-    const manager = rosterId != null ? teamName(rosterId) : 'Unknown team';
-    const addedNames = adds.map(([id]) => playerLabel(id, players));
-    const droppedNames = drops.map(([id]) => playerLabel(id, players));
-    const bid = tx.type === 'waiver' ? Number(tx.settings?.waiver_bid ?? 0) : null;
-    const title = addedNames.length === 1
-      ? `${addedNames[0].replace(/ \([^)]*\)$/, '')} ${tx.type === 'waiver' ? 'claimed' : 'added'}`
-      : `${addedNames.length} players ${tx.type === 'waiver' ? 'claimed' : 'added'}`;
+  function rosterMoveCard(tx) {
+    const addedNames = (tx.adds || []).map(playerLabel);
+    const droppedNames = (tx.drops || []).map(playerLabel);
+    const manager = tx.primary_team_name || (tx.primary_roster_id ? teamName(tx.primary_roster_id) : 'Unknown team');
+    const isWaiver = tx.kind === 'waiver';
+    const isDrop = tx.kind === 'drop';
+    const title = isDrop
+      ? `${droppedNames[0]?.replace(/ \([^)]*\)$/, '') || 'Player'} dropped`
+      : addedNames.length === 1
+        ? `${addedNames[0].replace(/ \([^)]*\)$/, '')} ${isWaiver ? 'claimed' : 'added'}`
+        : `${addedNames.length} players ${isWaiver ? 'claimed' : 'added'}`;
+    const kindLabel = isDrop ? 'Player Drop' : isWaiver ? 'Waiver Claim' : 'Free Agent Add';
+    const budget = isWaiver && tx.waiver_budget_remaining != null
+      ? ` | <span class="activity-faab">$${Number(tx.waiver_bid || 0)} spent · $${Number(tx.waiver_budget_remaining)} left</span>`
+      : '';
 
-    return `
-      <article class="panel activity-card">
-        <div class="activity-card-top">
-          <div>
-            <span class="activity-kind">${tx.type === 'waiver' ? 'Waiver Claim' : 'Free Agent Add'}</span>
-            <h3>${title}</h3>
-            <div class="activity-team">${manager}${bid != null ? ` | <span class="activity-faab">$${bid} FAAB</span>` : ''}</div>
-          </div>
-          <span class="activity-time">Week ${tx.week} | ${formatDate(tx.created)}</span>
-        </div>
-        <div class="activity-details">
-          <div class="activity-detail-row">
-            <span class="activity-detail-label">Added</span>
-            ${chips(addedNames)}
-          </div>
-          <div class="activity-detail-row">
-            <span class="activity-detail-label">Dropped</span>
-            ${chips(droppedNames)}
-          </div>
-        </div>
-      </article>`;
+    return `<article class="panel activity-card">
+      <div class="activity-card-top"><div><span class="activity-kind">${kindLabel}</span><h3>${title}</h3><div class="activity-team">${manager}${budget}</div></div><span class="activity-time">Week ${tx.week} | ${formatDate(tx.created)}</span></div>
+      <div class="activity-details">
+        ${addedNames.length ? `<div class="activity-detail-row"><span class="activity-detail-label">Added</span>${chips(addedNames)}</div>` : ''}
+        ${droppedNames.length ? `<div class="activity-detail-row"><span class="activity-detail-label">Dropped</span>${chips(droppedNames)}</div>` : ''}
+      </div>
+    </article>`;
   }
 
   function pickLabel(pick) {
@@ -101,154 +59,42 @@
     return `${season} ${round}`.trim();
   }
 
-  function tradeCard(tx, players) {
+  function tradeCard(tx) {
     const rosterIds = (tx.roster_ids || []).map(String);
-    const adds = Object.entries(tx.adds || {});
-    const picks = tx.draft_picks || [];
-    const faab = tx.waiver_budget || [];
-
     const teamSections = rosterIds.map(rosterId => {
-      const receivedPlayers = adds
-        .filter(([, destination]) => String(destination) === rosterId)
-        .map(([id]) => playerLabel(id, players));
-
-      const receivedPicks = picks
-        .filter(p => String(p.owner_id ?? p.roster_id) === rosterId)
-        .map(pickLabel);
-
-      const receivedFaab = faab
-        .filter(item => String(item.receiver) === rosterId)
-        .map(item => `$${Number(item.amount || 0)} FAAB`);
-
-      return `
-        <div class="activity-detail-row">
-          <span class="activity-detail-label">${teamName(rosterId)}</span>
-          ${chips([...receivedPlayers, ...receivedPicks, ...receivedFaab])}
-        </div>`;
+      const receivedPlayers = (tx.adds || []).filter(x => String(x.roster_id) === rosterId).map(playerLabel);
+      const receivedPicks = (tx.draft_picks || []).filter(p => String(p.owner_id ?? p.roster_id) === rosterId).map(pickLabel);
+      const receivedBudget = (tx.waiver_budget || []).filter(x => String(x.receiver) === rosterId).map(x => `$${Number(x.amount || 0)} waiver budget`);
+      return `<div class="activity-detail-row"><span class="activity-detail-label">${teamName(rosterId)}</span>${chips([...receivedPlayers, ...receivedPicks, ...receivedBudget])}</div>`;
     }).join('');
-
-    return `
-      <article class="panel activity-card">
-        <div class="activity-card-top">
-          <div>
-            <span class="activity-kind">Trade</span>
-            <h3>${rosterIds.map(teamName).join(' ↔ ')}</h3>
-          </div>
-          <span class="activity-time">Week ${tx.week} | ${formatDate(tx.created)}</span>
-        </div>
-        <div class="activity-details">
-          ${teamSections || '<div class="muted">Trade details unavailable.</div>'}
-        </div>
-      </article>`;
+    return `<article class="panel activity-card"><div class="activity-card-top"><div><span class="activity-kind">Trade</span><h3>${rosterIds.map(teamName).join(' ↔ ')}</h3></div><span class="activity-time">Week ${tx.week} | ${formatDate(tx.created)}</span></div><div class="activity-details">${teamSections || '<div class="muted">Trade details unavailable.</div>'}</div></article>`;
   }
 
   function renderActivity() {
     if (!activitySnapshot) return;
-
-    const players = playerIndex();
     const weekValue = $('activityWeekFilter')?.value || 'ALL';
     const teamValue = $('activityTeamFilter')?.value || 'ALL';
-
     let txs = allTransactions();
-
-    if (activityType === 'WAIVERS') {
-      txs = txs.filter(tx => tx.type === 'waiver' || tx.type === 'free_agent');
-    } else if (activityType === 'TRADES') {
-      txs = txs.filter(tx => tx.type === 'trade');
-    }
-
-    if (weekValue !== 'ALL') {
-      txs = txs.filter(tx => String(tx.week) === weekValue);
-    }
-
-    if (teamValue !== 'ALL') {
-      txs = txs.filter(tx => {
-        if ((tx.roster_ids || []).some(id => String(id) === teamValue)) return true;
-        if (Object.values(tx.adds || {}).some(id => String(id) === teamValue)) return true;
-        if (Object.values(tx.drops || {}).some(id => String(id) === teamValue)) return true;
-        return false;
-      });
-    }
-
-    $('activityList').innerHTML = txs.length
-      ? txs.map(tx => tx.type === 'trade' ? tradeCard(tx, players) : waiverCard(tx, players)).join('')
-      : '<div class="panel activity-empty">No completed activity matched these filters.</div>';
-
+    if (activityType === 'WAIVERS') txs = txs.filter(tx => ['waiver','free_agent','drop'].includes(tx.kind));
+    else if (activityType === 'TRADES') txs = txs.filter(tx => tx.kind === 'trade');
+    if (weekValue !== 'ALL') txs = txs.filter(tx => String(tx.week) === weekValue);
+    if (teamValue !== 'ALL') txs = txs.filter(tx => (tx.roster_ids || []).some(id => String(id) === teamValue));
+    $('activityList').innerHTML = txs.length ? txs.map(tx => tx.kind === 'trade' ? tradeCard(tx) : rosterMoveCard(tx)).join('') : '<div class="panel activity-empty">No completed activity matched these filters.</div>';
     $('activityCount').textContent = `${txs.length} transaction${txs.length === 1 ? '' : 's'}`;
   }
 
   function populateFilters() {
-    const weekSelect = $('activityWeekFilter');
-    const teamSelect = $('activityTeamFilter');
-    if (!weekSelect || !teamSelect) return;
-
-    const weeks = [...new Set(allTransactions().map(tx => tx.week))]
-      .filter(Boolean)
-      .sort((a, b) => b - a);
-
-    weekSelect.innerHTML = '<option value="ALL">All Weeks</option>' +
-      weeks.map(w => `<option value="${w}">Week ${w}</option>`).join('');
-
-    teamSelect.innerHTML = '<option value="ALL">All Teams</option>' +
-      (activitySnapshot.teams || [])
-        .slice()
-        .sort((a, b) => (a.team_name || '').localeCompare(b.team_name || ''))
-        .map(team => `<option value="${team.roster_id}">${team.team_name}</option>`)
-        .join('');
+    const weekSelect=$('activityWeekFilter'), teamSelect=$('activityTeamFilter'); if(!weekSelect||!teamSelect)return;
+    const weeks=[...new Set(allTransactions().map(tx=>tx.week))].filter(Boolean).sort((a,b)=>b-a);
+    weekSelect.innerHTML='<option value="ALL">All Weeks</option>'+weeks.map(w=>`<option value="${w}">Week ${w}</option>`).join('');
+    teamSelect.innerHTML='<option value="ALL">All Teams</option>'+(activitySnapshot.teams||[]).slice().sort((a,b)=>(a.team_name||'').localeCompare(b.team_name||'')).map(team=>`<option value="${team.roster_id}">${team.team_name}</option>`).join('');
   }
 
-  function showActivity() {
-    ['rostersView', 'waiversView', 'tradesView'].forEach(id => {
-      const el = $(id);
-      if (el) el.hidden = true;
-    });
-    $('activityView').hidden = false;
-
-    ['analyzeMyTeamBtn', 'analyzeTradesBtn', 'analyzeWaiversBtn'].forEach(id => {
-      $(id)?.classList.remove('active');
-    });
-    $('activityBtn')?.classList.add('active');
-
-    renderActivity();
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
-
-  function leaveActivity() {
-    if ($('activityView')) $('activityView').hidden = true;
-    $('activityBtn')?.classList.remove('active');
-  }
-
-  ['analyzeMyTeamBtn', 'analyzeTradesBtn', 'analyzeWaiversBtn'].forEach(id => {
-    $(id)?.addEventListener('click', leaveActivity);
-  });
-
-  $('activityBtn')?.addEventListener('click', showActivity);
-
-  document.querySelectorAll('.activity-type-filter').forEach(btn => {
-    btn.addEventListener('click', () => {
-      activityType = btn.dataset.activityType;
-      document.querySelectorAll('.activity-type-filter').forEach(x => x.classList.remove('active'));
-      btn.classList.add('active');
-      renderActivity();
-    });
-  });
-
-  $('activityWeekFilter')?.addEventListener('change', renderActivity);
-  $('activityTeamFilter')?.addEventListener('change', renderActivity);
-
-  fetch(`snapshot.json?activity=${Date.now()}`)
-    .then(r => {
-      if (!r.ok) throw new Error(`Snapshot failed: ${r.status}`);
-      return r.json();
-    })
-    .then(data => {
-      activitySnapshot = data;
-      populateFilters();
-      renderActivity();
-    })
-    .catch(err => {
-      if ($('activityList')) {
-        $('activityList').innerHTML = `<div class="panel activity-empty">Unable to load activity. ${err.message}</div>`;
-      }
-    });
+  function showActivity(){['rostersView','waiversView','tradesView'].forEach(id=>{const el=$(id);if(el)el.hidden=true;});$('activityView').hidden=false;['analyzeMyTeamBtn','analyzeTradesBtn','analyzeWaiversBtn'].forEach(id=>$(id)?.classList.remove('active'));$('activityBtn')?.classList.add('active');renderActivity();window.scrollTo({top:0,behavior:'smooth'});}
+  function leaveActivity(){if($('activityView'))$('activityView').hidden=true;$('activityBtn')?.classList.remove('active');}
+  ['analyzeMyTeamBtn','analyzeTradesBtn','analyzeWaiversBtn'].forEach(id=>$(id)?.addEventListener('click',leaveActivity));
+  $('activityBtn')?.addEventListener('click',showActivity);
+  document.querySelectorAll('.activity-type-filter').forEach(btn=>btn.addEventListener('click',()=>{activityType=btn.dataset.activityType;document.querySelectorAll('.activity-type-filter').forEach(x=>x.classList.remove('active'));btn.classList.add('active');renderActivity();}));
+  $('activityWeekFilter')?.addEventListener('change',renderActivity);$('activityTeamFilter')?.addEventListener('change',renderActivity);
+  fetch(`snapshot.json?activity=${Date.now()}`).then(r=>{if(!r.ok)throw new Error(`Snapshot failed: ${r.status}`);return r.json();}).then(data=>{activitySnapshot=data;populateFilters();renderActivity();}).catch(err=>{if($('activityList'))$('activityList').innerHTML=`<div class="panel activity-empty">Unable to load activity. ${err.message}</div>`;});
 })();
