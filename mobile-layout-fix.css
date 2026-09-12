@@ -1,0 +1,52 @@
+/* iPhone layout hardening: prevent the header or first roster view from reserving viewport-height space. */
+@media (max-width: 700px) {
+  html,
+  body {
+    min-height: 0 !important;
+    height: auto !important;
+  }
+
+  .topbar,
+  .dashboard-heading,
+  .header-side,
+  .header-actions {
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+  }
+
+  .topbar {
+    margin: 0 auto !important;
+    padding-bottom: .7rem !important;
+  }
+
+  main {
+    position: static !important;
+    inset: auto !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 auto !important;
+    padding-top: 0 !important;
+  }
+
+  #rostersView {
+    position: static !important;
+    inset: auto !important;
+    display: block !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #rostersView > .roster-controls {
+    position: static !important;
+    inset: auto !important;
+    margin: 0 0 .7rem !important;
+    transform: none !important;
+  }
+
+  #teamsGrid {
+    margin-top: 0 !important;
+  }
+}
