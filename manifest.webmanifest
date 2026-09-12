@@ -1,13 +1,22 @@
 {
+  "id": "/fantasy-football-dashboard/",
   "name": "Mettlers Fantasy Football Dashboard",
   "short_name": "Mettlers",
   "description": "Mettlers dynasty fantasy football dashboard",
   "start_url": "/fantasy-football-dashboard/",
   "scope": "/fantasy-football-dashboard/",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
   "background_color": "#ffffff",
   "theme_color": "#07111f",
+  "prefer_related_applications": false,
   "icons": [
-    {"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png","purpose":"any"}
+    {
+      "src": "/fantasy-football-dashboard/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ]
 }
