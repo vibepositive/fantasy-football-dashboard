@@ -100,7 +100,7 @@
   textarea {
     min-width: 0;
     width: 100%;
-    font-size: 16px; /* prevents Safari input zoom */
+    font-size: 16px;
   }
 
   button {
@@ -211,7 +211,6 @@
     padding: .45rem .6rem;
   }
 
-  /* Hover is not useful on iPhone, so show the current matchup inline. */
   .team-card.has-matchup-hover .team-matchup-popover {
     position: static;
     opacity: 1;
@@ -338,6 +337,28 @@
     right: calc(.75rem + env(safe-area-inset-right));
     width: auto;
     max-width: none;
+  }
+
+  /* Keep the first dashboard panel directly below the nav on iPhone. */
+  .topbar {
+    margin-bottom: 0 !important;
+  }
+
+  main {
+    display: block !important;
+    min-height: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  #rostersView {
+    display: block !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #rostersView > .roster-controls {
+    margin-top: 0 !important;
   }
 }
 
