@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:14:14.940Z",
+  "generated_at": "2026-09-15T21:27:24.934Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -35,8 +35,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.86,
-      "adds": 9192,
+      "proj": 6.8,
+      "adds": 0,
       "value": 101,
       "ecr": 197.7
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.15,
-      "adds": 19062,
+      "adds": 22041,
       "value": 226,
       "ecr": 163.3
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.23,
-      "adds": 21852,
+      "adds": 22905,
       "value": 967,
       "ecr": 101.5
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.71,
-      "adds": 49216,
+      "adds": 61440,
       "value": 204,
       "ecr": 167.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 2229738,
+      "adds": 2486834,
       "value": 19,
       "ecr": 268.5
     },
@@ -147,7 +147,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 10.76,
+      "proj": 10.73,
       "adds": 0,
       "value": 7772,
       "ecr": 12.8
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.01,
-      "adds": 1324288,
+      "adds": 1500872,
       "value": 78,
       "ecr": 208.6
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.39,
-      "adds": 19128,
+      "adds": 21570,
       "value": 14,
       "ecr": 280.8
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 20.81,
-      "adds": 61076,
+      "adds": 69212,
       "value": 2237,
       "ecr": 65.8
     },
@@ -259,7 +259,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 10.6,
+      "proj": 10.59,
       "adds": 0,
       "value": 738,
       "ecr": 113
@@ -290,7 +290,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.73,
-      "adds": 21028,
+      "adds": 25208,
       "value": 337,
       "ecr": 146.3
     },
@@ -304,7 +304,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.99,
-      "adds": 290328,
+      "adds": 310088,
       "value": 320,
       "ecr": 148.5
     },
@@ -360,7 +360,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.85,
-      "adds": 312336,
+      "adds": 362744,
       "value": 223,
       "ecr": 164
     },
@@ -374,7 +374,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.31,
-      "adds": 11167,
+      "adds": 12367,
       "value": 201,
       "ecr": 168.3
     },
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.1,
-      "adds": 10592,
+      "adds": 12356,
       "value": 29,
       "ecr": 250
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.99,
-      "adds": 290328,
+      "adds": 310088,
       "value": 320,
       "ecr": 148.5
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.18,
-      "adds": 9384,
+      "adds": 10456,
       "value": 25,
       "ecr": 257.8
     },
@@ -557,8 +557,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.35,
-      "adds": 33760,
+      "proj": 13.69,
+      "adds": 36952,
       "value": 21,
       "ecr": 265.2
     },
@@ -572,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.31,
-      "adds": 59079,
+      "adds": 74036,
       "value": null,
       "ecr": null
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.31,
-      "adds": 11167,
+      "adds": 12367,
       "value": 201,
       "ecr": 168.3
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 12738,
+      "adds": 17668,
       "value": 6,
       "ecr": 315.8
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.15,
-      "adds": 166170,
+      "adds": 202173,
       "value": 3,
       "ecr": 342
     },
@@ -647,20 +647,6 @@
       "ecr": 188.3
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "nfl": "DAL",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 6.92,
-      "adds": 0,
-      "value": 39,
-      "ecr": 238.5
-    },
-    {
       "id": "9486",
       "name": "Dontayvion Wicks",
       "pos": "WR",
@@ -670,9 +656,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.8,
-      "adds": 242439,
+      "adds": 270735,
       "value": 81,
       "ecr": 207.2
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "nfl": "DAL",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.72,
+      "adds": 10312,
+      "value": 39,
+      "ecr": 238.5
     },
     {
       "id": "9501",
@@ -700,7 +700,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.18,
-      "adds": 1098801,
+      "adds": 1244718,
       "value": 9,
       "ecr": 298.8
     },
@@ -714,9 +714,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 544752,
+      "adds": 603774,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "12472",
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "nfl": "CLE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.09,
+      "adds": 388304,
+      "value": 5,
+      "ecr": 328
     },
     {
       "id": "4993",
@@ -727,8 +741,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 4.6,
-      "adds": 358256,
+      "proj": 4.49,
+      "adds": 383600,
       "value": 9,
       "ecr": 299.8
     },
@@ -742,7 +756,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.85,
-      "adds": 312336,
+      "adds": 362744,
       "value": 223,
       "ecr": 164
     },
@@ -756,23 +770,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.99,
-      "adds": 290328,
+      "adds": 310088,
       "value": 320,
       "ecr": 148.5
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 5.09,
-      "adds": 282072,
-      "value": 5,
-      "ecr": 328
     },
     {
       "id": "9486",
@@ -784,7 +784,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.8,
-      "adds": 242439,
+      "adds": 270735,
       "value": 81,
       "ecr": 207.2
     },
@@ -798,23 +798,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.73,
-      "adds": 191220,
+      "adds": 236028,
       "value": 3,
       "ecr": 349
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "nfl": "ARI",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.41,
-      "adds": 171432,
-      "value": 8,
-      "ecr": 305
     },
     {
       "id": "4177",
@@ -826,9 +812,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.15,
-      "adds": 166170,
+      "adds": 202173,
       "value": 3,
       "ecr": 342
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "nfl": "ARI",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.41,
+      "adds": 191226,
+      "value": 8,
+      "ecr": 305
     },
     {
       "id": "3634",
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.52,
-      "adds": 143278,
+      "adds": 161990,
       "value": 5,
       "ecr": 328
     },
@@ -854,7 +854,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.8,
-      "adds": 68040,
+      "adds": 85176,
       "value": null,
       "ecr": null
     },
@@ -868,7 +868,21 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.31,
-      "adds": 59079,
+      "adds": 74036,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "nfl": "DET",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 2.78,
+      "adds": 69279,
       "value": null,
       "ecr": null
     },
@@ -882,23 +896,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.71,
-      "adds": 54856,
+      "adds": 65214,
       "value": 7,
       "ecr": 309.5
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "nfl": "DET",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 2.51,
-      "adds": 49280,
-      "value": null,
-      "ecr": null
     }
   ]
 }
