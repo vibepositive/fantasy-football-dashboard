@@ -25,11 +25,12 @@ jobs:
         run: |
           node scripts/generate-snapshot.js
           node scripts/add-dynasty-values.js
+          node scripts/generate-analysis.js
       - name: Commit updated snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add snapshot.json
+          git add snapshot.json analysis.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
