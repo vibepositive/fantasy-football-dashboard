@@ -27,35 +27,43 @@ const keepTeam = t => ({
   taxi: (t.taxi || []).map(keepPlayer)
 });
 
-const eligible = (snapshot.free_agents || [])
-  .filter(p => ['QB','RB','WR','TE'].includes(p.position));
+const eligible = (snapshot.free_agents || []).filter(p => ['QB','RB','WR','TE'].includes(p.position));
+const byValue = [...eligible].sort((a,b) => (b.dynasty_value_1qb || 0) - (a.dynasty_value_1qb || 0));
+const byProjection = [...eligible].sort((a,b) => (b.projection || b.projected_points || 0) - (a.projection || a.projected_points || 0));
+const byAdds = [...eligible].sort((a,b) => (b.trending_adds || 0) - (a.trending_adds || 0));
 
-// Keep a compact union of the most useful waiver candidates so this file stays
-// easy to retrieve remotely without changing the existing hourly run cadence.
 const selected = new Map();
-const addTop = (fn, n = 30) => [...eligible].sort(fn).slice(0, n).forEach(p => selected.set(String(p.player_id), p));
-addTop((a,b) => (b.dynasty_value_1qb || 0) - (a.dynasty_value_1qb || 0), 35);
-addTop((a,b) => (b.projection || b.projected_points || 0) - (a.projection || a.projected_points || 0), 35);
-addTop((a,b) => (b.trending_adds || 0) - (a.trending_adds || 0), 35);
+for (const group of [byValue.slice(0,35), byProjection.slice(0,35), byAdds.slice(0,35)]) {
+  for (const p of group) selected.set(String(p.player_id), p);
+}
+const freeAgents = [...selected.values()].map(keepPlayer);
 
-const freeAgents = [...selected.values()]
-  .sort((a,b) => Math.max(b.dynasty_value_1qb || 0, (b.trending_adds || 0) / 100) - Math.max(a.dynasty_value_1qb || 0, (a.trending_adds || 0) / 100))
-  .map(keepPlayer);
+const leagueInfo = snapshot.league ? {
+  id: snapshot.league.league_id,
+  name: snapshot.league.name,
+  season: snapshot.league.season,
+  scoring: snapshot.league.scoring_settings,
+  roster_positions: snapshot.league.roster_positions
+} : null;
 
 const analysis = {
   generated_at: snapshot.generated_at || new Date().toISOString(),
-  league: snapshot.league ? {
-    id: snapshot.league.league_id,
-    name: snapshot.league.name,
-    season: snapshot.league.season,
-    scoring: snapshot.league.scoring_settings,
-    roster_positions: snapshot.league.roster_positions
-  } : null,
+  league: leagueInfo,
   current_week: snapshot.current_week,
   my_team: snapshot.my_team ? keepTeam(snapshot.my_team) : null,
   free_agents: freeAgents,
   market_date: snapshot.dynasty_market?.scrape_date || null
 };
 
+const shortlist = {
+  generated_at: analysis.generated_at,
+  league: { name: leagueInfo?.name, season: leagueInfo?.season, format: '1QB', rec: leagueInfo?.scoring?.rec, roster_positions: leagueInfo?.roster_positions },
+  my_roster: (snapshot.my_team?.players || []).map(keepPlayer),
+  top_dynasty_available: byValue.slice(0,15).map(keepPlayer),
+  top_projected_available: byProjection.slice(0,15).map(keepPlayer),
+  most_added_available: byAdds.slice(0,15).map(keepPlayer)
+};
+
 fs.writeFileSync('analysis.json', JSON.stringify(analysis, null, 2));
+fs.writeFileSync('waiver-shortlist.json', JSON.stringify(shortlist, null, 2));
 console.log(`Compact analysis snapshot: ${freeAgents.length} waiver candidates`);
