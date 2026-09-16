@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:01:27.685Z",
+  "generated_at": "2026-09-16T20:10:13.084Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.15,
-      "adds": 53082,
+      "adds": 69786,
       "value": 226,
       "ecr": 163.3
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.18,
-      "adds": 38511,
+      "adds": 44451,
       "value": 967,
       "ecr": 101.5
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.76,
-      "adds": 117744,
+      "adds": 119720,
       "value": 204,
       "ecr": 167.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 2319632,
+      "adds": 2017533,
       "value": 19,
       "ecr": 268.5
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.01,
-      "adds": 1806400,
+      "adds": 1680304,
       "value": 78,
       "ecr": 208.6
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.39,
-      "adds": 26214,
+      "adds": 27564,
       "value": 14,
       "ecr": 280.8
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 20.81,
-      "adds": 83928,
+      "adds": 82564,
       "value": 2237,
       "ecr": 65.8
     },
@@ -360,7 +360,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 30672,
+      "adds": 40440,
       "value": 192,
       "ecr": 170.3
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 851952,
+      "adds": 817740,
       "value": null,
       "ecr": null
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.94,
-      "adds": 32840,
+      "adds": 31016,
       "value": 21,
       "ecr": 265.2
     },
@@ -572,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.31,
-      "adds": 104806,
+      "adds": 94812,
       "value": null,
       "ecr": null
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 41221,
+      "adds": 46492,
       "value": 6,
       "ecr": 315.8
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.15,
-      "adds": 340014,
+      "adds": 342336,
       "value": 3,
       "ecr": 342
     },
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.73,
-      "adds": 393528,
+      "adds": 403404,
       "value": 3,
       "ecr": 349
     },
@@ -700,23 +700,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.18,
-      "adds": 1364220,
+      "adds": 1347048,
       "value": 9,
       "ecr": 298.8
-    },
-    {
-      "id": "3161",
-      "name": "Carson Wentz",
-      "pos": "QB",
-      "nfl": "MIN",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 16.14,
-      "adds": 851952,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "12472",
@@ -728,9 +714,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5,
-      "adds": 831608,
+      "adds": 841784,
       "value": 5,
       "ecr": 328
+    },
+    {
+      "id": "3161",
+      "name": "Carson Wentz",
+      "pos": "QB",
+      "nfl": "MIN",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 16.14,
+      "adds": 817740,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "3286",
@@ -742,23 +742,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.73,
-      "adds": 393528,
+      "adds": 403404,
       "value": 3,
       "ecr": 349
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "nfl": "CIN",
-      "age": 30,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 4.49,
-      "adds": 342072,
-      "value": 9,
-      "ecr": 299.8
     },
     {
       "id": "4177",
@@ -770,9 +756,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.15,
-      "adds": 340014,
+      "adds": 342336,
       "value": 3,
       "ecr": 342
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "nfl": "CIN",
+      "age": 30,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 4.49,
+      "adds": 316880,
+      "value": 9,
+      "ecr": 299.8
     },
     {
       "id": "11729",
@@ -784,7 +784,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.78,
-      "adds": 214305,
+      "adds": 235004,
       "value": null,
       "ecr": null
     },
@@ -798,7 +798,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.41,
-      "adds": 199041,
+      "adds": 187551,
       "value": 8,
       "ecr": 305
     },
@@ -812,7 +812,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.52,
-      "adds": 196828,
+      "adds": 186258,
       "value": 5,
       "ecr": 328
     },
@@ -826,7 +826,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.84,
-      "adds": 145530,
+      "adds": 142200,
       "value": null,
       "ecr": null
     },
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.31,
-      "adds": 104806,
+      "adds": 94812,
       "value": null,
       "ecr": null
     },
@@ -854,23 +854,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.71,
-      "adds": 88866,
+      "adds": 86370,
       "value": 7,
       "ecr": 309.5
-    },
-    {
-      "id": "6826",
-      "name": "Cole Kmet",
-      "pos": "TE",
-      "nfl": "CHI",
-      "age": 27,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.07,
-      "adds": 45657,
-      "value": 22,
-      "ecr": 263
     },
     {
       "id": "11370",
@@ -882,23 +868,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 41221,
+      "adds": 46492,
       "value": 6,
       "ecr": 315.8
     },
     {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "nfl": "CIN",
-      "age": 31,
+      "id": "6826",
+      "name": "Cole Kmet",
+      "pos": "TE",
+      "nfl": "CHI",
+      "age": 27,
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.49,
-      "adds": 34588,
-      "value": 5,
-      "ecr": 325
+      "proj": 3.07,
+      "adds": 42921,
+      "value": 22,
+      "ecr": 263
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "nfl": null,
+      "age": 31,
+      "injury": null,
+      "injury_part": "Knee - ACL",
+      "depth": null,
+      "proj": null,
+      "adds": 40440,
+      "value": 192,
+      "ecr": 170.3
     }
   ]
 }
