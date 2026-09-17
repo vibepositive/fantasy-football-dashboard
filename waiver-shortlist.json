@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:43:21.011Z",
+  "generated_at": "2026-09-17T13:31:00.961Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.64,
-      "adds": 99144,
+      "adds": 93321,
       "value": 226,
       "ecr": 163.3
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 50787,
+      "adds": 46314,
       "value": 967,
       "ecr": 101.5
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.76,
-      "adds": 62456,
+      "adds": 52344,
       "value": 204,
       "ecr": 167.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 514857,
+      "adds": 391524,
       "value": 19,
       "ecr": 268.5
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 680480,
+      "adds": 550272,
       "value": 78,
       "ecr": 208.6
     },
@@ -176,7 +176,7 @@
       "injury_part": "Back",
       "depth": 3,
       "proj": 6.11,
-      "adds": 22452,
+      "adds": 19110,
       "value": 14,
       "ecr": 280.8
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 55556,
+      "adds": 46120,
       "value": 2237,
       "ecr": 65.8
     },
@@ -360,7 +360,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 55032,
+      "adds": 53600,
       "value": 192,
       "ecr": 170.3
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 343674,
+      "adds": 275856,
       "value": null,
       "ecr": null
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 19240,
+      "adds": 17072,
       "value": 21,
       "ecr": 265.2
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.31,
-      "adds": 24233,
+      "adds": 19477,
       "value": null,
       "ecr": null
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 37005,
+      "adds": 33320,
       "value": 6,
       "ecr": 315.8
     },
@@ -700,7 +700,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.18,
-      "adds": 773937,
+      "adds": 692883,
       "value": 9,
       "ecr": 298.8
     },
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5,
-      "adds": 390024,
+      "adds": 344528,
       "value": 5,
       "ecr": 328
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 343674,
+      "adds": 275856,
       "value": null,
       "ecr": null
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 247290,
+      "adds": 230190,
       "value": 3,
       "ecr": 349
     },
@@ -756,23 +756,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 172096,
+      "adds": 143856,
       "value": 9,
       "ecr": 299.8
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "nfl": "CHI",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.36,
-      "adds": 81742,
-      "value": 5,
-      "ecr": 328
     },
     {
       "id": "10218",
@@ -784,9 +770,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.68,
-      "adds": 81620,
+      "adds": 96103,
       "value": 13,
       "ecr": 283.8
+    },
+    {
+      "id": "3634",
+      "name": "Kalif Raymond",
+      "pos": "WR",
+      "nfl": "CHI",
+      "age": 32,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.36,
+      "adds": 67530,
+      "value": 5,
+      "ecr": 328
     },
     {
       "id": "4454",
@@ -798,7 +798,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.34,
-      "adds": 80430,
+      "adds": 65631,
       "value": 8,
       "ecr": 305
     },
@@ -812,7 +812,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.84,
-      "adds": 71010,
+      "adds": 61947,
       "value": null,
       "ecr": null
     },
@@ -826,7 +826,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 55032,
+      "adds": 53600,
       "value": 192,
       "ecr": 170.3
     },
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 37005,
+      "adds": 33320,
       "value": 6,
       "ecr": 315.8
     },
@@ -854,7 +854,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.93,
-      "adds": 34890,
+      "adds": 28434,
       "value": 7,
       "ecr": 309.5
     },
@@ -868,23 +868,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.49,
-      "adds": 26112,
+      "adds": 23284,
       "value": 5,
       "ecr": 325
-    },
-    {
-      "id": "5854",
-      "name": "Drew Lock",
-      "pos": "QB",
-      "nfl": "SEA",
-      "age": 29,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 13.31,
-      "adds": 24233,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "19",
@@ -896,9 +882,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 21321,
+      "adds": 23094,
       "value": 9,
       "ecr": 301.3
+    },
+    {
+      "id": "5854",
+      "name": "Drew Lock",
+      "pos": "QB",
+      "nfl": "SEA",
+      "age": 29,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 13.31,
+      "adds": 19477,
+      "value": null,
+      "ecr": null
     }
   ]
 }
