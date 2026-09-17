@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:17:02.576Z",
+  "generated_at": "2026-09-17T21:30:09.682Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.64,
-      "adds": 90072,
+      "adds": 80064,
       "value": 226,
       "ecr": 163.3
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 42858,
+      "adds": 39159,
       "value": 967,
       "ecr": 101.5
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.76,
-      "adds": 43160,
+      "adds": 33640,
       "value": 204,
       "ecr": 167.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 269675,
+      "adds": 206220,
       "value": 19,
       "ecr": 268.5
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 425128,
+      "adds": 345472,
       "value": 78,
       "ecr": 208.6
     },
@@ -176,7 +176,7 @@
       "injury_part": "Back",
       "depth": 3,
       "proj": 6.11,
-      "adds": 15384,
+      "adds": 12294,
       "value": 14,
       "ecr": 280.8
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 36720,
+      "adds": 30880,
       "value": 2237,
       "ecr": 65.8
     },
@@ -314,8 +314,8 @@
       "pos": "QB",
       "nfl": "IND",
       "age": 24,
-      "injury": "Questionable",
-      "injury_part": "Groin",
+      "injury": null,
+      "injury_part": null,
       "depth": 2,
       "proj": null,
       "adds": 0,
@@ -360,7 +360,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 47152,
+      "adds": 44432,
       "value": 192,
       "ecr": 170.3
     },
@@ -416,7 +416,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.6,
-      "adds": 0,
+      "adds": 13099,
       "value": 135,
       "ecr": 185.3
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 208326,
+      "adds": 168954,
       "value": null,
       "ecr": null
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 14776,
+      "adds": 12768,
       "value": 21,
       "ecr": 265.2
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.31,
-      "adds": 14397,
+      "adds": 10865,
       "value": null,
       "ecr": null
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 30012,
+      "adds": 23612,
       "value": 6,
       "ecr": 315.8
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.6,
-      "adds": 0,
+      "adds": 13099,
       "value": 135,
       "ecr": 185.3
     },
@@ -700,7 +700,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.18,
-      "adds": 627615,
+      "adds": 522036,
       "value": 9,
       "ecr": 298.8
     },
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.5,
-      "adds": 299392,
+      "adds": 241120,
       "value": 5,
       "ecr": 328
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 210480,
+      "adds": 175134,
       "value": 3,
       "ecr": 349
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 208326,
+      "adds": 168954,
       "value": null,
       "ecr": null
     },
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.68,
-      "adds": 125468,
+      "adds": 143269,
       "value": 13,
       "ecr": 283.8
     },
@@ -770,51 +770,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 114696,
+      "adds": 98304,
       "value": 9,
       "ecr": 299.8
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "nfl": "CHI",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.36,
-      "adds": 53594,
-      "value": 5,
-      "ecr": 328
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.84,
-      "adds": 52947,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "4454",
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "nfl": "ARI",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.34,
-      "adds": 50922,
-      "value": 8,
-      "ecr": 305
     },
     {
       "id": "3321",
@@ -826,9 +784,51 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 47152,
+      "adds": 44432,
       "value": 192,
       "ecr": 170.3
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.84,
+      "adds": 43929,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "3634",
+      "name": "Kalif Raymond",
+      "pos": "WR",
+      "nfl": "CHI",
+      "age": 32,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.36,
+      "adds": 43318,
+      "value": 5,
+      "ecr": 328
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "nfl": "ARI",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.34,
+      "adds": 39528,
+      "value": 8,
+      "ecr": 305
     },
     {
       "id": "11370",
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 30012,
+      "adds": 23612,
       "value": 6,
       "ecr": 315.8
     },
@@ -854,23 +854,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 25461,
+      "adds": 17199,
       "value": 9,
       "ecr": 301.3
-    },
-    {
-      "id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "nfl": "NO",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.93,
-      "adds": 21584,
-      "value": 7,
-      "ecr": 309.5
     },
     {
       "id": "4147",
@@ -882,23 +868,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.49,
-      "adds": 20512,
+      "adds": 15476,
       "value": 5,
       "ecr": 325
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
+      "id": "9757",
+      "name": "Kendre Miller",
       "pos": "RB",
-      "nfl": "BAL",
-      "age": 28,
+      "nfl": "NO",
+      "age": 24,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
-      "proj": 4.49,
-      "adds": 14778,
+      "depth": 3,
+      "proj": 3.93,
+      "adds": 13600,
       "value": 7,
-      "ecr": 312.8
+      "ecr": 309.5
+    },
+    {
+      "id": "9504",
+      "name": "Kayshon Boutte",
+      "pos": "WR",
+      "nfl": "HOU",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.6,
+      "adds": 13099,
+      "value": 135,
+      "ecr": 185.3
     }
   ]
 }
