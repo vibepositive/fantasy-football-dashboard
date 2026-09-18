@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:22:53.079Z",
+  "generated_at": "2026-09-18T05:57:38.798Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.64,
-      "adds": 76995,
+      "adds": 72216,
       "value": 226,
       "ecr": 163.3
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 37791,
+      "adds": 37863,
       "value": 967,
       "ecr": 101.5
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.76,
-      "adds": 29416,
+      "adds": 22640,
       "value": 204,
       "ecr": 167.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 173075,
+      "adds": 129395,
       "value": 19,
       "ecr": 268.5
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 316056,
+      "adds": 264312,
       "value": 78,
       "ecr": 208.6
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.93,
-      "adds": 10920,
+      "adds": 10788,
       "value": 14,
       "ecr": 280.8
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 28904,
+      "adds": 26012,
       "value": 2237,
       "ecr": 65.8
     },
@@ -344,7 +344,7 @@
       "age": 26,
       "injury": "Questionable",
       "injury_part": "Knee - ACL",
-      "depth": 2,
+      "depth": 1,
       "proj": null,
       "adds": 0,
       "value": 195,
@@ -360,7 +360,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 44192,
+      "adds": 43448,
       "value": 192,
       "ecr": 170.3
     },
@@ -416,7 +416,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.84,
-      "adds": 16912,
+      "adds": 16739,
       "value": 135,
       "ecr": 185.3
     },
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.24,
-      "adds": 0,
+      "adds": 9332,
       "value": 29,
       "ecr": 250
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 156654,
+      "adds": 130164,
       "value": null,
       "ecr": null
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 12576,
+      "adds": 11880,
       "value": 21,
       "ecr": 265.2
     },
@@ -584,9 +584,9 @@
       "age": 32,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
+      "depth": 2,
       "proj": 10.78,
-      "adds": 9750,
+      "adds": 0,
       "value": null,
       "ecr": null
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.84,
-      "adds": 16912,
+      "adds": 16739,
       "value": 135,
       "ecr": 185.3
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 22362,
+      "adds": 19953,
       "value": 6,
       "ecr": 315.8
     },
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.06,
-      "adds": 162848,
+      "adds": 152761,
       "value": 13,
       "ecr": 283.8
     },
@@ -700,7 +700,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 518112,
+      "adds": 513432,
       "value": 9,
       "ecr": 298.8
     },
@@ -714,23 +714,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.5,
-      "adds": 227928,
+      "adds": 196208,
       "value": 5,
       "ecr": 328
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.41,
-      "adds": 164412,
-      "value": 3,
-      "ecr": 349
     },
     {
       "id": "10218",
@@ -742,9 +728,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.06,
-      "adds": 162848,
+      "adds": 152761,
       "value": 13,
       "ecr": 283.8
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.41,
+      "adds": 148980,
+      "value": 3,
+      "ecr": 349
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "nfl": "BUF",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 2.58,
+      "adds": 134478,
+      "value": 34,
+      "ecr": 243.6
     },
     {
       "id": "3161",
@@ -756,7 +770,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 156654,
+      "adds": 130164,
       "value": null,
       "ecr": null
     },
@@ -770,7 +784,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 93932,
+      "adds": 87388,
       "value": 9,
       "ecr": 299.8
     },
@@ -784,7 +798,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 44192,
+      "adds": 43448,
       "value": 192,
       "ecr": 170.3
     },
@@ -798,7 +812,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.68,
-      "adds": 41454,
+      "adds": 36099,
       "value": null,
       "ecr": null
     },
@@ -812,7 +826,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.36,
-      "adds": 39042,
+      "adds": 30594,
       "value": 5,
       "ecr": 328
     },
@@ -826,7 +840,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.34,
-      "adds": 33621,
+      "adds": 24570,
       "value": 8,
       "ecr": 305
     },
@@ -840,7 +854,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 22362,
+      "adds": 19953,
       "value": 6,
       "ecr": 315.8
     },
@@ -854,7 +868,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.84,
-      "adds": 16912,
+      "adds": 16739,
       "value": 135,
       "ecr": 185.3
     },
@@ -868,23 +882,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 14625,
+      "adds": 12618,
       "value": 9,
       "ecr": 301.3
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "nfl": "CIN",
-      "age": 31,
-      "injury": "Questionable",
-      "injury_part": "Knee",
-      "depth": 2,
-      "proj": 4.49,
-      "adds": 13252,
-      "value": 5,
-      "ecr": 325
     },
     {
       "id": "1166",
@@ -896,7 +896,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 12576,
+      "adds": 11880,
       "value": 21,
       "ecr": 265.2
     }
