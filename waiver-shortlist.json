@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:39:40.593Z",
+  "generated_at": "2026-09-18T22:36:41.517Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -35,7 +35,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.73,
+      "proj": 7.3,
       "adds": 0,
       "value": 193,
       "ecr": 170
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.65,
-      "adds": 60156,
+      "adds": 53361,
       "value": 34,
       "ecr": 244.4
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 32562,
+      "adds": 32688,
       "value": 1186,
       "ecr": 92.8
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.51,
-      "adds": 17072,
+      "adds": 17168,
       "value": 226,
       "ecr": 163.4
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 94416,
+      "adds": 81109,
       "value": 19,
       "ecr": 269
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 197824,
+      "adds": 171080,
       "value": 107,
       "ecr": 195
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.93,
-      "adds": 9750,
+      "adds": 9264,
       "value": 44,
       "ecr": 233.4
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 20884,
+      "adds": 17796,
       "value": 2114,
       "ecr": 68.2
     },
@@ -346,7 +346,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 37552,
+      "adds": 33672,
       "value": 221,
       "ecr": 164.3
     },
@@ -359,7 +359,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 5,
-      "proj": 1.13,
+      "proj": 1.94,
       "adds": 0,
       "value": 182,
       "ecr": 172.6
@@ -401,7 +401,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 3.86,
+      "proj": 7,
       "adds": 0,
       "value": 131,
       "ecr": 186.6
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.24,
-      "adds": 7908,
+      "adds": 0,
       "value": 74,
       "ecr": 211
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 106488,
+      "adds": 98838,
       "value": 2,
       "ecr": 370
     },
@@ -530,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.93,
-      "adds": 8160,
+      "adds": 7448,
       "value": 43,
       "ecr": 234.4
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 10408,
+      "adds": 9368,
       "value": 48,
       "ecr": 229.2
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.78,
-      "adds": 9434,
+      "adds": 9352,
       "value": 4,
       "ecr": 338
     },
@@ -600,9 +600,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 15265,
+      "adds": 13125,
       "value": 20,
       "ecr": 266
+    },
+    {
+      "id": "12536",
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "nfl": "HOU",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 4,
+      "proj": 7,
+      "adds": 0,
+      "value": 131,
+      "ecr": 186.6
     },
     {
       "id": "9501",
@@ -617,6 +631,20 @@
       "adds": 0,
       "value": 31,
       "ecr": 247.2
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "nfl": "HOU",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.62,
+      "adds": 244916,
+      "value": 2,
+      "ecr": 368
     },
     {
       "id": "11783",
@@ -659,34 +687,6 @@
       "adds": 0,
       "value": 291,
       "ecr": 152.6
-    },
-    {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "nfl": "HOU",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 6.06,
-      "adds": 168742,
-      "value": 2,
-      "ecr": 368
-    },
-    {
-      "id": "8188",
-      "name": "Tyquan Thornton",
-      "pos": "WR",
-      "nfl": "KC",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.51,
-      "adds": 7567,
-      "value": 14,
-      "ecr": 280.3
     }
   ],
   "most_added_available": [
@@ -700,7 +700,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 388800,
+      "adds": 331254,
       "value": 7,
       "ecr": 311
     },
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 2.58,
-      "adds": 270108,
+      "adds": 322650,
       "value": 89,
       "ecr": 203.2
     },
@@ -727,8 +727,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.06,
-      "adds": 168742,
+      "proj": 6.62,
+      "adds": 244916,
       "value": 2,
       "ecr": 368
     },
@@ -742,23 +742,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.5,
-      "adds": 140224,
+      "adds": 116688,
       "value": 1,
       "ecr": 380.7
-    },
-    {
-      "id": "3286",
-      "name": "Demarcus Robinson",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.41,
-      "adds": 110088,
-      "value": 1,
-      "ecr": 380
     },
     {
       "id": "3161",
@@ -770,9 +756,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 106488,
+      "adds": 98838,
       "value": 2,
       "ecr": 370
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.41,
+      "adds": 96690,
+      "value": 1,
+      "ecr": 380
     },
     {
       "id": "4993",
@@ -784,23 +784,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 77200,
+      "adds": 71016,
       "value": 27,
       "ecr": 254.5
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "nfl": null,
-      "age": 31,
-      "injury": null,
-      "injury_part": "Knee - ACL",
-      "depth": null,
-      "proj": null,
-      "adds": 37552,
-      "value": 221,
-      "ecr": 164.3
     },
     {
       "id": "11630",
@@ -812,9 +798,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.68,
-      "adds": 35082,
+      "adds": 38808,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "nfl": null,
+      "age": 31,
+      "injury": null,
+      "injury_part": "Knee - ACL",
+      "depth": null,
+      "proj": null,
+      "adds": 33672,
+      "value": 221,
+      "ecr": 164.3
     },
     {
       "id": "3634",
@@ -826,7 +826,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.36,
-      "adds": 23088,
+      "adds": 21224,
       "value": null,
       "ecr": null
     },
@@ -840,9 +840,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.34,
-      "adds": 17451,
+      "adds": 15378,
       "value": 1,
       "ecr": 377
+    },
+    {
+      "id": "19",
+      "name": "Joe Flacco",
+      "pos": "QB",
+      "nfl": "CIN",
+      "age": 41,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": null,
+      "adds": 13770,
+      "value": 3,
+      "ecr": 351
     },
     {
       "id": "11370",
@@ -854,7 +868,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 15265,
+      "adds": 13125,
       "value": 20,
       "ecr": 266
     },
@@ -868,23 +882,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 10408,
+      "adds": 9368,
       "value": 48,
       "ecr": 229.2
-    },
-    {
-      "id": "19",
-      "name": "Joe Flacco",
-      "pos": "QB",
-      "nfl": "CIN",
-      "age": 41,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": null,
-      "adds": 10359,
-      "value": 3,
-      "ecr": 351
     },
     {
       "id": "4574",
@@ -896,7 +896,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.78,
-      "adds": 9434,
+      "adds": 9352,
       "value": 4,
       "ecr": 338
     }
