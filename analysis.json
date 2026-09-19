@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:03:38.697Z",
+  "generated_at": "2026-09-19T20:44:26.506Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -84,7 +84,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.3,
-        "adds": 8280,
+        "adds": 8964,
         "value": 193,
         "ecr": 170
       },
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 10.65,
-        "adds": 28557,
+        "adds": 26091,
         "value": 34,
         "ecr": 244.4
       },
@@ -126,7 +126,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 8.27,
-        "adds": 22527,
+        "adds": 21024,
         "value": 1186,
         "ecr": 92.8
       },
@@ -140,7 +140,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.51,
-        "adds": 19888,
+        "adds": 20408,
         "value": 226,
         "ecr": 163.4
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.65,
-        "adds": 41286,
+        "adds": 36484,
         "value": 19,
         "ecr": 269
       },
@@ -210,7 +210,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.29,
-        "adds": 67688,
+        "adds": 54552,
         "value": 107,
         "ecr": 195
       },
@@ -224,7 +224,7 @@
         "injury_part": null,
         "depth": 3,
         "proj": 5.93,
-        "adds": 4998,
+        "adds": 0,
         "value": 44,
         "ecr": 233.4
       },
@@ -294,7 +294,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 19.99,
-        "adds": 8876,
+        "adds": 8056,
         "value": 2114,
         "ecr": 68.2
       },
@@ -324,7 +324,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 19.99,
-        "adds": 8876,
+        "adds": 8056,
         "value": 2114,
         "ecr": 68.2
       },
@@ -366,7 +366,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 8.27,
-        "adds": 22527,
+        "adds": 21024,
         "value": 1186,
         "ecr": 92.8
       },
@@ -380,7 +380,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.65,
-        "adds": 41286,
+        "adds": 36484,
         "value": 19,
         "ecr": 269
       },
@@ -422,7 +422,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 10.65,
-        "adds": 28557,
+        "adds": 26091,
         "value": 34,
         "ecr": 244.4
       },
@@ -436,7 +436,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.29,
-        "adds": 67688,
+        "adds": 54552,
         "value": 107,
         "ecr": 195
       }
@@ -461,20 +461,6 @@
   },
   "free_agents": [
     {
-      "id": "13276",
-      "name": "Omar Cooper",
-      "pos": "WR",
-      "nfl": "NYJ",
-      "age": 22,
-      "injury": "Out",
-      "injury_part": "Ankle",
-      "depth": 9,
-      "proj": null,
-      "adds": 0,
-      "value": 717,
-      "ecr": 114.2
-    },
-    {
       "id": "8676",
       "name": "Rashid Shaheed",
       "pos": "WR",
@@ -498,7 +484,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.92,
-      "adds": 0,
+      "adds": 10128,
       "value": 389,
       "ecr": 140.2
     },
@@ -540,7 +526,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 24952,
+      "adds": 22480,
       "value": 221,
       "ecr": 164.3
     },
@@ -552,8 +538,8 @@
       "age": 22,
       "injury": null,
       "injury_part": null,
-      "depth": 4,
-      "proj": 1.03,
+      "depth": 3,
+      "proj": 4.66,
       "adds": 0,
       "value": 200,
       "ecr": 168.6
@@ -610,7 +596,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7,
-      "adds": 6636,
+      "adds": 6974,
       "value": 131,
       "ecr": 186.6
     },
@@ -764,7 +750,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 2.58,
-      "adds": 201717,
+      "adds": 166347,
       "value": 89,
       "ecr": 203.2
     },
@@ -946,9 +932,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 5024,
+      "adds": 0,
       "value": 48,
       "ecr": 229.2
+    },
+    {
+      "id": "11575",
+      "name": "Ray Davis",
+      "pos": "RB",
+      "nfl": "BUF",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.83,
+      "adds": 0,
+      "value": 47,
+      "ecr": 230.6
     },
     {
       "id": "3161",
@@ -960,7 +960,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 67674,
+      "adds": 52038,
       "value": 2,
       "ecr": 370
     },
@@ -974,7 +974,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.93,
-      "adds": 4992,
+      "adds": 0,
       "value": 43,
       "ecr": 234.4
     },
@@ -1002,7 +1002,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.78,
-      "adds": 7804,
+      "adds": 6184,
       "value": 4,
       "ecr": 338
     },
@@ -1016,7 +1016,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 6835,
+      "adds": 6312,
       "value": 20,
       "ecr": 266
     },
@@ -1044,9 +1044,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.62,
-      "adds": 345814,
+      "adds": 334579,
       "value": 2,
       "ecr": 368
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.53,
+      "adds": 74988,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "11783",
@@ -1072,7 +1086,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.51,
-      "adds": 6412,
+      "adds": 7035,
       "value": 14,
       "ecr": 280.3
     },
@@ -1086,7 +1100,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 48378,
+      "adds": 41742,
       "value": 1,
       "ecr": 380
     },
@@ -1100,7 +1114,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.4,
-      "adds": 7596,
+      "adds": 6669,
       "value": 2,
       "ecr": 366
     },
@@ -1114,23 +1128,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.17,
-      "adds": 9783,
+      "adds": 9882,
       "value": 9,
       "ecr": 302.8
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.68,
-      "adds": 60192,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "3634",
@@ -1142,7 +1142,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.51,
-      "adds": 13664,
+      "adds": 12036,
       "value": null,
       "ecr": null
     },
@@ -1156,7 +1156,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 34716,
+      "adds": 26036,
       "value": 27,
       "ecr": 254.5
     },
@@ -1212,7 +1212,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.29,
-      "adds": 0,
+      "adds": 5100,
       "value": 36,
       "ecr": 241.3
     },
@@ -1226,7 +1226,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 4.07,
-      "adds": 9216,
+      "adds": 8829,
       "value": 3,
       "ecr": 349
     },
@@ -1240,7 +1240,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.98,
-      "adds": 5934,
+      "adds": 6588,
       "value": 3,
       "ecr": 353
     },
@@ -1268,35 +1268,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 3.87,
-      "adds": 5278,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "11575",
-      "name": "Ray Davis",
-      "pos": "RB",
-      "nfl": "BUF",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.83,
-      "adds": 0,
-      "value": 47,
-      "ecr": 230.6
-    },
-    {
-      "id": "3269",
-      "name": "Chris Moore",
-      "pos": "WR",
-      "nfl": "BAL",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.72,
-      "adds": 9366,
+      "adds": 4936,
       "value": null,
       "ecr": null
     },
@@ -1310,7 +1282,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 122418,
+      "adds": 100638,
       "value": 7,
       "ecr": 311
     },
@@ -1324,23 +1296,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 14589,
+      "adds": 12798,
       "value": 3,
       "ecr": 351
     },
     {
-      "id": "4454",
-      "name": "Kendrick Bourne",
+      "id": "12718",
+      "name": "Konata Mumpfield",
       "pos": "WR",
-      "nfl": "ARI",
-      "age": 31,
+      "nfl": "LAR",
+      "age": 23,
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 3.34,
-      "adds": 8364,
-      "value": 1,
-      "ecr": 377
+      "proj": 1.82,
+      "adds": 11106,
+      "value": 4,
+      "ecr": 339.5
+    },
+    {
+      "id": "3269",
+      "name": "Chris Moore",
+      "pos": "WR",
+      "nfl": "BAL",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.72,
+      "adds": 10759,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "12699",
@@ -1352,9 +1338,23 @@
       "injury_part": null,
       "depth": 5,
       "proj": 1.81,
-      "adds": 7049,
+      "adds": 7980,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "nfl": "ARI",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.34,
+      "adds": 6915,
+      "value": 1,
+      "ecr": 377
     },
     {
       "id": "4144",
@@ -1366,7 +1366,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 6097,
+      "adds": 5334,
       "value": 2,
       "ecr": 364
     },
@@ -1380,9 +1380,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.18,
-      "adds": 5472,
+      "adds": 4960,
       "value": 19,
       "ecr": 269.5
+    },
+    {
+      "id": "11596",
+      "name": "Ben Sinnott",
+      "pos": "TE",
+      "nfl": "WAS",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 3.4,
+      "adds": 4488,
+      "value": 24,
+      "ecr": 259
     }
   ],
   "market_date": "2026-09-18"
