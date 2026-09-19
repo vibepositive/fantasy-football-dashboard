@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:57:17.821Z",
+  "generated_at": "2026-09-19T11:04:03.381Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.3,
-      "adds": 6342,
+      "adds": 6540,
       "value": 193,
       "ecr": 170
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.65,
-      "adds": 34920,
+      "adds": 32580,
       "value": 34,
       "ecr": 244.4
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 23652,
+      "adds": 22842,
       "value": 1186,
       "ecr": 92.8
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.51,
-      "adds": 14936,
+      "adds": 15184,
       "value": 226,
       "ecr": 163.4
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 45570,
+      "adds": 43428,
       "value": 19,
       "ecr": 269
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 91376,
+      "adds": 84928,
       "value": 107,
       "ecr": 195
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.93,
-      "adds": 5778,
+      "adds": 5406,
       "value": 44,
       "ecr": 233.4
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 10684,
+      "adds": 10104,
       "value": 2114,
       "ecr": 68.2
     },
@@ -274,7 +274,7 @@
       "age": 22,
       "injury": "Out",
       "injury_part": "Ankle",
-      "depth": 3,
+      "depth": 9,
       "proj": null,
       "adds": 0,
       "value": 717,
@@ -346,9 +346,23 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 25536,
+      "adds": 25328,
       "value": 221,
       "ecr": 164.3
+    },
+    {
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 4,
+      "proj": 1.03,
+      "adds": 0,
+      "value": 200,
+      "ecr": 168.6
     },
     {
       "id": "11627",
@@ -358,7 +372,7 @@
       "age": 23,
       "injury": null,
       "injury_part": null,
-      "depth": 5,
+      "depth": 4,
       "proj": 1.94,
       "adds": 0,
       "value": 182,
@@ -400,7 +414,7 @@
       "age": 24,
       "injury": null,
       "injury_part": null,
-      "depth": 4,
+      "depth": 3,
       "proj": 7,
       "adds": 0,
       "value": 131,
@@ -414,7 +428,7 @@
       "age": 26,
       "injury": "Out",
       "injury_part": "Knee - ACL",
-      "depth": 2,
+      "depth": 3,
       "proj": null,
       "adds": 0,
       "value": 129,
@@ -461,20 +475,6 @@
       "adds": 0,
       "value": 105,
       "ecr": 196
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "nfl": "NYJ",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.66,
-      "adds": 0,
-      "value": 102,
-      "ecr": 197.2
     }
   ],
   "top_projected_available": [
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 68106,
+      "adds": 67740,
       "value": 2,
       "ecr": 370
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.58,
-      "adds": 5872,
+      "adds": 5640,
       "value": 48,
       "ecr": 229.2
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.78,
-      "adds": 8102,
+      "adds": 8184,
       "value": 4,
       "ecr": 338
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 7563,
+      "adds": 7234,
       "value": 20,
       "ecr": 266
     },
@@ -612,7 +612,7 @@
       "age": 24,
       "injury": null,
       "injury_part": null,
-      "depth": 4,
+      "depth": 3,
       "proj": 7,
       "adds": 0,
       "value": 131,
@@ -640,9 +640,9 @@
       "age": 26,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
+      "depth": 2,
       "proj": 6.62,
-      "adds": 273000,
+      "adds": 289366,
       "value": 2,
       "ecr": 368
     },
@@ -698,9 +698,9 @@
       "age": 26,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
+      "depth": 2,
       "proj": 6.62,
-      "adds": 273000,
+      "adds": 289366,
       "value": 2,
       "ecr": 368
     },
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 2.58,
-      "adds": 263088,
+      "adds": 248697,
       "value": 89,
       "ecr": 203.2
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 167544,
+      "adds": 155367,
       "value": 7,
       "ecr": 311
     },
@@ -742,23 +742,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 68106,
+      "adds": 67740,
       "value": 2,
       "ecr": 370
-    },
-    {
-      "id": "12472",
-      "name": "Raheim Sanders",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.5,
-      "adds": 62880,
-      "value": 1,
-      "ecr": 380.7
     },
     {
       "id": "3286",
@@ -770,7 +756,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 52932,
+      "adds": 51294,
       "value": 1,
       "ecr": 380
     },
@@ -784,7 +770,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 42256,
+      "adds": 40272,
       "value": 27,
       "ecr": 254.5
     },
@@ -798,7 +784,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.68,
-      "adds": 38106,
+      "adds": 40104,
       "value": null,
       "ecr": null
     },
@@ -812,7 +798,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 25536,
+      "adds": 25328,
       "value": 221,
       "ecr": 164.3
     },
@@ -826,7 +812,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.36,
-      "adds": 15036,
+      "adds": 14450,
       "value": null,
       "ecr": null
     },
@@ -840,7 +826,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 12942,
+      "adds": 13131,
       "value": 3,
       "ecr": 351
     },
@@ -854,7 +840,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.34,
-      "adds": 9720,
+      "adds": 9492,
       "value": 1,
       "ecr": 377
     },
@@ -868,23 +854,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.17,
-      "adds": 8298,
+      "adds": 8415,
       "value": 9,
       "ecr": 302.8
-    },
-    {
-      "id": "4574",
-      "name": "Cooper Rush",
-      "pos": "QB",
-      "nfl": "ATL",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 10.78,
-      "adds": 8102,
-      "value": 4,
-      "ecr": 338
     },
     {
       "id": "11629",
@@ -896,9 +868,37 @@
       "injury_part": null,
       "depth": 4,
       "proj": 4.07,
-      "adds": 8076,
+      "adds": 8256,
       "value": 3,
       "ecr": 349
+    },
+    {
+      "id": "4574",
+      "name": "Cooper Rush",
+      "pos": "QB",
+      "nfl": "ATL",
+      "age": 32,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 10.78,
+      "adds": 8184,
+      "value": 4,
+      "ecr": 338
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "nfl": "CAR",
+      "age": 34,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 5.4,
+      "adds": 7668,
+      "value": 2,
+      "ecr": 366
     }
   ]
 }
