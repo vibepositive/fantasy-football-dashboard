@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:12:35.835Z",
+  "generated_at": "2026-09-20T06:21:10.795Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.3,
-      "adds": 9600,
+      "adds": 10482,
       "value": 193,
       "ecr": 170
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.65,
-      "adds": 24876,
+      "adds": 25137,
       "value": 34,
       "ecr": 244.4
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 20718,
+      "adds": 22527,
       "value": 1186,
       "ecr": 92.8
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.51,
-      "adds": 23936,
+      "adds": 27344,
       "value": 226,
       "ecr": 163.4
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.65,
-      "adds": 35434,
+      "adds": 36946,
       "value": 19,
       "ecr": 269
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 49048,
+      "adds": 46568,
       "value": 107,
       "ecr": 195
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 7668,
+      "adds": 8008,
       "value": 2114,
       "ecr": 68.2
     },
@@ -290,7 +290,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.92,
-      "adds": 14976,
+      "adds": 18752,
       "value": 389,
       "ecr": 140.2
     },
@@ -332,7 +332,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 22536,
+      "adds": 23176,
       "value": 221,
       "ecr": 164.3
     },
@@ -345,7 +345,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 4.66,
+      "proj": 5.12,
       "adds": 0,
       "value": 200,
       "ecr": 168.6
@@ -402,7 +402,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7,
-      "adds": 6480,
+      "adds": 6338,
       "value": 131,
       "ecr": 186.6
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 48468,
+      "adds": 49668,
       "value": 2,
       "ecr": 370
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.78,
-      "adds": 5862,
+      "adds": 5868,
       "value": 4,
       "ecr": 338
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 6720,
+      "adds": 7446,
       "value": 20,
       "ecr": 266
     },
@@ -614,9 +614,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7,
-      "adds": 6480,
+      "adds": 6338,
       "value": 131,
       "ecr": 186.6
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.96,
+      "adds": 154494,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "9501",
@@ -642,23 +656,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.62,
-      "adds": 338275,
+      "adds": 347256,
       "value": 2,
       "ecr": 368
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.53,
-      "adds": 110169,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "11783",
@@ -700,9 +700,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.62,
-      "adds": 338275,
+      "adds": 347256,
       "value": 2,
       "ecr": 368
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.96,
+      "adds": 154494,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "11637",
@@ -714,23 +728,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 2.58,
-      "adds": 143865,
+      "adds": 116388,
       "value": 89,
       "ecr": 203.2
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.53,
-      "adds": 110169,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "6130",
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 89676,
+      "adds": 90720,
       "value": 7,
       "ecr": 311
     },
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 48468,
+      "adds": 49668,
       "value": 2,
       "ecr": 370
     },
@@ -770,9 +770,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 43662,
+      "adds": 48174,
       "value": 1,
       "ecr": 380
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "nfl": "LAR",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 1.82,
+      "adds": 28728,
+      "value": 4,
+      "ecr": 339.5
     },
     {
       "id": "3321",
@@ -784,7 +798,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 22536,
+      "adds": 23176,
       "value": 221,
       "ecr": 164.3
     },
@@ -798,23 +812,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.49,
-      "adds": 21392,
+      "adds": 20528,
       "value": 27,
       "ecr": 254.5
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "nfl": "LAR",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 1.82,
-      "adds": 18711,
-      "value": 4,
-      "ecr": 339.5
     },
     {
       "id": "12487",
@@ -826,7 +826,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.92,
-      "adds": 14976,
+      "adds": 18752,
       "value": 389,
       "ecr": 140.2
     },
@@ -840,23 +840,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 14940,
+      "adds": 17892,
       "value": 3,
       "ecr": 351
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "nfl": "CHI",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.51,
-      "adds": 11056,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "3269",
@@ -868,7 +854,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.72,
-      "adds": 10899,
+      "adds": 11697,
       "value": null,
       "ecr": null
     },
@@ -882,23 +868,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.17,
-      "adds": 10116,
+      "adds": 10881,
       "value": 9,
       "ecr": 302.8
     },
     {
-      "id": "12699",
-      "name": "LaJohntay Wester",
+      "id": "3634",
+      "name": "Kalif Raymond",
       "pos": "WR",
-      "nfl": "BAL",
-      "age": 24,
+      "nfl": "CHI",
+      "age": 32,
       "injury": null,
       "injury_part": null,
-      "depth": 4,
-      "proj": 1.81,
-      "adds": 8701,
+      "depth": 3,
+      "proj": 4.51,
+      "adds": 10696,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "nfl": "LAR",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 4.29,
+      "adds": 9126,
+      "value": 36,
+      "ecr": 241.3
     }
   ]
 }
