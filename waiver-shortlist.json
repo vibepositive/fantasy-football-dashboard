@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:25:22.324Z",
+  "generated_at": "2026-09-20T16:50:09.774Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.3,
-      "adds": 11346,
+      "adds": 16464,
       "value": 193,
       "ecr": 170
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.85,
-      "adds": 26442,
+      "adds": 38889,
       "value": 34,
       "ecr": 244.4
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.27,
-      "adds": 23958,
+      "adds": 36450,
       "value": 1186,
       "ecr": 92.8
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.51,
-      "adds": 29920,
+      "adds": 38064,
       "value": 226,
       "ecr": 163.4
     },
@@ -105,8 +105,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.65,
-      "adds": 39291,
+      "proj": 7.66,
+      "adds": 53879,
       "value": 19,
       "ecr": 269
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.29,
-      "adds": 47632,
+      "adds": 61792,
       "value": 107,
       "ecr": 195
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.93,
-      "adds": 0,
+      "adds": 7728,
       "value": 44,
       "ecr": 233.4
     },
@@ -203,7 +203,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.19,
+      "proj": 7.15,
       "adds": 0,
       "value": 294,
       "ecr": 152.2
@@ -217,7 +217,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.78,
+      "proj": 14.75,
       "adds": 0,
       "value": 320,
       "ecr": 148.6
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 19.99,
-      "adds": 8704,
+      "adds": 13600,
       "value": 2114,
       "ecr": 68.2
     },
@@ -290,7 +290,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.92,
-      "adds": 21176,
+      "adds": 36040,
       "value": 389,
       "ecr": 140.2
     },
@@ -332,7 +332,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 24104,
+      "adds": 28472,
       "value": 221,
       "ecr": 164.3
     },
@@ -402,7 +402,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7,
-      "adds": 6601,
+      "adds": 8525,
       "value": 131,
       "ecr": 186.6
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 52794,
+      "adds": 76584,
       "value": 2,
       "ecr": 370
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.78,
-      "adds": 6260,
+      "adds": 8446,
       "value": 4,
       "ecr": 338
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.16,
-      "adds": 8403,
+      "adds": 13972,
       "value": 20,
       "ecr": 266
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7,
-      "adds": 6601,
+      "adds": 8525,
       "value": 131,
       "ecr": 186.6
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.96,
-      "adds": 187344,
+      "adds": 327258,
       "value": null,
       "ecr": null
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.62,
-      "adds": 357735,
+      "adds": 487977,
       "value": 2,
       "ecr": 368
     },
@@ -700,7 +700,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.62,
-      "adds": 357735,
+      "adds": 487977,
       "value": 2,
       "ecr": 368
     },
@@ -714,23 +714,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.96,
-      "adds": 187344,
+      "adds": 327258,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 2.58,
-      "adds": 114129,
-      "value": 89,
-      "ecr": 203.2
     },
     {
       "id": "6130",
@@ -742,9 +728,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 96903,
+      "adds": 162468,
       "value": 7,
       "ecr": 311
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "nfl": "BUF",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 2.58,
+      "adds": 124317,
+      "value": 89,
+      "ecr": 203.2
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "nfl": "LAR",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 1.82,
+      "adds": 96669,
+      "value": 4,
+      "ecr": 339.5
     },
     {
       "id": "3286",
@@ -756,7 +770,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 53076,
+      "adds": 79854,
       "value": 1,
       "ecr": 380
     },
@@ -770,51 +784,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.14,
-      "adds": 52794,
+      "adds": 76584,
       "value": 2,
       "ecr": 370
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "nfl": "LAR",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 1.82,
-      "adds": 36792,
-      "value": 4,
-      "ecr": 339.5
-    },
-    {
-      "id": "3321",
-      "name": "Tyreek Hill",
-      "pos": "WR",
-      "nfl": null,
-      "age": 31,
-      "injury": null,
-      "injury_part": "Knee - ACL",
-      "depth": null,
-      "proj": null,
-      "adds": 24104,
-      "value": 221,
-      "ecr": 164.3
-    },
-    {
-      "id": "4993",
-      "name": "Mike Gesicki",
-      "pos": "TE",
-      "nfl": "CIN",
-      "age": 30,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 4.49,
-      "adds": 21748,
-      "value": 27,
-      "ecr": 254.5
     },
     {
       "id": "12487",
@@ -826,9 +798,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.92,
-      "adds": 21176,
+      "adds": 36040,
       "value": 389,
       "ecr": 140.2
+    },
+    {
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "nfl": "CIN",
+      "age": 30,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 4.49,
+      "adds": 29984,
+      "value": 27,
+      "ecr": 254.5
+    },
+    {
+      "id": "3321",
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "nfl": null,
+      "age": 31,
+      "injury": null,
+      "injury_part": "Knee - ACL",
+      "depth": null,
+      "proj": null,
+      "adds": 28472,
+      "value": 221,
+      "ecr": 164.3
     },
     {
       "id": "19",
@@ -840,51 +840,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 19809,
+      "adds": 25857,
       "value": 3,
       "ecr": 351
-    },
-    {
-      "id": "3269",
-      "name": "Chris Moore",
-      "pos": "WR",
-      "nfl": "BAL",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.72,
-      "adds": 12299,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "nfl": "BAL",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 5.17,
-      "adds": 11646,
-      "value": 9,
-      "ecr": 302.8
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "nfl": "CHI",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.51,
-      "adds": 11092,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "6865",
@@ -896,9 +854,51 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.29,
-      "adds": 10686,
+      "adds": 22638,
       "value": 36,
       "ecr": 241.3
+    },
+    {
+      "id": "7562",
+      "name": "Tutu Atwell",
+      "pos": "WR",
+      "nfl": "LAR",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 5,
+      "proj": 0.49,
+      "adds": 20888,
+      "value": 5,
+      "ecr": 326
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.17,
+      "adds": 16470,
+      "value": 9,
+      "ecr": 302.8
+    },
+    {
+      "id": "3269",
+      "name": "Chris Moore",
+      "pos": "WR",
+      "nfl": "BAL",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.72,
+      "adds": 16387,
+      "value": null,
+      "ecr": null
     }
   ]
 }
