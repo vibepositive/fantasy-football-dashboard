@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:04:44.820Z",
+  "generated_at": "2026-09-24T15:09:47.765Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.24,
-      "adds": 332790,
+      "adds": 226980,
       "value": 193,
       "ecr": 170
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.31,
-      "adds": 108576,
+      "adds": 94059,
       "value": 34,
       "ecr": 244.4
     },
@@ -77,8 +77,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 9,
-      "adds": 171846,
+      "proj": 9.01,
+      "adds": 133857,
       "value": 1186,
       "ecr": 92.8
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.64,
-      "adds": 802192,
+      "adds": 542816,
       "value": 226,
       "ecr": 163.4
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.13,
-      "adds": 88732,
+      "adds": 68649,
       "value": 19,
       "ecr": 269
     },
@@ -231,7 +231,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.01,
+      "proj": 6.92,
       "adds": 0,
       "value": 1035,
       "ecr": 98.6
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 21.8,
-      "adds": 38344,
+      "adds": 28036,
       "value": 2114,
       "ecr": 68.2
     },
@@ -304,7 +304,7 @@
       "injury_part": "Ankle",
       "depth": 1,
       "proj": 2.97,
-      "adds": 222552,
+      "adds": 165280,
       "value": 389,
       "ecr": 140.2
     },
@@ -331,7 +331,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 4.7,
+      "proj": 4.68,
       "adds": 0,
       "value": 291,
       "ecr": 152.6
@@ -416,7 +416,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.44,
-      "adds": 36249,
+      "adds": 28668,
       "value": 129,
       "ecr": 187.2
     },
@@ -429,7 +429,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.74,
+      "proj": 5.66,
       "adds": 0,
       "value": 123,
       "ecr": 189.4
@@ -443,7 +443,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 3.86,
+      "proj": 3.8,
       "adds": 0,
       "value": 113,
       "ecr": 192.8
@@ -470,7 +470,7 @@
       "age": 22,
       "injury": "Doubtful",
       "injury_part": "Thumb",
-      "depth": 3,
+      "depth": 4,
       "proj": null,
       "adds": 0,
       "value": 102,
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 16.66,
-      "adds": 63699,
+      "adds": 48086,
       "value": 4,
       "ecr": 339
     },
@@ -516,23 +516,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.51,
-      "adds": 41596,
+      "adds": 32460,
       "value": 75,
       "ecr": 210
-    },
-    {
-      "id": "2306",
-      "name": "Jameis Winston",
-      "pos": "QB",
-      "nfl": "NYG",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 14.81,
-      "adds": 38031,
-      "value": 4,
-      "ecr": 332
     },
     {
       "id": "1166",
@@ -544,9 +530,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.73,
-      "adds": 382688,
+      "adds": 288272,
       "value": 48,
       "ecr": 229.2
+    },
+    {
+      "id": "2306",
+      "name": "Jameis Winston",
+      "pos": "QB",
+      "nfl": "NYG",
+      "age": 32,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 14.61,
+      "adds": 29897,
+      "value": 4,
+      "ecr": 332
     },
     {
       "id": "96",
@@ -572,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.44,
-      "adds": 36249,
+      "adds": 28668,
       "value": 129,
       "ecr": 187.2
     },
@@ -585,8 +585,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.42,
-      "adds": 101984,
+      "proj": 13.34,
+      "adds": 82552,
       "value": 43,
       "ecr": 234.4
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.14,
-      "adds": 96988,
+      "adds": 68272,
       "value": 5,
       "ecr": 322.5
     },
@@ -614,7 +614,7 @@
       "injury_part": "Concussion",
       "depth": 1,
       "proj": 12.6,
-      "adds": 89274,
+      "adds": 63942,
       "value": 3,
       "ecr": 346
     },
@@ -641,8 +641,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.33,
-      "adds": 378873,
+      "proj": 6.35,
+      "adds": 285714,
       "value": 2,
       "ecr": 366
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.29,
-      "adds": 42696,
+      "adds": 36504,
       "value": 46,
       "ecr": 231.4
     },
@@ -684,26 +684,12 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.88,
-      "adds": 165466,
+      "adds": 132573,
       "value": 14,
       "ecr": 280.3
     }
   ],
   "most_added_available": [
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 23,
-      "injury": "Questionable",
-      "injury_part": "Ankle",
-      "depth": 3,
-      "proj": 5.82,
-      "adds": 406332,
-      "value": 89,
-      "ecr": 203.2
-    },
     {
       "id": "1339",
       "name": "Zach Ertz",
@@ -714,7 +700,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 2.38,
-      "adds": 399051,
+      "adds": 300510,
       "value": 2,
       "ecr": 365
     },
@@ -728,7 +714,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.73,
-      "adds": 382688,
+      "adds": 288272,
       "value": 48,
       "ecr": 229.2
     },
@@ -741,10 +727,38 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.33,
-      "adds": 378873,
+      "proj": 6.35,
+      "adds": 285714,
       "value": 2,
       "ecr": 366
+    },
+    {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "nfl": "BUF",
+      "age": 23,
+      "injury": "Questionable",
+      "injury_part": "Ankle",
+      "depth": 3,
+      "proj": 5.82,
+      "adds": 285381,
+      "value": 89,
+      "ecr": 203.2
+    },
+    {
+      "id": "6828",
+      "name": "AJ Dillon",
+      "pos": "RB",
+      "nfl": "CAR",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.14,
+      "adds": 221384,
+      "value": 1,
+      "ecr": 387.7
     },
     {
       "id": "9225",
@@ -756,23 +770,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.76,
-      "adds": 283052,
+      "adds": 199682,
       "value": 74,
       "ecr": 210.8
-    },
-    {
-      "id": "6828",
-      "name": "AJ Dillon",
-      "pos": "RB",
-      "nfl": "CAR",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.12,
-      "adds": 239792,
-      "value": 1,
-      "ecr": 387.7
     },
     {
       "id": "12487",
@@ -784,7 +784,7 @@
       "injury_part": "Ankle",
       "depth": 1,
       "proj": 2.97,
-      "adds": 222552,
+      "adds": 165280,
       "value": 389,
       "ecr": 140.2
     },
@@ -798,7 +798,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.88,
-      "adds": 165466,
+      "adds": 132573,
       "value": 14,
       "ecr": 280.3
     },
@@ -811,8 +811,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.42,
-      "adds": 101984,
+      "proj": 13.34,
+      "adds": 82552,
       "value": 43,
       "ecr": 234.4
     },
@@ -826,7 +826,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.14,
-      "adds": 96988,
+      "adds": 68272,
       "value": 5,
       "ecr": 322.5
     },
@@ -840,7 +840,7 @@
       "injury_part": "Concussion",
       "depth": 1,
       "proj": 12.6,
-      "adds": 89274,
+      "adds": 63942,
       "value": 3,
       "ecr": 346
     },
@@ -854,23 +854,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.9,
-      "adds": 77610,
+      "adds": 62856,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "5854",
-      "name": "Drew Lock",
-      "pos": "QB",
-      "nfl": "SEA",
-      "age": 29,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 16.66,
-      "adds": 63699,
-      "value": 4,
-      "ecr": 339
     },
     {
       "id": "6149",
@@ -882,9 +868,23 @@
       "injury_part": null,
       "depth": 5,
       "proj": 2.36,
-      "adds": 61638,
+      "adds": 49458,
       "value": 20,
       "ecr": 266.5
+    },
+    {
+      "id": "5854",
+      "name": "Drew Lock",
+      "pos": "QB",
+      "nfl": "SEA",
+      "age": 29,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 16.66,
+      "adds": 48086,
+      "value": 4,
+      "ecr": 339
     },
     {
       "id": "5995",
@@ -896,7 +896,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.8,
-      "adds": 45765,
+      "adds": 41544,
       "value": 9,
       "ecr": 302.8
     }
