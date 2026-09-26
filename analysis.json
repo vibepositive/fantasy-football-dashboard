@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:24:10.821Z",
+  "generated_at": "2026-09-26T01:36:52.303Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -84,7 +84,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.18,
-        "adds": 86208,
+        "adds": 69498,
         "value": 104,
         "ecr": 196.5
       },
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 9.3,
-        "adds": 37179,
+        "adds": 19404,
         "value": 50,
         "ecr": 227.5
       },
@@ -126,7 +126,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 8.87,
-        "adds": 83592,
+        "adds": 67122,
         "value": 795,
         "ecr": 109.8
       },
@@ -140,7 +140,7 @@
         "injury_part": "Finger",
         "depth": 2,
         "proj": 7.95,
-        "adds": 175376,
+        "adds": 137224,
         "value": 213,
         "ecr": 165.8
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 8.15,
-        "adds": 36715,
+        "adds": 29603,
         "value": 27,
         "ecr": 253.5
       },
@@ -224,7 +224,7 @@
         "injury_part": null,
         "depth": 3,
         "proj": 6.04,
-        "adds": 11676,
+        "adds": 10146,
         "value": 42,
         "ecr": 234.8
       },
@@ -294,7 +294,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 21.61,
-        "adds": 12648,
+        "adds": 0,
         "value": 2446,
         "ecr": 62
       },
@@ -324,7 +324,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 21.61,
-        "adds": 12648,
+        "adds": 0,
         "value": 2446,
         "ecr": 62
       },
@@ -366,7 +366,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 8.87,
-        "adds": 83592,
+        "adds": 67122,
         "value": 795,
         "ecr": 109.8
       },
@@ -380,7 +380,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 8.15,
-        "adds": 36715,
+        "adds": 29603,
         "value": 27,
         "ecr": 253.5
       },
@@ -422,7 +422,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.18,
-        "adds": 86208,
+        "adds": 69498,
         "value": 104,
         "ecr": 196.5
       },
@@ -436,7 +436,7 @@
         "injury_part": "Finger",
         "depth": 2,
         "proj": 7.95,
-        "adds": 175376,
+        "adds": 137224,
         "value": 213,
         "ecr": 165.8
       }
@@ -496,7 +496,7 @@
       "age": 27,
       "injury": "Out",
       "injury_part": "Hamstring",
-      "depth": 1,
+      "depth": 4,
       "proj": null,
       "adds": 0,
       "value": 351,
@@ -511,8 +511,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.33,
-      "adds": 236608,
+      "proj": 6.36,
+      "adds": 243720,
       "value": 335,
       "ecr": 146.6
     },
@@ -526,7 +526,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 0,
+      "adds": 9504,
       "value": 332,
       "ecr": 147
     },
@@ -580,7 +580,7 @@
       "age": 24,
       "injury": null,
       "injury_part": null,
-      "depth": 4,
+      "depth": 3,
       "proj": 5.06,
       "adds": 0,
       "value": 231,
@@ -595,7 +595,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 1.25,
+      "proj": 1.26,
       "adds": 0,
       "value": 204,
       "ecr": 167.8
@@ -638,7 +638,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.44,
-      "adds": 30273,
+      "adds": 23931,
       "value": 156,
       "ecr": 179.2
     },
@@ -755,20 +755,6 @@
       "ecr": 196.5
     },
     {
-      "id": "9225",
-      "name": "Tank Bigsby",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 24,
-      "injury": "Questionable",
-      "injury_part": "Abdomen",
-      "depth": 2,
-      "proj": 3.78,
-      "adds": 32620,
-      "value": 100,
-      "ecr": 198
-    },
-    {
       "id": "1373",
       "name": "Geno Smith",
       "pos": "QB",
@@ -778,7 +764,21 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.6,
-      "adds": 32336,
+      "adds": 30232,
+      "value": 100,
+      "ecr": 198
+    },
+    {
+      "id": "9225",
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "nfl": "PHI",
+      "age": 24,
+      "injury": "Questionable",
+      "injury_part": "Abdomen",
+      "depth": 2,
+      "proj": 3.78,
+      "adds": 20713,
       "value": 100,
       "ecr": 198
     },
@@ -889,7 +889,7 @@
       "injury": "Questionable",
       "injury_part": "Knee",
       "depth": 2,
-      "proj": 4.8,
+      "proj": 4.83,
       "adds": 0,
       "value": 60,
       "ecr": 220
@@ -918,7 +918,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.28,
-      "adds": 24568,
+      "adds": 20600,
       "value": 57,
       "ecr": 221.8
     },
@@ -932,7 +932,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.64,
-      "adds": 157312,
+      "adds": 127864,
       "value": 55,
       "ecr": 223.3
     },
@@ -946,7 +946,7 @@
       "injury_part": "Ankle",
       "depth": 3,
       "proj": 5.98,
-      "adds": 96471,
+      "adds": 78696,
       "value": 51,
       "ecr": 227
     },
@@ -974,7 +974,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.86,
-      "adds": 63464,
+      "adds": 55936,
       "value": 45,
       "ecr": 231.8
     },
@@ -988,7 +988,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.07,
-      "adds": 21308,
+      "adds": 16308,
       "value": null,
       "ecr": null
     },
@@ -1002,7 +1002,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.34,
-      "adds": 34594,
+      "adds": 27854,
       "value": null,
       "ecr": null
     },
@@ -1016,7 +1016,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.53,
-      "adds": 338535,
+      "adds": 290754,
       "value": 2,
       "ecr": 366.3
     },
@@ -1028,9 +1028,9 @@
       "age": 26,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
+      "depth": 1,
       "proj": 6.42,
-      "adds": 42700,
+      "adds": 51156,
       "value": null,
       "ecr": null
     },
@@ -1058,7 +1058,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.9,
-      "adds": 53550,
+      "adds": 46674,
       "value": 7,
       "ecr": 312.3
     },
@@ -1086,7 +1086,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.78,
-      "adds": 78666,
+      "adds": 62510,
       "value": 21,
       "ecr": 264
     },
@@ -1128,7 +1128,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.76,
-      "adds": 13614,
+      "adds": 11052,
       "value": null,
       "ecr": null
     },
@@ -1142,7 +1142,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.7,
-      "adds": 15228,
+      "adds": 12915,
       "value": 9,
       "ecr": 301
     },
@@ -1156,7 +1156,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.69,
-      "adds": 43218,
+      "adds": 38874,
       "value": null,
       "ecr": null
     },
@@ -1170,7 +1170,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.61,
-      "adds": 16128,
+      "adds": 13257,
       "value": null,
       "ecr": null
     },
@@ -1240,7 +1240,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.41,
-      "adds": 215872,
+      "adds": 175496,
       "value": null,
       "ecr": null
     },
@@ -1252,9 +1252,9 @@
       "age": 35,
       "injury": null,
       "injury_part": null,
-      "depth": 1,
+      "depth": null,
       "proj": 2.35,
-      "adds": 75276,
+      "adds": 58374,
       "value": 2,
       "ecr": 358.3
     },
@@ -1268,7 +1268,21 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.83,
-      "adds": 31496,
+      "adds": 27200,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "13423",
+      "name": "Eli Heidenreich",
+      "pos": "RB",
+      "nfl": "PIT",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 2.58,
+      "adds": 15136,
       "value": null,
       "ecr": null
     },
@@ -1282,23 +1296,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 16822,
+      "adds": 9729,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "6149",
-      "name": "Darius Slayton",
-      "pos": "WR",
-      "nfl": "IND",
-      "age": 29,
-      "injury": null,
-      "injury_part": null,
-      "depth": 5,
-      "proj": 1.69,
-      "adds": 11454,
-      "value": 31,
-      "ecr": 248.3
     }
   ],
   "market_date": "2026-09-25"
