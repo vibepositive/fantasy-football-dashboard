@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:27:23.523Z",
+  "generated_at": "2026-09-27T22:15:10.600Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.37,
-      "adds": 50370,
+      "adds": 50442,
       "value": 104,
       "ecr": 196.5
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.3,
-      "adds": 23355,
+      "adds": 24345,
       "value": 50,
       "ecr": 227.5
     },
@@ -64,7 +64,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.98,
-      "adds": 0,
+      "adds": 15960,
       "value": 174,
       "ecr": 174.4
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.8,
-      "adds": 52524,
+      "adds": 45072,
       "value": 795,
       "ecr": 109.8
     },
@@ -92,7 +92,7 @@
       "injury_part": "Finger",
       "depth": 2,
       "proj": null,
-      "adds": 66560,
+      "adds": 51264,
       "value": 213,
       "ecr": 165.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.15,
-      "adds": 30226,
+      "adds": 28133,
       "value": 27,
       "ecr": 253.5
     },
@@ -147,7 +147,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 12.78,
+      "proj": 12.79,
       "adds": 0,
       "value": 7416,
       "ecr": 14.8
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.07,
-      "adds": 0,
+      "adds": 14532,
       "value": 42,
       "ecr": 234.8
     },
@@ -304,7 +304,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 330040,
+      "adds": 506856,
       "value": 332,
       "ecr": 147
     },
@@ -468,8 +468,8 @@
       "pos": "QB",
       "nfl": "MIN",
       "age": 23,
-      "injury": null,
-      "injury_part": null,
+      "injury": "Out",
+      "injury_part": "Coach's Decision",
       "depth": 3,
       "proj": null,
       "adds": 0,
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.74,
-      "adds": 38648,
+      "adds": 42512,
       "value": 100,
       "ecr": 198
     },
@@ -501,7 +501,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 15.65,
+      "proj": 15.66,
       "adds": 0,
       "value": 90,
       "ecr": 202.3
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.86,
-      "adds": 117024,
+      "adds": 127304,
       "value": 55,
       "ecr": 223.3
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.75,
-      "adds": 57032,
+      "adds": 65984,
       "value": 45,
       "ecr": 231.8
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.75,
-      "adds": 14432,
+      "adds": 22156,
       "value": null,
       "ecr": null
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.86,
-      "adds": 196416,
+      "adds": 187974,
       "value": null,
       "ecr": null
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 230902,
+      "adds": 203196,
       "value": null,
       "ecr": null
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 153792,
+      "adds": 134784,
       "value": 2,
       "ecr": 366.3
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.28,
-      "adds": 36264,
+      "adds": 41400,
       "value": 57,
       "ecr": 221.8
     },
@@ -684,12 +684,26 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.9,
-      "adds": 85104,
+      "adds": 88911,
       "value": 7,
       "ecr": 312.3
     }
   ],
   "most_added_available": [
+    {
+      "id": "12495",
+      "name": "Ollie Gordon",
+      "pos": "RB",
+      "nfl": "MIA",
+      "age": 22,
+      "injury": "Questionable",
+      "injury_part": "Undisclosed",
+      "depth": 2,
+      "proj": 3.2,
+      "adds": 721014,
+      "value": 29,
+      "ecr": 251
+    },
     {
       "id": "3321",
       "name": "Tyreek Hill",
@@ -700,7 +714,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 330040,
+      "adds": 506856,
       "value": 332,
       "ecr": 147
     },
@@ -714,7 +728,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 230902,
+      "adds": 203196,
       "value": null,
       "ecr": null
     },
@@ -728,23 +742,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.86,
-      "adds": 196416,
+      "adds": 187974,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "12495",
-      "name": "Ollie Gordon",
-      "pos": "RB",
-      "nfl": "MIA",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.2,
-      "adds": 163191,
-      "value": 29,
-      "ecr": 251
     },
     {
       "id": "2505",
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 153792,
+      "adds": 134784,
       "value": 2,
       "ecr": 366.3
     },
@@ -770,7 +770,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.86,
-      "adds": 117024,
+      "adds": 127304,
       "value": 55,
       "ecr": 223.3
     },
@@ -784,21 +784,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.65,
-      "adds": 102248,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "pos": "QB",
-      "nfl": "CHI",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": null,
-      "adds": 94704,
+      "adds": 94520,
       "value": null,
       "ecr": null
     },
@@ -812,21 +798,35 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.9,
-      "adds": 85104,
+      "adds": 88911,
       "value": 7,
       "ecr": 312.3
     },
     {
-      "id": "6828",
-      "name": "AJ Dillon",
-      "pos": "RB",
-      "nfl": "CAR",
-      "age": 28,
+      "id": "11256",
+      "name": "Tyson Bagent",
+      "pos": "QB",
+      "nfl": "CHI",
+      "age": 26,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
-      "proj": 3.38,
-      "adds": 83656,
+      "depth": 1,
+      "proj": null,
+      "adds": 82374,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.58,
+      "adds": 67950,
       "value": null,
       "ecr": null
     },
@@ -840,9 +840,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.75,
-      "adds": 57032,
+      "adds": 65984,
       "value": 45,
       "ecr": 231.8
+    },
+    {
+      "id": "6828",
+      "name": "AJ Dillon",
+      "pos": "RB",
+      "nfl": "CAR",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 3.38,
+      "adds": 62296,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "8188",
@@ -854,23 +868,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.74,
-      "adds": 56602,
+      "adds": 47250,
       "value": 21,
       "ecr": 264
-    },
-    {
-      "id": "11630",
-      "name": "Roman Wilson",
-      "pos": "WR",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.58,
-      "adds": 49230,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "1339",
@@ -882,23 +882,23 @@
       "injury_part": null,
       "depth": null,
       "proj": 2.36,
-      "adds": 47934,
+      "adds": 46611,
       "value": 2,
       "ecr": 358.3
     },
     {
-      "id": "13423",
-      "name": "Eli Heidenreich",
-      "pos": "RB",
-      "nfl": "PIT",
-      "age": 23,
-      "injury": "Out",
-      "injury_part": "Coach's Decision",
-      "depth": 2,
-      "proj": null,
-      "adds": 39892,
-      "value": null,
-      "ecr": null
+      "id": "1373",
+      "name": "Geno Smith",
+      "pos": "QB",
+      "nfl": "NYJ",
+      "age": 35,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 15.74,
+      "adds": 42512,
+      "value": 100,
+      "ecr": 198
     }
   ]
 }
