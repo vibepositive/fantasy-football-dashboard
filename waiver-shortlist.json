@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:04:32.031Z",
+  "generated_at": "2026-09-29T02:00:33.332Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.37,
-      "adds": 8988,
+      "adds": 8088,
       "value": 104,
       "ecr": 196.5
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.3,
-      "adds": 30213,
+      "adds": 30654,
       "value": 50,
       "ecr": 227.5
     },
@@ -64,7 +64,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.98,
-      "adds": 17928,
+      "adds": 16314,
       "value": 174,
       "ecr": 174.4
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.15,
-      "adds": 7350,
+      "adds": 0,
       "value": 27,
       "ecr": 253.5
     },
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.07,
-      "adds": 14184,
+      "adds": 11868,
       "value": 42,
       "ecr": 234.8
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 21.56,
-      "adds": 9700,
+      "adds": 9136,
       "value": 2446,
       "ecr": 62
     },
@@ -260,7 +260,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.38,
-      "adds": 11940,
+      "adds": 11856,
       "value": 814,
       "ecr": 108.8
     }
@@ -304,7 +304,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 460984,
+      "adds": 381760,
       "value": 332,
       "ecr": 147
     },
@@ -416,7 +416,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.44,
-      "adds": 12198,
+      "adds": 10554,
       "value": 156,
       "ecr": 179.2
     },
@@ -470,9 +470,9 @@
       "age": 23,
       "injury": "Out",
       "injury_part": "Coach's Decision",
-      "depth": 3,
+      "depth": 2,
       "proj": null,
-      "adds": 72645,
+      "adds": 83016,
       "value": 138,
       "ecr": 184.2
     }
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.74,
-      "adds": 35560,
+      "adds": 29752,
       "value": 100,
       "ecr": 198
     },
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.86,
-      "adds": 203376,
+      "adds": 201544,
       "value": 55,
       "ecr": 223.3
     },
@@ -530,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.28,
-      "adds": 12344,
+      "adds": 10420,
       "value": 75,
       "ecr": 210.5
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.75,
-      "adds": 91336,
+      "adds": 80888,
       "value": 45,
       "ecr": 231.8
     },
@@ -572,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.44,
-      "adds": 12198,
+      "adds": 10554,
       "value": 156,
       "ecr": 179.2
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.75,
-      "adds": 31440,
+      "adds": 29568,
       "value": null,
       "ecr": null
     },
@@ -599,8 +599,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.98,
-      "adds": 15902,
+      "proj": 11.73,
+      "adds": 17632,
       "value": null,
       "ecr": null
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.86,
-      "adds": 20082,
+      "adds": 17700,
       "value": null,
       "ecr": null
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 114813,
+      "adds": 113085,
       "value": 2,
       "ecr": 366.3
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 14462,
+      "adds": 10171,
       "value": null,
       "ecr": null
     },
@@ -684,7 +684,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.9,
-      "adds": 16308,
+      "adds": 13815,
       "value": 7,
       "ecr": 312.3
     }
@@ -700,7 +700,7 @@
       "injury_part": "Undisclosed",
       "depth": 2,
       "proj": 3.2,
-      "adds": 4088385,
+      "adds": 4044390,
       "value": 29,
       "ecr": 251
     },
@@ -714,23 +714,9 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 460984,
+      "adds": 381760,
       "value": 332,
       "ecr": 147
-    },
-    {
-      "id": "1166",
-      "name": "Kirk Cousins",
-      "pos": "QB",
-      "nfl": "LV",
-      "age": 38,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 14.86,
-      "adds": 203376,
-      "value": 55,
-      "ecr": 223.3
     },
     {
       "id": "12718",
@@ -742,9 +728,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 1.61,
-      "adds": 164925,
+      "adds": 207621,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "1166",
+      "name": "Kirk Cousins",
+      "pos": "QB",
+      "nfl": "LV",
+      "age": 38,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 14.86,
+      "adds": 201544,
+      "value": 55,
+      "ecr": 223.3
     },
     {
       "id": "11630",
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.58,
-      "adds": 141228,
+      "adds": 140157,
       "value": null,
       "ecr": null
     },
@@ -770,23 +770,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.42,
-      "adds": 114813,
+      "adds": 113085,
       "value": 2,
       "ecr": 366.3
-    },
-    {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "nfl": "CLE",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 13.75,
-      "adds": 91336,
-      "value": 45,
-      "ecr": 231.8
     },
     {
       "id": "4663",
@@ -798,7 +784,7 @@
       "injury_part": null,
       "depth": null,
       "proj": null,
-      "adds": 72740,
+      "adds": 86876,
       "value": null,
       "ecr": null
     },
@@ -810,11 +796,25 @@
       "age": 23,
       "injury": "Out",
       "injury_part": "Coach's Decision",
-      "depth": 3,
+      "depth": 2,
       "proj": null,
-      "adds": 72645,
+      "adds": 83016,
       "value": 138,
       "ecr": 184.2
+    },
+    {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "nfl": "CLE",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 13.75,
+      "adds": 80888,
+      "value": 45,
+      "ecr": 231.8
     },
     {
       "id": "3271",
@@ -826,7 +826,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 1.29,
-      "adds": 58842,
+      "adds": 79146,
       "value": 3,
       "ecr": 353.3
     },
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 49766,
+      "adds": 49674,
       "value": null,
       "ecr": null
     },
@@ -852,25 +852,11 @@
       "age": 35,
       "injury": null,
       "injury_part": null,
-      "depth": null,
+      "depth": 3,
       "proj": 2.3,
-      "adds": 45459,
+      "adds": 48528,
       "value": 2,
       "ecr": 358.3
-    },
-    {
-      "id": "1373",
-      "name": "Geno Smith",
-      "pos": "QB",
-      "nfl": "NYJ",
-      "age": 35,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 15.74,
-      "adds": 35560,
-      "value": 100,
-      "ecr": 198
     },
     {
       "id": "12472",
@@ -882,9 +868,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.15,
-      "adds": 34200,
+      "adds": 36888,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "1373",
+      "name": "Geno Smith",
+      "pos": "QB",
+      "nfl": "NYJ",
+      "age": 35,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 15.74,
+      "adds": 29752,
+      "value": 100,
+      "ecr": 198
     },
     {
       "id": "2307",
@@ -896,7 +896,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.75,
-      "adds": 31440,
+      "adds": 29568,
       "value": null,
       "ecr": null
     }
