@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:54:58.113Z",
+  "generated_at": "2026-10-02T05:43:08.758Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.03,
-      "adds": 20010,
+      "adds": 19896,
       "value": 104,
       "ecr": 196.5
     },
@@ -49,8 +49,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.21,
-      "adds": 72936,
+      "proj": 7.23,
+      "adds": 72792,
       "value": 50,
       "ecr": 227.5
     },
@@ -64,7 +64,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.59,
-      "adds": 51594,
+      "adds": 51714,
       "value": 174,
       "ecr": 174.4
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.1,
-      "adds": 25623,
+      "adds": 25632,
       "value": 795,
       "ecr": 109.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.4,
-      "adds": 38983,
+      "adds": 38563,
       "value": 27,
       "ecr": 253.5
     },
@@ -147,7 +147,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.55,
+      "proj": 14.64,
       "adds": 0,
       "value": 7416,
       "ecr": 14.8
@@ -176,7 +176,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 8.25,
-      "adds": 112078,
+      "adds": 93260,
       "value": null,
       "ecr": null
     },
@@ -190,7 +190,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.16,
-      "adds": 19542,
+      "adds": 19554,
       "value": 42,
       "ecr": 234.8
     },
@@ -202,7 +202,7 @@
       "age": 29,
       "injury": "IR",
       "injury_part": "Calf",
-      "depth": 8,
+      "depth": 7,
       "proj": null,
       "adds": 0,
       "value": 60,
@@ -231,8 +231,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 17.23,
-      "adds": 27695,
+      "proj": 17.34,
+      "adds": 28630,
       "value": 348,
       "ecr": 145
     },
@@ -245,7 +245,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.71,
+      "proj": 7.7,
       "adds": 0,
       "value": 1090,
       "ecr": 96.4
@@ -304,7 +304,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.83,
-      "adds": 36368,
+      "adds": 34640,
       "value": 514,
       "ecr": 128.4
     },
@@ -317,7 +317,7 @@
       "injury": "Questionable",
       "injury_part": "Hamstring",
       "depth": 1,
-      "proj": 6.41,
+      "proj": 6.49,
       "adds": 0,
       "value": 351,
       "ecr": 144.6
@@ -346,7 +346,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 543936,
+      "adds": 577656,
       "value": 332,
       "ecr": 147
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.83,
-      "adds": 36368,
+      "adds": 34640,
       "value": 514,
       "ecr": 128.4
     },
@@ -515,8 +515,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.79,
-      "adds": 52932,
+      "proj": 16.89,
+      "adds": 50056,
       "value": null,
       "ecr": null
     },
@@ -529,7 +529,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 15.78,
+      "proj": 15.7,
       "adds": 0,
       "value": 90,
       "ecr": 202.3
@@ -543,7 +543,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 15.27,
+      "proj": 15.19,
       "adds": 0,
       "value": null,
       "ecr": null
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.05,
-      "adds": 137136,
+      "adds": 131136,
       "value": 55,
       "ecr": 223.3
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.52,
-      "adds": 26696,
+      "adds": 22464,
       "value": null,
       "ecr": null
     },
@@ -613,8 +613,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 12.88,
-      "adds": 22822,
+      "proj": 12.84,
+      "adds": 17428,
       "value": null,
       "ecr": null
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.04,
-      "adds": 253764,
+      "adds": 327150,
       "value": 11,
       "ecr": 290.5
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.52,
-      "adds": 21784,
+      "adds": 21280,
       "value": 57,
       "ecr": 221.8
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.51,
-      "adds": 24816,
+      "adds": 23660,
       "value": 3,
       "ecr": 349.3
     },
@@ -669,7 +669,7 @@
       "injury": "Questionable",
       "injury_part": "Hamstring",
       "depth": 1,
-      "proj": 6.41,
+      "proj": 6.49,
       "adds": 0,
       "value": 351,
       "ecr": 144.6
@@ -684,7 +684,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.85,
-      "adds": 27720,
+      "adds": 30186,
       "value": 7,
       "ecr": 312.3
     },
@@ -714,7 +714,7 @@
       "injury_part": "Knee - ACL",
       "depth": null,
       "proj": null,
-      "adds": 543936,
+      "adds": 577656,
       "value": 332,
       "ecr": 147
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 1.31,
-      "adds": 379368,
+      "adds": 367884,
       "value": null,
       "ecr": null
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.04,
-      "adds": 253764,
+      "adds": 327150,
       "value": 11,
       "ecr": 290.5
     },
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.31,
-      "adds": 227646,
+      "adds": 208080,
       "value": 3,
       "ecr": 353.3
     },
@@ -770,9 +770,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.05,
-      "adds": 137136,
+      "adds": 131136,
       "value": 55,
       "ecr": 223.3
+    },
+    {
+      "id": "8168",
+      "name": "Skyy Moore",
+      "pos": "WR",
+      "nfl": "GB",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.04,
+      "adds": 83072,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "12472",
@@ -784,21 +798,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.35,
-      "adds": 91608,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "8168",
-      "name": "Skyy Moore",
-      "pos": "WR",
-      "nfl": "GB",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.06,
-      "adds": 91464,
+      "adds": 80528,
       "value": null,
       "ecr": null
     },
@@ -811,8 +811,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.79,
-      "adds": 52932,
+      "proj": 16.89,
+      "adds": 50056,
       "value": null,
       "ecr": null
     },
@@ -826,9 +826,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.83,
-      "adds": 36368,
+      "adds": 34640,
       "value": 514,
       "ecr": 128.4
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.85,
+      "adds": 30186,
+      "value": 7,
+      "ecr": 312.3
     },
     {
       "id": "6039",
@@ -840,7 +854,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.32,
-      "adds": 30906,
+      "adds": 28632,
       "value": 6,
       "ecr": 317.5
     },
@@ -854,23 +868,37 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.66,
-      "adds": 28122,
+      "adds": 27537,
       "value": null,
       "ecr": null
     },
     {
-      "id": "5995",
-      "name": "Justice Hill",
+      "id": "4993",
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "nfl": "CIN",
+      "age": 30,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.51,
+      "adds": 23660,
+      "value": 3,
+      "ecr": 349.3
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
       "pos": "RB",
-      "nfl": "BAL",
+      "nfl": "NYG",
       "age": 28,
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.85,
-      "adds": 27720,
-      "value": 7,
-      "ecr": 312.3
+      "proj": 4.63,
+      "adds": 23445,
+      "value": 9,
+      "ecr": 300.2
     },
     {
       "id": "1737",
@@ -882,35 +910,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.52,
-      "adds": 26696,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "nfl": "NYG",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.61,
-      "adds": 25585,
-      "value": 9,
-      "ecr": 300.2
-    },
-    {
-      "id": "13264",
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "nfl": "CIN",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.02,
-      "adds": 24840,
+      "adds": 22464,
       "value": null,
       "ecr": null
     }
