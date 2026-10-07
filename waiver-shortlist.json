@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:35:11.855Z",
+  "generated_at": "2026-10-07T08:43:48.582Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.6,
-      "adds": 20112,
+      "adds": 27234,
       "value": 110,
       "ecr": 194
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.83,
-      "adds": 151245,
+      "adds": 203805,
       "value": 96,
       "ecr": 199.9
     },
@@ -63,7 +63,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.08,
+      "proj": 7.11,
       "adds": 0,
       "value": 299,
       "ecr": 151.4
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 49140,
+      "adds": 40194,
       "value": 699,
       "ecr": 115.3
     },
@@ -88,13 +88,27 @@
       "pos": "WR",
       "nfl": "NYJ",
       "age": 23,
-      "injury": "Out",
+      "injury": "Doubtful",
       "injury_part": "Finger",
       "depth": 7,
-      "proj": 5.17,
-      "adds": 18520,
+      "proj": 5.16,
+      "adds": 30776,
       "value": 382,
       "ecr": 141
+    },
+    {
+      "id": "1166",
+      "name": "Kirk Cousins",
+      "pos": "QB",
+      "nfl": "LV",
+      "age": 38,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 14.74,
+      "adds": 739808,
+      "value": 36,
+      "ecr": 242
     },
     {
       "id": "11834",
@@ -106,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.81,
-      "adds": 59871,
+      "adds": 72401,
       "value": 59,
       "ecr": 220.7
     },
@@ -158,11 +172,11 @@
       "pos": "WR",
       "nfl": "MIA",
       "age": 23,
-      "injury": "Out",
+      "injury": "Questionable",
       "injury_part": "Ankle",
       "depth": 9,
-      "proj": 5.81,
-      "adds": 16200,
+      "proj": 5.82,
+      "adds": 25136,
       "value": 139,
       "ecr": 184.1
     },
@@ -189,7 +203,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.23,
+      "proj": 5.26,
       "adds": 0,
       "value": 23,
       "ecr": 260.4
@@ -218,23 +232,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.75,
-      "adds": 79910,
+      "adds": 100710,
       "value": 206,
       "ecr": 167.3
-    },
-    {
-      "id": "5870",
-      "name": "Daniel Jones",
-      "pos": "QB",
-      "nfl": "IND",
-      "age": 29,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 13.39,
-      "adds": 0,
-      "value": 325,
-      "ecr": 147.9
     },
     {
       "id": "8126",
@@ -245,7 +245,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.37,
+      "proj": 7.36,
       "adds": 0,
       "value": 1011,
       "ecr": 99.6
@@ -259,7 +259,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 17.25,
+      "proj": 17.32,
       "adds": 0,
       "value": 3094,
       "ecr": 52
@@ -273,7 +273,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.65,
+      "proj": 13.67,
       "adds": 0,
       "value": 1047,
       "ecr": 98.1
@@ -281,18 +281,32 @@
   ],
   "top_dynasty_available": [
     {
-      "id": "8210",
-      "name": "Chig Okonkwo",
-      "pos": "TE",
-      "nfl": "WAS",
+      "id": "8161",
+      "name": "Malik Willis",
+      "pos": "QB",
+      "nfl": "MIA",
       "age": 27,
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.95,
+      "proj": 14.91,
       "adds": 0,
-      "value": 437,
-      "ecr": 135.3
+      "value": 334,
+      "ecr": 146.7
+    },
+    {
+      "id": "5870",
+      "name": "Daniel Jones",
+      "pos": "QB",
+      "nfl": "IND",
+      "age": 29,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 13.38,
+      "adds": 0,
+      "value": 325,
+      "ecr": 147.9
     },
     {
       "id": "13275",
@@ -300,8 +314,8 @@
       "pos": "QB",
       "nfl": "LAR",
       "age": 23,
-      "injury": "Out",
-      "injury_part": "Coach's Decision",
+      "injury": null,
+      "injury_part": null,
       "depth": 3,
       "proj": null,
       "adds": 0,
@@ -335,20 +349,6 @@
       "adds": 0,
       "value": 240,
       "ecr": 160.8
-    },
-    {
-      "id": "9504",
-      "name": "Kayshon Boutte",
-      "pos": "WR",
-      "nfl": "HOU",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.74,
-      "adds": 0,
-      "value": 201,
-      "ecr": 168.3
     },
     {
       "id": "12536",
@@ -407,6 +407,20 @@
       "ecr": 182.3
     },
     {
+      "id": "7600",
+      "name": "Pat Freiermuth",
+      "pos": "TE",
+      "nfl": "PIT",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.78,
+      "adds": 0,
+      "value": 127,
+      "ecr": 187.8
+    },
+    {
       "id": "6783",
       "name": "Jerry Jeudy",
       "pos": "WR",
@@ -458,7 +472,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.31,
-      "adds": 41560,
+      "adds": 52064,
       "value": 83,
       "ecr": 206.2
     },
@@ -471,24 +485,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.83,
+      "proj": 13.82,
       "adds": 0,
       "value": 81,
       "ecr": 207
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "nfl": "NYJ",
-      "age": 22,
-      "injury": "Out",
-      "injury_part": "Thumb",
-      "depth": 4,
-      "proj": 1.35,
-      "adds": 0,
-      "value": 78,
-      "ecr": 208.7
     }
   ],
   "top_projected_available": [
@@ -515,8 +515,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.82,
-      "adds": 230556,
+      "proj": 16.81,
+      "adds": 294724,
       "value": 63,
       "ecr": 217.6
     },
@@ -530,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.18,
-      "adds": 19464,
+      "adds": 24678,
       "value": 3,
       "ecr": 351.1
     },
@@ -544,23 +544,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.09,
-      "adds": 21192,
+      "adds": 25960,
       "value": 12,
       "ecr": 289
     },
     {
-      "id": "1166",
-      "name": "Kirk Cousins",
+      "id": "8161",
+      "name": "Malik Willis",
       "pos": "QB",
-      "nfl": "LV",
-      "age": 38,
+      "nfl": "MIA",
+      "age": 27,
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.74,
-      "adds": 681192,
-      "value": 36,
-      "ecr": 242
+      "proj": 14.91,
+      "adds": 0,
+      "value": 334,
+      "ecr": 146.7
     },
     {
       "id": "11256",
@@ -571,8 +571,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.96,
-      "adds": 87948,
+      "proj": 13.97,
+      "adds": 102876,
       "value": 25,
       "ecr": 257.4
     },
@@ -585,10 +585,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.83,
+      "proj": 13.82,
       "adds": 0,
       "value": 81,
       "ecr": 207
+    },
+    {
+      "id": "5870",
+      "name": "Daniel Jones",
+      "pos": "QB",
+      "nfl": "IND",
+      "age": 29,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 13.38,
+      "adds": 0,
+      "value": 325,
+      "ecr": 147.9
     },
     {
       "id": "7083",
@@ -600,37 +614,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 11.51,
-      "adds": 98008,
+      "adds": 159104,
       "value": 3,
       "ecr": 352.8
-    },
-    {
-      "id": "11577",
-      "name": "Will Shipley",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 8.69,
-      "adds": 1057078,
-      "value": 5,
-      "ecr": 322
-    },
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 7.51,
-      "adds": 3455856,
-      "value": 49,
-      "ecr": 228.8
     },
     {
       "id": "3271",
@@ -642,9 +628,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.36,
-      "adds": 398772,
+      "adds": 536913,
       "value": 5,
       "ecr": 326.5
+    },
+    {
+      "id": "7600",
+      "name": "Pat Freiermuth",
+      "pos": "TE",
+      "nfl": "PIT",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.78,
+      "adds": 0,
+      "value": 127,
+      "ecr": 187.8
     },
     {
       "id": "7528",
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.47,
-      "adds": 26225,
+      "adds": 39490,
       "value": 7,
       "ecr": 309.5
     },
@@ -670,23 +670,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.43,
-      "adds": 16728,
+      "adds": 22000,
       "value": 70,
       "ecr": 213.2
-    },
-    {
-      "id": "8210",
-      "name": "Chig Okonkwo",
-      "pos": "TE",
-      "nfl": "WAS",
-      "age": 27,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 5.95,
-      "adds": 0,
-      "value": 437,
-      "ecr": 135.3
     },
     {
       "id": "11627",
@@ -701,23 +687,23 @@
       "adds": 0,
       "value": 89,
       "ecr": 202.9
+    },
+    {
+      "id": "12048",
+      "name": "George Holani",
+      "pos": "RB",
+      "nfl": "SEA",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.89,
+      "adds": 0,
+      "value": 5,
+      "ecr": 329.8
     }
   ],
   "most_added_available": [
-    {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 7.51,
-      "adds": 3455856,
-      "value": 49,
-      "ecr": 228.8
-    },
     {
       "id": "13264",
       "name": "Dohnte Meyers",
@@ -727,38 +713,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.39,
-      "adds": 2483514,
+      "proj": 5.4,
+      "adds": 3132819,
       "value": 5,
       "ecr": 324
-    },
-    {
-      "id": "11577",
-      "name": "Will Shipley",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 8.69,
-      "adds": 1057078,
-      "value": 5,
-      "ecr": 322
-    },
-    {
-      "id": "1166",
-      "name": "Kirk Cousins",
-      "pos": "QB",
-      "nfl": "LV",
-      "age": 38,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 14.74,
-      "adds": 681192,
-      "value": 36,
-      "ecr": 242
     },
     {
       "id": "9482",
@@ -770,7 +728,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.16,
-      "adds": 439785,
+      "adds": 550575,
       "value": 60,
       "ecr": 219.6
     },
@@ -784,7 +742,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.36,
-      "adds": 398772,
+      "adds": 536913,
       "value": 5,
       "ecr": 326.5
     },
@@ -797,8 +755,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 3.53,
-      "adds": 270501,
+      "proj": 3.54,
+      "adds": 387674,
       "value": null,
       "ecr": null
     },
@@ -811,24 +769,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.82,
-      "adds": 230556,
+      "proj": 16.81,
+      "adds": 294724,
       "value": 63,
       "ecr": 217.6
-    },
-    {
-      "id": "4018",
-      "name": "Joe Mixon",
-      "pos": "RB",
-      "nfl": null,
-      "age": 30,
-      "injury": null,
-      "injury_part": "Foot",
-      "depth": null,
-      "proj": null,
-      "adds": 182859,
-      "value": 2,
-      "ecr": 365
     },
     {
       "id": "4663",
@@ -840,7 +784,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.19,
-      "adds": 127428,
+      "adds": 180308,
       "value": 2,
       "ecr": 360.5
     },
@@ -854,7 +798,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 11.51,
-      "adds": 98008,
+      "adds": 159104,
       "value": 3,
       "ecr": 352.8
     },
@@ -867,8 +811,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.96,
-      "adds": 87948,
+      "proj": 13.97,
+      "adds": 102876,
       "value": 25,
       "ecr": 257.4
     },
@@ -882,23 +826,9 @@
       "injury_part": null,
       "depth": 5,
       "proj": 3.05,
-      "adds": 58724,
+      "adds": 87804,
       "value": 3,
       "ecr": 343.7
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.88,
-      "adds": 42685,
-      "value": 43,
-      "ecr": 234.2
     },
     {
       "id": "11608",
@@ -910,9 +840,79 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.17,
-      "adds": 41700,
+      "adds": 59232,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "nfl": "PIT",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.87,
+      "adds": 58435,
+      "value": 43,
+      "ecr": 234.2
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "nfl": "LAC",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.62,
+      "adds": 58270,
+      "value": 44,
+      "ecr": 233
+    },
+    {
+      "id": "7039",
+      "name": "Cody White",
+      "pos": "WR",
+      "nfl": "LV",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.68,
+      "adds": 55437,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "12535",
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "nfl": "DET",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.31,
+      "adds": 52064,
+      "value": 83,
+      "ecr": 206.2
+    },
+    {
+      "id": "13418",
+      "name": "Robert Henry",
+      "pos": "RB",
+      "nfl": "SEA",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 9,
+      "proj": null,
+      "adds": 47124,
+      "value": 3,
+      "ecr": 353.3
     }
   ]
 }
