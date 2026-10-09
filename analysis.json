@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:13:04.644Z",
+  "generated_at": "2026-10-09T09:10:57.604Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -83,8 +83,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 6.65,
-        "adds": 23640,
+        "proj": 6.63,
+        "adds": 21930,
         "value": 110,
         "ecr": 194
       },
@@ -97,8 +97,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 7.99,
-        "adds": 114795,
+        "proj": 8.03,
+        "adds": 111654,
         "value": 96,
         "ecr": 199.9
       },
@@ -153,8 +153,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 14.88,
-        "adds": 240160,
+        "proj": 14.85,
+        "adds": 227832,
         "value": 36,
         "ecr": 242
       },
@@ -168,7 +168,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.81,
-        "adds": 41230,
+        "adds": 38836,
         "value": 59,
         "ecr": 220.7
       },
@@ -280,7 +280,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.76,
-        "adds": 20971,
+        "adds": 18447,
         "value": 206,
         "ecr": 167.3
       },
@@ -321,7 +321,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 13.66,
+        "proj": 13.67,
         "adds": 0,
         "value": 1047,
         "ecr": 98.1
@@ -351,7 +351,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 13.66,
+        "proj": 13.67,
         "adds": 0,
         "value": 1047,
         "ecr": 98.1
@@ -379,8 +379,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 6.65,
-        "adds": 23640,
+        "proj": 6.63,
+        "adds": 21930,
         "value": 110,
         "ecr": 194
       },
@@ -394,7 +394,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.81,
-        "adds": 41230,
+        "adds": 38836,
         "value": 59,
         "ecr": 220.7
       },
@@ -436,7 +436,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.76,
-        "adds": 20971,
+        "adds": 18447,
         "value": 206,
         "ecr": 167.3
       },
@@ -483,8 +483,8 @@
       "injury": "Questionable",
       "injury_part": "Groin",
       "depth": 1,
-      "proj": 8.77,
-      "adds": 19197,
+      "proj": 8.79,
+      "adds": 19125,
       "value": 361,
       "ecr": 143.4
     },
@@ -497,8 +497,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 15.39,
-      "adds": 13839,
+      "proj": 15.38,
+      "adds": 13531,
       "value": 334,
       "ecr": 146.7
     },
@@ -567,7 +567,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.36,
+      "proj": 5.35,
       "adds": 0,
       "value": 187,
       "ecr": 171.3
@@ -581,7 +581,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 2.68,
+      "proj": 2.67,
       "adds": 0,
       "value": 166,
       "ecr": 176.4
@@ -637,7 +637,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.4,
+      "proj": 2.39,
       "adds": 0,
       "value": 107,
       "ecr": 195.3
@@ -680,7 +680,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.3,
-      "adds": 23432,
+      "adds": 21536,
       "value": 83,
       "ecr": 206.2
     },
@@ -693,7 +693,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.09,
+      "proj": 14.04,
       "adds": 0,
       "value": 81,
       "ecr": 207
@@ -707,7 +707,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 2.95,
+      "proj": 2.93,
       "adds": 0,
       "value": 78,
       "ecr": 208.7
@@ -722,7 +722,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.82,
-      "adds": 33232,
+      "adds": 39224,
       "value": 70,
       "ecr": 213.2
     },
@@ -763,7 +763,7 @@
       "injury": "Questionable",
       "injury_part": "Concussion",
       "depth": 2,
-      "proj": 2.56,
+      "proj": 2.55,
       "adds": 0,
       "value": 65,
       "ecr": 216.7
@@ -792,7 +792,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.51,
-      "adds": 141516,
+      "adds": 130432,
       "value": 63,
       "ecr": 217.6
     },
@@ -819,8 +819,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.2,
-      "adds": 144261,
+      "proj": 5.19,
+      "adds": 126585,
       "value": 60,
       "ecr": 219.6
     },
@@ -861,7 +861,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.44,
+      "proj": 5.43,
       "adds": 0,
       "value": 58,
       "ecr": 221.2
@@ -904,7 +904,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.6,
-      "adds": 14485,
+      "adds": 13570,
       "value": 44,
       "ecr": 233
     },
@@ -917,8 +917,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.54,
-      "adds": 21315,
+      "proj": 4.53,
+      "adds": 18645,
       "value": 43,
       "ecr": 234.2
     },
@@ -974,7 +974,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.24,
-      "adds": 24168,
+      "adds": 25080,
       "value": 3,
       "ecr": 351.1
     },
@@ -987,7 +987,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.53,
+      "proj": 14.51,
       "adds": 0,
       "value": 12,
       "ecr": 289
@@ -1002,7 +1002,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.81,
-      "adds": 35436,
+      "adds": 33318,
       "value": 25,
       "ecr": 257.4
     },
@@ -1016,7 +1016,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.02,
-      "adds": 25116,
+      "adds": 21090,
       "value": 3,
       "ecr": 352.8
     },
@@ -1030,7 +1030,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.37,
-      "adds": 315000,
+      "adds": 294750,
       "value": 5,
       "ecr": 326.5
     },
@@ -1043,8 +1043,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.48,
-      "adds": 73355,
+      "proj": 6.49,
+      "adds": 74160,
       "value": 7,
       "ecr": 309.5
     },
@@ -1057,8 +1057,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.06,
-      "adds": 134406,
+      "proj": 6.04,
+      "adds": 125250,
       "value": null,
       "ecr": null
     },
@@ -1085,8 +1085,8 @@
       "injury": "Questionable",
       "injury_part": "Ankle",
       "depth": 3,
-      "proj": 5.74,
-      "adds": 13362,
+      "proj": 5.73,
+      "adds": 11970,
       "value": null,
       "ecr": null
     },
@@ -1100,23 +1100,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.69,
-      "adds": 208929,
+      "adds": 199528,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "11370",
-      "name": "Chris Brooks",
-      "pos": "RB",
-      "nfl": "GB",
-      "age": 26,
-      "injury": "Questionable",
-      "injury_part": "Ankle",
-      "depth": 3,
-      "proj": 5.54,
-      "adds": 0,
-      "value": 7,
-      "ecr": 314
     },
     {
       "id": "4147",
@@ -1127,24 +1113,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.41,
+      "proj": 5.42,
       "adds": 0,
       "value": 6,
       "ecr": 321.3
-    },
-    {
-      "id": "13264",
-      "name": "Dohnte Meyers",
-      "pos": "WR",
-      "nfl": "CIN",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.4,
-      "adds": 576270,
-      "value": 5,
-      "ecr": 324
     },
     {
       "id": "4454",
@@ -1169,7 +1141,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.08,
+      "proj": 5.1,
       "adds": 0,
       "value": 7,
       "ecr": 312.2
@@ -1211,7 +1183,7 @@
       "injury": null,
       "injury_part": null,
       "depth": null,
-      "proj": 4.42,
+      "proj": 4.43,
       "adds": 0,
       "value": 3,
       "ecr": 341
@@ -1231,6 +1203,34 @@
       "ecr": 349.8
     },
     {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "nfl": "WAS",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.23,
+      "adds": 37272,
+      "value": 2,
+      "ecr": 360.5
+    },
+    {
+      "id": "13338",
+      "name": "Kevin Coleman",
+      "pos": "WR",
+      "nfl": "MIA",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.2,
+      "adds": 0,
+      "value": 29,
+      "ecr": 250.6
+    },
+    {
       "id": "8129",
       "name": "Dameon Pierce",
       "pos": "RB",
@@ -1240,7 +1240,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.35,
-      "adds": 436144,
+      "adds": 437088,
       "value": 2,
       "ecr": 371
     },
@@ -1254,23 +1254,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 1.66,
-      "adds": 64968,
+      "adds": 77120,
       "value": 2,
       "ecr": 360
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "nfl": "WAS",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.23,
-      "adds": 42596,
-      "value": 2,
-      "ecr": 360.5
     },
     {
       "id": "2078",
@@ -1282,7 +1268,7 @@
       "injury_part": null,
       "depth": null,
       "proj": null,
-      "adds": 35931,
+      "adds": 24486,
       "value": null,
       "ecr": null
     },
@@ -1295,8 +1281,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 3.07,
-      "adds": 19424,
+      "proj": 3.06,
+      "adds": 14988,
       "value": 3,
       "ecr": 343.7
     },
@@ -1310,7 +1296,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.77,
-      "adds": 16164,
+      "adds": 14139,
       "value": 1,
       "ecr": 393.5
     }
