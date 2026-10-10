@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:55:14.997Z",
+  "generated_at": "2026-10-10T07:11:49.816Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -84,7 +84,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.25,
-        "adds": 20844,
+        "adds": 21246,
         "value": 233,
         "ecr": 162
       },
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 8.83,
-        "adds": 99378,
+        "adds": 89217,
         "value": 30,
         "ecr": 249.7
       },
@@ -126,7 +126,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": null,
-        "adds": 8892,
+        "adds": 0,
         "value": 990,
         "ecr": 100.5
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 14.72,
-        "adds": 139888,
+        "adds": 104224,
         "value": 49,
         "ecr": 228.3
       },
@@ -168,7 +168,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.78,
-        "adds": 27279,
+        "adds": 22099,
         "value": 66,
         "ecr": 216
       },
@@ -280,7 +280,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.72,
-        "adds": 10419,
+        "adds": 8278,
         "value": 239,
         "ecr": 161
       },
@@ -380,7 +380,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.25,
-        "adds": 20844,
+        "adds": 21246,
         "value": 233,
         "ecr": 162
       },
@@ -394,7 +394,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.78,
-        "adds": 27279,
+        "adds": 22099,
         "value": 66,
         "ecr": 216
       },
@@ -436,7 +436,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.72,
-        "adds": 10419,
+        "adds": 8278,
         "value": 239,
         "ecr": 161
       },
@@ -484,7 +484,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.66,
-      "adds": 9947,
+      "adds": 8022,
       "value": 418,
       "ecr": 137.2
     },
@@ -501,20 +501,6 @@
       "adds": 0,
       "value": 295,
       "ecr": 152
-    },
-    {
-      "id": "12533",
-      "name": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "nfl": "WAS",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 8.53,
-      "adds": 19206,
-      "value": 294,
-      "ecr": 152.2
     },
     {
       "id": "6803",
@@ -595,7 +581,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.38,
+      "proj": 2.37,
       "adds": 0,
       "value": 193,
       "ecr": 170
@@ -652,7 +638,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.3,
-      "adds": 17224,
+      "adds": 15688,
       "value": 156,
       "ecr": 179
     },
@@ -694,7 +680,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.49,
-      "adds": 76455,
+      "adds": 60678,
       "value": 113,
       "ecr": 193
     },
@@ -707,7 +693,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.01,
+      "proj": 13.98,
       "adds": 0,
       "value": 112,
       "ecr": 193.2
@@ -721,7 +707,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 2.92,
+      "proj": 2.91,
       "adds": 0,
       "value": 102,
       "ecr": 197.3
@@ -862,7 +848,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.36,
-      "adds": 72788,
+      "adds": 55364,
       "value": 66,
       "ecr": 215.8
     },
@@ -876,7 +862,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.82,
-      "adds": 21432,
+      "adds": 12704,
       "value": 64,
       "ecr": 217.3
     },
@@ -890,7 +876,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.61,
-      "adds": 12245,
+      "adds": 10995,
       "value": 60,
       "ecr": 219.7
     },
@@ -931,7 +917,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 2.62,
+      "proj": 2.55,
       "adds": 0,
       "value": 42,
       "ecr": 235.3
@@ -965,6 +951,20 @@
       "ecr": 238
     },
     {
+      "id": "5848",
+      "name": "Marquise Brown",
+      "pos": "WR",
+      "nfl": "PHI",
+      "age": 29,
+      "injury": "Out",
+      "injury_part": "Ankle",
+      "depth": 4,
+      "proj": null,
+      "adds": 0,
+      "value": 38,
+      "ecr": 239.5
+    },
+    {
       "id": "13425",
       "name": "Jalon Daniels",
       "pos": "QB",
@@ -974,7 +974,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.24,
-      "adds": 10346,
+      "adds": 0,
       "value": 3,
       "ecr": 353.6
     },
@@ -987,7 +987,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.73,
+      "proj": 14.47,
       "adds": 0,
       "value": 4,
       "ecr": 339.5
@@ -1002,7 +1002,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.36,
-      "adds": 18882,
+      "adds": 14418,
       "value": 4,
       "ecr": 331.9
     },
@@ -1016,7 +1016,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.17,
-      "adds": 15232,
+      "adds": 13272,
       "value": 2,
       "ecr": 355.3
     },
@@ -1030,7 +1030,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.37,
-      "adds": 163737,
+      "adds": 120294,
       "value": 3,
       "ecr": 355
     },
@@ -1044,7 +1044,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.11,
-      "adds": 64444,
+      "adds": 83772,
       "value": null,
       "ecr": null
     },
@@ -1058,9 +1058,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.57,
-      "adds": 383856,
+      "adds": 447832,
       "value": 3,
       "ecr": 343
+    },
+    {
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "nfl": "NYG",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.51,
+      "adds": 32715,
+      "value": 7,
+      "ecr": 313.7
     },
     {
       "id": "7039",
@@ -1072,23 +1086,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.5,
-      "adds": 11943,
+      "adds": 14040,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "nfl": "NYG",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.36,
-      "adds": 46115,
-      "value": 7,
-      "ecr": 313.7
     },
     {
       "id": "12048",
@@ -1113,8 +1113,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.01,
-      "adds": 87684,
+      "proj": 6,
+      "adds": 72414,
       "value": null,
       "ecr": null
     },
@@ -1127,8 +1127,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.82,
-      "adds": 171668,
+      "proj": 5.83,
+      "adds": 156912,
       "value": null,
       "ecr": null
     },
@@ -1155,8 +1155,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.39,
-      "adds": 29736,
+      "proj": 5.45,
+      "adds": 28144,
       "value": null,
       "ecr": null
     },
@@ -1197,7 +1197,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.11,
+      "proj": 5.12,
       "adds": 0,
       "value": 10,
       "ecr": 296.7
@@ -1240,9 +1240,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.5,
-      "adds": 11075,
+      "adds": 9515,
       "value": 3,
       "ecr": 346
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.42,
+      "adds": 0,
+      "value": 6,
+      "ecr": 319
     },
     {
       "id": "8129",
@@ -1253,8 +1267,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 3.29,
-      "adds": 303992,
+      "proj": 3.28,
+      "adds": 250448,
       "value": null,
       "ecr": null
     },
@@ -1268,7 +1282,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.26,
-      "adds": 36126,
+      "adds": 45036,
       "value": null,
       "ecr": null
     },
@@ -1281,10 +1295,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.97,
-      "adds": 17689,
+      "proj": 2.89,
+      "adds": 20293,
       "value": 2,
       "ecr": 363
+    },
+    {
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "nfl": "PHI",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": null,
+      "adds": 9072,
+      "value": 3,
+      "ecr": 345
     },
     {
       "id": "13424",
@@ -1296,7 +1324,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.59,
-      "adds": 9024,
+      "adds": 8856,
       "value": 11,
       "ecr": 293
     }
