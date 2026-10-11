@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:36:11.300Z",
+  "generated_at": "2026-10-11T01:56:57.934Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.24,
-      "adds": 26508,
+      "adds": 25020,
       "value": 233,
       "ecr": 162
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 8.88,
-      "adds": 77121,
+      "adds": 72054,
       "value": 30,
       "ecr": 249.7
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.72,
-      "adds": 66504,
+      "adds": 59760,
       "value": 49,
       "ecr": 228.3
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.78,
-      "adds": 15848,
+      "adds": 14322,
       "value": 66,
       "ecr": 216
     },
@@ -232,7 +232,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.72,
-      "adds": 6196,
+      "adds": 5745,
       "value": 239,
       "ecr": 161
     },
@@ -245,7 +245,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.6,
+      "proj": 7.61,
       "adds": 0,
       "value": 866,
       "ecr": 106.2
@@ -373,7 +373,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.37,
+      "proj": 5.38,
       "adds": 0,
       "value": 221,
       "ecr": 164.3
@@ -444,7 +444,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.3,
-      "adds": 13904,
+      "adds": 13496,
       "value": 156,
       "ecr": 179
     },
@@ -486,7 +486,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.48,
-      "adds": 47115,
+      "adds": 42516,
       "value": 113,
       "ecr": 193
     }
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.42,
-      "adds": 35088,
+      "adds": 32060,
       "value": 66,
       "ecr": 215.8
     },
@@ -557,7 +557,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.73,
+      "proj": 14.48,
       "adds": 0,
       "value": 4,
       "ecr": 339.5
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.5,
-      "adds": 9744,
+      "adds": 9192,
       "value": 4,
       "ecr": 331.9
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.17,
-      "adds": 8816,
+      "adds": 7934,
       "value": 2,
       "ecr": 355.3
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.42,
-      "adds": 84105,
+      "adds": 78723,
       "value": 3,
       "ecr": 355
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.11,
-      "adds": 125108,
+      "adds": 125072,
       "value": null,
       "ecr": null
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.82,
-      "adds": 8920,
+      "adds": 8488,
       "value": 64,
       "ecr": 217.3
     },
@@ -684,23 +684,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.61,
-      "adds": 426720,
+      "adds": 385464,
       "value": 3,
       "ecr": 343
     },
     {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "nfl": "LV",
-      "age": 27,
+      "id": "7528",
+      "name": "Najee Harris",
+      "pos": "RB",
+      "nfl": "NYG",
+      "age": 28,
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.49,
-      "adds": 22236,
-      "value": null,
-      "ecr": null
+      "proj": 6.5,
+      "adds": 11800,
+      "value": 7,
+      "ecr": 313.7
     }
   ],
   "most_added_available": [
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.61,
-      "adds": 426720,
+      "adds": 385464,
       "value": 3,
       "ecr": 343
     },
@@ -728,21 +728,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.79,
-      "adds": 154357,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "8129",
-      "name": "Dameon Pierce",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.27,
-      "adds": 153440,
+      "adds": 148806,
       "value": null,
       "ecr": null
     },
@@ -756,7 +742,21 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.11,
-      "adds": 125108,
+      "adds": 125072,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "8129",
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "nfl": "PHI",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 3.27,
+      "adds": 122656,
       "value": null,
       "ecr": null
     },
@@ -770,23 +770,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.42,
-      "adds": 84105,
+      "adds": 78723,
       "value": 3,
       "ecr": 355
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong",
-      "pos": "RB",
-      "nfl": "GB",
-      "age": 27,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.28,
-      "adds": 62100,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "4454",
@@ -798,9 +784,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.4,
-      "adds": 60462,
+      "adds": 73071,
       "value": 2,
       "ecr": 364
+    },
+    {
+      "id": "8116",
+      "name": "Pierre Strong",
+      "pos": "RB",
+      "nfl": "GB",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.28,
+      "adds": 61416,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "9482",
@@ -812,7 +812,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.48,
-      "adds": 47115,
+      "adds": 42516,
       "value": 113,
       "ecr": 193
     },
@@ -826,7 +826,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.96,
-      "adds": 43428,
+      "adds": 36954,
       "value": null,
       "ecr": null
     },
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.42,
-      "adds": 35088,
+      "adds": 32060,
       "value": 66,
       "ecr": 215.8
     },
@@ -853,24 +853,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.97,
-      "adds": 29757,
+      "proj": 2.89,
+      "adds": 31143,
       "value": 2,
       "ecr": 363
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "nfl": "WAS",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.39,
-      "adds": 22612,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "7039",
@@ -882,7 +868,35 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.49,
-      "adds": 22236,
+      "adds": 21963,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "nfl": "WAS",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.44,
+      "adds": 21344,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "2078",
+      "name": "Odell Beckham",
+      "pos": "WR",
+      "nfl": "MIN",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 6,
+      "proj": null,
+      "adds": 16086,
       "value": null,
       "ecr": null
     },
@@ -896,23 +910,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.3,
-      "adds": 13904,
+      "adds": 13496,
       "value": 156,
       "ecr": 179
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "nfl": "NYG",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.36,
-      "adds": 13835,
-      "value": 7,
-      "ecr": 313.7
     }
   ]
 }
