@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:35:38.831Z",
+  "generated_at": "2026-10-12T07:24:39.108Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.27,
-      "adds": 44796,
+      "adds": 39762,
       "value": 233,
       "ecr": 162
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 8.92,
-      "adds": 273069,
+      "adds": 331848,
       "value": 30,
       "ecr": 249.7
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 14031,
+      "adds": 17757,
       "value": 990,
       "ecr": 100.5
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.82,
-      "adds": 111504,
+      "adds": 97672,
       "value": 49,
       "ecr": 228.3
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.78,
-      "adds": 20538,
+      "adds": 17990,
       "value": 66,
       "ecr": 216
     },
@@ -290,7 +290,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.01,
-      "adds": 12649,
+      "adds": 0,
       "value": 418,
       "ecr": 137.2
     },
@@ -444,7 +444,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.35,
-      "adds": 46296,
+      "adds": 40240,
       "value": 156,
       "ecr": 179
     },
@@ -486,7 +486,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.5,
-      "adds": 57366,
+      "adds": 45738,
       "value": 113,
       "ecr": 193
     }
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.64,
-      "adds": 83480,
+      "adds": 86728,
       "value": 66,
       "ecr": 215.8
     },
@@ -530,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.01,
-      "adds": 12649,
+      "adds": 0,
       "value": 418,
       "ecr": 137.2
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.48,
-      "adds": 17262,
+      "adds": 13812,
       "value": 4,
       "ecr": 331.9
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.02,
-      "adds": 15672,
+      "adds": 14134,
       "value": 2,
       "ecr": 355.3
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.42,
-      "adds": 282699,
+      "adds": 301581,
       "value": 3,
       "ecr": 355
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.14,
-      "adds": 161064,
+      "adds": 133000,
       "value": null,
       "ecr": null
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.9,
-      "adds": 249048,
+      "adds": 222303,
       "value": 2,
       "ecr": 364
     },
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.82,
-      "adds": 14600,
+      "adds": 18576,
       "value": 64,
       "ecr": 217.3
     },
@@ -698,26 +698,12 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.54,
-      "adds": 28317,
+      "adds": 21141,
       "value": null,
       "ecr": null
     }
   ],
   "most_added_available": [
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "nfl": "CHI",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6,
-      "adds": 426968,
-      "value": 3,
-      "ecr": 343
-    },
     {
       "id": "13150",
       "name": "Darius Cooper",
@@ -728,9 +714,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.77,
-      "adds": 351939,
+      "adds": 386561,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "nfl": "CHI",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6,
+      "adds": 335184,
+      "value": 3,
+      "ecr": 343
     },
     {
       "id": "3271",
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.42,
-      "adds": 282699,
+      "adds": 301581,
       "value": 3,
       "ecr": 355
     },
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.9,
-      "adds": 249048,
+      "adds": 222303,
       "value": 2,
       "ecr": 364
     },
@@ -770,7 +770,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.14,
-      "adds": 161064,
+      "adds": 133000,
       "value": null,
       "ecr": null
     },
@@ -784,7 +784,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.26,
-      "adds": 105128,
+      "adds": 92040,
       "value": null,
       "ecr": null
     },
@@ -798,9 +798,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.64,
-      "adds": 83480,
+      "adds": 86728,
       "value": 66,
       "ecr": 215.8
+    },
+    {
+      "id": "11647",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "nfl": "LAC",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.14,
+      "adds": 71180,
+      "value": 60,
+      "ecr": 219.7
     },
     {
       "id": "8116",
@@ -812,7 +826,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.3,
-      "adds": 71937,
+      "adds": 51183,
       "value": null,
       "ecr": null
     },
@@ -826,7 +840,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.5,
-      "adds": 57366,
+      "adds": 45738,
       "value": 113,
       "ecr": 193
     },
@@ -840,23 +854,37 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.35,
-      "adds": 46296,
+      "adds": 40240,
       "value": 156,
       "ecr": 179
     },
     {
-      "id": "11647",
-      "name": "Kimani Vidal",
+      "id": "4147",
+      "name": "Samaje Perine",
       "pos": "RB",
-      "nfl": "LAC",
-      "age": 25,
+      "nfl": "CIN",
+      "age": 31,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
-      "proj": 5.14,
-      "adds": 42535,
-      "value": 60,
-      "ecr": 219.7
+      "depth": 2,
+      "proj": 5.62,
+      "adds": 32024,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.95,
+      "adds": 30303,
+      "value": 6,
+      "ecr": 319
     },
     {
       "id": "8135",
@@ -868,7 +896,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 2.9,
-      "adds": 41762,
+      "adds": 30261,
       "value": 2,
       "ecr": 363
     },
@@ -882,35 +910,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.9,
-      "adds": 33162,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "nfl": "WAS",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.43,
-      "adds": 31304,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "7039",
-      "name": "Cody White",
-      "pos": "WR",
-      "nfl": "LV",
-      "age": 27,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.54,
-      "adds": 28317,
+      "adds": 24204,
       "value": null,
       "ecr": null
     }
