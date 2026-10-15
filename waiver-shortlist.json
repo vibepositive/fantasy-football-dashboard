@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:45:09.477Z",
+  "generated_at": "2026-10-15T09:59:06.980Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.58,
-      "adds": 161502,
+      "adds": 142194,
       "value": 233,
       "ecr": 162
     },
@@ -49,8 +49,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.26,
-      "adds": 625464,
+      "proj": 11.48,
+      "adds": 411156,
       "value": 30,
       "ecr": 249.7
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.23,
-      "adds": 216711,
+      "adds": 180441,
       "value": 990,
       "ecr": 100.5
     },
@@ -92,7 +92,7 @@
       "injury_part": "Finger",
       "depth": 4,
       "proj": null,
-      "adds": 50384,
+      "adds": 34456,
       "value": 407,
       "ecr": 138.3
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.72,
-      "adds": 340512,
+      "adds": 301504,
       "value": 49,
       "ecr": 228.3
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.46,
-      "adds": 74991,
+      "adds": 68978,
       "value": 66,
       "ecr": 216
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 9.16,
-      "adds": 32416,
+      "adds": 26740,
       "value": 866,
       "ecr": 106.2
     },
@@ -259,7 +259,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 21.72,
+      "proj": 21.71,
       "adds": 0,
       "value": 2738,
       "ecr": 57.2
@@ -273,7 +273,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.37,
+      "proj": 14.36,
       "adds": 0,
       "value": 967,
       "ecr": 101.5
@@ -304,7 +304,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.87,
-      "adds": 39130,
+      "adds": 34255,
       "value": 295,
       "ecr": 152
     },
@@ -372,7 +372,7 @@
       "age": 24,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
+      "depth": 3,
       "proj": 4.47,
       "adds": 0,
       "value": 221,
@@ -486,7 +486,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.73,
-      "adds": 31653,
+      "adds": 29115,
       "value": 113,
       "ecr": 193
     }
@@ -501,8 +501,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 15.86,
-      "adds": 185640,
+      "proj": 15.87,
+      "adds": 155984,
       "value": 66,
       "ecr": 215.8
     },
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.87,
-      "adds": 39130,
+      "adds": 34255,
       "value": 295,
       "ecr": 152
     },
@@ -557,7 +557,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.32,
+      "proj": 13.33,
       "adds": 0,
       "value": 3,
       "ecr": 353.6
@@ -571,24 +571,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.26,
+      "proj": 13.27,
       "adds": 0,
       "value": 112,
       "ecr": 193.2
-    },
-    {
-      "id": "7600",
-      "name": "Pat Freiermuth",
-      "pos": "TE",
-      "nfl": "PIT",
-      "age": 27,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 7.26,
-      "adds": 0,
-      "value": 72,
-      "ecr": 212.3
     },
     {
       "id": "7528",
@@ -600,7 +586,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.83,
-      "adds": 56705,
+      "adds": 53210,
       "value": 7,
       "ecr": 313.7
     },
@@ -613,8 +599,8 @@
       "injury": "Questionable",
       "injury_part": "Toe",
       "depth": 1,
-      "proj": 6.7,
-      "adds": 132318,
+      "proj": 6.69,
+      "adds": 108144,
       "value": null,
       "ecr": null
     },
@@ -627,8 +613,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.38,
-      "adds": 196368,
+      "proj": 6.23,
+      "adds": 158664,
       "value": 64,
       "ecr": 217.3
     },
@@ -656,7 +642,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.73,
-      "adds": 31653,
+      "adds": 29115,
       "value": 113,
       "ecr": 193
     },
@@ -669,8 +655,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.62,
-      "adds": 214048,
+      "proj": 5.63,
+      "adds": 158620,
       "value": null,
       "ecr": null
     },
@@ -701,6 +687,20 @@
       "adds": 0,
       "value": 8,
       "ecr": 306.5
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.95,
+      "adds": 171900,
+      "value": null,
+      "ecr": null
     }
   ],
   "most_added_available": [
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.52,
-      "adds": 590630,
+      "adds": 445915,
       "value": 3,
       "ecr": 346
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 4.22,
-      "adds": 470491,
+      "adds": 382487,
       "value": null,
       "ecr": null
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 3.62,
-      "adds": 319059,
+      "adds": 265788,
       "value": 3,
       "ecr": 355
     },
@@ -756,21 +756,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.95,
-      "adds": 226770,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "nfl": "NE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.62,
-      "adds": 214048,
+      "adds": 171900,
       "value": null,
       "ecr": null
     },
@@ -783,10 +769,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.38,
-      "adds": 196368,
+      "proj": 6.23,
+      "adds": 158664,
       "value": 64,
       "ecr": 217.3
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.63,
+      "adds": 158620,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "96",
@@ -797,8 +797,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 15.86,
-      "adds": 185640,
+      "proj": 15.87,
+      "adds": 155984,
       "value": 66,
       "ecr": 215.8
     },
@@ -812,7 +812,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.9,
-      "adds": 165132,
+      "adds": 127968,
       "value": null,
       "ecr": null
     },
@@ -825,8 +825,8 @@
       "injury": "Questionable",
       "injury_part": "Toe",
       "depth": 1,
-      "proj": 6.7,
-      "adds": 132318,
+      "proj": 6.69,
+      "adds": 108144,
       "value": null,
       "ecr": null
     },
@@ -840,7 +840,7 @@
       "injury_part": "Hamstring",
       "depth": 2,
       "proj": 4.69,
-      "adds": 82794,
+      "adds": 67446,
       "value": null,
       "ecr": null
     },
@@ -854,23 +854,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.83,
-      "adds": 56705,
+      "adds": 53210,
       "value": 7,
       "ecr": 313.7
-    },
-    {
-      "id": "4147",
-      "name": "Samaje Perine",
-      "pos": "RB",
-      "nfl": "CIN",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": null,
-      "adds": 47780,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "8116",
@@ -881,8 +867,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.18,
-      "adds": 47754,
+      "proj": 4.23,
+      "adds": 39429,
       "value": null,
       "ecr": null
     },
@@ -896,23 +882,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.92,
-      "adds": 42174,
+      "adds": 38691,
       "value": 6,
       "ecr": 319
     },
     {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "nfl": "CHI",
-      "age": 25,
+      "id": "5870",
+      "name": "Daniel Jones",
+      "pos": "QB",
+      "nfl": "IND",
+      "age": 29,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
-      "proj": 3.88,
-      "adds": 39976,
-      "value": 3,
-      "ecr": 343
+      "depth": 1,
+      "proj": 14.87,
+      "adds": 34255,
+      "value": 295,
+      "ecr": 152
+    },
+    {
+      "id": "4147",
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "nfl": "CIN",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": null,
+      "adds": 33364,
+      "value": null,
+      "ecr": null
     }
   ]
 }
