@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:24:18.951Z",
+  "generated_at": "2026-10-16T07:14:09.187Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.58,
-      "adds": 131928,
+      "adds": 126930,
       "value": 233,
       "ecr": 162
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 11.48,
-      "adds": 191169,
+      "adds": 156006,
       "value": 30,
       "ecr": 249.7
     },
@@ -77,8 +77,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.97,
-      "adds": 164556,
+      "proj": 7.95,
+      "adds": 156600,
       "value": 990,
       "ecr": 100.5
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.72,
-      "adds": 414472,
+      "adds": 420648,
       "value": 49,
       "ecr": 228.3
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.46,
-      "adds": 66311,
+      "adds": 63434,
       "value": 66,
       "ecr": 216
     },
@@ -133,7 +133,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.16,
+      "proj": 7.29,
       "adds": 0,
       "value": 6486,
       "ecr": 20.5
@@ -204,7 +204,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.44,
-      "adds": 21318,
+      "adds": 20628,
       "value": 63,
       "ecr": 218
     },
@@ -246,7 +246,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 9.16,
-      "adds": 0,
+      "adds": 17193,
       "value": 866,
       "ecr": 106.2
     },
@@ -304,7 +304,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.73,
-      "adds": 58565,
+      "adds": 64455,
       "value": 295,
       "ecr": 152
     },
@@ -345,7 +345,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.46,
+      "proj": 4.51,
       "adds": 0,
       "value": 231,
       "ecr": 162.5
@@ -387,7 +387,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 1.58,
+      "proj": 1.59,
       "adds": 0,
       "value": 193,
       "ecr": 170
@@ -486,26 +486,12 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.73,
-      "adds": 29214,
+      "adds": 27558,
       "value": 113,
       "ecr": 193
     }
   ],
   "top_projected_available": [
-    {
-      "id": "96",
-      "name": "Aaron Rodgers",
-      "pos": "QB",
-      "nfl": "PIT",
-      "age": 42,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 15.96,
-      "adds": 208840,
-      "value": 66,
-      "ecr": 215.8
-    },
     {
       "id": "5870",
       "name": "Daniel Jones",
@@ -516,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.73,
-      "adds": 58565,
+      "adds": 64455,
       "value": 295,
       "ecr": 152
     },
@@ -544,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.46,
-      "adds": 23176,
+      "adds": 23353,
       "value": 4,
       "ecr": 339.5
     },
@@ -557,7 +543,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.19,
+      "proj": 13.3,
       "adds": 0,
       "value": 112,
       "ecr": 193.2
@@ -586,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 11.13,
-      "adds": 1037624,
+      "adds": 1209000,
       "value": 3,
       "ecr": 345
     },
@@ -600,23 +586,9 @@
       "injury_part": "Toe",
       "depth": 1,
       "proj": 6.62,
-      "adds": 65682,
+      "adds": 60354,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "nfl": "NYG",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.44,
-      "adds": 48580,
-      "value": 7,
-      "ecr": 313.7
     },
     {
       "id": "11783",
@@ -628,7 +600,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.26,
-      "adds": 150600,
+      "adds": 145616,
       "value": 64,
       "ecr": 217.3
     },
@@ -642,7 +614,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.03,
-      "adds": 361963,
+      "adds": 353787,
       "value": null,
       "ecr": null
     },
@@ -670,7 +642,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.73,
-      "adds": 29214,
+      "adds": 27558,
       "value": 113,
       "ecr": 193
     },
@@ -701,6 +673,34 @@
       "adds": 0,
       "value": 57,
       "ecr": 222
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.02,
+      "adds": 40383,
+      "value": 6,
+      "ecr": 319
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.99,
+      "adds": 105840,
+      "value": null,
+      "ecr": null
     }
   ],
   "most_added_available": [
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 11.13,
-      "adds": 1037624,
+      "adds": 1209000,
       "value": 3,
       "ecr": 345
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.03,
-      "adds": 361963,
+      "adds": 353787,
       "value": null,
       "ecr": null
     },
@@ -741,24 +741,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.55,
-      "adds": 267295,
+      "proj": 4.54,
+      "adds": 229400,
       "value": 3,
       "ecr": 346
-    },
-    {
-      "id": "96",
-      "name": "Aaron Rodgers",
-      "pos": "QB",
-      "nfl": "PIT",
-      "age": 42,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 15.96,
-      "adds": 208840,
-      "value": 66,
-      "ecr": 215.8
     },
     {
       "id": "3271",
@@ -770,7 +756,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 3.61,
-      "adds": 194589,
+      "adds": 179874,
       "value": 3,
       "ecr": 355
     },
@@ -784,7 +770,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.26,
-      "adds": 150600,
+      "adds": 145616,
       "value": 64,
       "ecr": 217.3
     },
@@ -798,35 +784,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.99,
-      "adds": 112308,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "nfl": "NE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 1.16,
-      "adds": 92706,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "nfl": "CAR",
-      "age": 34,
-      "injury": "Questionable",
-      "injury_part": "Toe",
-      "depth": 1,
-      "proj": 6.62,
-      "adds": 65682,
+      "adds": 105840,
       "value": null,
       "ecr": null
     },
@@ -840,7 +798,21 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.61,
-      "adds": 61677,
+      "adds": 67536,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 1.15,
+      "adds": 67068,
       "value": null,
       "ecr": null
     },
@@ -854,23 +826,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.73,
-      "adds": 58565,
+      "adds": 64455,
       "value": 295,
       "ecr": 152
     },
     {
-      "id": "7528",
-      "name": "Najee Harris",
-      "pos": "RB",
-      "nfl": "NYG",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.44,
-      "adds": 48580,
-      "value": 7,
-      "ecr": 313.7
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "nfl": "CAR",
+      "age": 34,
+      "injury": "Questionable",
+      "injury_part": "Toe",
+      "depth": 1,
+      "proj": 6.62,
+      "adds": 60354,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "13335",
@@ -882,23 +854,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 46596,
+      "adds": 58824,
       "value": 4,
       "ecr": 335.9
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism",
-      "pos": "WR",
-      "nfl": "NE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.71,
-      "adds": 43276,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "5995",
@@ -910,9 +868,51 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.02,
-      "adds": 41382,
+      "adds": 40383,
       "value": 6,
       "ecr": 319
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "nfl": "BUF",
+      "age": 29,
+      "injury": "Questionable",
+      "injury_part": "Hamstring",
+      "depth": 2,
+      "proj": 4.69,
+      "adds": 36126,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 3.75,
+      "adds": 28640,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "9482",
+      "name": "Michael Mayer",
+      "pos": "TE",
+      "nfl": "LV",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.73,
+      "adds": 27558,
+      "value": 113,
+      "ecr": 193
     }
   ]
 }
