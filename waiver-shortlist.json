@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:25:23.308Z",
+  "generated_at": "2026-10-17T13:45:26.553Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.58,
-      "adds": 66684,
+      "adds": 63474,
       "value": 124,
       "ecr": 188.8
     },
@@ -49,8 +49,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.36,
-      "adds": 49077,
+      "proj": 11.38,
+      "adds": 46008,
       "value": 47,
       "ecr": 229.8
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 8.82,
-      "adds": 125667,
+      "adds": 127179,
       "value": 724,
       "ecr": 113.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.72,
-      "adds": 176568,
+      "adds": 168384,
       "value": 61,
       "ecr": 219.2
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.58,
-      "adds": 32970,
+      "adds": 31717,
       "value": 63,
       "ecr": 217.4
     },
@@ -174,7 +174,7 @@
       "age": 23,
       "injury": "Out",
       "injury_part": "Ankle",
-      "depth": 6,
+      "depth": 9,
       "proj": null,
       "adds": 0,
       "value": 242,
@@ -304,7 +304,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.99,
-      "adds": 39455,
+      "adds": 38960,
       "value": 321,
       "ecr": 148.4
     },
@@ -330,7 +330,7 @@
       "age": 28,
       "injury": "DNR",
       "injury_part": "Knee - ACL + MCL",
-      "depth": 8,
+      "depth": 9,
       "proj": null,
       "adds": 0,
       "value": 265,
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.99,
-      "adds": 39455,
+      "adds": 38960,
       "value": 321,
       "ecr": 148.4
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.96,
-      "adds": 56974,
+      "adds": 61048,
       "value": 4,
       "ecr": 334
     },
@@ -571,8 +571,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.83,
-      "adds": 265568,
+      "proj": 11.91,
+      "adds": 231544,
       "value": 5,
       "ecr": 325.5
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.79,
-      "adds": 257922,
+      "adds": 273429,
       "value": 3,
       "ecr": 341
     },
@@ -613,8 +613,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.64,
-      "adds": 41058,
+      "proj": 6.62,
+      "adds": 41373,
       "value": 11,
       "ecr": 291.7
     },
@@ -626,9 +626,9 @@
       "age": 25,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
+      "depth": 2,
       "proj": 6.39,
-      "adds": 77456,
+      "adds": 91064,
       "value": 3,
       "ecr": 348
     },
@@ -641,8 +641,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.25,
-      "adds": 82616,
+      "proj": 6.27,
+      "adds": 78560,
       "value": 78,
       "ecr": 208.4
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.03,
-      "adds": 133885,
+      "adds": 132290,
       "value": 3,
       "ecr": 348.8
     },
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.73,
-      "adds": 13176,
+      "adds": 12726,
       "value": 83,
       "ecr": 206
     },
@@ -684,7 +684,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.38,
-      "adds": 13340,
+      "adds": 13210,
       "value": 38,
       "ecr": 239.3
     },
@@ -698,26 +698,12 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.36,
-      "adds": 10495,
+      "adds": 13915,
       "value": null,
       "ecr": null
     }
   ],
   "most_added_available": [
-    {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "nfl": "PHI",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 11.83,
-      "adds": 265568,
-      "value": 5,
-      "ecr": 325.5
-    },
     {
       "id": "3271",
       "name": "Tyler Higbee",
@@ -728,9 +714,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.79,
-      "adds": 257922,
+      "adds": 273429,
       "value": 3,
       "ecr": 341
+    },
+    {
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "nfl": "PHI",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 11.91,
+      "adds": 231544,
+      "value": 5,
+      "ecr": 325.5
     },
     {
       "id": "11557",
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 178924,
+      "adds": 185524,
       "value": null,
       "ecr": null
     },
@@ -755,8 +755,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 3.74,
-      "adds": 157234,
+      "proj": 3.76,
+      "adds": 143759,
       "value": null,
       "ecr": null
     },
@@ -770,9 +770,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.03,
-      "adds": 133885,
+      "adds": 132290,
       "value": 3,
       "ecr": 348.8
+    },
+    {
+      "id": "10235",
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "nfl": "CHI",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.39,
+      "adds": 91064,
+      "value": 3,
+      "ecr": 348
     },
     {
       "id": "11783",
@@ -783,24 +797,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.25,
-      "adds": 82616,
+      "proj": 6.27,
+      "adds": 78560,
       "value": 78,
       "ecr": 208.4
-    },
-    {
-      "id": "10235",
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "nfl": "CHI",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 6.39,
-      "adds": 77456,
-      "value": 3,
-      "ecr": 348
     },
     {
       "id": "2197",
@@ -812,7 +812,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.09,
-      "adds": 73112,
+      "adds": 71916,
       "value": null,
       "ecr": null
     },
@@ -825,8 +825,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.57,
-      "adds": 69786,
+      "proj": 4.58,
+      "adds": 65916,
       "value": null,
       "ecr": null
     },
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.96,
-      "adds": 56974,
+      "adds": 61048,
       "value": 4,
       "ecr": 334
     },
@@ -854,7 +854,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.13,
-      "adds": 46611,
+      "adds": 47097,
       "value": 5,
       "ecr": 325.4
     },
@@ -867,8 +867,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.64,
-      "adds": 41058,
+      "proj": 6.62,
+      "adds": 41373,
       "value": 11,
       "ecr": 291.7
     },
@@ -882,7 +882,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.99,
-      "adds": 39455,
+      "adds": 38960,
       "value": 321,
       "ecr": 148.4
     },
@@ -896,23 +896,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.7,
-      "adds": 26946,
+      "adds": 28536,
       "value": 3,
       "ecr": 343.2
     },
     {
-      "id": "13335",
-      "name": "Cole Payton",
-      "pos": "QB",
-      "nfl": "PHI",
-      "age": 23,
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 25,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
-      "proj": null,
-      "adds": 21306,
-      "value": 30,
-      "ecr": 249
+      "depth": 2,
+      "proj": 4.73,
+      "adds": 19662,
+      "value": null,
+      "ecr": null
     }
   ]
 }

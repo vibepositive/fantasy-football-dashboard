@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:25:23.308Z",
+  "generated_at": "2026-10-17T13:45:26.553Z",
   "league": {
     "league_id": "1312504205092610048",
     "name": "Mettlers ",
@@ -233,10 +233,10 @@
         "depth_chart_order": 1,
         "age": 25,
         "years_exp": 2,
-        "projection": 11.36,
+        "projection": 11.38,
         "projection_opponent": "DAL",
         "projection_game_id": "202610612",
-        "trending_adds": 49077,
+        "trending_adds": 46008,
         "dynasty_value_1qb": 47,
         "dynasty_value_2qb": 66,
         "dynasty_ecr_1qb": 229.8,
@@ -262,7 +262,7 @@
         "projection": 8.82,
         "projection_opponent": "LAC",
         "projection_game_id": "202610616",
-        "trending_adds": 125667,
+        "trending_adds": 127179,
         "dynasty_value_1qb": 724,
         "dynasty_value_2qb": 594,
         "dynasty_ecr_1qb": 113.8,
@@ -288,7 +288,7 @@
         "projection": 8.58,
         "projection_opponent": "NYG",
         "projection_game_id": "202610623",
-        "trending_adds": 32970,
+        "trending_adds": 31717,
         "dynasty_value_1qb": 63,
         "dynasty_value_2qb": 86,
         "dynasty_ecr_1qb": 217.4,
@@ -366,7 +366,7 @@
         "projection": 7.58,
         "projection_opponent": "BUF",
         "projection_game_id": "202610625",
-        "trending_adds": 66684,
+        "trending_adds": 63474,
         "dynasty_value_1qb": 124,
         "dynasty_value_2qb": 113,
         "dynasty_ecr_1qb": 188.8,
@@ -449,7 +449,7 @@
         "projection": 7.58,
         "projection_opponent": "BUF",
         "projection_game_id": "202610625",
-        "trending_adds": 66684,
+        "trending_adds": 63474,
         "starter": true,
         "reserve": false,
         "taxi": false,
@@ -475,10 +475,10 @@
         "depth_chart_order": 1,
         "age": 25,
         "years_exp": 2,
-        "projection": 11.36,
+        "projection": 11.38,
         "projection_opponent": "DAL",
         "projection_game_id": "202610612",
-        "trending_adds": 49077,
+        "trending_adds": 46008,
         "starter": true,
         "reserve": false,
         "taxi": false,
@@ -536,7 +536,7 @@
         "projection": 8.82,
         "projection_opponent": "LAC",
         "projection_game_id": "202610616",
-        "trending_adds": 125667,
+        "trending_adds": 127179,
         "starter": true,
         "reserve": false,
         "taxi": false,
@@ -594,7 +594,7 @@
         "projection": 17.72,
         "projection_opponent": "BUF",
         "projection_game_id": "202610625",
-        "trending_adds": 176568,
+        "trending_adds": 168384,
         "starter": false,
         "reserve": false,
         "taxi": false,
@@ -623,7 +623,7 @@
         "projection": 8.58,
         "projection_opponent": "NYG",
         "projection_game_id": "202610623",
-        "trending_adds": 32970,
+        "trending_adds": 31717,
         "starter": true,
         "reserve": false,
         "taxi": false,
@@ -733,7 +733,7 @@
         "injury_body_part": "Ankle",
         "practice_description": null,
         "depth_chart_position": "RWR",
-        "depth_chart_order": 6,
+        "depth_chart_order": 9,
         "age": 23,
         "years_exp": 0,
         "projection": null,
@@ -998,7 +998,7 @@
           "projection": 17.16,
           "projection_opponent": "SF",
           "projection_game_id": "202610631",
-          "trending_adds": 24704,
+          "trending_adds": 23312,
           "dynasty_value_1qb": 3562,
           "dynasty_value_2qb": 6719,
           "dynasty_ecr_1qb": 46,
@@ -1203,7 +1203,7 @@
           "depth_chart_order": 1,
           "age": 26,
           "years_exp": 5,
-          "projection": 16.02,
+          "projection": 16.07,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -1234,7 +1234,7 @@
           "projection": 4.67,
           "projection_opponent": "NE",
           "projection_game_id": "202610621",
-          "trending_adds": 39920,
+          "trending_adds": 41000,
           "dynasty_value_1qb": 818,
           "dynasty_value_2qb": 607,
           "dynasty_ecr_1qb": 108.6,
@@ -1263,7 +1263,7 @@
           "projection": 17.16,
           "projection_opponent": "SF",
           "projection_game_id": "202610631",
-          "trending_adds": 24704,
+          "trending_adds": 23312,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -1292,7 +1292,7 @@
           "projection": 8.1,
           "projection_opponent": "ATL",
           "projection_game_id": "202610602",
-          "trending_adds": 0,
+          "trending_adds": 9288,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -1321,7 +1321,7 @@
           "projection": 2.96,
           "projection_opponent": "JAX",
           "projection_game_id": "202610615",
-          "trending_adds": 19356,
+          "trending_adds": 18188,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -1408,7 +1408,7 @@
           "projection": 7.68,
           "projection_opponent": "SF",
           "projection_game_id": "202610631",
-          "trending_adds": 15084,
+          "trending_adds": 14634,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -1437,7 +1437,7 @@
           "projection": 17.43,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 52136,
+          "trending_adds": 50288,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -1466,7 +1466,7 @@
           "projection": 4.67,
           "projection_opponent": "NE",
           "projection_game_id": "202610621",
-          "trending_adds": 39920,
+          "trending_adds": 41000,
           "starter": false,
           "reserve": true,
           "taxi": false,
@@ -1579,7 +1579,7 @@
           "depth_chart_order": 1,
           "age": 26,
           "years_exp": 5,
-          "projection": 16.02,
+          "projection": 16.07,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -1808,10 +1808,10 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 3,
-          "projection": 16.96,
+          "projection": 16.87,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
-          "trending_adds": 20148,
+          "trending_adds": 19348,
           "dynasty_value_1qb": 762,
           "dynasty_value_2qb": 3008,
           "dynasty_ecr_1qb": 111.6,
@@ -1964,7 +1964,7 @@
           "depth_chart_order": 2,
           "age": 24,
           "years_exp": 2,
-          "projection": 10.6,
+          "projection": 10.58,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -1990,10 +1990,10 @@
           "depth_chart_order": 1,
           "age": 26,
           "years_exp": 4,
-          "projection": 11.09,
+          "projection": 11.15,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
-          "trending_adds": 456296
+          "trending_adds": 462416
         },
         {
           "player_id": "7600",
@@ -2233,7 +2233,7 @@
           "depth_chart_order": 2,
           "age": 24,
           "years_exp": 2,
-          "projection": 10.6,
+          "projection": 10.58,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -2526,7 +2526,7 @@
           "projection": 6.18,
           "projection_opponent": "CHI",
           "projection_game_id": "202610602",
-          "trending_adds": 12313,
+          "trending_adds": 12082,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -2581,10 +2581,10 @@
           "depth_chart_order": 1,
           "age": 26,
           "years_exp": 4,
-          "projection": 11.09,
+          "projection": 11.15,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
-          "trending_adds": 456296,
+          "trending_adds": 462416,
           "starter": true,
           "reserve": false,
           "taxi": false
@@ -2637,7 +2637,7 @@
           "projection": 5.99,
           "projection_opponent": "SF",
           "projection_game_id": "202610631",
-          "trending_adds": 21549,
+          "trending_adds": 20487,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -2663,10 +2663,10 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 3,
-          "projection": 16.96,
+          "projection": 16.87,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
-          "trending_adds": 20148,
+          "trending_adds": 19348,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -2692,10 +2692,10 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 3,
-          "projection": 3.61,
+          "projection": 3.62,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
-          "trending_adds": 11088,
+          "trending_adds": 10341,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -2776,7 +2776,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 6,
-          "projection": 20.46,
+          "projection": 20.58,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -2880,10 +2880,10 @@
           "depth_chart_order": 4,
           "age": 22,
           "years_exp": 0,
-          "projection": 4.02,
+          "projection": 4.04,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
-          "trending_adds": 9756,
+          "trending_adds": 0,
           "dynasty_value_1qb": 2687,
           "dynasty_value_2qb": 2175,
           "dynasty_ecr_1qb": 58,
@@ -2906,7 +2906,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 4,
-          "projection": 6.98,
+          "projection": 7.02,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -3101,10 +3101,10 @@
           "depth_chart_order": 4,
           "age": 22,
           "years_exp": 0,
-          "projection": 4.02,
+          "projection": 4.04,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
-          "trending_adds": 9756,
+          "trending_adds": 0,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -3185,7 +3185,7 @@
           "injury_body_part": "Ankle",
           "practice_description": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 10,
+          "depth_chart_order": 12,
           "age": 23,
           "years_exp": 0,
           "projection": null,
@@ -3333,7 +3333,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 6,
-          "projection": 20.46,
+          "projection": 20.58,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -3420,7 +3420,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 4,
-          "projection": 6.98,
+          "projection": 7.02,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -3562,7 +3562,7 @@
           "projection": 8.69,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 42372,
+          "trending_adds": 41416,
           "dynasty_value_1qb": 12,
           "dynasty_value_2qb": 20,
           "dynasty_ecr_1qb": 287.4,
@@ -3588,7 +3588,7 @@
           "projection": 7.61,
           "projection_opponent": "ARI",
           "projection_game_id": "202610632",
-          "trending_adds": 36736,
+          "trending_adds": 35696,
           "dynasty_value_1qb": 830,
           "dynasty_value_2qb": 607,
           "dynasty_ecr_1qb": 108,
@@ -3614,7 +3614,7 @@
           "projection": 10.04,
           "projection_opponent": "TEN",
           "projection_game_id": "202610614",
-          "trending_adds": 16550,
+          "trending_adds": 15785,
           "dynasty_value_1qb": 1303,
           "dynasty_value_2qb": 1025,
           "dynasty_ecr_1qb": 88.8,
@@ -3640,7 +3640,7 @@
           "projection": 8.22,
           "projection_opponent": "TB",
           "projection_game_id": "202610633",
-          "trending_adds": 21297,
+          "trending_adds": 20066,
           "dynasty_value_1qb": 158,
           "dynasty_value_2qb": 161,
           "dynasty_ecr_1qb": 178.6,
@@ -3692,7 +3692,7 @@
           "projection": 7,
           "projection_opponent": "KC",
           "projection_game_id": "202610616",
-          "trending_adds": 53613,
+          "trending_adds": 52893,
           "dynasty_value_1qb": 132,
           "dynasty_value_2qb": 125,
           "dynasty_ecr_1qb": 186.2,
@@ -3718,7 +3718,7 @@
           "projection": 8.2,
           "projection_opponent": "HOU",
           "projection_game_id": "202610615",
-          "trending_adds": 79515,
+          "trending_adds": 72891,
           "dynasty_value_1qb": 659,
           "dynasty_value_2qb": 521,
           "dynasty_ecr_1qb": 117.8,
@@ -3741,7 +3741,7 @@
           "depth_chart_order": 1,
           "age": 23,
           "years_exp": 1,
-          "projection": 10.93,
+          "projection": 10.92,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -3827,7 +3827,7 @@
           "projection": 16.1,
           "projection_opponent": "ATL",
           "projection_game_id": "202610602",
-          "trending_adds": 12870,
+          "trending_adds": 12591,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -3885,7 +3885,7 @@
           "projection": 7.61,
           "projection_opponent": "ARI",
           "projection_game_id": "202610632",
-          "trending_adds": 36736,
+          "trending_adds": 35696,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -3995,7 +3995,7 @@
           "injury_body_part": "Hamstring",
           "practice_description": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 5,
+          "depth_chart_order": 8,
           "age": 24,
           "years_exp": 1,
           "projection": null,
@@ -4027,7 +4027,7 @@
           "depth_chart_order": 1,
           "age": 23,
           "years_exp": 1,
-          "projection": 10.93,
+          "projection": 10.92,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -4088,7 +4088,7 @@
           "projection": 8.22,
           "projection_opponent": "TB",
           "projection_game_id": "202610633",
-          "trending_adds": 21297,
+          "trending_adds": 20066,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -4175,7 +4175,7 @@
           "projection": null,
           "projection_opponent": null,
           "projection_game_id": null,
-          "trending_adds": 15384,
+          "trending_adds": 14776,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -4262,7 +4262,7 @@
           "projection": 8.2,
           "projection_opponent": "HOU",
           "projection_game_id": "202610615",
-          "trending_adds": 79515,
+          "trending_adds": 72891,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -4291,7 +4291,7 @@
           "projection": 10.04,
           "projection_opponent": "TEN",
           "projection_game_id": "202610614",
-          "trending_adds": 16550,
+          "trending_adds": 15785,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -4320,7 +4320,7 @@
           "projection": 7,
           "projection_opponent": "KC",
           "projection_game_id": "202610616",
-          "trending_adds": 53613,
+          "trending_adds": 52893,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -4349,7 +4349,7 @@
           "projection": 8.69,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 42372,
+          "trending_adds": 41416,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -4404,7 +4404,7 @@
           "projection": 13.42,
           "projection_opponent": "BAL",
           "projection_game_id": "202610608",
-          "trending_adds": 31144,
+          "trending_adds": 28920,
           "dynasty_value_1qb": 46,
           "dynasty_value_2qb": 311,
           "dynasty_ecr_1qb": 231,
@@ -4479,7 +4479,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 4,
-          "projection": 15.78,
+          "projection": 15.87,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -4583,7 +4583,7 @@
           "depth_chart_order": 2,
           "age": 25,
           "years_exp": 4,
-          "projection": 10.85,
+          "projection": 10.89,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -4609,7 +4609,7 @@
           "depth_chart_order": 1,
           "age": 31,
           "years_exp": 8,
-          "projection": 8.77,
+          "projection": 8.82,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -4724,7 +4724,7 @@
           "projection": null,
           "projection_opponent": null,
           "projection_game_id": null,
-          "trending_adds": 10848,
+          "trending_adds": 10248,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -4782,7 +4782,7 @@
           "projection": 5.72,
           "projection_opponent": "LAC",
           "projection_game_id": "202610616",
-          "trending_adds": 38970,
+          "trending_adds": 40941,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -4811,7 +4811,7 @@
           "projection": null,
           "projection_opponent": null,
           "projection_game_id": null,
-          "trending_adds": 12688,
+          "trending_adds": 12472,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -4840,7 +4840,7 @@
           "projection": 13.42,
           "projection_opponent": "BAL",
           "projection_game_id": "202610608",
-          "trending_adds": 31144,
+          "trending_adds": 28920,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -4924,7 +4924,7 @@
           "depth_chart_order": 1,
           "age": 31,
           "years_exp": 8,
-          "projection": 8.77,
+          "projection": 8.82,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -4956,7 +4956,7 @@
           "projection": 6,
           "projection_opponent": "TB",
           "projection_game_id": "202610633",
-          "trending_adds": 13305,
+          "trending_adds": 12305,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -5043,7 +5043,7 @@
           "projection": 11.51,
           "projection_opponent": "LAR",
           "projection_game_id": "202610632",
-          "trending_adds": 544225,
+          "trending_adds": 563780,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -5069,7 +5069,7 @@
           "depth_chart_order": 2,
           "age": 25,
           "years_exp": 4,
-          "projection": 10.85,
+          "projection": 10.89,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -5156,7 +5156,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 4,
-          "projection": 15.78,
+          "projection": 15.87,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -5321,10 +5321,10 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 2,
-          "projection": 11.36,
+          "projection": 11.38,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
-          "trending_adds": 49077,
+          "trending_adds": 46008,
           "dynasty_value_1qb": 47,
           "dynasty_value_2qb": 66,
           "dynasty_ecr_1qb": 229.8,
@@ -5350,7 +5350,7 @@
           "projection": 8.82,
           "projection_opponent": "LAC",
           "projection_game_id": "202610616",
-          "trending_adds": 125667,
+          "trending_adds": 127179,
           "dynasty_value_1qb": 724,
           "dynasty_value_2qb": 594,
           "dynasty_ecr_1qb": 113.8,
@@ -5376,7 +5376,7 @@
           "projection": 8.58,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 32970,
+          "trending_adds": 31717,
           "dynasty_value_1qb": 63,
           "dynasty_value_2qb": 86,
           "dynasty_ecr_1qb": 217.4,
@@ -5454,7 +5454,7 @@
           "projection": 7.58,
           "projection_opponent": "BUF",
           "projection_game_id": "202610625",
-          "trending_adds": 66684,
+          "trending_adds": 63474,
           "dynasty_value_1qb": 124,
           "dynasty_value_2qb": 113,
           "dynasty_ecr_1qb": 188.8,
@@ -5537,7 +5537,7 @@
           "projection": 7.58,
           "projection_opponent": "BUF",
           "projection_game_id": "202610625",
-          "trending_adds": 66684,
+          "trending_adds": 63474,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -5563,10 +5563,10 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 2,
-          "projection": 11.36,
+          "projection": 11.38,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
-          "trending_adds": 49077,
+          "trending_adds": 46008,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -5624,7 +5624,7 @@
           "projection": 8.82,
           "projection_opponent": "LAC",
           "projection_game_id": "202610616",
-          "trending_adds": 125667,
+          "trending_adds": 127179,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -5682,7 +5682,7 @@
           "projection": 17.72,
           "projection_opponent": "BUF",
           "projection_game_id": "202610625",
-          "trending_adds": 176568,
+          "trending_adds": 168384,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -5711,7 +5711,7 @@
           "projection": 8.58,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 32970,
+          "trending_adds": 31717,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -5821,7 +5821,7 @@
           "injury_body_part": "Ankle",
           "practice_description": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 6,
+          "depth_chart_order": 9,
           "age": 23,
           "years_exp": 0,
           "projection": null,
@@ -6189,7 +6189,7 @@
           "projection": 5.87,
           "projection_opponent": "HOU",
           "projection_game_id": "202610615",
-          "trending_adds": 15240,
+          "trending_adds": 14945,
           "dynasty_value_1qb": 1794,
           "dynasty_value_2qb": 1276,
           "dynasty_ecr_1qb": 75.2,
@@ -6215,7 +6215,7 @@
           "projection": 4.46,
           "projection_opponent": "NE",
           "projection_game_id": "202610621",
-          "trending_adds": 10557,
+          "trending_adds": 10467,
           "dynasty_value_1qb": 1880,
           "dynasty_value_2qb": 1529,
           "dynasty_ecr_1qb": 73.2,
@@ -6241,7 +6241,7 @@
           "projection": 12.32,
           "projection_opponent": "NE",
           "projection_game_id": "202610621",
-          "trending_adds": 33844,
+          "trending_adds": 31388,
           "dynasty_value_1qb": 133,
           "dynasty_value_2qb": 122,
           "dynasty_ecr_1qb": 186,
@@ -6267,7 +6267,7 @@
           "projection": 5.24,
           "projection_opponent": "CHI",
           "projection_game_id": "202610602",
-          "trending_adds": 22800,
+          "trending_adds": 22320,
           "dynasty_value_1qb": 85,
           "dynasty_value_2qb": 76,
           "dynasty_ecr_1qb": 205.2,
@@ -6352,7 +6352,7 @@
           "projection": 12.32,
           "projection_opponent": "NE",
           "projection_game_id": "202610621",
-          "trending_adds": 33844,
+          "trending_adds": 31388,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -6381,7 +6381,7 @@
           "projection": 5.87,
           "projection_opponent": "HOU",
           "projection_game_id": "202610615",
-          "trending_adds": 15240,
+          "trending_adds": 14945,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -6462,13 +6462,13 @@
           "injury_body_part": "Toe",
           "practice_description": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 6,
           "age": 24,
           "years_exp": 1,
           "projection": null,
           "projection_opponent": null,
           "projection_game_id": "202610602",
-          "trending_adds": 12822,
+          "trending_adds": 12096,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -6526,7 +6526,7 @@
           "projection": 4.46,
           "projection_opponent": "NE",
           "projection_game_id": "202610621",
-          "trending_adds": 10557,
+          "trending_adds": 10467,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -6668,7 +6668,7 @@
           "depth_chart_order": 3,
           "age": 27,
           "years_exp": 5,
-          "projection": 9.65,
+          "projection": 9.68,
           "projection_opponent": "CAR",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -6758,7 +6758,7 @@
           "projection": 5.24,
           "projection_opponent": "CHI",
           "projection_game_id": "202610602",
-          "trending_adds": 22800,
+          "trending_adds": 22320,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -6842,7 +6842,7 @@
           "projection": 14.39,
           "projection_opponent": "CHI",
           "projection_game_id": "202610602",
-          "trending_adds": 25848,
+          "trending_adds": 24405,
           "dynasty_value_1qb": 294,
           "dynasty_value_2qb": 929,
           "dynasty_ecr_1qb": 152.2,
@@ -6868,7 +6868,7 @@
           "projection": 13.72,
           "projection_opponent": "NYJ",
           "projection_game_id": "202610621",
-          "trending_adds": 12204,
+          "trending_adds": 11664,
           "dynasty_value_1qb": 465,
           "dynasty_value_2qb": 384,
           "dynasty_ecr_1qb": 132.6,
@@ -6917,7 +6917,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 6,
-          "projection": 16.27,
+          "projection": 16.34,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -7072,7 +7072,7 @@
           "injury_body_part": "Knee - PCL",
           "practice_description": null,
           "depth_chart_position": null,
-          "depth_chart_order": 9,
+          "depth_chart_order": 11,
           "age": 26,
           "years_exp": 2,
           "projection": null,
@@ -7162,7 +7162,7 @@
           "projection": 14.39,
           "projection_opponent": "CHI",
           "projection_game_id": "202610602",
-          "trending_adds": 25848,
+          "trending_adds": 24405,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -7191,7 +7191,7 @@
           "projection": 6.69,
           "projection_opponent": "LV",
           "projection_game_id": "202610625",
-          "trending_adds": 52254,
+          "trending_adds": 51696,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -7214,7 +7214,7 @@
           "injury_body_part": "Knee - PCL",
           "practice_description": null,
           "depth_chart_position": null,
-          "depth_chart_order": 9,
+          "depth_chart_order": 11,
           "age": 26,
           "years_exp": 2,
           "projection": null,
@@ -7249,7 +7249,7 @@
           "projection": 6.12,
           "projection_opponent": "KC",
           "projection_game_id": "202610616",
-          "trending_adds": 106125,
+          "trending_adds": 103540,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -7446,7 +7446,7 @@
           "injury_body_part": "Hamstring",
           "practice_description": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "age": 29,
           "years_exp": 8,
           "projection": null,
@@ -7536,7 +7536,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 6,
-          "projection": 16.27,
+          "projection": 16.34,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -7597,7 +7597,7 @@
           "projection": 13.72,
           "projection_opponent": "NYJ",
           "projection_game_id": "202610621",
-          "trending_adds": 12204,
+          "trending_adds": 11664,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -7626,7 +7626,7 @@
           "projection": 7.32,
           "projection_opponent": "LV",
           "projection_game_id": "202610625",
-          "trending_adds": 49086,
+          "trending_adds": 47952,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -7710,7 +7710,7 @@
           "projection": 21.54,
           "projection_opponent": "ARI",
           "projection_game_id": "202610632",
-          "trending_adds": 30420,
+          "trending_adds": 29196,
           "dynasty_value_1qb": 386,
           "dynasty_value_2qb": 1431,
           "dynasty_ecr_1qb": 140.6,
@@ -7837,7 +7837,7 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 3,
-          "projection": 10.53,
+          "projection": 10.58,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -7918,7 +7918,7 @@
           "projection": 6.4,
           "projection_opponent": "CLE",
           "projection_game_id": "202610608",
-          "trending_adds": 11160,
+          "trending_adds": 10251,
           "dynasty_value_1qb": 377,
           "dynasty_value_2qb": 342,
           "dynasty_ecr_1qb": 141.6,
@@ -8198,7 +8198,7 @@
           "projection": 7.35,
           "projection_opponent": "PIT",
           "projection_game_id": "202610633",
-          "trending_adds": 26334,
+          "trending_adds": 24840,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -8256,7 +8256,7 @@
           "projection": 21.54,
           "projection_opponent": "ARI",
           "projection_game_id": "202610632",
-          "trending_adds": 30420,
+          "trending_adds": 29196,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -8285,7 +8285,7 @@
           "projection": 6.55,
           "projection_opponent": "LAR",
           "projection_game_id": "202610632",
-          "trending_adds": 40185,
+          "trending_adds": 38667,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -8343,7 +8343,7 @@
           "projection": 6.4,
           "projection_opponent": "CLE",
           "projection_game_id": "202610608",
-          "trending_adds": 11160,
+          "trending_adds": 10251,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -8366,7 +8366,7 @@
           "injury_body_part": "Hamstring",
           "practice_description": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "age": 30,
           "years_exp": 7,
           "projection": null,
@@ -8543,7 +8543,7 @@
           "depth_chart_order": 1,
           "age": 25,
           "years_exp": 3,
-          "projection": 10.53,
+          "projection": 10.58,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -8759,7 +8759,7 @@
           "projection": 7.7,
           "projection_opponent": "TEN",
           "projection_game_id": "202610614",
-          "trending_adds": 58664,
+          "trending_adds": 60276,
           "dynasty_value_1qb": 55,
           "dynasty_value_2qb": 44,
           "dynasty_ecr_1qb": 223.2,
@@ -8811,7 +8811,7 @@
           "projection": 7.22,
           "projection_opponent": "NYJ",
           "projection_game_id": "202610621",
-          "trending_adds": 9840,
+          "trending_adds": 9465,
           "dynasty_value_1qb": 170,
           "dynasty_value_2qb": 155,
           "dynasty_ecr_1qb": 175.4,
@@ -8889,7 +8889,7 @@
           "projection": 7.33,
           "projection_opponent": "PIT",
           "projection_game_id": "202610633",
-          "trending_adds": 50432,
+          "trending_adds": 50440,
           "dynasty_value_1qb": 237,
           "dynasty_value_2qb": 191,
           "dynasty_ecr_1qb": 161.4,
@@ -9175,7 +9175,7 @@
           "projection": 5.24,
           "projection_opponent": "WAS",
           "projection_game_id": "202610631",
-          "trending_adds": 20797,
+          "trending_adds": 20447,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -9204,7 +9204,7 @@
           "projection": 7.7,
           "projection_opponent": "TEN",
           "projection_game_id": "202610614",
-          "trending_adds": 58664,
+          "trending_adds": 60276,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -9262,7 +9262,7 @@
           "projection": 7.22,
           "projection_opponent": "NYJ",
           "projection_game_id": "202610621",
-          "trending_adds": 9840,
+          "trending_adds": 9465,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -9288,7 +9288,7 @@
           "depth_chart_order": 1,
           "age": 33,
           "years_exp": 10,
-          "projection": 18.33,
+          "projection": 18.44,
           "projection_opponent": "GB",
           "projection_game_id": "202610612",
           "trending_adds": 0,
@@ -9349,7 +9349,7 @@
           "projection": 5.87,
           "projection_opponent": "NO",
           "projection_game_id": "202610623",
-          "trending_adds": 20770,
+          "trending_adds": 19885,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -9378,7 +9378,7 @@
           "projection": 7.33,
           "projection_opponent": "PIT",
           "projection_game_id": "202610633",
-          "trending_adds": 50432,
+          "trending_adds": 50440,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -9494,7 +9494,7 @@
           "projection": 5.35,
           "projection_opponent": "KC",
           "projection_game_id": "202610616",
-          "trending_adds": 14273,
+          "trending_adds": 15008,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -9601,7 +9601,7 @@
           "projection": 9.05,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 38960,
+          "trending_adds": 37936,
           "dynasty_value_1qb": 64,
           "dynasty_value_2qb": 62,
           "dynasty_ecr_1qb": 216.8,
@@ -9624,10 +9624,10 @@
           "depth_chart_order": 2,
           "age": 23,
           "years_exp": 1,
-          "projection": 12.87,
+          "projection": 12.92,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
-          "trending_adds": 12236,
+          "trending_adds": 11823,
           "dynasty_value_1qb": 1231,
           "dynasty_value_2qb": 1042,
           "dynasty_ecr_1qb": 91.2,
@@ -9705,7 +9705,7 @@
           "projection": 10.05,
           "projection_opponent": "IND",
           "projection_game_id": "202610614",
-          "trending_adds": 12455,
+          "trending_adds": 11540,
           "dynasty_value_1qb": 260,
           "dynasty_value_2qb": 227,
           "dynasty_ecr_1qb": 157.4,
@@ -9924,10 +9924,10 @@
           "depth_chart_order": 2,
           "age": 23,
           "years_exp": 1,
-          "projection": 12.87,
+          "projection": 12.92,
           "projection_opponent": "DAL",
           "projection_game_id": "202610612",
-          "trending_adds": 12236,
+          "trending_adds": 11823,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -9979,7 +9979,7 @@
           "injury_body_part": "Coach's Decision",
           "practice_description": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "age": 23,
           "years_exp": 0,
           "projection": null,
@@ -10072,7 +10072,7 @@
           "projection": 9.05,
           "projection_opponent": "NYG",
           "projection_game_id": "202610623",
-          "trending_adds": 38960,
+          "trending_adds": 37936,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -10130,7 +10130,7 @@
           "projection": null,
           "projection_opponent": null,
           "projection_game_id": "202610612",
-          "trending_adds": 407710,
+          "trending_adds": 418320,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -10188,7 +10188,7 @@
           "projection": null,
           "projection_opponent": null,
           "projection_game_id": "202610615",
-          "trending_adds": 10392,
+          "trending_adds": 9570,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -10217,7 +10217,7 @@
           "projection": 7.2,
           "projection_opponent": "HOU",
           "projection_game_id": "202610615",
-          "trending_adds": 16788,
+          "trending_adds": 15780,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -10246,7 +10246,7 @@
           "projection": 10.05,
           "projection_opponent": "IND",
           "projection_game_id": "202610614",
-          "trending_adds": 12455,
+          "trending_adds": 11540,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -10304,7 +10304,7 @@
           "projection": 8.01,
           "projection_opponent": "NYJ",
           "projection_game_id": "202610621",
-          "trending_adds": 19152,
+          "trending_adds": 18160,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -10362,7 +10362,7 @@
           "projection": 16.73,
           "projection_opponent": "TB",
           "projection_game_id": "202610633",
-          "trending_adds": 112144,
+          "trending_adds": 105816,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -10417,7 +10417,7 @@
           "projection": 15.3,
           "projection_opponent": "JAX",
           "projection_game_id": "202610615",
-          "trending_adds": 94388,
+          "trending_adds": 89495,
           "dynasty_value_1qb": 1483,
           "dynasty_value_2qb": 4035,
           "dynasty_ecr_1qb": 83.3,
@@ -10466,7 +10466,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 5,
-          "projection": 14.87,
+          "projection": 14.8,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -10599,7 +10599,7 @@
           "projection": 7.12,
           "projection_opponent": "BAL",
           "projection_game_id": "202610608",
-          "trending_adds": 46836,
+          "trending_adds": 46962,
           "dynasty_value_1qb": 2094,
           "dynasty_value_2qb": 1845,
           "dynasty_ecr_1qb": 68.6,
@@ -10828,7 +10828,7 @@
           "projection": 7.12,
           "projection_opponent": "BAL",
           "projection_game_id": "202610608",
-          "trending_adds": 46836,
+          "trending_adds": 46962,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -10915,7 +10915,7 @@
           "projection": 3.93,
           "projection_opponent": "LAC",
           "projection_game_id": "202610616",
-          "trending_adds": 56040,
+          "trending_adds": 62832,
           "starter": false,
           "reserve": false,
           "taxi": false,
@@ -11057,7 +11057,7 @@
           "depth_chart_order": 1,
           "age": 27,
           "years_exp": 5,
-          "projection": 14.87,
+          "projection": 14.8,
           "projection_opponent": "PHI",
           "projection_game_id": "202610626",
           "trending_adds": 0,
@@ -11176,7 +11176,7 @@
           "projection": 15.3,
           "projection_opponent": "JAX",
           "projection_game_id": "202610615",
-          "trending_adds": 94388,
+          "trending_adds": 89495,
           "starter": true,
           "reserve": false,
           "taxi": false,
@@ -11190,32 +11190,6 @@
     }
   ],
   "free_agents": [
-    {
-      "player_id": "9230",
-      "full_name": "Tanner McKee",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 1,
-      "age": 26,
-      "years_exp": 3,
-      "projection": 11.83,
-      "projection_opponent": "CAR",
-      "projection_game_id": "202610626",
-      "trending_adds": 265568,
-      "dynasty_value_1qb": 5,
-      "dynasty_value_2qb": 2,
-      "dynasty_ecr_1qb": 325.5,
-      "dynasty_ecr_2qb": 356.5,
-      "dynasty_pos_ecr": 53.5
-    },
     {
       "player_id": "3271",
       "full_name": "Tyler Higbee",
@@ -11235,12 +11209,38 @@
       "projection": 7.79,
       "projection_opponent": "ARI",
       "projection_game_id": "202610632",
-      "trending_adds": 257922,
+      "trending_adds": 273429,
       "dynasty_value_1qb": 3,
       "dynasty_value_2qb": 16,
       "dynasty_ecr_1qb": 341,
       "dynasty_ecr_2qb": 275,
       "dynasty_pos_ecr": 54
+    },
+    {
+      "player_id": "9230",
+      "full_name": "Tanner McKee",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 1,
+      "age": 26,
+      "years_exp": 3,
+      "projection": 11.91,
+      "projection_opponent": "CAR",
+      "projection_game_id": "202610626",
+      "trending_adds": 231544,
+      "dynasty_value_1qb": 5,
+      "dynasty_value_2qb": 2,
+      "dynasty_ecr_1qb": 325.5,
+      "dynasty_ecr_2qb": 356.5,
+      "dynasty_pos_ecr": 53.5
     },
     {
       "player_id": "11557",
@@ -11261,7 +11261,7 @@
       "projection": null,
       "projection_opponent": null,
       "projection_game_id": "202610626",
-      "trending_adds": 178924
+      "trending_adds": 185524
     },
     {
       "player_id": "13150",
@@ -11279,10 +11279,10 @@
       "depth_chart_order": 2,
       "age": 24,
       "years_exp": 1,
-      "projection": 3.74,
+      "projection": 3.76,
       "projection_opponent": "CAR",
       "projection_game_id": "202610626",
-      "trending_adds": 157234
+      "trending_adds": 143759
     },
     {
       "player_id": "11439",
@@ -11303,12 +11303,38 @@
       "projection": 6.03,
       "projection_opponent": "BAL",
       "projection_game_id": "202610608",
-      "trending_adds": 133885,
+      "trending_adds": 132290,
       "dynasty_value_1qb": 3,
       "dynasty_value_2qb": 3,
       "dynasty_ecr_1qb": 348.8,
       "dynasty_ecr_2qb": 348.8,
       "dynasty_pos_ecr": 91.3
+    },
+    {
+      "player_id": "10235",
+      "full_name": "Roschon Johnson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "age": 25,
+      "years_exp": 3,
+      "projection": 6.39,
+      "projection_opponent": "ATL",
+      "projection_game_id": "202610602",
+      "trending_adds": 91064,
+      "dynasty_value_1qb": 3,
+      "dynasty_value_2qb": 3,
+      "dynasty_ecr_1qb": 348,
+      "dynasty_ecr_2qb": 348,
+      "dynasty_pos_ecr": 90.5
     },
     {
       "player_id": "11783",
@@ -11326,41 +11352,15 @@
       "depth_chart_order": 3,
       "age": 26,
       "years_exp": 2,
-      "projection": 6.25,
+      "projection": 6.27,
       "projection_opponent": "GB",
       "projection_game_id": "202610612",
-      "trending_adds": 82616,
+      "trending_adds": 78560,
       "dynasty_value_1qb": 78,
       "dynasty_value_2qb": 81,
       "dynasty_ecr_1qb": 208.4,
       "dynasty_ecr_2qb": 207.2,
       "dynasty_pos_ecr": 88.5
-    },
-    {
-      "player_id": "10235",
-      "full_name": "Roschon Johnson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 3,
-      "age": 25,
-      "years_exp": 3,
-      "projection": 6.39,
-      "projection_opponent": "ATL",
-      "projection_game_id": "202610602",
-      "trending_adds": 77456,
-      "dynasty_value_1qb": 3,
-      "dynasty_value_2qb": 3,
-      "dynasty_ecr_1qb": 348,
-      "dynasty_ecr_2qb": 348,
-      "dynasty_pos_ecr": 90.5
     },
     {
       "player_id": "2197",
@@ -11381,7 +11381,7 @@
       "projection": 5.09,
       "projection_opponent": "WAS",
       "projection_game_id": "202610631",
-      "trending_adds": 73112
+      "trending_adds": 71916
     },
     {
       "player_id": "8116",
@@ -11399,10 +11399,10 @@
       "depth_chart_order": 2,
       "age": 27,
       "years_exp": 4,
-      "projection": 4.57,
+      "projection": 4.58,
       "projection_opponent": "DAL",
       "projection_game_id": "202610612",
-      "trending_adds": 69786
+      "trending_adds": 65916
     },
     {
       "player_id": "7083",
@@ -11423,7 +11423,7 @@
       "projection": 12.96,
       "projection_opponent": "CLE",
       "projection_game_id": "202610608",
-      "trending_adds": 56974,
+      "trending_adds": 61048,
       "dynasty_value_1qb": 4,
       "dynasty_value_2qb": 3,
       "dynasty_ecr_1qb": 334,
@@ -11449,7 +11449,7 @@
       "projection": 5.13,
       "projection_opponent": "CLE",
       "projection_game_id": "202610608",
-      "trending_adds": 46611,
+      "trending_adds": 47097,
       "dynasty_value_1qb": 5,
       "dynasty_value_2qb": 13,
       "dynasty_ecr_1qb": 325.4,
@@ -11472,10 +11472,10 @@
       "depth_chart_order": 1,
       "age": 34,
       "years_exp": 11,
-      "projection": 6.64,
+      "projection": 6.62,
       "projection_opponent": "PHI",
       "projection_game_id": "202610626",
-      "trending_adds": 41058,
+      "trending_adds": 41373,
       "dynasty_value_1qb": 11,
       "dynasty_value_2qb": 19,
       "dynasty_ecr_1qb": 291.7,
@@ -11501,7 +11501,7 @@
       "projection": 14.99,
       "projection_opponent": "TEN",
       "projection_game_id": "202610614",
-      "trending_adds": 39455,
+      "trending_adds": 38960,
       "dynasty_value_1qb": 321,
       "dynasty_value_2qb": 1092,
       "dynasty_ecr_1qb": 148.4,
@@ -11527,38 +11527,12 @@
       "projection": 4.7,
       "projection_opponent": "LV",
       "projection_game_id": "202610625",
-      "trending_adds": 26946,
+      "trending_adds": 28536,
       "dynasty_value_1qb": 3,
       "dynasty_value_2qb": 8,
       "dynasty_ecr_1qb": 343.2,
       "dynasty_ecr_2qb": 305.2,
       "dynasty_pos_ecr": 85.7
-    },
-    {
-      "player_id": "13335",
-      "full_name": "Cole Payton",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "age": 23,
-      "years_exp": 0,
-      "projection": null,
-      "projection_opponent": null,
-      "projection_game_id": "202610626",
-      "trending_adds": 21306,
-      "dynasty_value_1qb": 30,
-      "dynasty_value_2qb": 3,
-      "dynasty_ecr_1qb": 249,
-      "dynasty_ecr_2qb": 344.5,
-      "dynasty_pos_ecr": 41.5
     },
     {
       "player_id": "11616",
@@ -11579,7 +11553,80 @@
       "projection": 4.73,
       "projection_opponent": "WAS",
       "projection_game_id": "202610631",
-      "trending_adds": 18036
+      "trending_adds": 19662
+    },
+    {
+      "player_id": "13335",
+      "full_name": "Cole Payton",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "age": 23,
+      "years_exp": 0,
+      "projection": null,
+      "projection_opponent": null,
+      "projection_game_id": "202610626",
+      "trending_adds": 16290,
+      "dynasty_value_1qb": 30,
+      "dynasty_value_2qb": 3,
+      "dynasty_ecr_1qb": 249,
+      "dynasty_ecr_2qb": 344.5,
+      "dynasty_pos_ecr": 41.5
+    },
+    {
+      "player_id": "3155",
+      "full_name": "Laquon Treadwell",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 3,
+      "age": 31,
+      "years_exp": 10,
+      "projection": 5.36,
+      "projection_opponent": "TEN",
+      "projection_game_id": "202610614",
+      "trending_adds": 13915
+    },
+    {
+      "player_id": "13424",
+      "full_name": "Seth McGowan",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "age": 24,
+      "years_exp": 0,
+      "projection": 3.6,
+      "projection_opponent": "TEN",
+      "projection_game_id": "202610614",
+      "trending_adds": 13392,
+      "dynasty_value_1qb": 15,
+      "dynasty_value_2qb": 21,
+      "dynasty_ecr_1qb": 279.2,
+      "dynasty_ecr_2qb": 263.6,
+      "dynasty_pos_ecr": 73.8
     },
     {
       "player_id": "9479",
@@ -11600,7 +11647,7 @@
       "projection": 5.38,
       "projection_opponent": "TB",
       "projection_game_id": "202610633",
-      "trending_adds": 13340,
+      "trending_adds": 13210,
       "dynasty_value_1qb": 38,
       "dynasty_value_2qb": 31,
       "dynasty_ecr_1qb": 239.3,
@@ -11626,59 +11673,12 @@
       "projection": 5.73,
       "projection_opponent": "BUF",
       "projection_game_id": "202610625",
-      "trending_adds": 13176,
+      "trending_adds": 12726,
       "dynasty_value_1qb": 83,
       "dynasty_value_2qb": 76,
       "dynasty_ecr_1qb": 206,
       "dynasty_ecr_2qb": 209.8,
       "dynasty_pos_ecr": 34
-    },
-    {
-      "player_id": "13424",
-      "full_name": "Seth McGowan",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 2,
-      "age": 24,
-      "years_exp": 0,
-      "projection": 3.6,
-      "projection_opponent": "TEN",
-      "projection_game_id": "202610614",
-      "trending_adds": 13016,
-      "dynasty_value_1qb": 15,
-      "dynasty_value_2qb": 21,
-      "dynasty_ecr_1qb": 279.2,
-      "dynasty_ecr_2qb": 263.6,
-      "dynasty_pos_ecr": 73.8
-    },
-    {
-      "player_id": "3155",
-      "full_name": "Laquon Treadwell",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
-      "age": 31,
-      "years_exp": 10,
-      "projection": 5.36,
-      "projection_opponent": "TEN",
-      "projection_game_id": "202610614",
-      "trending_adds": 10495
     },
     {
       "player_id": "3257",
@@ -12363,7 +12363,7 @@
       "depth_chart_order": 4,
       "age": 22,
       "years_exp": 1,
-      "projection": 3.05,
+      "projection": 3.04,
       "projection_opponent": "PHI",
       "projection_game_id": "202610626",
       "trending_adds": 0,
@@ -12577,6 +12577,27 @@
       "dynasty_pos_ecr": 46
     },
     {
+      "player_id": "8207",
+      "full_name": "Tyler Goodson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "age": 25,
+      "years_exp": 4,
+      "projection": 2.65,
+      "projection_opponent": "GB",
+      "projection_game_id": "202610612",
+      "trending_adds": 0
+    },
+    {
       "player_id": "3202",
       "full_name": "Austin Hooper",
       "position": "TE",
@@ -12601,27 +12622,6 @@
       "dynasty_ecr_1qb": 352,
       "dynasty_ecr_2qb": 348,
       "dynasty_pos_ecr": 65
-    },
-    {
-      "player_id": "8207",
-      "full_name": "Tyler Goodson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 2,
-      "age": 25,
-      "years_exp": 4,
-      "projection": 2.64,
-      "projection_opponent": "GB",
-      "projection_game_id": "202610612",
-      "trending_adds": 0
     },
     {
       "player_id": "7670",
@@ -12650,24 +12650,24 @@
       "dynasty_pos_ecr": 114.2
     },
     {
-      "player_id": "7694",
-      "full_name": "Tommy Tremble",
+      "player_id": "4144",
+      "full_name": "Jonnu Smith",
       "position": "TE",
       "fantasy_positions": [
         "TE"
       ],
-      "team": "CAR",
+      "team": "GB",
       "status": "Active",
       "injury_status": null,
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 2,
-      "age": 26,
-      "years_exp": 5,
-      "projection": 2.58,
-      "projection_opponent": "PHI",
-      "projection_game_id": "202610626",
+      "age": 31,
+      "years_exp": 9,
+      "projection": 2.57,
+      "projection_opponent": "DAL",
+      "projection_game_id": "202610612",
       "trending_adds": 0
     },
     {
@@ -12692,24 +12692,24 @@
       "trending_adds": 0
     },
     {
-      "player_id": "4144",
-      "full_name": "Jonnu Smith",
+      "player_id": "7694",
+      "full_name": "Tommy Tremble",
       "position": "TE",
       "fantasy_positions": [
         "TE"
       ],
-      "team": "GB",
+      "team": "CAR",
       "status": "Active",
       "injury_status": null,
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 2,
-      "age": 31,
-      "years_exp": 9,
-      "projection": 2.56,
-      "projection_opponent": "DAL",
-      "projection_game_id": "202610612",
+      "age": 26,
+      "years_exp": 5,
+      "projection": 2.57,
+      "projection_opponent": "PHI",
+      "projection_game_id": "202610626",
       "trending_adds": 0
     },
     {
@@ -12777,10 +12777,10 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "age": 27,
       "years_exp": 4,
-      "projection": 2.48,
+      "projection": 2.49,
       "projection_opponent": "DAL",
       "projection_game_id": "202610612",
       "trending_adds": 0
@@ -13036,7 +13036,7 @@
       "depth_chart_order": null,
       "age": 22,
       "years_exp": 1,
-      "projection": 2.19,
+      "projection": 2.21,
       "projection_opponent": "CAR",
       "projection_game_id": "202610626",
       "trending_adds": 0,
@@ -13106,13 +13106,39 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "age": 23,
       "years_exp": 2,
-      "projection": 2.06,
+      "projection": 2.07,
       "projection_opponent": "CAR",
       "projection_game_id": "202610626",
       "trending_adds": 0
+    },
+    {
+      "player_id": "8917",
+      "full_name": "KaVontae Turpin",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_body_part": null,
+      "practice_description": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 4,
+      "age": 30,
+      "years_exp": 4,
+      "projection": 2.07,
+      "projection_opponent": "GB",
+      "projection_game_id": "202610612",
+      "trending_adds": 0,
+      "dynasty_value_1qb": 2,
+      "dynasty_value_2qb": 2,
+      "dynasty_ecr_1qb": 356,
+      "dynasty_ecr_2qb": 356,
+      "dynasty_pos_ecr": 155
     },
     {
       "player_id": "12634",
@@ -13139,32 +13165,6 @@
       "dynasty_ecr_1qb": 345.3,
       "dynasty_ecr_2qb": 301,
       "dynasty_pos_ecr": 144.3
-    },
-    {
-      "player_id": "8917",
-      "full_name": "KaVontae Turpin",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
-      "practice_description": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 4,
-      "age": 30,
-      "years_exp": 4,
-      "projection": 2.06,
-      "projection_opponent": "GB",
-      "projection_game_id": "202610612",
-      "trending_adds": 0,
-      "dynasty_value_1qb": 2,
-      "dynasty_value_2qb": 2,
-      "dynasty_ecr_1qb": 356,
-      "dynasty_ecr_2qb": 356,
-      "dynasty_pos_ecr": 155
     },
     {
       "player_id": "5086",
@@ -13221,10 +13221,10 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "age": 24,
       "years_exp": 0,
-      "projection": 1.94,
+      "projection": 1.95,
       "projection_opponent": "DAL",
       "projection_game_id": "202610612",
       "trending_adds": 0
@@ -13519,7 +13519,7 @@
       "injury_body_part": "Quadriceps",
       "practice_description": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "age": 23,
       "years_exp": 0,
       "projection": 1.25,
@@ -13699,7 +13699,7 @@
       "depth_chart_order": 3,
       "age": 28,
       "years_exp": 3,
-      "projection": 1.03,
+      "projection": 1.04,
       "projection_opponent": "GB",
       "projection_game_id": "202610612",
       "trending_adds": 0
@@ -13738,7 +13738,7 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "age": 26,
       "years_exp": 3,
       "projection": 0.99,
@@ -15432,7 +15432,7 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "age": 34,
       "years_exp": 11,
       "projection": 0.07,
@@ -19521,7 +19521,7 @@
       "injury_body_part": "Knee - ACL + MCL",
       "practice_description": null,
       "depth_chart_position": null,
-      "depth_chart_order": 8,
+      "depth_chart_order": 9,
       "age": 28,
       "years_exp": 6,
       "projection": null,
@@ -19967,7 +19967,7 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "age": 26,
       "years_exp": 3,
       "projection": null,
@@ -33617,7 +33617,7 @@
       "injury_body_part": "Pectoral",
       "practice_description": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "age": 26,
       "years_exp": 2,
       "projection": null,
@@ -42013,7 +42013,7 @@
       "injury_body_part": "Concussion",
       "practice_description": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "age": 22,
       "years_exp": 0,
       "projection": null,
@@ -45178,7 +45178,7 @@
       "injury_body_part": null,
       "practice_description": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "age": 24,
       "years_exp": 1,
       "projection": null,
@@ -57491,7 +57491,7 @@
       "injury_body_part": "Ankle",
       "practice_description": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 5,
       "age": 26,
       "years_exp": 4,
       "projection": null,
@@ -59742,7 +59742,7 @@
       "injury_body_part": "Neck",
       "practice_description": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "age": 25,
       "years_exp": 2,
       "projection": null,
@@ -65417,12 +65417,12 @@
           "adds": {
             "12509": 4
           },
-          "drops": {
-            "13380": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "13380": 4
+          },
           "roster_ids": [
             4
           ],
@@ -65447,10 +65447,10 @@
           "adds": {
             "5844": 10
           },
-          "drops": null,
           "consenter_ids": [
             10
           ],
+          "drops": null,
           "roster_ids": [
             10
           ],
@@ -65468,12 +65468,12 @@
           "creator": "857783742431862784",
           "transaction_id": "1405734104472821760",
           "adds": null,
-          "drops": {
-            "13402": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "13402": 10
+          },
           "roster_ids": [
             10
           ],
@@ -65498,12 +65498,12 @@
           "adds": {
             "9228": 2
           },
-          "drops": {
-            "12487": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "12487": 2
+          },
           "roster_ids": [
             2
           ],
@@ -65528,10 +65528,10 @@
           "adds": {
             "7600": 8
           },
-          "drops": null,
           "consenter_ids": [
             8
           ],
+          "drops": null,
           "roster_ids": [
             8
           ],
@@ -65549,12 +65549,12 @@
           "creator": "729457309012611072",
           "transaction_id": "1405664234880143360",
           "adds": null,
-          "drops": {
-            "13278": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "13278": 8
+          },
           "roster_ids": [
             8
           ],
@@ -65579,12 +65579,12 @@
           "adds": {
             "12492": 2
           },
-          "drops": {
-            "12469": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "12469": 2
+          },
           "roster_ids": [
             2
           ],
@@ -65609,12 +65609,12 @@
           "adds": {
             "9486": 2
           },
-          "drops": {
-            "9504": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "9504": 2
+          },
           "roster_ids": [
             2
           ],
@@ -65639,12 +65639,12 @@
           "adds": {
             "5844": 6
           },
-          "drops": {
-            "7528": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "7528": 6
+          },
           "roster_ids": [
             6
           ],
@@ -65669,10 +65669,10 @@
           "adds": {
             "12522": 12
           },
-          "drops": null,
           "consenter_ids": [
             12
           ],
+          "drops": null,
           "roster_ids": [
             12
           ],
@@ -65697,12 +65697,12 @@
           "adds": {
             "9482": 2
           },
-          "drops": {
-            "9486": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "9486": 2
+          },
           "roster_ids": [
             2
           ],
@@ -65727,10 +65727,10 @@
           "adds": {
             "7571": 9
           },
-          "drops": null,
           "consenter_ids": [
             9
           ],
+          "drops": null,
           "roster_ids": [
             9
           ],
@@ -65755,10 +65755,10 @@
           "adds": {
             "12509": 9
           },
-          "drops": null,
           "consenter_ids": [
             9
           ],
+          "drops": null,
           "roster_ids": [
             9
           ],
@@ -65776,12 +65776,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1402784094181449728",
           "adds": null,
-          "drops": {
-            "12476": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "12476": 12
+          },
           "roster_ids": [
             12
           ],
@@ -65806,10 +65806,10 @@
           "adds": {
             "8210": 5
           },
-          "drops": null,
           "consenter_ids": [
             5
           ],
+          "drops": null,
           "roster_ids": [
             5
           ],
@@ -65827,12 +65827,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1402706732806840320",
           "adds": null,
-          "drops": {
-            "13276": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "13276": 5
+          },
           "roster_ids": [
             5
           ],
@@ -65850,12 +65850,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1402706440342237184",
           "adds": null,
-          "drops": {
-            "11637": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "11637": 5
+          },
           "roster_ids": [
             5
           ],
@@ -65873,12 +65873,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1402706089497075712",
           "adds": null,
-          "drops": {
-            "13319": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "13319": 5
+          },
           "roster_ids": [
             5
           ],
@@ -65896,12 +65896,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1402705923843080192",
           "adds": null,
-          "drops": {
-            "3321": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "3321": 5
+          },
           "roster_ids": [
             5
           ],
@@ -65926,10 +65926,10 @@
           "adds": {
             "5001": 12
           },
-          "drops": null,
           "consenter_ids": [
             12
           ],
+          "drops": null,
           "roster_ids": [
             12
           ],
@@ -65947,12 +65947,12 @@
           "creator": "855939716527271936",
           "transaction_id": "1400904314863562752",
           "adds": null,
-          "drops": {
-            "6149": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "6149": 3
+          },
           "roster_ids": [
             3
           ],
@@ -65977,10 +65977,10 @@
           "adds": {
             "11370": 3
           },
-          "drops": null,
           "consenter_ids": [
             3
           ],
+          "drops": null,
           "roster_ids": [
             3
           ],
@@ -66005,10 +66005,10 @@
           "adds": {
             "4981": 3
           },
-          "drops": null,
           "consenter_ids": [
             3
           ],
+          "drops": null,
           "roster_ids": [
             3
           ],
@@ -66033,10 +66033,10 @@
           "adds": {
             "7049": 3
           },
-          "drops": null,
           "consenter_ids": [
             3
           ],
+          "drops": null,
           "roster_ids": [
             3
           ],
@@ -66054,12 +66054,12 @@
           "creator": "855939716527271936",
           "transaction_id": "1400903193403121664",
           "adds": null,
-          "drops": {
-            "4988": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "4988": 3
+          },
           "roster_ids": [
             3
           ],
@@ -66077,12 +66077,12 @@
           "creator": "855939716527271936",
           "transaction_id": "1400903111043756032",
           "adds": null,
-          "drops": {
-            "5970": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "5970": 3
+          },
           "roster_ids": [
             3
           ],
@@ -66100,12 +66100,12 @@
           "creator": "855939716527271936",
           "transaction_id": "1400903079171194880",
           "adds": null,
-          "drops": {
-            "3200": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "3200": 3
+          },
           "roster_ids": [
             3
           ],
@@ -66123,12 +66123,12 @@
           "creator": "855939716527271936",
           "transaction_id": "1400903032538951680",
           "adds": null,
-          "drops": {
-            "8205": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "8205": 3
+          },
           "roster_ids": [
             3
           ],
@@ -66153,10 +66153,10 @@
           "adds": {
             "12048": 8
           },
-          "drops": null,
           "consenter_ids": [
             8
           ],
+          "drops": null,
           "roster_ids": [
             8
           ],
@@ -66181,12 +66181,12 @@
           "adds": {
             "8800": 11
           },
-          "drops": {
-            "12457": 11
-          },
           "consenter_ids": [
             11
           ],
+          "drops": {
+            "12457": 11
+          },
           "roster_ids": [
             11
           ],
@@ -66211,12 +66211,12 @@
           "adds": {
             "13274": 2
           },
-          "drops": {
-            "11783": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "11783": 2
+          },
           "roster_ids": [
             2
           ],
@@ -66241,10 +66241,10 @@
           "adds": {
             "11783": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66269,10 +66269,10 @@
           "adds": {
             "9486": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66297,12 +66297,12 @@
           "adds": {
             "12487": 2
           },
-          "drops": {
-            "12522": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "12522": 2
+          },
           "roster_ids": [
             2
           ],
@@ -66320,12 +66320,12 @@
           "creator": "855940272964624384",
           "transaction_id": "1398800184904867840",
           "adds": null,
-          "drops": {
-            "2505": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "2505": 4
+          },
           "roster_ids": [
             4
           ],
@@ -66343,12 +66343,12 @@
           "creator": "857721024802877441",
           "transaction_id": "1398557267023896576",
           "adds": null,
-          "drops": {
-            "13274": 9
-          },
           "consenter_ids": [
             9
           ],
+          "drops": {
+            "13274": 9
+          },
           "roster_ids": [
             9
           ],
@@ -66366,12 +66366,12 @@
           "creator": "857721024802877441",
           "transaction_id": "1398557002099113984",
           "adds": null,
-          "drops": {
-            "13424": 9
-          },
           "consenter_ids": [
             9
           ],
+          "drops": {
+            "13424": 9
+          },
           "roster_ids": [
             9
           ],
@@ -66389,12 +66389,12 @@
           "creator": "857721024802877441",
           "transaction_id": "1398556763409666048",
           "adds": null,
-          "drops": {
-            "4147": 9
-          },
           "consenter_ids": [
             9
           ],
+          "drops": {
+            "4147": 9
+          },
           "roster_ids": [
             9
           ],
@@ -66412,12 +66412,12 @@
           "creator": "857721024802877441",
           "transaction_id": "1398555558495133696",
           "adds": null,
-          "drops": {
-            "13275": 9
-          },
           "consenter_ids": [
             9
           ],
+          "drops": {
+            "13275": 9
+          },
           "roster_ids": [
             9
           ],
@@ -66442,10 +66442,10 @@
           "adds": {
             "13402": 10
           },
-          "drops": null,
           "consenter_ids": [
             10
           ],
+          "drops": null,
           "roster_ids": [
             10
           ],
@@ -66463,12 +66463,12 @@
           "creator": "857783742431862784",
           "transaction_id": "1398434600283283456",
           "adds": null,
-          "drops": {
-            "8125": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "8125": 10
+          },
           "roster_ids": [
             10
           ],
@@ -66494,10 +66494,10 @@
           "adds": {
             "12509": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66523,10 +66523,10 @@
           "adds": {
             "11783": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66552,10 +66552,10 @@
           "adds": {
             "6783": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66581,10 +66581,10 @@
           "adds": {
             "8800": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66610,10 +66610,10 @@
           "adds": {
             "8136": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -66638,12 +66638,12 @@
           "adds": {
             "11643": 10
           },
-          "drops": {
-            "4033": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "4033": 10
+          },
           "roster_ids": [
             10
           ],
@@ -66661,12 +66661,12 @@
           "creator": "857721024802877441",
           "transaction_id": "1397715581985112064",
           "adds": null,
-          "drops": {
-            "4098": 9
-          },
           "consenter_ids": [
             9
           ],
+          "drops": {
+            "4098": 9
+          },
           "roster_ids": [
             9
           ],
@@ -66684,12 +66684,12 @@
           "creator": "857721024802877441",
           "transaction_id": "1397715418428231680",
           "adds": null,
-          "drops": {
-            "4144": 9
-          },
           "consenter_ids": [
             9
           ],
+          "drops": {
+            "4144": 9
+          },
           "roster_ids": [
             9
           ],
@@ -66714,12 +66714,12 @@
           "adds": {
             "8161": 11
           },
-          "drops": {
-            "12487": 11
-          },
           "consenter_ids": [
             11
           ],
+          "drops": {
+            "12487": 11
+          },
           "roster_ids": [
             11
           ],
@@ -66737,12 +66737,12 @@
           "creator": "857793152063488000",
           "transaction_id": "1397701796507467776",
           "adds": null,
-          "drops": {
-            "12485": 11
-          },
           "consenter_ids": [
             11
           ],
+          "drops": {
+            "12485": 11
+          },
           "roster_ids": [
             11
           ],
@@ -66760,12 +66760,12 @@
           "creator": "855955157790355456",
           "transaction_id": "1397693635767590912",
           "adds": null,
-          "drops": {
-            "8147": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "8147": 6
+          },
           "roster_ids": [
             6
           ],
@@ -66783,12 +66783,12 @@
           "creator": "857783742431862784",
           "transaction_id": "1397693603278532608",
           "adds": null,
-          "drops": {
-            "12495": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "12495": 10
+          },
           "roster_ids": [
             10
           ],
@@ -66806,12 +66806,12 @@
           "creator": "857783742431862784",
           "transaction_id": "1397693552888119296",
           "adds": null,
-          "drops": {
-            "6803": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "6803": 10
+          },
           "roster_ids": [
             10
           ],
@@ -66829,12 +66829,12 @@
           "creator": "855938598745260032",
           "transaction_id": "1397692445315104768",
           "adds": null,
-          "drops": {
-            "11627": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "11627": 2
+          },
           "roster_ids": [
             2
           ],
@@ -66852,12 +66852,12 @@
           "creator": "857783742431862784",
           "transaction_id": "1397692347373924352",
           "adds": null,
-          "drops": {
-            "12504": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "12504": 10
+          },
           "roster_ids": [
             10
           ],
@@ -66875,12 +66875,12 @@
           "creator": "855940272964624384",
           "transaction_id": "1397691824201564160",
           "adds": null,
-          "drops": {
-            "4981": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "4981": 4
+          },
           "roster_ids": [
             4
           ],
@@ -66898,12 +66898,12 @@
           "creator": "856589748813307904",
           "transaction_id": "1397691769797242880",
           "adds": null,
-          "drops": {
-            "13302": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "13302": 7
+          },
           "roster_ids": [
             7
           ],
@@ -66921,12 +66921,12 @@
           "creator": "856589748813307904",
           "transaction_id": "1397691734464475136",
           "adds": null,
-          "drops": {
-            "4993": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "4993": 7
+          },
           "roster_ids": [
             7
           ],
@@ -66944,12 +66944,12 @@
           "creator": "857783742431862784",
           "transaction_id": "1397690270727827456",
           "adds": null,
-          "drops": {
-            "11565": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "11565": 10
+          },
           "roster_ids": [
             10
           ],
@@ -66967,12 +66967,12 @@
           "creator": "729457309012611072",
           "transaction_id": "1397690216306720768",
           "adds": null,
-          "drops": {
-            "7049": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "7049": 8
+          },
           "roster_ids": [
             8
           ],
@@ -66990,12 +66990,12 @@
           "creator": "855935935597121536",
           "transaction_id": "1397689024117751808",
           "adds": null,
-          "drops": {
-            "5844": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "5844": 1
+          },
           "roster_ids": [
             1
           ],
@@ -67013,12 +67013,12 @@
           "creator": "855935935597121536",
           "transaction_id": "1397643112486023168",
           "adds": null,
-          "drops": {
-            "13402": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "13402": 1
+          },
           "roster_ids": [
             1
           ],
@@ -67036,12 +67036,12 @@
           "creator": "855955157790355456",
           "transaction_id": "1397390636893638656",
           "adds": null,
-          "drops": {
-            "1339": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "1339": 6
+          },
           "roster_ids": [
             6
           ],
@@ -67059,12 +67059,12 @@
           "creator": "855955157790355456",
           "transaction_id": "1397390569881219072",
           "adds": null,
-          "drops": {
-            "4663": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "4663": 6
+          },
           "roster_ids": [
             6
           ],
@@ -67082,12 +67082,12 @@
           "creator": "855955157790355456",
           "transaction_id": "1397388799268368384",
           "adds": null,
-          "drops": {
-            "11435": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "11435": 6
+          },
           "roster_ids": [
             6
           ],
@@ -67105,12 +67105,12 @@
           "creator": "855955157790355456",
           "transaction_id": "1397388573644218368",
           "adds": null,
-          "drops": {
-            "12499": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "12499": 6
+          },
           "roster_ids": [
             6
           ],
@@ -67128,12 +67128,12 @@
           "creator": "855955157790355456",
           "transaction_id": "1397388042569854976",
           "adds": null,
-          "drops": {
-            "4219": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "4219": 6
+          },
           "roster_ids": [
             6
           ],
@@ -67151,12 +67151,12 @@
           "creator": "729457309012611072",
           "transaction_id": "1397315234993053696",
           "adds": null,
-          "drops": {
-            "6783": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "6783": 8
+          },
           "roster_ids": [
             8
           ],
@@ -67174,12 +67174,12 @@
           "creator": "855940272964624384",
           "transaction_id": "1396634344612728832",
           "adds": null,
-          "drops": {
-            "12455": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "12455": 4
+          },
           "roster_ids": [
             4
           ],
@@ -67197,12 +67197,12 @@
           "creator": "856589748813307904",
           "transaction_id": "1396629947170185216",
           "adds": null,
-          "drops": {
-            "11647": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "11647": 7
+          },
           "roster_ids": [
             7
           ],
@@ -67220,12 +67220,12 @@
           "creator": "855938598745260032",
           "transaction_id": "1396609829321084928",
           "adds": null,
-          "drops": {
-            "3257": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "3257": 2
+          },
           "roster_ids": [
             2
           ],
@@ -67243,12 +67243,12 @@
           "creator": "855938598745260032",
           "transaction_id": "1396609666238128128",
           "adds": null,
-          "drops": {
-            "12498": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "12498": 2
+          },
           "roster_ids": [
             2
           ],
@@ -67266,12 +67266,12 @@
           "creator": "855938598745260032",
           "transaction_id": "1396609623376535552",
           "adds": null,
-          "drops": {
-            "12535": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "12535": 2
+          },
           "roster_ids": [
             2
           ],
@@ -67289,12 +67289,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1396575314456346624",
           "adds": null,
-          "drops": {
-            "4018": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "4018": 5
+          },
           "roster_ids": [
             5
           ],
@@ -67312,12 +67312,12 @@
           "creator": "856589748813307904",
           "transaction_id": "1396341445983473664",
           "adds": null,
-          "drops": {
-            "6865": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "6865": 7
+          },
           "roster_ids": [
             7
           ],
@@ -67335,12 +67335,12 @@
           "creator": "856589748813307904",
           "transaction_id": "1396340952192266240",
           "adds": null,
-          "drops": {
-            "6130": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "6130": 7
+          },
           "roster_ids": [
             7
           ],
@@ -67358,12 +67358,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1396298834849591296",
           "adds": null,
-          "drops": {
-            "9228": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "9228": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67381,12 +67381,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1396296359195209728",
           "adds": null,
-          "drops": {
-            "8122": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "8122": 5
+          },
           "roster_ids": [
             5
           ],
@@ -67404,12 +67404,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1396296154513182720",
           "adds": null,
-          "drops": {
-            "11579": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "11579": 5
+          },
           "roster_ids": [
             5
           ],
@@ -67427,12 +67427,12 @@
           "creator": "855940082555817984",
           "transaction_id": "1396295844738662400",
           "adds": null,
-          "drops": {
-            "6039": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "6039": 5
+          },
           "roster_ids": [
             5
           ],
@@ -67450,12 +67450,12 @@
           "creator": "855938598745260032",
           "transaction_id": "1384969082012463104",
           "adds": null,
-          "drops": {
-            "11597": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "11597": 2
+          },
           "roster_ids": [
             2
           ],
@@ -67473,12 +67473,12 @@
           "creator": "855935935597121536",
           "transaction_id": "1383940359813345280",
           "adds": null,
-          "drops": {
-            "11589": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "11589": 1
+          },
           "roster_ids": [
             1
           ],
@@ -67496,12 +67496,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312650128976277504",
           "adds": null,
-          "drops": {
-            "5001": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "5001": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67519,12 +67519,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312649941469917184",
           "adds": null,
-          "drops": {
-            "12536": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "12536": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67542,12 +67542,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312649887938002944",
           "adds": null,
-          "drops": {
-            "6826": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "6826": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67565,12 +67565,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312649775572606976",
           "adds": null,
-          "drops": {
-            "10226": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "10226": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67588,12 +67588,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312649684426186752",
           "adds": null,
-          "drops": {
-            "1689": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "1689": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67611,12 +67611,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312649624170827776",
           "adds": null,
-          "drops": {
-            "7571": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "7571": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67634,12 +67634,12 @@
           "creator": "857806656652947456",
           "transaction_id": "1312649574589923328",
           "adds": null,
-          "drops": {
-            "10444": 12
-          },
           "consenter_ids": [
             12
           ],
+          "drops": {
+            "10444": 12
+          },
           "roster_ids": [
             12
           ],
@@ -67908,12 +67908,12 @@
           "adds": {
             "9757": 4
           },
-          "consenter_ids": [
-            4
-          ],
           "drops": {
             "9504": 4
           },
+          "consenter_ids": [
+            4
+          ],
           "roster_ids": [
             4
           ],
@@ -67938,12 +67938,12 @@
           "adds": {
             "11630": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "11637": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -67968,10 +67968,10 @@
           "adds": {
             "12495": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -67996,10 +67996,10 @@
           "adds": {
             "12495": 8
           },
+          "drops": null,
           "consenter_ids": [
             8
           ],
-          "drops": null,
           "roster_ids": [
             8
           ],
@@ -68024,10 +68024,10 @@
           "adds": {
             "3634": 6
           },
+          "drops": null,
           "consenter_ids": [
             6
           ],
-          "drops": null,
           "roster_ids": [
             6
           ],
@@ -68052,10 +68052,10 @@
           "adds": {
             "12495": 6
           },
+          "drops": null,
           "consenter_ids": [
             6
           ],
-          "drops": null,
           "roster_ids": [
             6
           ],
@@ -68080,10 +68080,10 @@
           "adds": {
             "12495": 10
           },
+          "drops": null,
           "consenter_ids": [
             10
           ],
-          "drops": null,
           "roster_ids": [
             10
           ],
@@ -68108,12 +68108,12 @@
           "adds": {
             "4017": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "5849": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -68138,10 +68138,10 @@
           "adds": {
             "8676": 10
           },
+          "drops": null,
           "consenter_ids": [
             10
           ],
-          "drops": null,
           "roster_ids": [
             10
           ],
@@ -68166,12 +68166,12 @@
           "adds": {
             "11637": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "12472": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -68196,12 +68196,12 @@
           "adds": {
             "12487": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "9482": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -68226,10 +68226,10 @@
           "adds": {
             "11559": 8
           },
+          "drops": null,
           "consenter_ids": [
             8
           ],
-          "drops": null,
           "roster_ids": [
             8
           ],
@@ -68254,12 +68254,12 @@
           "adds": {
             "8111": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "8210": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -68289,10 +68289,10 @@
           "adds": {
             "11637": 6
           },
-          "drops": null,
           "consenter_ids": [
             6
           ],
+          "drops": null,
           "roster_ids": [
             6
           ],
@@ -68317,10 +68317,10 @@
           "adds": {
             "11637": 10
           },
-          "drops": null,
           "consenter_ids": [
             10
           ],
+          "drops": null,
           "roster_ids": [
             10
           ],
@@ -68345,12 +68345,12 @@
           "adds": {
             "11577": 10
           },
-          "drops": {
-            "12483": 10
-          },
           "consenter_ids": [
             10
           ],
+          "drops": {
+            "12483": 10
+          },
           "roster_ids": [
             10
           ],
@@ -68375,10 +68375,10 @@
           "adds": {
             "11637": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -68403,10 +68403,10 @@
           "adds": {
             "7039": 8
           },
-          "drops": null,
           "consenter_ids": [
             8
           ],
+          "drops": null,
           "roster_ids": [
             8
           ],
@@ -68431,10 +68431,10 @@
           "adds": {
             "13264": 8
           },
-          "drops": null,
           "consenter_ids": [
             8
           ],
+          "drops": null,
           "roster_ids": [
             8
           ],
@@ -68459,10 +68459,10 @@
           "adds": {
             "11577": 8
           },
-          "drops": null,
           "consenter_ids": [
             8
           ],
+          "drops": null,
           "roster_ids": [
             8
           ],
@@ -68487,12 +68487,12 @@
           "adds": {
             "11637": 8
           },
-          "drops": {
-            "7600": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "7600": 8
+          },
           "roster_ids": [
             8
           ],
@@ -68517,12 +68517,12 @@
           "adds": {
             "4018": 11
           },
-          "drops": {
-            "8161": 11
-          },
           "consenter_ids": [
             11
           ],
+          "drops": {
+            "8161": 11
+          },
           "roster_ids": [
             11
           ],
@@ -68547,12 +68547,12 @@
           "adds": {
             "1166": 6
           },
-          "drops": {
-            "5870": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "5870": 6
+          },
           "roster_ids": [
             6
           ],
@@ -68577,10 +68577,10 @@
           "adds": {
             "8210": 9
           },
-          "drops": null,
           "consenter_ids": [
             9
           ],
+          "drops": null,
           "roster_ids": [
             9
           ],
@@ -68605,10 +68605,10 @@
           "adds": {
             "9504": 9
           },
-          "drops": null,
           "consenter_ids": [
             9
           ],
+          "drops": null,
           "roster_ids": [
             9
           ],
@@ -68633,10 +68633,10 @@
           "adds": {
             "5849": 4
           },
-          "drops": null,
           "consenter_ids": [
             4
           ],
+          "drops": null,
           "roster_ids": [
             4
           ],
@@ -68661,10 +68661,10 @@
           "adds": {
             "3321": 5
           },
-          "drops": null,
           "consenter_ids": [
             5
           ],
+          "drops": null,
           "roster_ids": [
             5
           ],
@@ -68689,10 +68689,10 @@
           "adds": {
             "5849": 5
           },
-          "drops": null,
           "consenter_ids": [
             5
           ],
+          "drops": null,
           "roster_ids": [
             5
           ],
@@ -68717,10 +68717,10 @@
           "adds": {
             "4993": 5
           },
-          "drops": null,
           "consenter_ids": [
             5
           ],
+          "drops": null,
           "roster_ids": [
             5
           ],
@@ -68745,12 +68745,12 @@
           "adds": {
             "2505": 2
           },
-          "drops": {
-            "12487": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "12487": 2
+          },
           "roster_ids": [
             2
           ],
@@ -68780,10 +68780,10 @@
           "adds": {
             "11647": 10
           },
+          "drops": null,
           "consenter_ids": [
             10
           ],
-          "drops": null,
           "roster_ids": [
             10
           ],
@@ -68808,10 +68808,10 @@
           "adds": {
             "8129": 10
           },
+          "drops": null,
           "consenter_ids": [
             10
           ],
-          "drops": null,
           "roster_ids": [
             10
           ],
@@ -68836,10 +68836,10 @@
           "adds": {
             "9501": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -68864,10 +68864,10 @@
           "adds": {
             "12542": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -68892,10 +68892,10 @@
           "adds": {
             "12504": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -68920,10 +68920,10 @@
           "adds": {
             "12469": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -68948,10 +68948,10 @@
           "adds": {
             "12536": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -68976,10 +68976,10 @@
           "adds": {
             "8129": 8
           },
+          "drops": null,
           "consenter_ids": [
             8
           ],
-          "drops": null,
           "roster_ids": [
             8
           ],
@@ -69004,12 +69004,12 @@
           "adds": {
             "11647": 8
           },
-          "consenter_ids": [
-            8
-          ],
           "drops": {
             "7528": 8
           },
+          "consenter_ids": [
+            8
+          ],
           "roster_ids": [
             8
           ],
@@ -69034,10 +69034,10 @@
           "adds": {
             "96": 8
           },
+          "drops": null,
           "consenter_ids": [
             8
           ],
-          "drops": null,
           "roster_ids": [
             8
           ],
@@ -69062,10 +69062,10 @@
           "adds": {
             "4454": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -69090,10 +69090,10 @@
           "adds": {
             "11783": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -69118,10 +69118,10 @@
           "adds": {
             "8129": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -69146,10 +69146,10 @@
           "adds": {
             "4454": 9
           },
+          "drops": null,
           "consenter_ids": [
             9
           ],
-          "drops": null,
           "roster_ids": [
             9
           ],
@@ -69174,10 +69174,10 @@
           "adds": {
             "7528": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -69202,12 +69202,12 @@
           "adds": {
             "7528": 8
           },
-          "consenter_ids": [
-            8
-          ],
           "drops": {
             "12504": 8
           },
+          "consenter_ids": [
+            8
+          ],
           "roster_ids": [
             8
           ],
@@ -69232,10 +69232,10 @@
           "adds": {
             "12533": 9
           },
+          "drops": null,
           "consenter_ids": [
             9
           ],
-          "drops": null,
           "roster_ids": [
             9
           ],
@@ -69260,12 +69260,12 @@
           "adds": {
             "13264": 11
           },
-          "consenter_ids": [
-            11
-          ],
           "drops": {
             "6931": 11
           },
+          "consenter_ids": [
+            11
+          ],
           "roster_ids": [
             11
           ],
@@ -69290,10 +69290,10 @@
           "adds": {
             "12533": 8
           },
+          "drops": null,
           "consenter_ids": [
             8
           ],
-          "drops": null,
           "roster_ids": [
             8
           ],
@@ -69318,10 +69318,10 @@
           "adds": {
             "12533": 2
           },
+          "drops": null,
           "consenter_ids": [
             2
           ],
-          "drops": null,
           "roster_ids": [
             2
           ],
@@ -69346,10 +69346,10 @@
           "adds": {
             "12533": 1
           },
+          "drops": null,
           "consenter_ids": [
             1
           ],
-          "drops": null,
           "roster_ids": [
             1
           ],
@@ -69374,12 +69374,12 @@
           "adds": {
             "12487": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "2505": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],
@@ -69402,16 +69402,16 @@
             "9480": 4,
             "9500": 4
           },
-          "consenter_ids": [
-            2,
-            4
-          ],
           "drops": {
             "7553": 4,
             "8131": 4,
             "9480": 2,
             "9500": 2
           },
+          "consenter_ids": [
+            2,
+            4
+          ],
           "roster_ids": [
             2,
             4
@@ -69437,12 +69437,12 @@
           "adds": {
             "13276": 1
           },
-          "consenter_ids": [
-            1
-          ],
           "drops": {
             "12533": 1
           },
+          "consenter_ids": [
+            1
+          ],
           "roster_ids": [
             1
           ],
