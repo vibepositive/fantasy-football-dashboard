@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:50:39.537Z",
+  "generated_at": "2026-10-19T15:40:06.673Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.58,
-      "adds": 152424,
+      "adds": 157200,
       "value": 124,
       "ecr": 188.8
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.96,
-      "adds": 52983,
+      "adds": 43605,
       "value": 47,
       "ecr": 229.8
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 8.82,
-      "adds": 178929,
+      "adds": 149373,
       "value": 724,
       "ecr": 113.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.68,
-      "adds": 131440,
+      "adds": 107856,
       "value": 61,
       "ecr": 219.2
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.5,
-      "adds": 25333,
+      "adds": 18564,
       "value": 63,
       "ecr": 217.4
     },
@@ -217,7 +217,7 @@
       "injury": "IR",
       "injury_part": "Calf",
       "depth": 6,
-      "proj": null,
+      "proj": 3.38,
       "adds": 0,
       "value": 15,
       "ecr": 278.8
@@ -259,7 +259,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 22.62,
+      "proj": 22.15,
       "adds": 0,
       "value": 3008,
       "ecr": 53.2
@@ -304,7 +304,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.13,
-      "adds": 27820,
+      "adds": 16390,
       "value": 321,
       "ecr": 148.4
     },
@@ -374,7 +374,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 4.6,
-      "adds": 27048,
+      "adds": 30870,
       "value": 189,
       "ecr": 171
     },
@@ -458,7 +458,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 0.9,
-      "adds": 59319,
+      "adds": 80997,
       "value": 108,
       "ecr": 194.6
     },
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.13,
-      "adds": 27820,
+      "adds": 16390,
       "value": 321,
       "ecr": 148.4
     },
@@ -572,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.8,
-      "adds": 25072,
+      "adds": 0,
       "value": 4,
       "ecr": 334
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 11.97,
-      "adds": 125528,
+      "adds": 100056,
       "value": 5,
       "ecr": 325.5
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.74,
-      "adds": 374455,
+      "adds": 366775,
       "value": 3,
       "ecr": 348.8
     },
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.73,
-      "adds": 876015,
+      "adds": 713745,
       "value": 3,
       "ecr": 341
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.56,
-      "adds": 49908,
+      "adds": 52008,
       "value": 3,
       "ecr": 347.7
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.67,
-      "adds": 202509,
+      "adds": 180297,
       "value": 11,
       "ecr": 291.7
     },
@@ -656,23 +656,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.52,
-      "adds": 183728,
+      "adds": 180808,
       "value": 78,
       "ecr": 208.4
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "nfl": "WAS",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.12,
-      "adds": 113776,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "10235",
@@ -684,7 +670,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.09,
-      "adds": 286272,
+      "adds": 218376,
       "value": 3,
       "ecr": 348
     },
@@ -698,9 +684,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.09,
-      "adds": 100105,
+      "adds": 86205,
       "value": 38,
       "ecr": 239.3
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "nfl": "WAS",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.08,
+      "adds": 95852,
+      "value": null,
+      "ecr": null
     }
   ],
   "most_added_available": [
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.73,
-      "adds": 876015,
+      "adds": 713745,
       "value": 3,
       "ecr": 341
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.74,
-      "adds": 374455,
+      "adds": 366775,
       "value": 3,
       "ecr": 348.8
     },
@@ -742,23 +742,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.09,
-      "adds": 286272,
+      "adds": 218376,
       "value": 3,
       "ecr": 348
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "nfl": "CAR",
-      "age": 34,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 6.67,
-      "adds": 202509,
-      "value": 11,
-      "ecr": 291.7
     },
     {
       "id": "11783",
@@ -770,9 +756,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.52,
-      "adds": 183728,
+      "adds": 180808,
       "value": 78,
       "ecr": 208.4
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "pos": "TE",
+      "nfl": "CAR",
+      "age": 34,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.67,
+      "adds": 180297,
+      "value": 11,
+      "ecr": 291.7
     },
     {
       "id": "2197",
@@ -783,36 +783,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.09,
-      "adds": 147008,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "nfl": "PHI",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 11.97,
-      "adds": 125528,
-      "value": 5,
-      "ecr": 325.5
-    },
-    {
-      "id": "4663",
-      "name": "Austin Ekeler",
-      "pos": "RB",
-      "nfl": "WAS",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.12,
-      "adds": 113776,
+      "proj": 3.63,
+      "adds": 131708,
       "value": null,
       "ecr": null
     },
@@ -826,9 +798,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.73,
-      "adds": 107019,
+      "adds": 131580,
       "value": 83,
       "ecr": 206
+    },
+    {
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "nfl": "PHI",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 11.97,
+      "adds": 100056,
+      "value": 5,
+      "ecr": 325.5
+    },
+    {
+      "id": "4663",
+      "name": "Austin Ekeler",
+      "pos": "RB",
+      "nfl": "WAS",
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.08,
+      "adds": 95852,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "9479",
@@ -840,23 +840,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.09,
-      "adds": 100105,
+      "adds": 86205,
       "value": 38,
       "ecr": 239.3
-    },
-    {
-      "id": "11616",
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.73,
-      "adds": 88146,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "11565",
@@ -868,9 +854,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 0.9,
-      "adds": 59319,
+      "adds": 80997,
       "value": 108,
       "ecr": 194.6
+    },
+    {
+      "id": "11616",
+      "name": "Jacob Cowing",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 2.78,
+      "adds": 72624,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "8116",
@@ -882,23 +882,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.5,
-      "adds": 56520,
+      "adds": 58383,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "6039",
-      "name": "Ty Johnson",
-      "pos": "RB",
-      "nfl": "BUF",
-      "age": 29,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 5.27,
-      "adds": 51186,
-      "value": 3,
-      "ecr": 343.2
     },
     {
       "id": "11579",
@@ -910,9 +896,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.56,
-      "adds": 49908,
+      "adds": 52008,
       "value": 3,
       "ecr": 347.7
+    },
+    {
+      "id": "6039",
+      "name": "Ty Johnson",
+      "pos": "RB",
+      "nfl": "BUF",
+      "age": 29,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.27,
+      "adds": 37650,
+      "value": 3,
+      "ecr": 343.2
     }
   ]
 }
