@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:55:15.744Z",
+  "generated_at": "2026-10-21T04:54:16.177Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.8,
-      "adds": 402582,
+      "adds": 438960,
       "value": 124,
       "ecr": 188.8
     },
@@ -77,8 +77,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.28,
-      "adds": 45531,
+      "proj": 7.31,
+      "adds": 45333,
       "value": 724,
       "ecr": 113.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.1,
-      "adds": 101160,
+      "adds": 105168,
       "value": 61,
       "ecr": 219.2
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.29,
-      "adds": 0,
+      "adds": 33208,
       "value": 63,
       "ecr": 217.4
     },
@@ -176,7 +176,7 @@
       "injury_part": "Ankle",
       "depth": 9,
       "proj": 4.99,
-      "adds": 95424,
+      "adds": 161544,
       "value": 242,
       "ecr": 160.4
     },
@@ -203,8 +203,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.56,
-      "adds": 29124,
+      "proj": 5.55,
+      "adds": 0,
       "value": 32,
       "ecr": 246
     },
@@ -217,7 +217,7 @@
       "injury": "IR",
       "injury_part": "Calf",
       "depth": 6,
-      "proj": 4.45,
+      "proj": 4.48,
       "adds": 0,
       "value": 15,
       "ecr": 278.8
@@ -232,7 +232,7 @@
       "injury_part": "Concussion",
       "depth": 1,
       "proj": 7.58,
-      "adds": 31657,
+      "adds": 38062,
       "value": 191,
       "ecr": 170.4
     },
@@ -259,7 +259,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 20.5,
+      "proj": 20.74,
       "adds": 0,
       "value": 3008,
       "ecr": 53.2
@@ -290,7 +290,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.54,
-      "adds": 45878,
+      "adds": 59416,
       "value": 341,
       "ecr": 145.8
     },
@@ -374,7 +374,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 4.71,
-      "adds": 59851,
+      "adds": 67720,
       "value": 189,
       "ecr": 171
     },
@@ -391,6 +391,20 @@
       "adds": 0,
       "value": 167,
       "ecr": 176.2
+    },
+    {
+      "id": "9486",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "nfl": "PHI",
+      "age": 25,
+      "injury": "Questionable",
+      "injury_part": "Undisclosed",
+      "depth": 2,
+      "proj": 5.29,
+      "adds": 0,
+      "value": 151,
+      "ecr": 180.4
     },
     {
       "id": "13420",
@@ -458,7 +472,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 1.02,
-      "adds": 152892,
+      "adds": 178206,
       "value": 108,
       "ecr": 194.6
     },
@@ -475,20 +489,6 @@
       "adds": 0,
       "value": 97,
       "ecr": 199.2
-    },
-    {
-      "id": "12535",
-      "name": "Isaac TeSlaa",
-      "pos": "WR",
-      "nfl": "DET",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.71,
-      "adds": 0,
-      "value": 90,
-      "ecr": 202.6
     }
   ],
   "top_projected_available": [
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.17,
-      "adds": 127772,
+      "adds": 160544,
       "value": 71,
       "ecr": 212.6
     },
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.54,
-      "adds": 45878,
+      "adds": 59416,
       "value": 341,
       "ecr": 145.8
     },
@@ -544,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.07,
-      "adds": 206616,
+      "adds": 260888,
       "value": 5,
       "ecr": 325.5
     },
@@ -600,9 +600,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.83,
-      "adds": 144135,
+      "adds": 220743,
       "value": 3,
       "ecr": 341
+    },
+    {
+      "id": "7600",
+      "name": "Pat Freiermuth",
+      "pos": "TE",
+      "nfl": "PIT",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 7.82,
+      "adds": 0,
+      "value": 85,
+      "ecr": 204.8
     },
     {
       "id": "9501",
@@ -619,6 +633,20 @@
       "ecr": 249.8
     },
     {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.28,
+      "adds": 57384,
+      "value": null,
+      "ecr": null
+    },
+    {
       "id": "2505",
       "name": "Darren Waller",
       "pos": "TE",
@@ -628,23 +656,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.27,
-      "adds": 31950,
+      "adds": 33345,
       "value": 11,
       "ecr": 291.7
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 6.22,
-      "adds": 36764,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "12634",
@@ -655,8 +669,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 5.97,
-      "adds": 47328,
+      "proj": 6.02,
+      "adds": 104328,
       "value": 3,
       "ecr": 345.3
     },
@@ -670,7 +684,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.74,
-      "adds": 30780,
+      "adds": 40437,
       "value": 5,
       "ecr": 325.4
     },
@@ -684,23 +698,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.63,
-      "adds": 186184,
+      "adds": 201128,
       "value": 78,
       "ecr": 208.4
-    },
-    {
-      "id": "9482",
-      "name": "Michael Mayer",
-      "pos": "TE",
-      "nfl": "LV",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 5.57,
-      "adds": 586125,
-      "value": 83,
-      "ecr": 206
     }
   ],
   "most_added_available": [
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.28,
-      "adds": 1077660,
+      "adds": 1406448,
       "value": 83,
       "ecr": 206
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.57,
-      "adds": 586125,
+      "adds": 699516,
       "value": 83,
       "ecr": 206
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.57,
-      "adds": 459976,
+      "adds": 597168,
       "value": 3,
       "ecr": 348
     },
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": null,
-      "adds": 311612,
+      "adds": 442855,
       "value": 3,
       "ecr": 345.3
     },
@@ -770,23 +770,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.07,
-      "adds": 206616,
+      "adds": 260888,
       "value": 5,
       "ecr": 325.5
-    },
-    {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "nfl": "DAL",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.63,
-      "adds": 186184,
-      "value": 78,
-      "ecr": 208.4
     },
     {
       "id": "8116",
@@ -798,23 +784,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.09,
-      "adds": 183456,
+      "adds": 227691,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "nfl": "NYG",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 1.02,
-      "adds": 152892,
-      "value": 108,
-      "ecr": 194.6
     },
     {
       "id": "3271",
@@ -826,9 +798,37 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.83,
-      "adds": 144135,
+      "adds": 220743,
       "value": 3,
       "ecr": 341
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "nfl": "DAL",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.63,
+      "adds": 201128,
+      "value": 78,
+      "ecr": 208.4
+    },
+    {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "nfl": "NYG",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 1.02,
+      "adds": 178206,
+      "value": 108,
+      "ecr": 194.6
     },
     {
       "id": "1373",
@@ -840,7 +840,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.17,
-      "adds": 127772,
+      "adds": 160544,
       "value": 71,
       "ecr": 212.6
     },
@@ -854,7 +854,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.84,
-      "adds": 109284,
+      "adds": 156724,
       "value": 7,
       "ecr": 311
     },
@@ -868,37 +868,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.52,
-      "adds": 97086,
+      "adds": 155730,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "nfl": "LAR",
-      "age": 27,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 5.43,
-      "adds": 75138,
-      "value": 27,
-      "ecr": 253
-    },
-    {
-      "id": "11439",
-      "name": "Jaleel McLaughlin",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 1.44,
-      "adds": 66610,
-      "value": 3,
-      "ecr": 348.8
     },
     {
       "id": "6130",
@@ -910,9 +882,37 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.97,
-      "adds": 64710,
+      "adds": 106920,
       "value": 6,
       "ecr": 319.7
+    },
+    {
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "nfl": "LAR",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.43,
+      "adds": 105450,
+      "value": 27,
+      "ecr": 253
+    },
+    {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 4,
+      "proj": 6.02,
+      "adds": 104328,
+      "value": 3,
+      "ecr": 345.3
     }
   ]
 }
