@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:15:04.217Z",
+  "generated_at": "2026-10-22T15:21:34.360Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.55,
-      "adds": 218100,
+      "adds": 157518,
       "value": 124,
       "ecr": 188.8
     },
@@ -63,7 +63,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.98,
+      "proj": 5.93,
       "adds": 0,
       "value": 197,
       "ecr": 169.2
@@ -77,8 +77,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.36,
-      "adds": 40788,
+      "proj": 7.27,
+      "adds": 34434,
       "value": 724,
       "ecr": 113.8
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.46,
-      "adds": 110552,
+      "adds": 82032,
       "value": 61,
       "ecr": 219.2
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.29,
-      "adds": 77651,
+      "adds": 64589,
       "value": 63,
       "ecr": 217.4
     },
@@ -176,7 +176,7 @@
       "injury_part": "Ankle",
       "depth": 9,
       "proj": 5.05,
-      "adds": 155904,
+      "adds": 91088,
       "value": 242,
       "ecr": 160.4
     },
@@ -203,8 +203,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.62,
-      "adds": 36918,
+      "proj": 5.56,
+      "adds": 30186,
       "value": 32,
       "ecr": 246
     },
@@ -217,7 +217,7 @@
       "injury": "IR",
       "injury_part": "Calf",
       "depth": 6,
-      "proj": 4.45,
+      "proj": 4.44,
       "adds": 0,
       "value": 15,
       "ecr": 278.8
@@ -259,7 +259,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 20.5,
+      "proj": 20.42,
       "adds": 0,
       "value": 3008,
       "ecr": 53.2
@@ -290,7 +290,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.6,
-      "adds": 44079,
+      "adds": 33012,
       "value": 341,
       "ecr": 145.8
     },
@@ -374,7 +374,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 5.11,
-      "adds": 32535,
+      "adds": 25545,
       "value": 189,
       "ecr": 171
     },
@@ -472,7 +472,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 13.49,
-      "adds": 155037,
+      "adds": 147678,
       "value": 108,
       "ecr": 194.6
     },
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.32,
-      "adds": 148220,
+      "adds": 103736,
       "value": 71,
       "ecr": 212.6
     },
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.6,
-      "adds": 44079,
+      "adds": 33012,
       "value": 341,
       "ecr": 145.8
     },
@@ -530,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.4,
-      "adds": 162696,
+      "adds": 127176,
       "value": 5,
       "ecr": 325.5
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 13.49,
-      "adds": 155037,
+      "adds": 147678,
       "value": 108,
       "ecr": 194.6
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.83,
-      "adds": 981704,
+      "adds": 1061920,
       "value": 3,
       "ecr": 348
     },
@@ -600,7 +600,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.83,
-      "adds": 319986,
+      "adds": 262881,
       "value": 3,
       "ecr": 341
     },
@@ -628,7 +628,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.02,
-      "adds": 105588,
+      "adds": 128886,
       "value": null,
       "ecr": null
     },
@@ -656,7 +656,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.22,
-      "adds": 108656,
+      "adds": 93532,
       "value": null,
       "ecr": null
     },
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 5.97,
-      "adds": 116004,
+      "adds": 88252,
       "value": 3,
       "ecr": 345.3
     },
@@ -684,7 +684,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.63,
-      "adds": 145904,
+      "adds": 111216,
       "value": 78,
       "ecr": 208.4
     },
@@ -698,7 +698,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.48,
-      "adds": 452430,
+      "adds": 345123,
       "value": 83,
       "ecr": 206
     }
@@ -714,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.83,
-      "adds": 981704,
+      "adds": 1061920,
       "value": 3,
       "ecr": 348
     },
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.28,
-      "adds": 522828,
+      "adds": 354564,
       "value": 83,
       "ecr": 206
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.48,
-      "adds": 452430,
+      "adds": 345123,
       "value": 83,
       "ecr": 206
     },
@@ -756,7 +756,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.83,
-      "adds": 319986,
+      "adds": 262881,
       "value": 3,
       "ecr": 341
     },
@@ -770,23 +770,9 @@
       "injury_part": null,
       "depth": 4,
       "proj": null,
-      "adds": 292747,
+      "adds": 220066,
       "value": 3,
       "ecr": 345.3
-    },
-    {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "nfl": "PHI",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 14.4,
-      "adds": 162696,
-      "value": 5,
-      "ecr": 325.5
     },
     {
       "id": "11565",
@@ -798,23 +784,37 @@
       "injury_part": null,
       "depth": 3,
       "proj": 13.49,
-      "adds": 155037,
+      "adds": 147678,
       "value": 108,
       "ecr": 194.6
     },
     {
-      "id": "1373",
-      "name": "Geno Smith",
+      "id": "8122",
+      "name": "Zonovan Knight",
+      "pos": "RB",
+      "nfl": "ARI",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 7.02,
+      "adds": 128886,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "9230",
+      "name": "Tanner McKee",
       "pos": "QB",
-      "nfl": "NYJ",
-      "age": 36,
+      "nfl": "PHI",
+      "age": 26,
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.32,
-      "adds": 148220,
-      "value": 71,
-      "ecr": 212.6
+      "proj": 14.4,
+      "adds": 127176,
+      "value": 5,
+      "ecr": 325.5
     },
     {
       "id": "11783",
@@ -826,9 +826,37 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.63,
-      "adds": 145904,
+      "adds": 111216,
       "value": 78,
       "ecr": 208.4
+    },
+    {
+      "id": "13424",
+      "name": "Seth McGowan",
+      "pos": "RB",
+      "nfl": "IND",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 2.59,
+      "adds": 108824,
+      "value": 15,
+      "ecr": 279.2
+    },
+    {
+      "id": "1373",
+      "name": "Geno Smith",
+      "pos": "QB",
+      "nfl": "NYJ",
+      "age": 36,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 16.32,
+      "adds": 103736,
+      "value": 71,
+      "ecr": 212.6
     },
     {
       "id": "8116",
@@ -840,7 +868,21 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.44,
-      "adds": 135954,
+      "adds": 102312,
+      "value": null,
+      "ecr": null
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.22,
+      "adds": 93532,
       "value": null,
       "ecr": null
     },
@@ -854,51 +896,9 @@
       "injury_part": null,
       "depth": 4,
       "proj": 5.97,
-      "adds": 116004,
+      "adds": 88252,
       "value": 3,
       "ecr": 345.3
-    },
-    {
-      "id": "13424",
-      "name": "Seth McGowan",
-      "pos": "RB",
-      "nfl": "IND",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 2.59,
-      "adds": 114080,
-      "value": 15,
-      "ecr": 279.2
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 6.22,
-      "adds": 108656,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "8122",
-      "name": "Zonovan Knight",
-      "pos": "RB",
-      "nfl": "ARI",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 7.02,
-      "adds": 105588,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "6130",
@@ -910,7 +910,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.7,
-      "adds": 88119,
+      "adds": 59040,
       "value": 6,
       "ecr": 319.7
     }
