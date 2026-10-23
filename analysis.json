@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:07:57.781Z",
+  "generated_at": "2026-10-23T15:07:53.386Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -84,7 +84,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.58,
-        "adds": 112092,
+        "adds": 103182,
         "value": 131,
         "ecr": 186.4
       },
@@ -126,7 +126,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.26,
-        "adds": 36450,
+        "adds": 34893,
         "value": 868,
         "ecr": 106.1
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 15.55,
-        "adds": 67240,
+        "adds": 62800,
         "value": 35,
         "ecr": 242.3
       },
@@ -167,8 +167,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 8.29,
-        "adds": 65989,
+        "proj": 8.31,
+        "adds": 63413,
         "value": 67,
         "ecr": 215.4
       },
@@ -224,7 +224,7 @@
         "injury_part": "Ankle",
         "depth": 9,
         "proj": 5.05,
-        "adds": 29656,
+        "adds": 25776,
         "value": 180,
         "ecr": 173
       },
@@ -252,7 +252,7 @@
         "injury_part": null,
         "depth": 3,
         "proj": 5.51,
-        "adds": 30786,
+        "adds": 28830,
         "value": 21,
         "ecr": 264.8
       },
@@ -321,7 +321,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 15.27,
+        "proj": 15.22,
         "adds": 0,
         "value": 1340,
         "ecr": 87.6
@@ -351,7 +351,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 15.27,
+        "proj": 15.22,
         "adds": 0,
         "value": 1340,
         "ecr": 87.6
@@ -380,7 +380,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.26,
-        "adds": 36450,
+        "adds": 34893,
         "value": 868,
         "ecr": 106.1
       },
@@ -393,8 +393,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 8.29,
-        "adds": 65989,
+        "proj": 8.31,
+        "adds": 63413,
         "value": 67,
         "ecr": 215.4
       },
@@ -422,7 +422,7 @@
         "injury_part": null,
         "depth": 3,
         "proj": 5.51,
-        "adds": 30786,
+        "adds": 28830,
         "value": 21,
         "ecr": 264.8
       },
@@ -436,7 +436,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.58,
-        "adds": 112092,
+        "adds": 103182,
         "value": 131,
         "ecr": 186.4
       },
@@ -484,7 +484,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.6,
-      "adds": 26852,
+      "adds": 24409,
       "value": 320,
       "ecr": 148.6
     },
@@ -540,7 +540,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 5.04,
-      "adds": 18532,
+      "adds": 17321,
       "value": 180,
       "ecr": 173
     },
@@ -624,7 +624,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.57,
-      "adds": 19614,
+      "adds": 20867,
       "value": 105,
       "ecr": 196
     },
@@ -637,7 +637,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.86,
+      "proj": 7.84,
       "adds": 0,
       "value": 99,
       "ecr": 198.4
@@ -665,7 +665,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 1.15,
+      "proj": 1.16,
       "adds": 0,
       "value": 89,
       "ecr": 202.8
@@ -680,7 +680,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 13.25,
-      "adds": 59493,
+      "adds": 51000,
       "value": 88,
       "ecr": 203.4
     },
@@ -694,7 +694,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.63,
-      "adds": 115056,
+      "adds": 111464,
       "value": 86,
       "ecr": 204.6
     },
@@ -764,7 +764,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.49,
-      "adds": 272655,
+      "adds": 247410,
       "value": 68,
       "ecr": 214.5
     },
@@ -820,7 +820,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.32,
-      "adds": 83504,
+      "adds": 76728,
       "value": 58,
       "ecr": 221.3
     },
@@ -833,7 +833,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.14,
+      "proj": 2.15,
       "adds": 0,
       "value": 57,
       "ecr": 221.8
@@ -974,7 +974,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.5,
-      "adds": 99624,
+      "adds": 92008,
       "value": 7,
       "ecr": 314.2
     },
@@ -988,7 +988,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.92,
-      "adds": 898584,
+      "adds": 728072,
       "value": 3,
       "ecr": 344
     },
@@ -1002,7 +1002,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.82,
-      "adds": 355743,
+      "adds": 351873,
       "value": 4,
       "ecr": 338.2
     },
@@ -1016,7 +1016,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.97,
-      "adds": 218800,
+      "adds": 204910,
       "value": 3,
       "ecr": 349
     },
@@ -1030,7 +1030,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.23,
-      "adds": 18567,
+      "adds": 17982,
       "value": 9,
       "ecr": 302.8
     },
@@ -1044,7 +1044,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.22,
-      "adds": 95640,
+      "adds": 89332,
       "value": 2,
       "ecr": 366
     },
@@ -1058,7 +1058,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 5.97,
-      "adds": 65188,
+      "adds": 59840,
       "value": 3,
       "ecr": 347.8
     },
@@ -1072,7 +1072,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.62,
-      "adds": 28197,
+      "adds": 27414,
       "value": 4,
       "ecr": 333.7
     },
@@ -1086,7 +1086,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.42,
-      "adds": 63600,
+      "adds": 63426,
       "value": 16,
       "ecr": 275.2
     },
@@ -1100,7 +1100,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.29,
-      "adds": 19445,
+      "adds": 18075,
       "value": 23,
       "ecr": 260.2
     },
@@ -1142,7 +1142,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.68,
-      "adds": 22791,
+      "adds": 21306,
       "value": 3,
       "ecr": 347.8
     },
@@ -1156,7 +1156,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.64,
-      "adds": 29754,
+      "adds": 25839,
       "value": 4,
       "ecr": 335.4
     },
@@ -1169,7 +1169,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.59,
+      "proj": 4.62,
       "adds": 0,
       "value": 6,
       "ecr": 317.4
@@ -1212,7 +1212,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.27,
-      "adds": 686439,
+      "adds": 709128,
       "value": 21,
       "ecr": 264.6
     },
@@ -1226,7 +1226,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.59,
-      "adds": 221720,
+      "adds": 253008,
       "value": 19,
       "ecr": 269.5
     },
@@ -1240,7 +1240,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": null,
-      "adds": 140196,
+      "adds": 125503,
       "value": 3,
       "ecr": 349.5
     },
@@ -1254,7 +1254,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.43,
-      "adds": 53370,
+      "adds": 45369,
       "value": 1,
       "ecr": 384.3
     },
@@ -1268,7 +1268,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 1.79,
-      "adds": 23002,
+      "adds": 23884,
       "value": 4,
       "ecr": 331
     },
@@ -1282,7 +1282,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 1.4,
-      "adds": 22734,
+      "adds": 23841,
       "value": 3,
       "ecr": 342.6
     },
@@ -1296,7 +1296,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.52,
-      "adds": 18652,
+      "adds": 16948,
       "value": 3,
       "ecr": 348
     }
