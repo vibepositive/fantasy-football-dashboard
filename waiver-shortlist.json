@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:30:58.162Z",
+  "generated_at": "2026-10-24T22:31:03.319Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.63,
-      "adds": 33342,
+      "adds": 32052,
       "value": 131,
       "ecr": 186.4
     },
@@ -49,7 +49,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.56,
+      "proj": 4.57,
       "adds": 0,
       "value": 50,
       "ecr": 227.7
@@ -63,7 +63,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.3,
+      "proj": 6.23,
       "adds": 0,
       "value": 209,
       "ecr": 166.7
@@ -77,8 +77,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 9.05,
-      "adds": 65313,
+      "proj": 8.86,
+      "adds": 72855,
       "value": 868,
       "ecr": 106.1
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.41,
-      "adds": 64560,
+      "adds": 59056,
       "value": 434,
       "ecr": 135.6
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.79,
-      "adds": 21088,
+      "adds": 32720,
       "value": 35,
       "ecr": 242.3
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.31,
-      "adds": 27678,
+      "adds": 28616,
       "value": 67,
       "ecr": 215.4
     },
@@ -176,23 +176,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.2,
-      "adds": 60104,
+      "adds": 55584,
       "value": 180,
       "ecr": 173
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "pos": "WR",
-      "nfl": "CHI",
-      "age": 32,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.65,
-      "adds": 0,
-      "value": 10,
-      "ecr": 294.5
     },
     {
       "id": "4039",
@@ -203,8 +189,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.71,
-      "adds": 8940,
+      "proj": 5.65,
+      "adds": 8850,
       "value": 21,
       "ecr": 264.8
     },
@@ -214,8 +200,8 @@
       "pos": "WR",
       "nfl": "SF",
       "age": 29,
-      "injury": "IR",
-      "injury_part": "Calf",
+      "injury": null,
+      "injury_part": null,
       "depth": 6,
       "proj": 5.64,
       "adds": 0,
@@ -232,7 +218,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.95,
-      "adds": 16712,
+      "adds": 16188,
       "value": 193,
       "ecr": 170
     },
@@ -259,7 +245,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 20.31,
+      "proj": 20.34,
       "adds": 0,
       "value": 2945,
       "ecr": 54.1
@@ -290,7 +276,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.57,
-      "adds": 0,
+      "adds": 10339,
       "value": 320,
       "ecr": 148.6
     },
@@ -346,7 +332,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.47,
-      "adds": 26670,
+      "adds": 33408,
       "value": 180,
       "ecr": 173
     },
@@ -370,10 +356,10 @@
       "pos": "WR",
       "nfl": "PHI",
       "age": 25,
-      "injury": "Questionable",
+      "injury": "Out",
       "injury_part": "Ankle",
       "depth": 2,
-      "proj": 5.64,
+      "proj": null,
       "adds": 0,
       "value": 156,
       "ecr": 179.1
@@ -414,9 +400,9 @@
       "age": 22,
       "injury": null,
       "injury_part": null,
-      "depth": 6,
+      "depth": 2,
       "proj": 5.34,
-      "adds": 13460,
+      "adds": 15110,
       "value": 113,
       "ecr": 192.9
     },
@@ -444,7 +430,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.57,
-      "adds": 7350,
+      "adds": 0,
       "value": 105,
       "ecr": 196
     },
@@ -457,7 +443,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 8.09,
+      "proj": 8.08,
       "adds": 0,
       "value": 99,
       "ecr": 198.4
@@ -502,9 +488,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.4,
-      "adds": 19096,
+      "adds": 36308,
       "value": 58,
       "ecr": 221.3
+    },
+    {
+      "id": "7083",
+      "name": "Tyler Huntley",
+      "pos": "QB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 14.63,
+      "adds": 11158,
+      "value": 2,
+      "ecr": 356.2
     },
     {
       "id": "8161",
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 14.57,
-      "adds": 0,
+      "adds": 10339,
       "value": 320,
       "ecr": 148.6
     },
@@ -529,8 +529,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.2,
-      "adds": 22064,
+      "proj": 14.18,
+      "adds": 31520,
       "value": 7,
       "ecr": 314.2
     },
@@ -558,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.25,
-      "adds": 10134,
+      "adds": 11853,
       "value": 88,
       "ecr": 203.4
     },
@@ -586,7 +586,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.92,
-      "adds": 21064,
+      "adds": 16488,
       "value": 3,
       "ecr": 344
     },
@@ -599,10 +599,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 8.09,
+      "proj": 8.08,
       "adds": 0,
       "value": 99,
       "ecr": 198.4
+    },
+    {
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "nfl": "PHI",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 8.06,
+      "adds": 44184,
+      "value": 3,
+      "ecr": 342
     },
     {
       "id": "3271",
@@ -614,7 +628,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.81,
-      "adds": 225810,
+      "adds": 194157,
       "value": 4,
       "ecr": 338.2
     },
@@ -628,7 +642,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.47,
-      "adds": 26670,
+      "adds": 33408,
       "value": 180,
       "ecr": 173
     },
@@ -642,7 +656,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.05,
-      "adds": 85858,
+      "adds": 71158,
       "value": 3,
       "ecr": 349
     },
@@ -655,8 +669,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.86,
-      "adds": 92432,
+      "proj": 6.69,
+      "adds": 91868,
       "value": 2,
       "ecr": 366
     },
@@ -669,38 +683,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.77,
-      "adds": 43470,
+      "proj": 6.45,
+      "adds": 129537,
       "value": 4,
       "ecr": 333.7
-    },
-    {
-      "id": "2505",
-      "name": "Darren Waller",
-      "pos": "TE",
-      "nfl": "CAR",
-      "age": 34,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 6.21,
-      "adds": 7515,
-      "value": 9,
-      "ecr": 302.8
-    },
-    {
-      "id": "12048",
-      "name": "George Holani",
-      "pos": "RB",
-      "nfl": "SEA",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.01,
-      "adds": 0,
-      "value": 5,
-      "ecr": 324.2
     }
   ],
   "most_added_available": [
@@ -714,7 +700,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.72,
-      "adds": 355144,
+      "adds": 461608,
       "value": 19,
       "ecr": 269.5
     },
@@ -728,7 +714,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.26,
-      "adds": 331542,
+      "adds": 304452,
       "value": 21,
       "ecr": 264.6
     },
@@ -742,9 +728,37 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.81,
-      "adds": 225810,
+      "adds": 194157,
       "value": 4,
       "ecr": 338.2
+    },
+    {
+      "id": "5995",
+      "name": "Justice Hill",
+      "pos": "RB",
+      "nfl": "BAL",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.45,
+      "adds": 129537,
+      "value": 4,
+      "ecr": 333.7
+    },
+    {
+      "id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 6.69,
+      "adds": 91868,
+      "value": 2,
+      "ecr": 366
     },
     {
       "id": "9482",
@@ -756,23 +770,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.53,
-      "adds": 95337,
+      "adds": 81045,
       "value": 68,
       "ecr": 214.5
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.86,
-      "adds": 92432,
-      "value": 2,
-      "ecr": 366
     },
     {
       "id": "8122",
@@ -784,7 +784,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.05,
-      "adds": 85858,
+      "adds": 71158,
       "value": 3,
       "ecr": 349
     },
@@ -797,8 +797,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.96,
-      "adds": 66340,
+      "proj": 5.32,
+      "adds": 63892,
       "value": 3,
       "ecr": 347.8
     },
@@ -811,38 +811,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.57,
-      "adds": 62472,
+      "proj": 5.64,
+      "adds": 47848,
       "value": 86,
       "ecr": 204.6
     },
     {
-      "id": "6865",
-      "name": "Colby Parkinson",
-      "pos": "TE",
-      "nfl": "LAR",
-      "age": 27,
+      "id": "13150",
+      "name": "Darius Cooper",
+      "pos": "WR",
+      "nfl": "PHI",
+      "age": 24,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
-      "proj": 5.41,
-      "adds": 45516,
-      "value": 16,
-      "ecr": 275.2
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "nfl": "BAL",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.77,
-      "adds": 43470,
-      "value": 4,
-      "ecr": 333.7
+      "depth": 3,
+      "proj": 8.06,
+      "adds": 44184,
+      "value": 3,
+      "ecr": 342
     },
     {
       "id": "10220",
@@ -854,23 +840,37 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.08,
-      "adds": 42444,
+      "adds": 43497,
       "value": 1,
       "ecr": 382.5
     },
     {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 26,
+      "id": "6865",
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "nfl": "LAR",
+      "age": 27,
       "injury": null,
       "injury_part": null,
-      "depth": 4,
-      "proj": null,
-      "adds": 27433,
-      "value": 3,
-      "ecr": 349.5
+      "depth": 2,
+      "proj": 5.41,
+      "adds": 38826,
+      "value": 16,
+      "ecr": 275.2
+    },
+    {
+      "id": "1373",
+      "name": "Geno Smith",
+      "pos": "QB",
+      "nfl": "NYJ",
+      "age": 36,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 16.4,
+      "adds": 36308,
+      "value": 58,
+      "ecr": 221.3
     },
     {
       "id": "12536",
@@ -882,7 +882,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.47,
-      "adds": 26670,
+      "adds": 33408,
       "value": 180,
       "ecr": 173
     },
@@ -895,24 +895,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.2,
-      "adds": 22064,
+      "proj": 14.18,
+      "adds": 31520,
       "value": 7,
       "ecr": 314.2
-    },
-    {
-      "id": "7608",
-      "name": "Khalil Herbert",
-      "pos": "RB",
-      "nfl": "ATL",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": null,
-      "proj": 3.14,
-      "adds": 21960,
-      "value": null,
-      "ecr": null
     }
   ]
 }
