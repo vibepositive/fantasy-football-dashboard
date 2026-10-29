@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:41:06.057Z",
+  "generated_at": "2026-10-29T01:49:43.809Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -84,7 +84,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 8.77,
-        "adds": 257922,
+        "adds": 219660,
         "value": 131,
         "ecr": 186.4
       },
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.14,
-        "adds": 0,
+        "adds": 31338,
         "value": 50,
         "ecr": 227.7
       },
@@ -112,7 +112,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 6.81,
-        "adds": 68496,
+        "adds": 65502,
         "value": 209,
         "ecr": 166.7
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 16.63,
-        "adds": 190312,
+        "adds": 186368,
         "value": 35,
         "ecr": 242.3
       },
@@ -224,7 +224,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 5.41,
-        "adds": 1190640,
+        "adds": 959512,
         "value": 180,
         "ecr": 173
       },
@@ -238,7 +238,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 3.87,
-        "adds": 861968,
+        "adds": 701376,
         "value": 19,
         "ecr": 269.5
       },
@@ -266,7 +266,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 8.75,
-        "adds": 76290,
+        "adds": 67043,
         "value": 193,
         "ecr": 170
       },
@@ -279,7 +279,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 8.9,
+        "proj": 8.89,
         "adds": 0,
         "value": 809,
         "ecr": 109.1
@@ -352,7 +352,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.14,
-        "adds": 0,
+        "adds": 31338,
         "value": 50,
         "ecr": 227.7
       },
@@ -394,7 +394,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 8.75,
-        "adds": 76290,
+        "adds": 67043,
         "value": 193,
         "ecr": 170
       },
@@ -422,7 +422,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 8.77,
-        "adds": 257922,
+        "adds": 219660,
         "value": 131,
         "ecr": 186.4
       },
@@ -435,7 +435,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 8.9,
+        "proj": 8.89,
         "adds": 0,
         "value": 809,
         "ecr": 109.1
@@ -488,20 +488,6 @@
       "ecr": 166
     },
     {
-      "id": "12536",
-      "name": "Jaylin Noel",
-      "pos": "WR",
-      "nfl": "HOU",
-      "age": 24,
-      "injury": "IR",
-      "injury_part": "Toe",
-      "depth": 2,
-      "proj": null,
-      "adds": 0,
-      "value": 180,
-      "ecr": 173
-    },
-    {
       "id": "6803",
       "name": "Brandon Aiyuk",
       "pos": "WR",
@@ -524,7 +510,7 @@
       "injury": "Questionable",
       "injury_part": "Ankle",
       "depth": 2,
-      "proj": 5.04,
+      "proj": 4.99,
       "adds": 0,
       "value": 156,
       "ecr": 179.1
@@ -566,7 +552,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 4.26,
+      "proj": 4.25,
       "adds": 0,
       "value": 123,
       "ecr": 189.3
@@ -577,11 +563,11 @@
       "pos": "RB",
       "nfl": "CLE",
       "age": 22,
-      "injury": null,
-      "injury_part": null,
+      "injury": "Questionable",
+      "injury_part": "Knee",
       "depth": 2,
       "proj": 5.53,
-      "adds": 202400,
+      "adds": 175370,
       "value": 113,
       "ecr": 192.9
     },
@@ -609,7 +595,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.47,
-      "adds": 74228,
+      "adds": 70140,
       "value": 105,
       "ecr": 196
     },
@@ -636,7 +622,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.43,
+      "proj": 2.78,
       "adds": 0,
       "value": 98,
       "ecr": 199
@@ -679,7 +665,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.06,
-      "adds": 402120,
+      "adds": 376968,
       "value": 86,
       "ecr": 204.6
     },
@@ -749,7 +735,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 2.81,
-      "adds": 199950,
+      "adds": 183190,
       "value": 69,
       "ecr": 213.7
     },
@@ -763,7 +749,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.77,
-      "adds": 67194,
+      "adds": 64584,
       "value": 68,
       "ecr": 214.5
     },
@@ -819,7 +805,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.8,
-      "adds": 105384,
+      "adds": 101084,
       "value": 58,
       "ecr": 221.3
     },
@@ -845,7 +831,7 @@
       "age": 23,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
+      "depth": 4,
       "proj": null,
       "adds": 0,
       "value": 51,
@@ -936,6 +922,20 @@
       "ecr": 247.6
     },
     {
+      "id": "9494",
+      "name": "Marvin Mims Jr.",
+      "pos": "WR",
+      "nfl": "DEN",
+      "age": 24,
+      "injury": "Questionable",
+      "injury_part": "Ankle",
+      "depth": 3,
+      "proj": 3.22,
+      "adds": 0,
+      "value": 30,
+      "ecr": 248.8
+    },
+    {
       "id": "9230",
       "name": "Tanner McKee",
       "pos": "QB",
@@ -944,8 +944,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.84,
-      "adds": 32264,
+      "proj": 13.55,
+      "adds": 32768,
       "value": 7,
       "ecr": 314.2
     },
@@ -959,7 +959,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.78,
-      "adds": 34650,
+      "adds": 37773,
       "value": 4,
       "ecr": 338.2
     },
@@ -973,7 +973,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.56,
-      "adds": 80458,
+      "adds": 78688,
       "value": 3,
       "ecr": 349
     },
@@ -987,7 +987,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.23,
-      "adds": 48204,
+      "adds": 46242,
       "value": 9,
       "ecr": 302.8
     },
@@ -1001,7 +1001,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 6.17,
-      "adds": 33204,
+      "adds": 34320,
       "value": 21,
       "ecr": 264.8
     },
@@ -1039,11 +1039,11 @@
       "pos": "TE",
       "nfl": "LAR",
       "age": 27,
-      "injury": null,
-      "injury_part": null,
+      "injury": "Questionable",
+      "injury_part": "Ribs",
       "depth": 1,
       "proj": 5.35,
-      "adds": 82404,
+      "adds": 73716,
       "value": 16,
       "ecr": 275.2
     },
@@ -1057,7 +1057,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.25,
-      "adds": 0,
+      "adds": 32160,
       "value": 2,
       "ecr": 367.1
     },
@@ -1113,7 +1113,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.58,
-      "adds": 40719,
+      "adds": 37743,
       "value": 3,
       "ecr": 353.3
     },
@@ -1137,11 +1137,11 @@
       "pos": "WR",
       "nfl": "WAS",
       "age": 26,
-      "injury": null,
-      "injury_part": null,
+      "injury": "Questionable",
+      "injury_part": "Foot",
       "depth": 3,
       "proj": 4.51,
-      "adds": 183603,
+      "adds": 161098,
       "value": 3,
       "ecr": 349.5
     },
@@ -1155,7 +1155,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.47,
-      "adds": 230699,
+      "adds": 217315,
       "value": 4,
       "ecr": 340.2
     },
@@ -1225,9 +1225,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.33,
-      "adds": 34622,
+      "adds": 47537,
       "value": 4,
       "ecr": 332
+    },
+    {
+      "id": "7561",
+      "name": "Elijah Mitchell",
+      "pos": "RB",
+      "nfl": "PHI",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 1.79,
+      "adds": 756684,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "6130",
@@ -1239,23 +1253,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 640539,
+      "adds": 585990,
       "value": 4,
       "ecr": 335.4
-    },
-    {
-      "id": "7561",
-      "name": "Elijah Mitchell",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 1.81,
-      "adds": 605160,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "12457",
@@ -1265,9 +1265,9 @@
       "age": 22,
       "injury": null,
       "injury_part": null,
-      "depth": null,
-      "proj": null,
-      "adds": 38664,
+      "depth": 2,
+      "proj": 2.2,
+      "adds": 141008,
       "value": 26,
       "ecr": 254.8
     }
