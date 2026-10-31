@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:46:46.737Z",
+  "generated_at": "2026-10-31T21:39:12.280Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -83,8 +83,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 8.79,
-        "adds": 31134,
+        "proj": 9.28,
+        "adds": 30480,
         "value": 227,
         "ecr": 163.2
       },
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.13,
-        "adds": 19728,
+        "adds": 31644,
         "value": 46,
         "ecr": 230.8
       },
@@ -111,8 +111,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 6.83,
-        "adds": 21732,
+        "proj": 6.88,
+        "adds": 20946,
         "value": 218,
         "ecr": 164.9
       },
@@ -126,7 +126,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.37,
-        "adds": 9918,
+        "adds": 10602,
         "value": 872,
         "ecr": 105.9
       },
@@ -153,8 +153,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 16.66,
-        "adds": 25216,
+        "proj": 16.69,
+        "adds": 24416,
         "value": 42,
         "ecr": 235.4
       },
@@ -168,7 +168,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": null,
-        "adds": 8974,
+        "adds": 9338,
         "value": 76,
         "ecr": 209.8
       },
@@ -223,8 +223,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 5.67,
-        "adds": 52536,
+        "proj": 5.5,
+        "adds": 43256,
         "value": 213,
         "ecr": 165.8
       },
@@ -238,7 +238,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 4.31,
-        "adds": 151632,
+        "adds": 228744,
         "value": 15,
         "ecr": 279.7
       },
@@ -279,8 +279,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 8.79,
-        "adds": 9970,
+        "proj": 8.89,
+        "adds": 9182,
         "value": 832,
         "ecr": 107.9
       },
@@ -323,8 +323,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 16.66,
-        "adds": 25216,
+        "proj": 16.69,
+        "adds": 24416,
         "value": 42,
         "ecr": 235.4
       },
@@ -366,7 +366,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 7.37,
-        "adds": 9918,
+        "adds": 10602,
         "value": 872,
         "ecr": 105.9
       },
@@ -379,8 +379,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 5.67,
-        "adds": 52536,
+        "proj": 5.5,
+        "adds": 43256,
         "value": 213,
         "ecr": 165.8
       },
@@ -421,8 +421,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 8.79,
-        "adds": 31134,
+        "proj": 9.28,
+        "adds": 30480,
         "value": 227,
         "ecr": 163.2
       },
@@ -435,8 +435,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 8.79,
-        "adds": 9970,
+        "proj": 8.89,
+        "adds": 9182,
         "value": 832,
         "ecr": 107.9
       }
@@ -525,7 +525,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.59,
-      "adds": 25395,
+      "adds": 29765,
       "value": 146,
       "ecr": 182
     },
@@ -552,7 +552,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.03,
+      "proj": 5.09,
       "adds": 0,
       "value": 128,
       "ecr": 187.5
@@ -609,7 +609,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.21,
-      "adds": 73345,
+      "adds": 70830,
       "value": 89,
       "ecr": 202.9
     },
@@ -622,8 +622,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.57,
-      "adds": 104436,
+      "proj": 7.66,
+      "adds": 104312,
       "value": 83,
       "ecr": 205.9
     },
@@ -636,7 +636,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.4,
+      "proj": 5.24,
       "adds": 0,
       "value": 83,
       "ecr": 206
@@ -678,8 +678,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.11,
-      "adds": 12579,
+      "proj": 4.77,
+      "adds": 14091,
       "value": 77,
       "ecr": 208.9
     },
@@ -735,7 +735,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.26,
-      "adds": 20896,
+      "adds": 21428,
       "value": 70,
       "ecr": 213.1
     },
@@ -748,7 +748,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.39,
+      "proj": 6.18,
       "adds": 0,
       "value": 70,
       "ecr": 213.5
@@ -762,8 +762,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.78,
-      "adds": 12357,
+      "proj": 5.79,
+      "adds": 13293,
       "value": 65,
       "ecr": 216.4
     },
@@ -796,6 +796,20 @@
       "ecr": 229.3
     },
     {
+      "id": "12483",
+      "name": "Jack Bech",
+      "pos": "WR",
+      "nfl": "LV",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 8,
+      "proj": 2.49,
+      "adds": 0,
+      "value": 46,
+      "ecr": 231.4
+    },
+    {
       "id": "13405",
       "name": "Kaytron Allen",
       "pos": "RB",
@@ -804,7 +818,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 1.12,
+      "proj": 1.14,
       "adds": 0,
       "value": 43,
       "ecr": 234.3
@@ -874,7 +888,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 3.06,
+      "proj": 3.08,
       "adds": 0,
       "value": 34,
       "ecr": 244.1
@@ -916,24 +930,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 3.84,
+      "proj": 3.83,
       "adds": 0,
       "value": 32,
       "ecr": 246.8
-    },
-    {
-      "id": "13272",
-      "name": "Carson Beck",
-      "pos": "QB",
-      "nfl": "ARI",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": null,
-      "adds": 0,
-      "value": 31,
-      "ecr": 248.5
     },
     {
       "id": "9230",
@@ -945,9 +945,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.24,
-      "adds": 7760,
+      "adds": 7896,
       "value": 7,
       "ecr": 312.5
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism III",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.97,
+      "adds": 23280,
+      "value": 4,
+      "ecr": 331
     },
     {
       "id": "3271",
@@ -959,7 +973,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.81,
-      "adds": 23787,
+      "adds": 26703,
       "value": 4,
       "ecr": 334.6
     },
@@ -972,8 +986,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.19,
-      "adds": 8208,
+      "proj": 6.22,
+      "adds": 8808,
       "value": 19,
       "ecr": 268.2
     },
@@ -992,6 +1006,20 @@
       "ecr": 258.2
     },
     {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.99,
+      "adds": 51588,
+      "value": 3,
+      "ecr": 345.8
+    },
+    {
       "id": "12485",
       "name": "Tez Johnson",
       "pos": "WR",
@@ -1000,8 +1028,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.09,
-      "adds": 14648,
+      "proj": 5.91,
+      "adds": 13758,
       "value": 7,
       "ecr": 311.7
     },
@@ -1014,24 +1042,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.75,
+      "proj": 5.65,
       "adds": 0,
       "value": 10,
       "ecr": 294.5
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism III",
-      "pos": "WR",
-      "nfl": "NE",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 4,
-      "proj": 5.67,
-      "adds": 22240,
-      "value": 4,
-      "ecr": 331
     },
     {
       "id": "8207",
@@ -1043,7 +1057,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.5,
-      "adds": 18813,
+      "adds": 23073,
       "value": 2,
       "ecr": 358.5
     },
@@ -1085,7 +1099,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.22,
-      "adds": 15400,
+      "adds": 16284,
       "value": 2,
       "ecr": 369.6
     },
@@ -1099,7 +1113,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.19,
-      "adds": 20493,
+      "adds": 23625,
       "value": 6,
       "ecr": 314.9
     },
@@ -1118,20 +1132,6 @@
       "ecr": 278.6
     },
     {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "pos": "WR",
-      "nfl": "ATL",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.77,
-      "adds": 0,
-      "value": 4,
-      "ecr": 332.8
-    },
-    {
       "id": "8135",
       "name": "Treylon Burks",
       "pos": "WR",
@@ -1141,7 +1141,7 @@
       "injury_part": "Foot",
       "depth": 3,
       "proj": 4.73,
-      "adds": 13279,
+      "adds": 10465,
       "value": 5,
       "ecr": 328.4
     },
@@ -1154,10 +1154,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 4.65,
+      "proj": 4.68,
       "adds": 0,
       "value": 6,
       "ecr": 318.5
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "nfl": "ATL",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.62,
+      "adds": 0,
+      "value": 4,
+      "ecr": 332.8
     },
     {
       "id": "12482",
@@ -1174,18 +1188,18 @@
       "ecr": 342.5
     },
     {
-      "id": "12491",
-      "name": "Corey Kiner",
+      "id": "10235",
+      "name": "Roschon Johnson",
       "pos": "RB",
-      "nfl": "NE",
-      "age": 24,
+      "nfl": "CHI",
+      "age": 25,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
-      "proj": 4.41,
-      "adds": 24966,
-      "value": 3,
-      "ecr": 345.8
+      "depth": 2,
+      "proj": 4.35,
+      "adds": 7272,
+      "value": 4,
+      "ecr": 333.6
     },
     {
       "id": "13394",
@@ -1225,7 +1239,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.74,
-      "adds": 7140,
+      "adds": 7200,
       "value": 5,
       "ecr": 327
     },
@@ -1238,24 +1252,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 3.69,
-      "adds": 12472,
+      "proj": 3.7,
+      "adds": 12692,
       "value": 1,
       "ecr": 381.8
-    },
-    {
-      "id": "7561",
-      "name": "Elijah Mitchell",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": null,
-      "proj": 2.9,
-      "adds": 174636,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "6130",
@@ -1267,9 +1267,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 162513,
+      "adds": 199611,
       "value": 4,
       "ecr": 330.7
+    },
+    {
+      "id": "7561",
+      "name": "Elijah Mitchell",
+      "pos": "RB",
+      "nfl": "PHI",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": null,
+      "proj": 2.9,
+      "adds": 180513,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "12457",
@@ -1281,7 +1295,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 1.52,
-      "adds": 75056,
+      "adds": 54544,
       "value": 29,
       "ecr": 250.2
     },
@@ -1294,8 +1308,8 @@
       "injury": null,
       "injury_part": null,
       "depth": null,
-      "proj": 2.97,
-      "adds": 8172,
+      "proj": 3.02,
+      "adds": 10395,
       "value": null,
       "ecr": null
     },
@@ -1308,8 +1322,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 1.6,
-      "adds": 7920,
+      "proj": 1.63,
+      "adds": 9063,
       "value": 16,
       "ecr": 276.7
     }

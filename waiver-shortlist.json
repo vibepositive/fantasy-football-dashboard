@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:46:46.737Z",
+  "generated_at": "2026-10-31T21:39:12.280Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -35,8 +35,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 8.79,
-      "adds": 31134,
+      "proj": 9.28,
+      "adds": 30480,
       "value": 227,
       "ecr": 163.2
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.13,
-      "adds": 19728,
+      "adds": 31644,
       "value": 46,
       "ecr": 230.8
     },
@@ -63,8 +63,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.83,
-      "adds": 21732,
+      "proj": 6.88,
+      "adds": 20946,
       "value": 218,
       "ecr": 164.9
     },
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.37,
-      "adds": 9918,
+      "adds": 10602,
       "value": 872,
       "ecr": 105.9
     },
@@ -105,8 +105,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.66,
-      "adds": 25216,
+      "proj": 16.69,
+      "adds": 24416,
       "value": 42,
       "ecr": 235.4
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 8974,
+      "adds": 9338,
       "value": 76,
       "ecr": 209.8
     },
@@ -175,8 +175,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.67,
-      "adds": 52536,
+      "proj": 5.5,
+      "adds": 43256,
       "value": 213,
       "ecr": 165.8
     },
@@ -190,7 +190,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.31,
-      "adds": 151632,
+      "adds": 228744,
       "value": 15,
       "ecr": 279.7
     },
@@ -231,8 +231,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 8.79,
-      "adds": 9970,
+      "proj": 8.89,
+      "adds": 9182,
       "value": 832,
       "ecr": 107.9
     },
@@ -346,7 +346,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.59,
-      "adds": 25395,
+      "adds": 29765,
       "value": 146,
       "ecr": 182
     },
@@ -373,7 +373,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.03,
+      "proj": 5.09,
       "adds": 0,
       "value": 128,
       "ecr": 187.5
@@ -430,7 +430,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.21,
-      "adds": 73345,
+      "adds": 70830,
       "value": 89,
       "ecr": 202.9
     },
@@ -443,8 +443,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.57,
-      "adds": 104436,
+      "proj": 7.66,
+      "adds": 104312,
       "value": 83,
       "ecr": 205.9
     },
@@ -457,7 +457,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.4,
+      "proj": 5.24,
       "adds": 0,
       "value": 83,
       "ecr": 206
@@ -502,7 +502,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.26,
-      "adds": 20896,
+      "adds": 21428,
       "value": 70,
       "ecr": 213.1
     },
@@ -516,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.24,
-      "adds": 7760,
+      "adds": 7896,
       "value": 7,
       "ecr": 312.5
     },
@@ -543,10 +543,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.57,
-      "adds": 104436,
+      "proj": 7.66,
+      "adds": 104312,
       "value": 83,
       "ecr": 205.9
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism III",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.97,
+      "adds": 23280,
+      "value": 4,
+      "ecr": 331
     },
     {
       "id": "3271",
@@ -558,23 +572,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.81,
-      "adds": 23787,
+      "adds": 26703,
       "value": 4,
       "ecr": 334.6
     },
     {
-      "id": "8111",
-      "name": "Cade Otton",
-      "pos": "TE",
-      "nfl": "TB",
-      "age": 27,
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "nfl": "SEA",
+      "age": 33,
       "injury": null,
       "injury_part": null,
-      "depth": 1,
-      "proj": 6.39,
-      "adds": 0,
-      "value": 70,
-      "ecr": 213.5
+      "depth": 2,
+      "proj": 6.22,
+      "adds": 8808,
+      "value": 19,
+      "ecr": 268.2
     },
     {
       "id": "12498",
@@ -586,23 +600,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.21,
-      "adds": 73345,
+      "adds": 70830,
       "value": 89,
       "ecr": 202.9
-    },
-    {
-      "id": "4039",
-      "name": "Cooper Kupp",
-      "pos": "WR",
-      "nfl": "SEA",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.19,
-      "adds": 8208,
-      "value": 19,
-      "ecr": 268.2
     },
     {
       "id": "2505",
@@ -619,6 +619,34 @@
       "ecr": 258.2
     },
     {
+      "id": "8111",
+      "name": "Cade Otton",
+      "pos": "TE",
+      "nfl": "TB",
+      "age": 27,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.18,
+      "adds": 0,
+      "value": 70,
+      "ecr": 213.5
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.99,
+      "adds": 51588,
+      "value": 3,
+      "ecr": 345.8
+    },
+    {
       "id": "12485",
       "name": "Tez Johnson",
       "pos": "WR",
@@ -627,8 +655,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.09,
-      "adds": 14648,
+      "proj": 5.91,
+      "adds": 13758,
       "value": 7,
       "ecr": 311.7
     },
@@ -641,8 +669,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.78,
-      "adds": 12357,
+      "proj": 5.79,
+      "adds": 13293,
       "value": 65,
       "ecr": 216.4
     },
@@ -655,55 +683,13 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.75,
+      "proj": 5.65,
       "adds": 0,
       "value": 10,
       "ecr": 294.5
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism III",
-      "pos": "WR",
-      "nfl": "NE",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 4,
-      "proj": 5.67,
-      "adds": 22240,
-      "value": 4,
-      "ecr": 331
-    },
-    {
-      "id": "12469",
-      "name": "Dylan Sampson",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 5.59,
-      "adds": 25395,
-      "value": 146,
-      "ecr": 182
     }
   ],
   "most_added_available": [
-    {
-      "id": "7561",
-      "name": "Elijah Mitchell",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": null,
-      "proj": 2.9,
-      "adds": 174636,
-      "value": null,
-      "ecr": null
-    },
     {
       "id": "6130",
       "name": "Devin Singletary",
@@ -714,9 +700,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 162513,
+      "adds": 199611,
       "value": 4,
       "ecr": 330.7
+    },
+    {
+      "id": "7561",
+      "name": "Elijah Mitchell",
+      "pos": "RB",
+      "nfl": "PHI",
+      "age": 28,
+      "injury": null,
+      "injury_part": null,
+      "depth": null,
+      "proj": 2.9,
+      "adds": 180513,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "12499",
@@ -727,24 +727,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.57,
-      "adds": 104436,
+      "proj": 7.66,
+      "adds": 104312,
       "value": 83,
       "ecr": 205.9
-    },
-    {
-      "id": "12457",
-      "name": "Jaydon Blue",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 1.52,
-      "adds": 75056,
-      "value": 29,
-      "ecr": 250.2
     },
     {
       "id": "12498",
@@ -756,9 +742,37 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.21,
-      "adds": 73345,
+      "adds": 70830,
       "value": 89,
       "ecr": 202.9
+    },
+    {
+      "id": "12457",
+      "name": "Jaydon Blue",
+      "pos": "RB",
+      "nfl": "PHI",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 1.52,
+      "adds": 54544,
+      "value": 29,
+      "ecr": 250.2
+    },
+    {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.99,
+      "adds": 51588,
+      "value": 3,
+      "ecr": 345.8
     },
     {
       "id": "12469",
@@ -770,23 +784,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.59,
-      "adds": 25395,
+      "adds": 29765,
       "value": 146,
       "ecr": 182
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "nfl": "NE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.41,
-      "adds": 24966,
-      "value": 3,
-      "ecr": 345.8
     },
     {
       "id": "3271",
@@ -798,37 +798,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.81,
-      "adds": 23787,
+      "adds": 26703,
       "value": 4,
       "ecr": 334.6
-    },
-    {
-      "id": "12542",
-      "name": "Efton Chism III",
-      "pos": "WR",
-      "nfl": "NE",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 4,
-      "proj": 5.67,
-      "adds": 22240,
-      "value": 4,
-      "ecr": 331
-    },
-    {
-      "id": "1373",
-      "name": "Geno Smith",
-      "pos": "QB",
-      "nfl": "NYJ",
-      "age": 36,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 17.26,
-      "adds": 20896,
-      "value": 70,
-      "ecr": 213.1
     },
     {
       "id": "5995",
@@ -840,9 +812,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.19,
-      "adds": 20493,
+      "adds": 23625,
       "value": 6,
       "ecr": 314.9
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism III",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 6.97,
+      "adds": 23280,
+      "value": 4,
+      "ecr": 331
     },
     {
       "id": "8207",
@@ -854,9 +840,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.5,
-      "adds": 18813,
+      "adds": 23073,
       "value": 2,
       "ecr": 358.5
+    },
+    {
+      "id": "1373",
+      "name": "Geno Smith",
+      "pos": "QB",
+      "nfl": "NYJ",
+      "age": 36,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 17.26,
+      "adds": 21428,
+      "value": 70,
+      "ecr": 213.1
     },
     {
       "id": "4663",
@@ -868,9 +868,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.22,
-      "adds": 15400,
+      "adds": 16284,
       "value": 2,
       "ecr": 369.6
+    },
+    {
+      "id": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "nfl": "NE",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 4.77,
+      "adds": 14091,
+      "value": 77,
+      "ecr": 208.9
     },
     {
       "id": "12485",
@@ -881,24 +895,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 6.09,
-      "adds": 14648,
+      "proj": 5.91,
+      "adds": 13758,
       "value": 7,
       "ecr": 311.7
-    },
-    {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 26,
-      "injury": "Questionable",
-      "injury_part": "Foot",
-      "depth": 3,
-      "proj": 4.73,
-      "adds": 13279,
-      "value": 5,
-      "ecr": 328.4
     }
   ]
 }
