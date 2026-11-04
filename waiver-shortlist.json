@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:20:49.302Z",
+  "generated_at": "2026-11-04T18:00:26.408Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.25,
-      "adds": 0,
+      "adds": 25830,
       "value": 227,
       "ecr": 163.2
     },
@@ -50,7 +50,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.95,
-      "adds": 37548,
+      "adds": 31239,
       "value": 46,
       "ecr": 230.8
     },
@@ -63,7 +63,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.56,
+      "proj": 6.57,
       "adds": 0,
       "value": 218,
       "ecr": 164.9
@@ -77,8 +77,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 8.52,
-      "adds": 33615,
+      "proj": 8.58,
+      "adds": 37647,
       "value": 872,
       "ecr": 105.9
     },
@@ -91,8 +91,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.77,
-      "adds": 2093264,
+      "proj": 6.92,
+      "adds": 1845816,
       "value": 355,
       "ecr": 144.1
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.27,
-      "adds": 161600,
+      "adds": 155360,
       "value": 42,
       "ecr": 235.4
     },
@@ -120,7 +120,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.58,
-      "adds": 51408,
+      "adds": 61908,
       "value": 76,
       "ecr": 209.8
     },
@@ -175,8 +175,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.14,
-      "adds": 107856,
+      "proj": 7.06,
+      "adds": 114616,
       "value": 213,
       "ecr": 165.8
     },
@@ -189,8 +189,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.07,
-      "adds": 116536,
+      "proj": 6.1,
+      "adds": 121728,
       "value": 15,
       "ecr": 279.7
     },
@@ -275,7 +275,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.94,
+      "proj": 15.01,
       "adds": 0,
       "value": 265,
       "ecr": 156.6
@@ -345,8 +345,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.52,
-      "adds": 268535,
+      "proj": 7.41,
+      "adds": 297965,
       "value": 146,
       "ecr": 182
     },
@@ -359,7 +359,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 3.83,
+      "proj": 3.79,
       "adds": 0,
       "value": 138,
       "ecr": 184.4
@@ -415,7 +415,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.62,
+      "proj": 2.59,
       "adds": 0,
       "value": 94,
       "ecr": 200.6
@@ -429,7 +429,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.89,
+      "proj": 5.86,
       "adds": 0,
       "value": 89,
       "ecr": 202.9
@@ -443,8 +443,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.53,
-      "adds": 43236,
+      "proj": 6.46,
+      "adds": 47212,
       "value": 83,
       "ecr": 206
     },
@@ -488,7 +488,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.62,
-      "adds": 100350,
+      "adds": 89385,
       "value": 71,
       "ecr": 212.5
     },
@@ -501,7 +501,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.94,
+      "proj": 15.01,
       "adds": 0,
       "value": 265,
       "ecr": 156.6
@@ -515,10 +515,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.86,
+      "proj": 14.75,
       "adds": 0,
       "value": 70,
       "ecr": 213.1
+    },
+    {
+      "id": "12524",
+      "name": "Shedeur Sanders",
+      "pos": "QB",
+      "nfl": "CLE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 13.64,
+      "adds": 63952,
+      "value": 71,
+      "ecr": 212.8
     },
     {
       "id": "9230",
@@ -543,8 +557,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.12,
-      "adds": 952240,
+      "proj": 11.13,
+      "adds": 721880,
       "value": 3,
       "ecr": 344.6
     },
@@ -557,8 +571,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 10.71,
-      "adds": 62777,
+      "proj": 10.51,
+      "adds": 83340,
       "value": null,
       "ecr": null
     },
@@ -571,8 +585,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.52,
-      "adds": 268535,
+      "proj": 7.41,
+      "adds": 297965,
       "value": 146,
       "ecr": 182
     },
@@ -585,8 +599,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.6,
-      "adds": 61604,
+      "proj": 6.61,
+      "adds": 76156,
       "value": 2,
       "ecr": 369.6
     },
@@ -599,8 +613,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.53,
-      "adds": 43236,
+      "proj": 6.46,
+      "adds": 47212,
       "value": 83,
       "ecr": 206
     },
@@ -614,7 +628,7 @@
       "injury_part": null,
       "depth": null,
       "proj": 6.3,
-      "adds": 185391,
+      "adds": 253179,
       "value": null,
       "ecr": null
     },
@@ -628,7 +642,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.14,
-      "adds": 96633,
+      "adds": 100620,
       "value": 65,
       "ecr": 216.4
     },
@@ -669,24 +683,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.05,
-      "adds": 21882,
+      "proj": 6.07,
+      "adds": 0,
       "value": 19,
       "ecr": 268.2
-    },
-    {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "nfl": "NYJ",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 5.89,
-      "adds": 0,
-      "value": 89,
-      "ecr": 202.9
     }
   ],
   "most_added_available": [
@@ -699,10 +699,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.12,
-      "adds": 952240,
+      "proj": 11.13,
+      "adds": 721880,
       "value": 3,
       "ecr": 344.6
+    },
+    {
+      "id": "12469",
+      "name": "Dylan Sampson",
+      "pos": "RB",
+      "nfl": "CLE",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 7.41,
+      "adds": 297965,
+      "value": 146,
+      "ecr": 182
     },
     {
       "id": "8135",
@@ -714,37 +728,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.8,
-      "adds": 293468,
+      "adds": 271516,
       "value": 5,
       "ecr": 328.4
-    },
-    {
-      "id": "12469",
-      "name": "Dylan Sampson",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 7.52,
-      "adds": 268535,
-      "value": 146,
-      "ecr": 182
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "nfl": "DET",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.95,
-      "adds": 245259,
-      "value": 4,
-      "ecr": 332
     },
     {
       "id": "7561",
@@ -756,23 +742,23 @@
       "injury_part": null,
       "depth": null,
       "proj": 6.3,
-      "adds": 185391,
+      "adds": 253179,
       "value": null,
       "ecr": null
     },
     {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "nfl": "NYG",
-      "age": 23,
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "nfl": "DET",
+      "age": 25,
       "injury": null,
       "injury_part": null,
-      "depth": 1,
-      "proj": 16.62,
-      "adds": 100350,
-      "value": 71,
-      "ecr": 212.5
+      "depth": 2,
+      "proj": 3.96,
+      "adds": 236208,
+      "value": 4,
+      "ecr": 332
     },
     {
       "id": "9482",
@@ -784,7 +770,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.14,
-      "adds": 96633,
+      "adds": 100620,
       "value": 65,
       "ecr": 216.4
     },
@@ -798,9 +784,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 85356,
+      "adds": 92616,
       "value": 18,
       "ecr": 270
+    },
+    {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "nfl": "NYG",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 16.62,
+      "adds": 89385,
+      "value": 71,
+      "ecr": 212.5
     },
     {
       "id": "13350",
@@ -811,8 +811,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 10.71,
-      "adds": 62777,
+      "proj": 10.51,
+      "adds": 83340,
       "value": null,
       "ecr": null
     },
@@ -825,10 +825,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.6,
-      "adds": 61604,
+      "proj": 6.61,
+      "adds": 76156,
       "value": 2,
       "ecr": 369.6
+    },
+    {
+      "id": "12524",
+      "name": "Shedeur Sanders",
+      "pos": "QB",
+      "nfl": "CLE",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 13.64,
+      "adds": 63952,
+      "value": 71,
+      "ecr": 212.8
     },
     {
       "id": "13421",
@@ -839,8 +853,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.19,
-      "adds": 50722,
+      "proj": 5.76,
+      "adds": 50190,
       "value": 77,
       "ecr": 208.9
     },
@@ -853,8 +867,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.53,
-      "adds": 43236,
+      "proj": 6.46,
+      "adds": 47212,
       "value": 83,
       "ecr": 206
     },
@@ -867,8 +881,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.1,
-      "adds": 32202,
+      "proj": 5.14,
+      "adds": 39744,
       "value": 6,
       "ecr": 314.9
     },
@@ -882,23 +896,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.78,
-      "adds": 30438,
+      "adds": 32433,
       "value": 4,
       "ecr": 332.8
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "nfl": "NE",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 4.42,
-      "adds": 27066,
-      "value": 3,
-      "ecr": 345.8
     }
   ]
 }
