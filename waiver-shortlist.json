@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:53:15.366Z",
+  "generated_at": "2026-11-05T15:31:13.584Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.23,
-      "adds": 34644,
+      "adds": 30042,
       "value": 227,
       "ecr": 163.2
     },
@@ -49,7 +49,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 3.94,
+      "proj": 3.92,
       "adds": 0,
       "value": 46,
       "ecr": 230.8
@@ -63,7 +63,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.48,
+      "proj": 6.45,
       "adds": 0,
       "value": 218,
       "ecr": 164.9
@@ -78,7 +78,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 8.52,
-      "adds": 44370,
+      "adds": 36801,
       "value": 872,
       "ecr": 105.9
     },
@@ -92,7 +92,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.84,
-      "adds": 905032,
+      "adds": 582688,
       "value": 355,
       "ecr": 144.1
     },
@@ -106,7 +106,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 17.38,
-      "adds": 127488,
+      "adds": 98648,
       "value": 42,
       "ecr": 235.4
     },
@@ -120,9 +120,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.57,
-      "adds": 48622,
+      "adds": 35378,
       "value": 76,
       "ecr": 209.8
+    },
+    {
+      "id": "12469",
+      "name": "Dylan Sampson",
+      "pos": "RB",
+      "nfl": "CLE",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 7.42,
+      "adds": 122270,
+      "value": 146,
+      "ecr": 182
     },
     {
       "id": "12507",
@@ -175,8 +189,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.06,
-      "adds": 85120,
+      "proj": 7.05,
+      "adds": 63264,
       "value": 213,
       "ecr": 165.8
     },
@@ -190,7 +204,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.1,
-      "adds": 74776,
+      "adds": 50024,
       "value": 15,
       "ecr": 279.7
     },
@@ -276,7 +290,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.01,
-      "adds": 22950,
+      "adds": 19235,
       "value": 265,
       "ecr": 156.6
     },
@@ -335,20 +349,6 @@
       "adds": 0,
       "value": 164,
       "ecr": 177
-    },
-    {
-      "id": "12469",
-      "name": "Dylan Sampson",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 7.42,
-      "adds": 183100,
-      "value": 146,
-      "ecr": 182
     },
     {
       "id": "12535",
@@ -443,8 +443,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.46,
-      "adds": 36174,
+      "proj": 6.45,
+      "adds": 26308,
       "value": 83,
       "ecr": 206
     },
@@ -471,10 +471,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 4,
-      "proj": 2.81,
+      "proj": 2.6,
       "adds": 0,
       "value": 82,
       "ecr": 206.4
+    },
+    {
+      "id": "13319",
+      "name": "Oscar Delp",
+      "pos": "TE",
+      "nfl": "NO",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 1.08,
+      "adds": 0,
+      "value": 79,
+      "ecr": 208.1
     }
   ],
   "top_projected_available": [
@@ -487,8 +501,8 @@
       "injury": "Questionable",
       "injury_part": "Elbow",
       "depth": 1,
-      "proj": 17.25,
-      "adds": 113231,
+      "proj": 17.17,
+      "adds": 123948,
       "value": 15,
       "ecr": 279.2
     },
@@ -502,7 +516,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.42,
-      "adds": 72891,
+      "adds": 56004,
       "value": 71,
       "ecr": 212.5
     },
@@ -516,7 +530,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.01,
-      "adds": 22950,
+      "adds": 19235,
       "value": 265,
       "ecr": 156.6
     },
@@ -544,7 +558,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.67,
-      "adds": 201048,
+      "adds": 222536,
       "value": 71,
       "ecr": 212.8
     },
@@ -558,7 +572,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.54,
-      "adds": 441924,
+      "adds": 484056,
       "value": 7,
       "ecr": 312.6
     },
@@ -571,8 +585,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.53,
-      "adds": 245036,
+      "proj": 11.49,
+      "adds": 147984,
       "value": 3,
       "ecr": 344.6
     },
@@ -585,24 +599,10 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 10.31,
-      "adds": 54196,
+      "proj": 10.3,
+      "adds": 30609,
       "value": null,
       "ecr": null
-    },
-    {
-      "id": "12469",
-      "name": "Dylan Sampson",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 22,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 7.42,
-      "adds": 183100,
-      "value": 146,
-      "ecr": 182
     },
     {
       "id": "4663",
@@ -614,7 +614,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.69,
-      "adds": 63344,
+      "adds": 51400,
       "value": 2,
       "ecr": 369.6
     },
@@ -627,8 +627,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.46,
-      "adds": 36174,
+      "proj": 6.45,
+      "adds": 26308,
       "value": 83,
       "ecr": 206
     },
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": null,
       "proj": 6.32,
-      "adds": 217341,
+      "adds": 176364,
       "value": null,
       "ecr": null
     },
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.1,
-      "adds": 79803,
+      "adds": 59292,
       "value": 65,
       "ecr": 216.4
     },
@@ -687,6 +687,20 @@
       "adds": 0,
       "value": 70,
       "ecr": 213.5
+    },
+    {
+      "id": "4039",
+      "name": "Cooper Kupp",
+      "pos": "WR",
+      "nfl": "SEA",
+      "age": 33,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.96,
+      "adds": 0,
+      "value": 19,
+      "ecr": 268.2
     }
   ],
   "most_added_available": [
@@ -700,37 +714,9 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.54,
-      "adds": 441924,
+      "adds": 484056,
       "value": 7,
       "ecr": 312.6
-    },
-    {
-      "id": "6011",
-      "name": "Gardner Minshew II",
-      "pos": "QB",
-      "nfl": "ARI",
-      "age": 30,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 11.53,
-      "adds": 245036,
-      "value": 3,
-      "ecr": 344.6
-    },
-    {
-      "id": "7561",
-      "name": "Elijah Mitchell",
-      "pos": "RB",
-      "nfl": "PHI",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": null,
-      "proj": 6.32,
-      "adds": 217341,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "12524",
@@ -742,37 +728,51 @@
       "injury_part": null,
       "depth": 1,
       "proj": 13.67,
-      "adds": 201048,
+      "adds": 222536,
       "value": 71,
       "ecr": 212.8
     },
     {
-      "id": "12469",
-      "name": "Dylan Sampson",
+      "id": "7561",
+      "name": "Elijah Mitchell",
       "pos": "RB",
-      "nfl": "CLE",
-      "age": 22,
+      "nfl": "PHI",
+      "age": 28,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
-      "proj": 7.42,
-      "adds": 183100,
-      "value": 146,
-      "ecr": 182
+      "depth": null,
+      "proj": 6.32,
+      "adds": 176364,
+      "value": null,
+      "ecr": null
     },
     {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 26,
+      "id": "6011",
+      "name": "Gardner Minshew II",
+      "pos": "QB",
+      "nfl": "ARI",
+      "age": 30,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 11.49,
+      "adds": 147984,
+      "value": 3,
+      "ecr": 344.6
+    },
+    {
+      "id": "5854",
+      "name": "Drew Lock",
+      "pos": "QB",
+      "nfl": "SEA",
+      "age": 29,
       "injury": "Questionable",
-      "injury_part": "Foot",
-      "depth": 3,
-      "proj": 4.87,
-      "adds": 141736,
-      "value": 5,
-      "ecr": 328.4
+      "injury_part": "Elbow",
+      "depth": 1,
+      "proj": 17.17,
+      "adds": 123948,
+      "value": 15,
+      "ecr": 279.2
     },
     {
       "id": "11729",
@@ -784,23 +784,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 3.96,
-      "adds": 131327,
+      "adds": 91490,
       "value": 4,
       "ecr": 332
     },
     {
-      "id": "5854",
-      "name": "Drew Lock",
-      "pos": "QB",
-      "nfl": "SEA",
-      "age": 29,
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "nfl": "WAS",
+      "age": 26,
       "injury": "Questionable",
-      "injury_part": "Elbow",
-      "depth": 1,
-      "proj": 17.25,
-      "adds": 113231,
-      "value": 15,
-      "ecr": 279.2
+      "injury_part": "Foot",
+      "depth": 3,
+      "proj": 4.87,
+      "adds": 85190,
+      "value": 5,
+      "ecr": 328.4
     },
     {
       "id": "9482",
@@ -812,23 +812,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.1,
-      "adds": 79803,
+      "adds": 59292,
       "value": 65,
       "ecr": 216.4
-    },
-    {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "nfl": "NYG",
-      "age": 23,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 16.42,
-      "adds": 72891,
-      "value": 71,
-      "ecr": 212.5
     },
     {
       "id": "3161",
@@ -840,9 +826,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": null,
-      "adds": 68310,
+      "adds": 58218,
       "value": 18,
       "ecr": 270
+    },
+    {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "nfl": "NYG",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 16.42,
+      "adds": 56004,
+      "value": 71,
+      "ecr": 212.5
     },
     {
       "id": "4663",
@@ -854,23 +854,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.69,
-      "adds": 63344,
+      "adds": 51400,
       "value": 2,
       "ecr": 369.6
-    },
-    {
-      "id": "13350",
-      "name": "Joe Fagnano",
-      "pos": "QB",
-      "nfl": "BAL",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 10.31,
-      "adds": 54196,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "5995",
@@ -881,10 +867,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.07,
-      "adds": 39060,
+      "proj": 5.08,
+      "adds": 32472,
       "value": 6,
       "ecr": 314.9
+    },
+    {
+      "id": "13350",
+      "name": "Joe Fagnano",
+      "pos": "QB",
+      "nfl": "BAL",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 10.3,
+      "adds": 30609,
+      "value": null,
+      "ecr": null
     },
     {
       "id": "8172",
@@ -895,10 +895,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 6.46,
-      "adds": 36174,
+      "proj": 6.45,
+      "adds": 26308,
       "value": 83,
       "ecr": 206
+    },
+    {
+      "id": "8119",
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "nfl": "ATL",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 5.78,
+      "adds": 23151,
+      "value": 4,
+      "ecr": 332.8
     }
   ]
 }
