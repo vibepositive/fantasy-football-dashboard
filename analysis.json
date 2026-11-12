@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:03:50.322Z",
+  "generated_at": "2026-11-12T11:21:06.387Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -84,7 +84,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.84,
-        "adds": 31482,
+        "adds": 28416,
         "value": 288,
         "ecr": 153.1
       },
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 2.97,
-        "adds": 39996,
+        "adds": 33219,
         "value": 61,
         "ecr": 219
       },
@@ -140,7 +140,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.65,
-        "adds": 49160,
+        "adds": 42808,
         "value": 380,
         "ecr": 141.2
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 14.7,
-        "adds": 104128,
+        "adds": 79384,
         "value": 64,
         "ecr": 217.1
       },
@@ -168,7 +168,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.62,
-        "adds": 39907,
+        "adds": 35525,
         "value": 97,
         "ecr": 199.4
       },
@@ -182,7 +182,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.3,
-        "adds": 45405,
+        "adds": 34665,
         "value": 154,
         "ecr": 179.6
       },
@@ -210,7 +210,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 11.6,
-        "adds": 594576,
+        "adds": 344768,
         "value": 864,
         "ecr": 106.3
       },
@@ -238,7 +238,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 6.21,
-        "adds": 120792,
+        "adds": 72400,
         "value": 426,
         "ecr": 136.4
       },
@@ -252,7 +252,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 5.31,
-        "adds": 31992,
+        "adds": 25088,
         "value": 28,
         "ecr": 251.5
       },
@@ -285,6 +285,20 @@
         "ecr": 143.1
       },
       {
+        "id": "5995",
+        "name": "Justice Hill",
+        "pos": "RB",
+        "nfl": "BAL",
+        "age": 28,
+        "injury": null,
+        "injury_part": null,
+        "depth": 2,
+        "proj": 6.27,
+        "adds": 236709,
+        "value": 7,
+        "ecr": 310
+      },
+      {
         "id": "8126",
         "name": "Wan'Dale Robinson",
         "pos": "WR",
@@ -293,7 +307,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 7.8,
+        "proj": 7.72,
         "adds": 0,
         "value": 931,
         "ecr": 103.1
@@ -394,7 +408,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 6.21,
-        "adds": 120792,
+        "adds": 72400,
         "value": 426,
         "ecr": 136.4
       },
@@ -421,7 +435,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 7.8,
+        "proj": 7.72,
         "adds": 0,
         "value": 931,
         "ecr": 103.1
@@ -436,7 +450,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.84,
-        "adds": 31482,
+        "adds": 28416,
         "value": 288,
         "ecr": 153.1
       },
@@ -450,7 +464,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.62,
-        "adds": 39907,
+        "adds": 35525,
         "value": 97,
         "ecr": 199.4
       }
@@ -582,7 +596,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 172960,
+      "adds": 90000,
       "value": 180,
       "ecr": 173
     },
@@ -623,7 +637,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 4.04,
+      "proj": 3.99,
       "adds": 0,
       "value": 133,
       "ecr": 186
@@ -637,8 +651,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 16.77,
-      "adds": 71247,
+      "proj": 16.81,
+      "adds": 61764,
       "value": 129,
       "ecr": 187.2
     },
@@ -651,7 +665,7 @@
       "injury": "Questionable",
       "injury_part": "Knee",
       "depth": 2,
-      "proj": 5.28,
+      "proj": 5.29,
       "adds": 0,
       "value": 123,
       "ecr": 189.3
@@ -707,7 +721,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 2.86,
+      "proj": 2.85,
       "adds": 0,
       "value": 91,
       "ecr": 202.1
@@ -777,7 +791,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.06,
+      "proj": 5,
       "adds": 0,
       "value": 72,
       "ecr": 211.9
@@ -889,8 +903,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 14.36,
-      "adds": 109896,
+      "proj": 14.32,
+      "adds": 94816,
       "value": 49,
       "ecr": 228.4
     },
@@ -965,18 +979,18 @@
       "ecr": 238.6
     },
     {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "nfl": "LAR",
-      "age": 24,
+      "id": "9479",
+      "name": "Darnell Washington",
+      "pos": "TE",
+      "nfl": "PIT",
+      "age": 25,
       "injury": null,
       "injury_part": null,
-      "depth": 1,
-      "proj": 6.84,
-      "adds": 1451511,
-      "value": 38,
-      "ecr": 238.7
+      "depth": 2,
+      "proj": 6.24,
+      "adds": 42210,
+      "value": 37,
+      "ecr": 240
     },
     {
       "id": "5854",
@@ -1002,7 +1016,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.49,
-      "adds": 442892,
+      "adds": 187080,
       "value": 2,
       "ecr": 362.9
     },
@@ -1030,7 +1044,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.89,
-      "adds": 259410,
+      "adds": 212970,
       "value": 2,
       "ecr": 362.3
     },
@@ -1043,8 +1057,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.69,
-      "adds": 91076,
+      "proj": 7.67,
+      "adds": 83756,
       "value": 3,
       "ecr": 349.2
     },
@@ -1072,7 +1086,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 6.9,
-      "adds": 700668,
+      "adds": 478737,
       "value": 12,
       "ecr": 289.4
     },
@@ -1086,37 +1100,9 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.43,
-      "adds": 913318,
+      "adds": 621138,
       "value": 7,
       "ecr": 313
-    },
-    {
-      "id": "5995",
-      "name": "Justice Hill",
-      "pos": "RB",
-      "nfl": "BAL",
-      "age": 28,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.27,
-      "adds": 289044,
-      "value": 7,
-      "ecr": 310
-    },
-    {
-      "id": "9479",
-      "name": "Darnell Washington",
-      "pos": "TE",
-      "nfl": "PIT",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 6.24,
-      "adds": 55905,
-      "value": 37,
-      "ecr": 240
     },
     {
       "id": "8119",
@@ -1142,7 +1128,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.79,
-      "adds": 127536,
+      "adds": 86676,
       "value": 4,
       "ecr": 332.4
     },
@@ -1156,7 +1142,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.77,
-      "adds": 513009,
+      "adds": 327348,
       "value": 1,
       "ecr": 378.6
     },
@@ -1212,7 +1198,7 @@
       "injury_part": "Ribs",
       "depth": 2,
       "proj": 5.45,
-      "adds": 43668,
+      "adds": 24816,
       "value": 28,
       "ecr": 252
     },
@@ -1268,7 +1254,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.28,
-      "adds": 154235,
+      "adds": 108085,
       "value": null,
       "ecr": null
     },
@@ -1282,7 +1268,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.23,
-      "adds": 32211,
+      "adds": 22815,
       "value": 2,
       "ecr": 368.7
     },
@@ -1296,9 +1282,23 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.09,
-      "adds": 100672,
+      "adds": 84380,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "nfl": "WAS",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.03,
+      "adds": 0,
+      "value": 8,
+      "ecr": 306
     },
     {
       "id": "8116",
@@ -1310,7 +1310,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.51,
-      "adds": 343197,
+      "adds": 191772,
       "value": 1,
       "ecr": 388.9
     },
@@ -1324,23 +1324,9 @@
       "injury_part": null,
       "depth": 5,
       "proj": 3.63,
-      "adds": 150484,
+      "adds": 72380,
       "value": 5,
       "ecr": 328.3
-    },
-    {
-      "id": "12773",
-      "name": "DJ Uiagalelei",
-      "pos": "QB",
-      "nfl": "LAC",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 4,
-      "proj": null,
-      "adds": 85239,
-      "value": null,
-      "ecr": null
     },
     {
       "id": "11762",
@@ -1352,21 +1338,21 @@
       "injury_part": null,
       "depth": 4,
       "proj": 3.46,
-      "adds": 52507,
+      "adds": 55958,
       "value": null,
       "ecr": null
     },
     {
-      "id": "7812",
-      "name": "Simi Fehoko",
-      "pos": "WR",
-      "nfl": "ARI",
-      "age": 29,
+      "id": "12773",
+      "name": "DJ Uiagalelei",
+      "pos": "QB",
+      "nfl": "LAC",
+      "age": 25,
       "injury": null,
       "injury_part": null,
-      "depth": 2,
-      "proj": 3.53,
-      "adds": 31440,
+      "depth": 4,
+      "proj": null,
+      "adds": 43749,
       "value": null,
       "ecr": null
     }
