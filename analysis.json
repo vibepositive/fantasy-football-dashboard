@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:46:34.868Z",
+  "generated_at": "2026-11-16T11:28:55.692Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -98,7 +98,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 5.22,
-        "adds": 22437,
+        "adds": 20511,
         "value": 64,
         "ecr": 216.8
       },
@@ -112,7 +112,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 6.22,
-        "adds": 21330,
+        "adds": 18978,
         "value": 184,
         "ecr": 172
       },
@@ -126,7 +126,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.58,
-        "adds": 27918,
+        "adds": 23607,
         "value": 797,
         "ecr": 109.7
       },
@@ -140,7 +140,7 @@
         "injury_part": null,
         "depth": 3,
         "proj": 6.47,
-        "adds": 27856,
+        "adds": 28136,
         "value": 559,
         "ecr": 124.8
       },
@@ -154,7 +154,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 15.07,
-        "adds": 38752,
+        "adds": 45384,
         "value": 55,
         "ecr": 223.5
       },
@@ -182,7 +182,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.68,
-        "adds": 39720,
+        "adds": 33615,
         "value": 178,
         "ecr": 173.5
       },
@@ -210,7 +210,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 11.71,
-        "adds": 162784,
+        "adds": 162752,
         "value": 797,
         "ecr": 109.7
       },
@@ -238,7 +238,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.61,
-        "adds": 127008,
+        "adds": 122704,
         "value": 425,
         "ecr": 136.5
       },
@@ -252,7 +252,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.07,
-        "adds": 138104,
+        "adds": 185120,
         "value": 50,
         "ecr": 227.3
       },
@@ -294,7 +294,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.29,
-        "adds": 422649,
+        "adds": 417510,
         "value": 7,
         "ecr": 310.4
       },
@@ -394,7 +394,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.58,
-        "adds": 27918,
+        "adds": 23607,
         "value": 797,
         "ecr": 109.7
       },
@@ -408,7 +408,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.61,
-        "adds": 127008,
+        "adds": 122704,
         "value": 425,
         "ecr": 136.5
       },
@@ -512,7 +512,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.17,
-      "adds": 25124,
+      "adds": 31016,
       "value": 317,
       "ecr": 148.9
     },
@@ -554,7 +554,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 61464,
+      "adds": 73672,
       "value": 231,
       "ecr": 162.4
     },
@@ -624,7 +624,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 16.52,
-      "adds": 0,
+      "adds": 17775,
       "value": 167,
       "ecr": 176.3
     },
@@ -652,7 +652,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.56,
-      "adds": 61695,
+      "adds": 100341,
       "value": 138,
       "ecr": 184.2
     },
@@ -792,7 +792,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.58,
-      "adds": 93308,
+      "adds": 92148,
       "value": 75,
       "ecr": 210.1
     },
@@ -834,7 +834,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.99,
-      "adds": 0,
+      "adds": 16855,
       "value": 60,
       "ecr": 220.1
     },
@@ -890,7 +890,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.33,
-      "adds": 74400,
+      "adds": 83760,
       "value": 50,
       "ecr": 227.9
     },
@@ -974,7 +974,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.18,
-      "adds": 106140,
+      "adds": 95455,
       "value": 35,
       "ecr": 243.1
     },
@@ -1016,7 +1016,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 11.93,
-      "adds": 17104,
+      "adds": 15352,
       "value": 2,
       "ecr": 355.2
     },
@@ -1044,7 +1044,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 7.72,
-      "adds": 21620,
+      "adds": 24508,
       "value": 5,
       "ecr": 325.7
     },
@@ -1058,7 +1058,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.36,
-      "adds": 247293,
+      "adds": 212922,
       "value": 7,
       "ecr": 313.4
     },
@@ -1072,7 +1072,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.12,
-      "adds": 64470,
+      "adds": 61110,
       "value": 3,
       "ecr": 350.9
     },
@@ -1100,7 +1100,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.37,
-      "adds": 193431,
+      "adds": 172620,
       "value": 12,
       "ecr": 286.7
     },
@@ -1128,7 +1128,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.84,
-      "adds": 56664,
+      "adds": 44496,
       "value": 26,
       "ecr": 256
     },
@@ -1142,7 +1142,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.63,
-      "adds": 15930,
+      "adds": 16002,
       "value": 16,
       "ecr": 275.6
     },
@@ -1170,7 +1170,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.37,
-      "adds": 52884,
+      "adds": 37071,
       "value": 2,
       "ecr": 359.9
     },
@@ -1198,7 +1198,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.25,
-      "adds": 22400,
+      "adds": 20365,
       "value": 8,
       "ecr": 308
     },
@@ -1226,7 +1226,7 @@
       "injury_part": "Concussion",
       "depth": 3,
       "proj": 5.04,
-      "adds": 98714,
+      "adds": 143612,
       "value": 17,
       "ecr": 274.6
     },
@@ -1254,7 +1254,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 4.9,
-      "adds": 89865,
+      "adds": 86742,
       "value": null,
       "ecr": null
     },
@@ -1296,7 +1296,7 @@
       "injury_part": null,
       "depth": 4,
       "proj": 4.79,
-      "adds": 17000,
+      "adds": 15768,
       "value": 6,
       "ecr": 318.6
     },
@@ -1324,21 +1324,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.05,
-      "adds": 35776,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "11762",
-      "name": "Anthony Gould",
-      "pos": "WR",
-      "nfl": "IND",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 4,
-      "proj": 3.46,
-      "adds": 20363,
+      "adds": 26240,
       "value": null,
       "ecr": null
     },
@@ -1352,7 +1338,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 3.86,
-      "adds": 19305,
+      "adds": 24786,
       "value": 4,
       "ecr": 331.9
     },
@@ -1366,23 +1352,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 19089,
+      "adds": 23265,
       "value": 9,
       "ecr": 298.7
-    },
-    {
-      "id": "12897",
-      "name": "Nate Carter",
-      "pos": "RB",
-      "nfl": "KC",
-      "age": 24,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 4.59,
-      "adds": 17465,
-      "value": null,
-      "ecr": null
     }
   ],
   "market_date": "2026-11-13"
