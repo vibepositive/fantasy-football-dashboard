@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:55:01.792Z",
+  "generated_at": "2026-11-18T04:26:52.655Z",
   "league": {
     "id": "1312504205092610048",
     "name": "Mettlers ",
@@ -140,7 +140,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 6.91,
-        "adds": 154496,
+        "adds": 219304,
         "value": 559,
         "ecr": 124.8
       },
@@ -153,8 +153,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 17.68,
-        "adds": 147200,
+        "proj": 16.98,
+        "adds": 182600,
         "value": 55,
         "ecr": 223.5
       },
@@ -195,8 +195,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 8.32,
-        "adds": 94047,
+        "proj": 9.47,
+        "adds": 120192,
         "value": 2606,
         "ecr": 59.3
       },
@@ -210,7 +210,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 12.17,
-        "adds": 59208,
+        "adds": 76984,
         "value": 797,
         "ecr": 109.7
       },
@@ -238,7 +238,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.36,
-        "adds": 200776,
+        "adds": 264720,
         "value": 425,
         "ecr": 136.5
       },
@@ -252,7 +252,7 @@
         "injury_part": null,
         "depth": 2,
         "proj": 5.44,
-        "adds": 652360,
+        "adds": 831976,
         "value": 50,
         "ecr": 227.3
       },
@@ -261,7 +261,7 @@
         "name": "Christian Kirk",
         "pos": "WR",
         "nfl": "SF",
-        "age": 29,
+        "age": 30,
         "injury": "IR",
         "injury_part": "Knee - Meniscus",
         "depth": 7,
@@ -279,7 +279,7 @@
         "injury": "Out",
         "injury_part": "Wrist",
         "depth": 1,
-        "proj": 7.34,
+        "proj": 7.16,
         "adds": 0,
         "value": 366,
         "ecr": 142.8
@@ -293,8 +293,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 2,
-        "proj": 6.25,
-        "adds": 191187,
+        "proj": 6.27,
+        "adds": 236547,
         "value": 7,
         "ecr": 310.4
       },
@@ -306,7 +306,7 @@
         "age": 25,
         "injury": "IR",
         "injury_part": "Ankle",
-        "depth": 2,
+        "depth": 6,
         "proj": null,
         "adds": 0,
         "value": 872,
@@ -321,7 +321,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 17.77,
+        "proj": 17.6,
         "adds": 0,
         "value": 3008,
         "ecr": 53.2
@@ -335,7 +335,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 13.37,
+        "proj": 13.38,
         "adds": 0,
         "value": 1543,
         "ecr": 81.6
@@ -351,7 +351,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 17.77,
+        "proj": 17.6,
         "adds": 0,
         "value": 3008,
         "ecr": 53.2
@@ -365,8 +365,8 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 8.32,
-        "adds": 94047,
+        "proj": 9.47,
+        "adds": 120192,
         "value": 2606,
         "ecr": 59.3
       },
@@ -379,7 +379,7 @@
         "injury": null,
         "injury_part": null,
         "depth": 1,
-        "proj": 13.37,
+        "proj": 13.38,
         "adds": 0,
         "value": 1543,
         "ecr": 81.6
@@ -408,7 +408,7 @@
         "injury_part": null,
         "depth": 1,
         "proj": 7.36,
-        "adds": 200776,
+        "adds": 264720,
         "value": 425,
         "ecr": 136.5
       },
@@ -421,7 +421,7 @@
         "injury": "Out",
         "injury_part": "Wrist",
         "depth": 1,
-        "proj": 7.34,
+        "proj": 7.16,
         "adds": 0,
         "value": 366,
         "ecr": 142.8
@@ -434,7 +434,7 @@
         "age": 25,
         "injury": "IR",
         "injury_part": "Ankle",
-        "depth": 2,
+        "depth": 6,
         "proj": null,
         "adds": 0,
         "value": 872,
@@ -489,7 +489,7 @@
         "name": "Christian Kirk",
         "pos": "WR",
         "nfl": "SF",
-        "age": 29,
+        "age": 30,
         "injury": "IR",
         "injury_part": "Knee - Meniscus",
         "depth": 7,
@@ -512,7 +512,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 4.15,
-      "adds": 74300,
+      "adds": 79424,
       "value": 317,
       "ecr": 148.9
     },
@@ -554,7 +554,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 7.01,
-      "adds": 636912,
+      "adds": 929360,
       "value": 231,
       "ecr": 162.4
     },
@@ -624,7 +624,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 15.09,
-      "adds": 47826,
+      "adds": 55077,
       "value": 167,
       "ecr": 176.3
     },
@@ -652,7 +652,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.42,
-      "adds": 1325754,
+      "adds": 1793025,
       "value": 138,
       "ecr": 184.2
     },
@@ -665,8 +665,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 4.74,
-      "adds": 20503,
+      "proj": 4.68,
+      "adds": 28266,
       "value": 121,
       "ecr": 189.8
     },
@@ -693,7 +693,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.51,
+      "proj": 6.39,
       "adds": 0,
       "value": 116,
       "ecr": 191.9
@@ -721,7 +721,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 3.2,
+      "proj": 3.17,
       "adds": 0,
       "value": 101,
       "ecr": 197.8
@@ -790,9 +790,9 @@
       "age": 23,
       "injury": null,
       "injury_part": null,
-      "depth": 3,
-      "proj": 7.45,
-      "adds": 316868,
+      "depth": 2,
+      "proj": 8.62,
+      "adds": 557344,
       "value": 75,
       "ecr": 210.1
     },
@@ -833,8 +833,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.32,
-      "adds": 34980,
+      "proj": 5.28,
+      "adds": 45450,
       "value": 60,
       "ecr": 219.9
     },
@@ -847,8 +847,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.95,
-      "adds": 28735,
+      "proj": 6.13,
+      "adds": 32900,
       "value": 60,
       "ecr": 220.1
     },
@@ -890,7 +890,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": null,
-      "adds": 91040,
+      "adds": 95384,
       "value": 50,
       "ecr": 227.9
     },
@@ -917,7 +917,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 12.08,
+      "proj": 12.04,
       "adds": 0,
       "value": 46,
       "ecr": 230.8
@@ -993,6 +993,20 @@
       "ecr": 243
     },
     {
+      "id": "13425",
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "nfl": "TB",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 4,
+      "proj": 13.22,
+      "adds": 46548,
+      "value": 13,
+      "ecr": 284.6
+    },
+    {
       "id": "11557",
       "name": "Joe Milton",
       "pos": "QB",
@@ -1002,7 +1016,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.08,
-      "adds": 57372,
+      "adds": 79560,
       "value": 12,
       "ecr": 288.4
     },
@@ -1016,7 +1030,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.67,
-      "adds": 27916,
+      "adds": 34472,
       "value": 2,
       "ecr": 355.2
     },
@@ -1043,8 +1057,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 7.29,
-      "adds": 131157,
+      "proj": 7.25,
+      "adds": 169749,
       "value": 7,
       "ecr": 313.4
     },
@@ -1057,10 +1071,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 7.09,
+      "proj": 7.04,
       "adds": 0,
       "value": 3,
       "ecr": 347.3
+    },
+    {
+      "id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "nfl": "HOU",
+      "age": 26,
+      "injury": "Questionable",
+      "injury_part": "Concussion",
+      "depth": 2,
+      "proj": 6.42,
+      "adds": 1546251,
+      "value": 17,
+      "ecr": 274.6
     },
     {
       "id": "11593",
@@ -1077,6 +1105,20 @@
       "ecr": 395
     },
     {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "nfl": "WAS",
+      "age": 26,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 5.85,
+      "adds": 49574,
+      "value": 11,
+      "ecr": 290.8
+    },
+    {
       "id": "3634",
       "name": "Kalif Raymond",
       "pos": "WR",
@@ -1091,20 +1133,6 @@
       "ecr": 330
     },
     {
-      "id": "8135",
-      "name": "Treylon Burks",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 5.83,
-      "adds": 33838,
-      "value": 11,
-      "ecr": 290.8
-    },
-    {
       "id": "12485",
       "name": "Tez Johnson",
       "pos": "WR",
@@ -1113,7 +1141,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.43,
+      "proj": 5.39,
       "adds": 0,
       "value": 12,
       "ecr": 287.2
@@ -1128,7 +1156,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.2,
-      "adds": 0,
+      "adds": 21753,
       "value": 2,
       "ecr": 359.9
     },
@@ -1142,7 +1170,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.1,
-      "adds": 43460,
+      "adds": 62325,
       "value": 8,
       "ecr": 308
     },
@@ -1161,20 +1189,6 @@
       "ecr": 313.2
     },
     {
-      "id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "nfl": "HOU",
-      "age": 26,
-      "injury": "Questionable",
-      "injury_part": "Concussion",
-      "depth": 2,
-      "proj": 4.61,
-      "adds": 1099462,
-      "value": 17,
-      "ecr": 274.6
-    },
-    {
       "id": "7694",
       "name": "Tommy Tremble",
       "pos": "TE",
@@ -1183,8 +1197,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.49,
-      "adds": 25820,
+      "proj": 4.47,
+      "adds": 35148,
       "value": 15,
       "ecr": 278
     },
@@ -1217,6 +1231,20 @@
       "ecr": 350.2
     },
     {
+      "id": "13075",
+      "name": "Myles Price",
+      "pos": "WR",
+      "nfl": "MIN",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 3,
+      "proj": 4.37,
+      "adds": 0,
+      "value": 2,
+      "ecr": 356.2
+    },
+    {
       "id": "4663",
       "name": "Austin Ekeler",
       "pos": "RB",
@@ -1225,52 +1253,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 4.13,
-      "adds": 38200,
+      "proj": 4.14,
+      "adds": 39688,
       "value": 5,
       "ecr": 325.7
     },
     {
-      "id": "11762",
-      "name": "Anthony Gould",
+      "id": "12496",
+      "name": "Tai Felton",
       "pos": "WR",
-      "nfl": "IND",
-      "age": 25,
-      "injury": "Questionable",
-      "injury_part": "Toe",
+      "nfl": "MIN",
+      "age": 23,
+      "injury": null,
+      "injury_part": null,
       "depth": 4,
-      "proj": 3.82,
+      "proj": 4.04,
       "adds": 0,
-      "value": null,
-      "ecr": null
-    },
-    {
-      "id": "6001",
-      "name": "Drew Sample",
-      "pos": "TE",
-      "nfl": "CIN",
-      "age": 30,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.63,
-      "adds": 0,
-      "value": 1,
-      "ecr": 382.7
-    },
-    {
-      "id": "4033",
-      "name": "David Njoku",
-      "pos": "TE",
-      "nfl": "LAC",
-      "age": 30,
-      "injury": null,
-      "injury_part": null,
-      "depth": 3,
-      "proj": 3.6,
-      "adds": 0,
-      "value": 26,
-      "ecr": 256.1
+      "value": 3,
+      "ecr": 343
     },
     {
       "id": "12700",
@@ -1281,10 +1281,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 1.79,
-      "adds": 151254,
+      "proj": 1.75,
+      "adds": 209745,
       "value": null,
       "ecr": null
+    },
+    {
+      "id": "11729",
+      "name": "Sione Vaki",
+      "pos": "RB",
+      "nfl": "DET",
+      "age": 25,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 3.57,
+      "adds": 57302,
+      "value": 23,
+      "ecr": 261.5
     },
     {
       "id": "1837",
@@ -1296,23 +1310,9 @@
       "injury_part": null,
       "depth": null,
       "proj": null,
-      "adds": 49263,
+      "adds": 49374,
       "value": 3,
       "ecr": 353.4
-    },
-    {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "pos": "RB",
-      "nfl": "DET",
-      "age": 25,
-      "injury": null,
-      "injury_part": null,
-      "depth": 2,
-      "proj": 3.58,
-      "adds": 35861,
-      "value": 23,
-      "ecr": 261.5
     },
     {
       "id": "13303",
@@ -1324,7 +1324,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": null,
-      "adds": 34587,
+      "adds": 37098,
       "value": 9,
       "ecr": 298.7
     }
