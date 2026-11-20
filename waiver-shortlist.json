@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:58:09.423Z",
+  "generated_at": "2026-11-20T21:09:57.309Z",
   "league": {
     "name": "Mettlers ",
     "season": "2026",
@@ -36,7 +36,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 7.06,
-      "adds": 24192,
+      "adds": 23166,
       "value": 222,
       "ecr": 164.1
     },
@@ -77,7 +77,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.44,
+      "proj": 6.42,
       "adds": 0,
       "value": 905,
       "ecr": 104.3
@@ -91,8 +91,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 7.01,
-      "adds": 82640,
+      "proj": 8.29,
+      "adds": 138968,
       "value": 662,
       "ecr": 117.6
     },
@@ -105,8 +105,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 17.11,
-      "adds": 78496,
+      "proj": 17.1,
+      "adds": 66768,
       "value": 60,
       "ecr": 220
     },
@@ -148,7 +148,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 9.44,
-      "adds": 16614,
+      "adds": 14811,
       "value": 3101,
       "ecr": 51.9
     },
@@ -162,7 +162,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 12.05,
-      "adds": 92080,
+      "adds": 86728,
       "value": 658,
       "ecr": 117.9
     },
@@ -186,11 +186,11 @@
       "pos": "WR",
       "nfl": "MIA",
       "age": 23,
-      "injury": "Questionable",
-      "injury_part": "Shoulder",
+      "injury": null,
+      "injury_part": null,
       "depth": 1,
       "proj": 7.3,
-      "adds": 45872,
+      "adds": 46872,
       "value": 405,
       "ecr": 138.5
     },
@@ -204,7 +204,7 @@
       "injury_part": "Hamstring",
       "depth": 2,
       "proj": 5.44,
-      "adds": 199048,
+      "adds": 127080,
       "value": 77,
       "ecr": 209.2
     },
@@ -228,10 +228,10 @@
       "pos": "TE",
       "nfl": "MIN",
       "age": 29,
-      "injury": "Questionable",
-      "injury_part": "Wrist",
+      "injury": null,
+      "injury_part": null,
       "depth": 1,
-      "proj": 7.2,
+      "proj": 7.19,
       "adds": 0,
       "value": 326,
       "ecr": 147.8
@@ -245,8 +245,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 6.23,
-      "adds": 202779,
+      "proj": 6.25,
+      "adds": 211338,
       "value": 9,
       "ecr": 300.8
     },
@@ -273,7 +273,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 17.85,
+      "proj": 17.84,
       "adds": 0,
       "value": 2924,
       "ecr": 54.4
@@ -287,7 +287,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 13.45,
+      "proj": 13.39,
       "adds": 0,
       "value": 1267,
       "ecr": 90
@@ -402,7 +402,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.39,
-      "adds": 262683,
+      "adds": 241929,
       "value": 174,
       "ecr": 174.4
     },
@@ -428,8 +428,8 @@
       "age": 29,
       "injury": null,
       "injury_part": null,
-      "depth": 1,
-      "proj": 10.64,
+      "depth": null,
+      "proj": null,
       "adds": 0,
       "value": 152,
       "ecr": 180.1
@@ -444,7 +444,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.61,
-      "adds": 58282,
+      "adds": 63364,
       "value": 126,
       "ecr": 188.1
     },
@@ -457,7 +457,7 @@
       "injury": "Questionable",
       "injury_part": "Ankle",
       "depth": 2,
-      "proj": 4.62,
+      "proj": 4.58,
       "adds": 0,
       "value": 126,
       "ecr": 188.1
@@ -471,7 +471,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 3.21,
+      "proj": 3.2,
       "adds": 0,
       "value": 119,
       "ecr": 190.7
@@ -507,20 +507,6 @@
   ],
   "top_projected_available": [
     {
-      "id": "11557",
-      "name": "Joe Milton",
-      "pos": "QB",
-      "nfl": "PHI",
-      "age": 26,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 12.02,
-      "adds": 45884,
-      "value": 8,
-      "ecr": 305.5
-    },
-    {
       "id": "3257",
       "name": "Jacoby Brissett",
       "pos": "QB",
@@ -529,24 +515,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 11.86,
+      "proj": 11.95,
       "adds": 0,
       "value": 49,
       "ecr": 228.1
     },
     {
-      "id": "5870",
-      "name": "Daniel Jones",
+      "id": "11557",
+      "name": "Joe Milton",
       "pos": "QB",
-      "nfl": "IND",
-      "age": 29,
+      "nfl": "PHI",
+      "age": 26,
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 10.64,
-      "adds": 0,
-      "value": 152,
-      "ecr": 180.1
+      "proj": 11.91,
+      "adds": 44736,
+      "value": 8,
+      "ecr": 305.5
     },
     {
       "id": "12494",
@@ -558,7 +544,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.47,
-      "adds": 25628,
+      "adds": 25528,
       "value": 2,
       "ecr": 360
     },
@@ -585,8 +571,8 @@
       "injury": "Questionable",
       "injury_part": "Knee",
       "depth": 1,
-      "proj": 7.2,
-      "adds": 75537,
+      "proj": 7.21,
+      "adds": 84807,
       "value": 5,
       "ecr": 323
     },
@@ -600,9 +586,23 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.39,
-      "adds": 262683,
+      "adds": 241929,
       "value": 174,
       "ecr": 174.4
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "nfl": "NYJ",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.37,
+      "adds": 19005,
+      "value": 88,
+      "ecr": 203.4
     },
     {
       "id": "11593",
@@ -642,7 +642,7 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.9,
-      "adds": 32389,
+      "adds": 31703,
       "value": 30,
       "ecr": 249.6
     },
@@ -655,7 +655,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 3,
-      "proj": 5.74,
+      "proj": 5.75,
       "adds": 0,
       "value": 5,
       "ecr": 330
@@ -670,7 +670,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.61,
-      "adds": 58282,
+      "adds": 63364,
       "value": 126,
       "ecr": 188.1
     },
@@ -683,7 +683,7 @@
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.48,
+      "proj": 5.52,
       "adds": 0,
       "value": 23,
       "ecr": 259.8
@@ -697,8 +697,8 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.36,
-      "adds": 18750,
+      "proj": 5.39,
+      "adds": 19920,
       "value": 98,
       "ecr": 199
     },
@@ -712,7 +712,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 5.2,
-      "adds": 15615,
+      "adds": 0,
       "value": 2,
       "ecr": 366.3
     }
@@ -728,7 +728,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 6.39,
-      "adds": 262683,
+      "adds": 241929,
       "value": 174,
       "ecr": 174.4
     },
@@ -742,7 +742,7 @@
       "injury_part": null,
       "depth": 2,
       "proj": 1.76,
-      "adds": 104895,
+      "adds": 102654,
       "value": 1,
       "ecr": 407
     },
@@ -755,8 +755,8 @@
       "injury": "Questionable",
       "injury_part": "Knee",
       "depth": 1,
-      "proj": 7.2,
-      "adds": 75537,
+      "proj": 7.21,
+      "adds": 84807,
       "value": 5,
       "ecr": 323
     },
@@ -770,7 +770,7 @@
       "injury_part": null,
       "depth": 1,
       "proj": 5.61,
-      "adds": 58282,
+      "adds": 63364,
       "value": 126,
       "ecr": 188.1
     },
@@ -783,10 +783,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 12.02,
-      "adds": 45884,
+      "proj": 11.91,
+      "adds": 44736,
       "value": 8,
       "ecr": 305.5
+    },
+    {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "nfl": "LAR",
+      "age": 24,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": null,
+      "adds": 41220,
+      "value": 19,
+      "ecr": 269.5
     },
     {
       "id": "8135",
@@ -798,23 +812,9 @@
       "injury_part": null,
       "depth": 3,
       "proj": 5.9,
-      "adds": 32389,
+      "adds": 31703,
       "value": 30,
       "ecr": 249.6
-    },
-    {
-      "id": "3155",
-      "name": "Laquon Treadwell",
-      "pos": "WR",
-      "nfl": "IND",
-      "age": 31,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 5.1,
-      "adds": 27190,
-      "value": 8,
-      "ecr": 308
     },
     {
       "id": "12494",
@@ -826,9 +826,23 @@
       "injury_part": null,
       "depth": 1,
       "proj": 10.47,
-      "adds": 25628,
+      "adds": 25528,
       "value": 2,
       "ecr": 360
+    },
+    {
+      "id": "5906",
+      "name": "Dawson Knox",
+      "pos": "TE",
+      "nfl": "BUF",
+      "age": 30,
+      "injury": null,
+      "injury_part": null,
+      "depth": 2,
+      "proj": 2.82,
+      "adds": 24690,
+      "value": 3,
+      "ecr": 343.3
     },
     {
       "id": "8111",
@@ -839,10 +853,24 @@
       "injury": null,
       "injury_part": null,
       "depth": 1,
-      "proj": 5.36,
-      "adds": 18750,
+      "proj": 5.39,
+      "adds": 19920,
       "value": 98,
       "ecr": 199
+    },
+    {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "nfl": "NYJ",
+      "age": 22,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 6.37,
+      "adds": 19005,
+      "value": 88,
+      "ecr": 203.4
     },
     {
       "id": "11729",
@@ -853,8 +881,8 @@
       "injury": "Questionable",
       "injury_part": "Ankle",
       "depth": 2,
-      "proj": 3.57,
-      "adds": 18179,
+      "proj": 3.55,
+      "adds": 18039,
       "value": 12,
       "ecr": 286.8
     },
@@ -868,65 +896,37 @@
       "injury_part": null,
       "depth": 2,
       "proj": 4.88,
-      "adds": 16224,
+      "adds": 17532,
       "value": 9,
       "ecr": 298.5
     },
     {
-      "id": "6427",
-      "name": "Ashton Dulin",
+      "id": "3155",
+      "name": "Laquon Treadwell",
       "pos": "WR",
       "nfl": "IND",
-      "age": 29,
+      "age": 31,
+      "injury": null,
+      "injury_part": null,
+      "depth": 1,
+      "proj": 5.1,
+      "adds": 16890,
+      "value": 8,
+      "ecr": 308
+    },
+    {
+      "id": "260",
+      "name": "Josh Johnson",
+      "pos": "QB",
+      "nfl": "ARI",
+      "age": 40,
       "injury": null,
       "injury_part": null,
       "depth": 2,
-      "proj": 5.2,
-      "adds": 15615,
-      "value": 2,
-      "ecr": 366.3
-    },
-    {
-      "id": "3257",
-      "name": "Jacoby Brissett",
-      "pos": "QB",
-      "nfl": "BAL",
-      "age": 33,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 11.86,
-      "adds": 0,
-      "value": 49,
-      "ecr": 228.1
-    },
-    {
-      "id": "5870",
-      "name": "Daniel Jones",
-      "pos": "QB",
-      "nfl": "IND",
-      "age": 29,
-      "injury": null,
-      "injury_part": null,
-      "depth": 1,
-      "proj": 10.64,
-      "adds": 0,
-      "value": 152,
-      "ecr": 180.1
-    },
-    {
-      "id": "13272",
-      "name": "Carson Beck",
-      "pos": "QB",
-      "nfl": "ARI",
-      "age": 24,
-      "injury": "Questionable",
-      "injury_part": "Back",
-      "depth": 1,
-      "proj": 8.6,
-      "adds": 0,
-      "value": 35,
-      "ecr": 242.5
+      "proj": null,
+      "adds": 14727,
+      "value": 1,
+      "ecr": 391.8
     }
   ]
 }
